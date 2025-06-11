@@ -1,0 +1,100 @@
+59 B. Drinking, sipping
+60 A
+63 A. Crackling fire
+66 A. Cat
+67 A. Sneezing
+68 B. Glass breaking
+70 A. crackling_fire
+71 B. Door, wood creaks
+72 B. glass_breaking
+73 A. Snoring
+74 B. Clapping
+75 B. Crickets
+76 A
+78 A. helicopter
+80 B. Door, wood creaks
+83 B. Door, wood creaks
+87 D. door_wood_knock
+88 B. Siren
+89 B. Thunderstorm
+90 A. Sheep
+91 A. Thunderstorm
+93 A. Coughing
+94 A. Laughing
+95 B. brushing_teeth
+96 B. Hand saw
+99 B
+100 B. Laughing
+101 A. Door knock
+102 A. Sneezing
+103 C. Vacuum cleaner
+104 A. engine
+105 A. Rooster
+108 B. hand_saw
+109 A. Siren
+110 A. Breathing
+111 B. church_bells
+112 B. Coughing
+113 B. snoring
+115 B. clapping
+116 B. Water drops
+117 B. Breathing
+119 B. siren
+120 B. Dog
+121 B. Crickets
+122 B. can_opening
+123 B
+124 A. Cow
+125 B. can_opening
+126 B. Vacuum cleaner
+127 B. vacuum_cleaner
+132 B. Snoring
+136 A. Insects (flying)
+137 B. chirping_birds
+138 B. Helicopter
+140 A. Vacuum cleaner
+142 A. Insects (flying)
+143 B. Sneezing
+144 B. Door knock
+146 B. Drinking, sipping
+147 B. Crickets
+148 B. Dog bark
+149 A
+150 B. snoring
+151 A. Airplane
+152 B. Siren
+153 B. Vacuum cleaner
+154 B. Door, wood creaks
+155 B. pouring_water
+156 B. Water drops
+158 B. Laughing
+159 A. Clock alarm
+160 A
+161 B. Breathing
+163 D. door_wood_creaks
+165 B. Toilet flush
+167 B. cat
+168 A. Pouring water
+169 B. clapping
+170 B. water_drops
+173 B. Chirping birds
+174 B. Brushing teeth
+175 A. Crackling fire
+176 B. Fireworks
+177 B. Door, wood creaks
+179 A. Airplane
+180 A
+181 A. Laughing
+182 B. pouring_water
+185 B. Brushing teeth
+186 B. car_horn
+187 B. car_horn
+188 B. chirping_birds
+189 B. Glass breaking
+191 B. Brushing teeth
+192 A. Train
+194 A. Insects (flying)
+195 B. Rain
+197 B. Brushing teeth
+198 B. Crying baby
+199 A. Clock_tick
