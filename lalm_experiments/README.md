@@ -6,9 +6,7 @@ uncertainty estimation using equivalent and complimentary input sampling
 There are two versions of the TREA dataset:
 1. `TREA_dataset` : `/home/debarpanb/VLM_project/TREA_dataset`
 2. `TREA_dataset_negated` : `/home/debarpanb/VLM_project/TREA_dataset`
-
-Each version includes tasks (`count`, `duration`, `order`) with associated audio and CSV files.
-Copy the datasets from the given paths to `FESTA-uncertainty-estimation/lalm_experiments/dataset`
+Copy the datasets from the paths to `lalm_experiments/dataset/`
 ---
 
 ### 1. TREA_dataset/
