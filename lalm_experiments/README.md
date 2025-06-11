@@ -6,7 +6,9 @@ uncertainty estimation using equivalent and complimentary input sampling
 There are two versions of the TREA dataset:
 1. `TREA_dataset` : `/home/debarpanb/VLM_project/TREA_dataset`
 2. `TREA_dataset_negated` : `/home/debarpanb/VLM_project/TREA_dataset_negated`
+
 Copy the datasets from the paths to `lalm_experiments/dataset/`
+
 ---
 
 ### 1. TREA_dataset/
@@ -63,6 +65,7 @@ python qwen_vanilla.py \
 
 * `task`: `count`, `duration`, or `order`
 * `type`: `orig` or `neg`
+
 Use `neg` when running vanilla and perturb sampling scripts on negated dataset
 Set the `csv_path` and `wav_folder` according to the `task` and `type`
 
