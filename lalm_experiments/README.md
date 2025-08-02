@@ -93,16 +93,16 @@ To run the `salmonn_vanilla.py` and `salmonn_perturb_sampling.py` scripts, follo
 1. **Download SALMONN**  
    Clone and set up the official SALMONN repository from [https://github.com/bytedance/SALMONN](https://github.com/bytedance/SALMONN).
 
-2. **Set up SALMONN**
-   The instructions to set up SALMONN for inferencing is given in [https://github.com/bytedance/SALMONN/tree/salmonn]
+2. **Set up SALMONN**  
+   The instructions to set up SALMONN for inferencing are given in [https://github.com/bytedance/SALMONN/tree/salmonn](https://github.com/bytedance/SALMONN/tree/salmonn).
 
-4. **Move configuration files**  
-   Move the `.yaml` configuration files provided in this repository to the `configs` folder inside the SALMONN directory. The `llama_path`, `whisper_path`, `beats_path` and `ckpt` paths need to be set in these configuration files.
+3. **Move configuration files**  
+   Move the `.yaml` configuration files provided in this repository to the `configs` folder inside the SALMONN directory. The `llama_path`, `whisper_path`, `beats_path`, and `ckpt` paths need to be set in these configuration files.
 
-5. **Replace `salmonn.py`**  
+4. **Replace `salmonn.py`**  
    Replace the `salmonn.py` file in `SALMONN/models` with the version provided in this repository.
 
-6. **Add script files**  
+5. **Add script files**  
    - Move `salmonn_vanilla.py` to the root of the SALMONN directory.  
    - Move `salmonn_perturb_sampling.py` to the root of the SALMONN directory.
 
