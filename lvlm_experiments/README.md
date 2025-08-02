@@ -47,7 +47,7 @@ python gemma3_vanilla.py \
 2. Llava - Can be directly run on the Prajna cluster using the `irl_torch2` conda env
 3. QwenVL - Can be run on the Prajna cluster using the `irl_torch2` conda env
 4. Pixtral - Needs CUDA 12 so it can only be run on GCP. Pixtral is based on vLLM. vLLM installation instructions can be found at [https://docs.vllm.ai/en/v0.8.1/getting_started/installation/gpu.html].
-5. Phi4 - Can be run on the Prajna cluster. Model is downloaded locally and needs to be moved from `/home/debarpanb/VLM_project/Phi-4-multimodal-instruct` to `FESTA-uncertainty-estimation/lvlm_experiments/`
+5. Phi4 - Can be run on the Prajna cluster using the `phi4` conda env. Model is downloaded locally and needs to be moved from `/home/debarpanb/VLM_project/Phi-4-multimodal-instruct` to `FESTA-uncertainty-estimation/lvlm_experiments/`
 
 NOTE: Check if the models are restricted on HuggingFace and require access request
 
