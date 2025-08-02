@@ -32,14 +32,15 @@ def calculate_kl_div(orig_vanilla, uncertainty_exp, p_star, task):
             line = line.strip()
             idx, ans = line.split(" ", maxsplit=1)
             qns_orig_ans_dict[idx] = ans[0]
-            subset_idx_list.append(idx)
-
+            
     qns_count_dict = {}
     with open(uncertainty_exp, "r") as data:
         for line in data:
             line = line.strip()
             idx, ans = line.split(" ", maxsplit=1)
             orig_idx = idx.split("_")[0]
+            if orig_idx not in subset_idx_list:
+                subset_idx_list.append(orig_idx)
             ans = ans[0]
 
             if orig_idx not in qns_count_dict:
