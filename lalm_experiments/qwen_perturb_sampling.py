@@ -18,7 +18,7 @@ def main(args):
     output_folder = "perturb_sampling_output"
     os.makedirs(output_folder, exist_ok=True)
 
-    if args.task == "neg":
+    if args.type == "neg":
         output_file_path = os.path.join(output_folder, f"negated_qwen_{args.task}_perturb_sampling.txt")
     else:
         output_file_path = os.path.join(output_folder, f"qwen_{args.task}_perturb_sampling.txt")
