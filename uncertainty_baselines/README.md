@@ -1,6 +1,6 @@
 # Uncertainty Baselines for FESTA Paper
 
-This directory contains implementations of various uncertainty quantification baseline methods used in the FESTA (Framework for Evaluating Simulation-based Trust Assessment) paper. These baselines provide different approaches to quantifying model uncertainty and serve as comparison points for the FESTA methodology.
+This directory contains implementations of various uncertainty quantification baseline methods used in the FESTA paper. These baselines provide different approaches to quantifying model uncertainty and serve as comparison points for the FESTA methodology.
 
 ## Overview
 
