@@ -205,7 +205,6 @@ results/lalm/summary_analysis/
 
 ## Available Metrics
 
-- **FESTA AUC**: Area under uncertainty curve
 - **AUROC**: Area under ROC curve
 - **AUPRC**: Area under Precision-Recall curve
 - **Brier Score**: Calibration metric
