@@ -1,0 +1,1396 @@
+idx,question,orig_idx
+val_Spatial_Reasoning_111_rephrased1,The dog is ahead of the motorcycle.,val_Spatial_Reasoning_111
+val_Spatial_Reasoning_111_rephrased2,The motorcycle is positioned behind the dog.,val_Spatial_Reasoning_111
+val_Spatial_Reasoning_111_rephrased3,The dog is situated ahead of the motorcycle.,val_Spatial_Reasoning_111
+val_Spatial_Reasoning_111_rephrased4,The motorcycle is placed behind the dog.,val_Spatial_Reasoning_111
+val_Spatial_Reasoning_111_rephrased5,"Behind the dog, you'll find the motorcycle.",val_Spatial_Reasoning_111
+val_Spatial_Reasoning_111_rephrased6,The motorcycle is located behind the dog.,val_Spatial_Reasoning_111
+val_Spatial_Reasoning_111_rephrased7,The dog is in front of the motorcycle.,val_Spatial_Reasoning_111
+val_Spatial_Reasoning_111_rephrased8,The motorcycle is positioned in the rear of the dog.,val_Spatial_Reasoning_111
+val_Spatial_Reasoning_111_rephrased9,The dog is positioned in front of the motorcycle.,val_Spatial_Reasoning_111
+val_Spatial_Reasoning_111_rephrased10,The motorcycle is situated behind the dog's position.,val_Spatial_Reasoning_111
+val_Spatial_Reasoning_111_rephrased11,"Behind the dog, there is a motorcycle.",val_Spatial_Reasoning_111
+val_Spatial_Reasoning_111_rephrased12,The motorcycle is located in the back of the dog.,val_Spatial_Reasoning_111
+val_Spatial_Reasoning_111_rephrased13,The dog is ahead of the motorcycle's position.,val_Spatial_Reasoning_111
+val_Spatial_Reasoning_111_rephrased14,The motorcycle is in the rear of the dog.,val_Spatial_Reasoning_111
+val_Spatial_Reasoning_112_rephrased1,The chair is located inside the train.,val_Spatial_Reasoning_112
+val_Spatial_Reasoning_112_rephrased2,The chair is on the train.,val_Spatial_Reasoning_112
+val_Spatial_Reasoning_112_rephrased3,The train holds the chair.,val_Spatial_Reasoning_112
+val_Spatial_Reasoning_112_rephrased4,The chair is on board the train.,val_Spatial_Reasoning_112
+val_Spatial_Reasoning_112_rephrased5,The chair is stored within the train.,val_Spatial_Reasoning_112
+val_Spatial_Reasoning_112_rephrased6,The chair is a part of the train's contents.,val_Spatial_Reasoning_112
+val_Spatial_Reasoning_112_rephrased7,The train contains the item of furniture.,val_Spatial_Reasoning_112
+val_Spatial_Reasoning_112_rephrased8,The chair is found on the train.,val_Spatial_Reasoning_112
+val_Spatial_Reasoning_112_rephrased9,The train has the chair inside it.,val_Spatial_Reasoning_112
+val_Spatial_Reasoning_112_rephrased10,The chair is one of the train's possessions.,val_Spatial_Reasoning_112
+val_Spatial_Reasoning_112_rephrased11,The chair is included in the train's cargo.,val_Spatial_Reasoning_112
+val_Spatial_Reasoning_112_rephrased12,The train possesses the chair.,val_Spatial_Reasoning_112
+val_Spatial_Reasoning_112_rephrased13,The chair is among the train's items.,val_Spatial_Reasoning_112
+val_Spatial_Reasoning_112_rephrased14,The train is carrying the chair.,val_Spatial_Reasoning_112
+val_Spatial_Reasoning_113_rephrased1,The horse is in front of the zebra.,val_Spatial_Reasoning_113
+val_Spatial_Reasoning_113_rephrased2,The zebra is positioned behind the horse.,val_Spatial_Reasoning_113
+val_Spatial_Reasoning_113_rephrased3,The horse is ahead of the zebra.,val_Spatial_Reasoning_113
+val_Spatial_Reasoning_113_rephrased4,The zebra is located at the back of the horse.,val_Spatial_Reasoning_113
+val_Spatial_Reasoning_113_rephrased5,The horse is situated in front of the zebra.,val_Spatial_Reasoning_113
+val_Spatial_Reasoning_113_rephrased6,The zebra is positioned at the rear of the horse.,val_Spatial_Reasoning_113
+val_Spatial_Reasoning_113_rephrased7,The horse is in the lead of the zebra.,val_Spatial_Reasoning_113
+val_Spatial_Reasoning_113_rephrased8,The zebra is at the back of the horse.,val_Spatial_Reasoning_113
+val_Spatial_Reasoning_113_rephrased9,"The horse is in front, and the zebra is behind.",val_Spatial_Reasoning_113
+val_Spatial_Reasoning_113_rephrased10,The zebra is situated behind the horse.,val_Spatial_Reasoning_113
+val_Spatial_Reasoning_113_rephrased11,"The horse is ahead, and the zebra is behind.",val_Spatial_Reasoning_113
+val_Spatial_Reasoning_113_rephrased12,The zebra is located behind the horse.,val_Spatial_Reasoning_113
+val_Spatial_Reasoning_113_rephrased13,"The horse is in the front, and the zebra is in the back.",val_Spatial_Reasoning_113
+val_Spatial_Reasoning_114_rephrased1,The bench is in contact with the laptop.,val_Spatial_Reasoning_114
+val_Spatial_Reasoning_114_rephrased2,The laptop is in physical contact with the bench.,val_Spatial_Reasoning_114
+val_Spatial_Reasoning_114_rephrased3,The laptop is in direct contact with the bench.,val_Spatial_Reasoning_114
+val_Spatial_Reasoning_114_rephrased4,The bench is in direct contact with the laptop.,val_Spatial_Reasoning_114
+val_Spatial_Reasoning_114_rephrased5,The laptop is resting on the bench.,val_Spatial_Reasoning_114
+val_Spatial_Reasoning_114_rephrased6,The laptop is placed on the bench.,val_Spatial_Reasoning_114
+val_Spatial_Reasoning_114_rephrased7,The bench is supporting the laptop.,val_Spatial_Reasoning_114
+val_Spatial_Reasoning_114_rephrased8,The laptop is supported by the bench.,val_Spatial_Reasoning_114
+val_Spatial_Reasoning_114_rephrased9,The laptop is sitting on the bench.,val_Spatial_Reasoning_114
+val_Spatial_Reasoning_114_rephrased10,The bench has the laptop touching it.,val_Spatial_Reasoning_114
+val_Spatial_Reasoning_114_rephrased11,The laptop is in contact with the surface of the bench.,val_Spatial_Reasoning_114
+val_Spatial_Reasoning_114_rephrased12,The laptop is in contact with the bench's surface.,val_Spatial_Reasoning_114
+val_Spatial_Reasoning_114_rephrased13,The bench is where the laptop is touching.,val_Spatial_Reasoning_114
+val_Spatial_Reasoning_114_rephrased14,The laptop is positioned on the bench.,val_Spatial_Reasoning_114
+val_Spatial_Reasoning_115_rephrased1,The laptop is below the dog.,val_Spatial_Reasoning_115
+val_Spatial_Reasoning_115_rephrased2,The dog is situated above the laptop.,val_Spatial_Reasoning_115
+val_Spatial_Reasoning_115_rephrased3,Above the laptop is the dog.,val_Spatial_Reasoning_115
+val_Spatial_Reasoning_115_rephrased4,The laptop is positioned below the dog.,val_Spatial_Reasoning_115
+val_Spatial_Reasoning_115_rephrased5,The dog is placed above the laptop.,val_Spatial_Reasoning_115
+val_Spatial_Reasoning_115_rephrased6,The laptop is located below the dog.,val_Spatial_Reasoning_115
+val_Spatial_Reasoning_115_rephrased7,The dog is positioned above the laptop.,val_Spatial_Reasoning_115
+val_Spatial_Reasoning_115_rephrased8,The laptop is situated below the dog.,val_Spatial_Reasoning_115
+val_Spatial_Reasoning_115_rephrased9,The dog is higher than the laptop.,val_Spatial_Reasoning_115
+val_Spatial_Reasoning_115_rephrased10,The laptop is lower than the dog.,val_Spatial_Reasoning_115
+val_Spatial_Reasoning_115_rephrased11,The dog is located above the laptop.,val_Spatial_Reasoning_115
+val_Spatial_Reasoning_115_rephrased12,The laptop is beneath the dog.,val_Spatial_Reasoning_115
+val_Spatial_Reasoning_115_rephrased13,The dog is on top of the laptop.,val_Spatial_Reasoning_115
+val_Spatial_Reasoning_115_rephrased14,The laptop is on the bottom below the dog.,val_Spatial_Reasoning_115
+val_Spatial_Reasoning_116_rephrased1,The dog is above the bench.,val_Spatial_Reasoning_116
+val_Spatial_Reasoning_116_rephrased2,The bench is situated below the dog.,val_Spatial_Reasoning_116
+val_Spatial_Reasoning_116_rephrased3,The dog is positioned above the bench.,val_Spatial_Reasoning_116
+val_Spatial_Reasoning_116_rephrased4,The bench is located below the dog.,val_Spatial_Reasoning_116
+val_Spatial_Reasoning_116_rephrased5,The dog is elevated above the bench.,val_Spatial_Reasoning_116
+val_Spatial_Reasoning_116_rephrased6,The bench is placed below the dog.,val_Spatial_Reasoning_116
+val_Spatial_Reasoning_116_rephrased7,The dog is higher than the bench.,val_Spatial_Reasoning_116
+val_Spatial_Reasoning_116_rephrased8,The bench is positioned at a lower level than the dog.,val_Spatial_Reasoning_116
+val_Spatial_Reasoning_116_rephrased9,The dog is above the bench in height.,val_Spatial_Reasoning_116
+val_Spatial_Reasoning_116_rephrased10,The bench is situated at a lower level than the dog.,val_Spatial_Reasoning_116
+val_Spatial_Reasoning_116_rephrased11,The dog is positioned at a higher level than the bench.,val_Spatial_Reasoning_116
+val_Spatial_Reasoning_116_rephrased12,The bench is at a lower elevation than the dog.,val_Spatial_Reasoning_116
+val_Spatial_Reasoning_116_rephrased13,The dog is at a higher elevation than the bench.,val_Spatial_Reasoning_116
+val_Spatial_Reasoning_116_rephrased14,The bench is below the dog in terms of height.,val_Spatial_Reasoning_116
+val_Spatial_Reasoning_117_rephrased1,The laptop is positioned above the dog.,val_Spatial_Reasoning_117
+val_Spatial_Reasoning_117_rephrased2,"Above the dog, the laptop is situated.",val_Spatial_Reasoning_117
+val_Spatial_Reasoning_117_rephrased3,The laptop is located directly above the dog.,val_Spatial_Reasoning_117
+val_Spatial_Reasoning_117_rephrased4,The laptop is higher than the dog.,val_Spatial_Reasoning_117
+val_Spatial_Reasoning_117_rephrased5,The laptop is positioned in a higher location than the dog.,val_Spatial_Reasoning_117
+val_Spatial_Reasoning_117_rephrased6,"In relation to the dog, the laptop is situated above.",val_Spatial_Reasoning_117
+val_Spatial_Reasoning_117_rephrased7,The laptop is placed above the dog.,val_Spatial_Reasoning_117
+val_Spatial_Reasoning_117_rephrased8,"In comparison to the dog, the laptop's location is higher.",val_Spatial_Reasoning_117
+val_Spatial_Reasoning_117_rephrased9,The dog is below the laptop.,val_Spatial_Reasoning_117
+val_Spatial_Reasoning_117_rephrased10,The laptop is situated in a position above the dog.,val_Spatial_Reasoning_117
+val_Spatial_Reasoning_117_rephrased11,The laptop's location is above the dog's.,val_Spatial_Reasoning_117
+val_Spatial_Reasoning_117_rephrased12,The laptop is positioned on a higher level than the dog.,val_Spatial_Reasoning_117
+val_Spatial_Reasoning_117_rephrased13,The laptop is in a position of being above the dog.,val_Spatial_Reasoning_117
+val_Spatial_Reasoning_117_rephrased14,The laptop's position is directly above the dog.,val_Spatial_Reasoning_117
+val_Spatial_Reasoning_118_rephrased1,The horse is positioned above the chair.,val_Spatial_Reasoning_118
+val_Spatial_Reasoning_118_rephrased2,The chair lies beneath the horse's feet.,val_Spatial_Reasoning_118
+val_Spatial_Reasoning_118_rephrased3,The chair is located at a lower level than the horse.,val_Spatial_Reasoning_118
+val_Spatial_Reasoning_118_rephrased4,The horse stands above the chair.,val_Spatial_Reasoning_118
+val_Spatial_Reasoning_118_rephrased5,The chair is situated at the bottom in relation to the horse.,val_Spatial_Reasoning_118
+val_Spatial_Reasoning_118_rephrased6,The horse is positioned over the chair.,val_Spatial_Reasoning_118
+val_Spatial_Reasoning_118_rephrased7,The chair is lower than the horse in height.,val_Spatial_Reasoning_118
+val_Spatial_Reasoning_118_rephrased8,The horse is situated above the chair.,val_Spatial_Reasoning_118
+val_Spatial_Reasoning_118_rephrased9,The chair is at a lower elevation than the horse.,val_Spatial_Reasoning_118
+val_Spatial_Reasoning_118_rephrased10,The horse is positioned above the chair in height.,val_Spatial_Reasoning_118
+val_Spatial_Reasoning_118_rephrased11,The chair is below the horse's level.,val_Spatial_Reasoning_118
+val_Spatial_Reasoning_118_rephrased12,The horse is at a higher elevation than the chair.,val_Spatial_Reasoning_118
+val_Spatial_Reasoning_118_rephrased13,The chair is positioned at the bottom relative to the horse.,val_Spatial_Reasoning_118
+val_Spatial_Reasoning_118_rephrased14,The horse is above the chair in terms of height.,val_Spatial_Reasoning_118
+val_Spatial_Reasoning_119_rephrased1,The laptop is facing the chair.,val_Spatial_Reasoning_119
+val_Spatial_Reasoning_119_rephrased2,The chair is positioned in front of the laptop.,val_Spatial_Reasoning_119
+val_Spatial_Reasoning_119_rephrased3,The laptop is situated in front of the chair.,val_Spatial_Reasoning_119
+val_Spatial_Reasoning_119_rephrased4,The chair is directed towards the laptop.,val_Spatial_Reasoning_119
+val_Spatial_Reasoning_119_rephrased5,The laptop is oriented towards the chair.,val_Spatial_Reasoning_119
+val_Spatial_Reasoning_119_rephrased6,The chair is looking at the laptop.,val_Spatial_Reasoning_119
+val_Spatial_Reasoning_119_rephrased7,The laptop is facing the direction of the chair.,val_Spatial_Reasoning_119
+val_Spatial_Reasoning_119_rephrased8,The chair is situated opposite the laptop.,val_Spatial_Reasoning_119
+val_Spatial_Reasoning_119_rephrased9,The laptop is positioned opposite the chair.,val_Spatial_Reasoning_119
+val_Spatial_Reasoning_119_rephrased10,The chair is turned towards the laptop.,val_Spatial_Reasoning_119
+val_Spatial_Reasoning_119_rephrased11,The laptop is situated adjacent to the chair.,val_Spatial_Reasoning_119
+val_Spatial_Reasoning_119_rephrased12,The chair is aligned with the laptop.,val_Spatial_Reasoning_119
+val_Spatial_Reasoning_119_rephrased13,The laptop is in line with the chair.,val_Spatial_Reasoning_119
+val_Spatial_Reasoning_119_rephrased14,The chair is pointing towards the laptop.,val_Spatial_Reasoning_119
+val_Spatial_Reasoning_120_rephrased1,The horse is facing the dog.,val_Spatial_Reasoning_120
+val_Spatial_Reasoning_120_rephrased2,The dog is oriented towards the horse.,val_Spatial_Reasoning_120
+val_Spatial_Reasoning_120_rephrased3,The horse is oriented towards the dog.,val_Spatial_Reasoning_120
+val_Spatial_Reasoning_120_rephrased4,The dog is turned towards the horse.,val_Spatial_Reasoning_120
+val_Spatial_Reasoning_120_rephrased5,The horse is turned towards the dog.,val_Spatial_Reasoning_120
+val_Spatial_Reasoning_120_rephrased6,The dog is positioned with its face towards the horse.,val_Spatial_Reasoning_120
+val_Spatial_Reasoning_120_rephrased7,The horse is positioned with its face towards the dog.,val_Spatial_Reasoning_120
+val_Spatial_Reasoning_120_rephrased8,The dog is looking directly at the horse.,val_Spatial_Reasoning_120
+val_Spatial_Reasoning_120_rephrased9,The horse is looking directly at the dog.,val_Spatial_Reasoning_120
+val_Spatial_Reasoning_120_rephrased10,The dog is facing in the direction of the horse.,val_Spatial_Reasoning_120
+val_Spatial_Reasoning_120_rephrased11,The horse is facing in the direction of the dog.,val_Spatial_Reasoning_120
+val_Spatial_Reasoning_120_rephrased12,The dog is situated with its front towards the horse.,val_Spatial_Reasoning_120
+val_Spatial_Reasoning_120_rephrased13,The horse is situated with its front towards the dog.,val_Spatial_Reasoning_120
+val_Spatial_Reasoning_120_rephrased14,The dog is standing in the direction of the horse.,val_Spatial_Reasoning_120
+val_Spatial_Reasoning_121_rephrased1,The horse and the zebra are in contact with each other.,val_Spatial_Reasoning_121
+val_Spatial_Reasoning_121_rephrased2,The zebra is physically in contact with the horse.,val_Spatial_Reasoning_121
+val_Spatial_Reasoning_121_rephrased3,The horse and the zebra are in close proximity.,val_Spatial_Reasoning_121
+val_Spatial_Reasoning_121_rephrased4,The zebra is making contact with the horse.,val_Spatial_Reasoning_121
+val_Spatial_Reasoning_121_rephrased5,The horse and the zebra are adjacent to each other.,val_Spatial_Reasoning_121
+val_Spatial_Reasoning_121_rephrased6,The zebra is next to the horse.,val_Spatial_Reasoning_121
+val_Spatial_Reasoning_121_rephrased7,The horse and the zebra are side by side.,val_Spatial_Reasoning_121
+val_Spatial_Reasoning_121_rephrased8,The zebra is touching the horse with its body.,val_Spatial_Reasoning_121
+val_Spatial_Reasoning_121_rephrased9,The horse is being touched by the zebra.,val_Spatial_Reasoning_121
+val_Spatial_Reasoning_121_rephrased10,The zebra and the horse are in a touching position.,val_Spatial_Reasoning_121
+val_Spatial_Reasoning_121_rephrased11,The horse and the zebra are in a state of physical contact.,val_Spatial_Reasoning_121
+val_Spatial_Reasoning_121_rephrased12,The zebra is in direct contact with the horse.,val_Spatial_Reasoning_121
+val_Spatial_Reasoning_121_rephrased13,The horse and the zebra are physically adjacent.,val_Spatial_Reasoning_121
+val_Spatial_Reasoning_121_rephrased14,The zebra's body is in contact with the horse's body.,val_Spatial_Reasoning_121
+val_Spatial_Reasoning_122_rephrased1,The chair is directly in front of the laptop.,val_Spatial_Reasoning_122
+val_Spatial_Reasoning_122_rephrased2,The laptop is situated in front of the chair.,val_Spatial_Reasoning_122
+val_Spatial_Reasoning_122_rephrased3,The chair is positioned in front of the laptop.,val_Spatial_Reasoning_122
+val_Spatial_Reasoning_122_rephrased4,The laptop is placed opposite the chair.,val_Spatial_Reasoning_122
+val_Spatial_Reasoning_122_rephrased5,The chair is located in front of the laptop.,val_Spatial_Reasoning_122
+val_Spatial_Reasoning_122_rephrased6,The laptop is positioned in front of the chair.,val_Spatial_Reasoning_122
+val_Spatial_Reasoning_122_rephrased7,The chair is directly opposite the laptop.,val_Spatial_Reasoning_122
+val_Spatial_Reasoning_122_rephrased8,The laptop is facing a chair.,val_Spatial_Reasoning_122
+val_Spatial_Reasoning_122_rephrased9,The laptop is situated in the same direction as the chair.,val_Spatial_Reasoning_122
+val_Spatial_Reasoning_122_rephrased10,The chair is opposite the laptop.,val_Spatial_Reasoning_122
+val_Spatial_Reasoning_122_rephrased11,The laptop is placed in front of the chair.,val_Spatial_Reasoning_122
+val_Spatial_Reasoning_122_rephrased12,The chair is facing the laptop's back is not visible.,val_Spatial_Reasoning_122
+val_Spatial_Reasoning_122_rephrased13,The laptop is positioned with its front side towards the chair.,val_Spatial_Reasoning_122
+val_Spatial_Reasoning_122_rephrased14,The laptop is oriented in the direction of the chair.,val_Spatial_Reasoning_122
+val_Spatial_Reasoning_123_rephrased1,The chair is positioned behind the laptop.,val_Spatial_Reasoning_123
+val_Spatial_Reasoning_123_rephrased2,The laptop is oriented in the opposite direction from the chair.,val_Spatial_Reasoning_123
+val_Spatial_Reasoning_123_rephrased3,The laptop is positioned away from the chair.,val_Spatial_Reasoning_123
+val_Spatial_Reasoning_123_rephrased4,The laptop is angled away from the chair.,val_Spatial_Reasoning_123
+val_Spatial_Reasoning_123_rephrased5,The chair is situated behind the laptop's back.,val_Spatial_Reasoning_123
+val_Spatial_Reasoning_123_rephrased6,The laptop's back is turned towards the chair.,val_Spatial_Reasoning_123
+val_Spatial_Reasoning_123_rephrased7,The laptop is directed away from the chair.,val_Spatial_Reasoning_123
+val_Spatial_Reasoning_123_rephrased8,The laptop is turned away from the chair's direction.,val_Spatial_Reasoning_123
+val_Spatial_Reasoning_123_rephrased9,The chair is placed behind the laptop's rear.,val_Spatial_Reasoning_123
+val_Spatial_Reasoning_123_rephrased10,The laptop is positioned in the opposite direction of the chair.,val_Spatial_Reasoning_123
+val_Spatial_Reasoning_123_rephrased11,The laptop is facing away from the chair's location.,val_Spatial_Reasoning_123
+val_Spatial_Reasoning_123_rephrased12,The chair is positioned at the rear of the laptop.,val_Spatial_Reasoning_123
+val_Spatial_Reasoning_123_rephrased13,The laptop's front is not directed towards the chair.,val_Spatial_Reasoning_123
+val_Spatial_Reasoning_123_rephrased14,The laptop is oriented with its back towards the chair.,val_Spatial_Reasoning_123
+val_Spatial_Reasoning_124_rephrased1,The bench is above the dog.,val_Spatial_Reasoning_124
+val_Spatial_Reasoning_124_rephrased2,The dog is situated below the bench.,val_Spatial_Reasoning_124
+val_Spatial_Reasoning_124_rephrased3,Is the dog located below the bench?,val_Spatial_Reasoning_124
+val_Spatial_Reasoning_124_rephrased4,The dog is positioned beneath the bench.,val_Spatial_Reasoning_124
+val_Spatial_Reasoning_124_rephrased5,The bench is positioned above the dog.,val_Spatial_Reasoning_124
+val_Spatial_Reasoning_124_rephrased6,Below the bench is where the dog is.,val_Spatial_Reasoning_124
+val_Spatial_Reasoning_124_rephrased7,The dog can be found below the bench.,val_Spatial_Reasoning_124
+val_Spatial_Reasoning_124_rephrased8,What is the location of the dog in relation to the bench?,val_Spatial_Reasoning_124
+val_Spatial_Reasoning_124_rephrased9,The dog is positioned at a lower level than the bench.,val_Spatial_Reasoning_124
+val_Spatial_Reasoning_124_rephrased10,The dog is situated at the bottom relative to the bench.,val_Spatial_Reasoning_124
+val_Spatial_Reasoning_124_rephrased11,The dog is below the level of the bench.,val_Spatial_Reasoning_124
+val_Spatial_Reasoning_124_rephrased12,The bench is positioned above the dog in elevation.,val_Spatial_Reasoning_124
+val_Spatial_Reasoning_124_rephrased13,Is the dog positioned below the bench in elevation?,val_Spatial_Reasoning_124
+val_Spatial_Reasoning_124_rephrased14,The dog is positioned at a lower elevation than the bench.,val_Spatial_Reasoning_124
+val_Spatial_Reasoning_125_rephrased1,The horse is above the chair.,val_Spatial_Reasoning_125
+val_Spatial_Reasoning_125_rephrased2,The chair is positioned beneath the horse.,val_Spatial_Reasoning_125
+val_Spatial_Reasoning_125_rephrased3,The chair lies below the horse.,val_Spatial_Reasoning_125
+val_Spatial_Reasoning_125_rephrased4,Is the chair situated below the horse?,val_Spatial_Reasoning_125
+val_Spatial_Reasoning_125_rephrased5,The horse is positioned above the chair.,val_Spatial_Reasoning_125
+val_Spatial_Reasoning_125_rephrased6,The chair is located under the horse.,val_Spatial_Reasoning_125
+val_Spatial_Reasoning_125_rephrased7,Is the chair placed beneath the horse?,val_Spatial_Reasoning_125
+val_Spatial_Reasoning_125_rephrased8,The horse is above the chair in height.,val_Spatial_Reasoning_125
+val_Spatial_Reasoning_125_rephrased9,The chair is situated beneath the horse.,val_Spatial_Reasoning_125
+val_Spatial_Reasoning_125_rephrased10,The horse is positioned on top of the chair.,val_Spatial_Reasoning_125
+val_Spatial_Reasoning_125_rephrased11,The chair is positioned below the horse.,val_Spatial_Reasoning_125
+val_Spatial_Reasoning_125_rephrased12,The horse is above the chair in elevation.,val_Spatial_Reasoning_125
+val_Spatial_Reasoning_125_rephrased13,Is the chair placed under the horse?,val_Spatial_Reasoning_125
+val_Spatial_Reasoning_125_rephrased14,The chair is located beneath the horse's base.,val_Spatial_Reasoning_125
+val_Spatial_Reasoning_126_rephrased1,The bench has the dog sitting on top of it.,val_Spatial_Reasoning_126
+val_Spatial_Reasoning_126_rephrased2,The dog is positioned above the bench.,val_Spatial_Reasoning_126
+val_Spatial_Reasoning_126_rephrased3,The bench is being sat on by the dog from above.,val_Spatial_Reasoning_126
+val_Spatial_Reasoning_126_rephrased4,The dog is currently situated above the bench.,val_Spatial_Reasoning_126
+val_Spatial_Reasoning_126_rephrased5,The bench has the dog placed on top.,val_Spatial_Reasoning_126
+val_Spatial_Reasoning_126_rephrased6,The dog is perched above the bench.,val_Spatial_Reasoning_126
+val_Spatial_Reasoning_126_rephrased7,The dog is on the upper surface of the bench.,val_Spatial_Reasoning_126
+val_Spatial_Reasoning_126_rephrased8,The bench is being occupied by the dog from above.,val_Spatial_Reasoning_126
+val_Spatial_Reasoning_126_rephrased9,The dog is sitting in a location above the bench.,val_Spatial_Reasoning_126
+val_Spatial_Reasoning_126_rephrased10,The upper part of the bench is occupied by the dog.,val_Spatial_Reasoning_126
+val_Spatial_Reasoning_126_rephrased11,The dog is positioned on the upper side of the bench.,val_Spatial_Reasoning_126
+val_Spatial_Reasoning_126_rephrased12,The bench has the dog in a position above it.,val_Spatial_Reasoning_126
+val_Spatial_Reasoning_126_rephrased13,The dog is situated on top of the bench's surface.,val_Spatial_Reasoning_126
+val_Spatial_Reasoning_126_rephrased14,The dog is currently sitting above the bench.,val_Spatial_Reasoning_126
+val_Spatial_Reasoning_127_rephrased1,The laptop has the bench positioned behind it.,val_Spatial_Reasoning_127
+val_Spatial_Reasoning_127_rephrased2,The bench is situated behind the laptop.,val_Spatial_Reasoning_127
+val_Spatial_Reasoning_127_rephrased3,"Behind the laptop, there is a bench.",val_Spatial_Reasoning_127
+val_Spatial_Reasoning_127_rephrased4,The laptop is in front of the bench.,val_Spatial_Reasoning_127
+val_Spatial_Reasoning_127_rephrased5,The bench is placed behind the laptop.,val_Spatial_Reasoning_127
+val_Spatial_Reasoning_127_rephrased6,A bench is located behind the laptop.,val_Spatial_Reasoning_127
+val_Spatial_Reasoning_127_rephrased7,The laptop is positioned in front of the bench.,val_Spatial_Reasoning_127
+val_Spatial_Reasoning_127_rephrased8,The bench is positioned behind the laptop.,val_Spatial_Reasoning_127
+val_Spatial_Reasoning_127_rephrased9,"Behind the bench, there is a laptop.",val_Spatial_Reasoning_127
+val_Spatial_Reasoning_127_rephrased10,The bench is in the rear of the laptop.,val_Spatial_Reasoning_127
+val_Spatial_Reasoning_127_rephrased11,The laptop has the bench at its back.,val_Spatial_Reasoning_127
+val_Spatial_Reasoning_127_rephrased12,The bench is located in the rear of the laptop.,val_Spatial_Reasoning_127
+val_Spatial_Reasoning_127_rephrased13,The laptop is at the front of the bench.,val_Spatial_Reasoning_127
+val_Spatial_Reasoning_127_rephrased14,The bench is situated at the back of the laptop.,val_Spatial_Reasoning_127
+val_Spatial_Reasoning_128_rephrased1,The laptop is situated above the chair.,val_Spatial_Reasoning_128
+val_Spatial_Reasoning_128_rephrased2,The laptop is positioned above the chair.,val_Spatial_Reasoning_128
+val_Spatial_Reasoning_128_rephrased3,The laptop is located above the chair.,val_Spatial_Reasoning_128
+val_Spatial_Reasoning_128_rephrased4,The laptop is positioned on top of the chair.,val_Spatial_Reasoning_128
+val_Spatial_Reasoning_128_rephrased5,The laptop is placed above the chair.,val_Spatial_Reasoning_128
+val_Spatial_Reasoning_128_rephrased6,The laptop sits above the chair.,val_Spatial_Reasoning_128
+val_Spatial_Reasoning_128_rephrased7,The laptop is situated on top of the chair.,val_Spatial_Reasoning_128
+val_Spatial_Reasoning_128_rephrased8,The laptop is above the chair in height.,val_Spatial_Reasoning_128
+val_Spatial_Reasoning_128_rephrased9,The laptop is positioned higher than the chair.,val_Spatial_Reasoning_128
+val_Spatial_Reasoning_128_rephrased10,The laptop is above the chair in elevation.,val_Spatial_Reasoning_128
+val_Spatial_Reasoning_128_rephrased11,The laptop is placed on top of the chair.,val_Spatial_Reasoning_128
+val_Spatial_Reasoning_128_rephrased12,The laptop is located on top of the chair.,val_Spatial_Reasoning_128
+val_Spatial_Reasoning_128_rephrased13,The laptop is situated higher than the chair.,val_Spatial_Reasoning_128
+val_Spatial_Reasoning_128_rephrased14,The laptop is above the chair in a vertical sense.,val_Spatial_Reasoning_128
+val_Spatial_Reasoning_129_rephrased1,The laptop sits on the bench.,val_Spatial_Reasoning_129
+val_Spatial_Reasoning_129_rephrased2,A laptop is located on the bench.,val_Spatial_Reasoning_129
+val_Spatial_Reasoning_129_rephrased3,The laptop is situated on the bench.,val_Spatial_Reasoning_129
+val_Spatial_Reasoning_129_rephrased4,The laptop rests on the bench.,val_Spatial_Reasoning_129
+val_Spatial_Reasoning_129_rephrased5,"On the bench, you'll find the laptop.",val_Spatial_Reasoning_129
+val_Spatial_Reasoning_129_rephrased6,The laptop is positioned on the bench.,val_Spatial_Reasoning_129
+val_Spatial_Reasoning_129_rephrased7,The laptop is placed on the bench.,val_Spatial_Reasoning_129
+val_Spatial_Reasoning_129_rephrased8,The laptop occupies the bench.,val_Spatial_Reasoning_129
+val_Spatial_Reasoning_129_rephrased9,A laptop is found on the bench.,val_Spatial_Reasoning_129
+val_Spatial_Reasoning_129_rephrased10,The laptop is currently on the bench.,val_Spatial_Reasoning_129
+val_Spatial_Reasoning_129_rephrased11,The laptop is on the surface of the bench.,val_Spatial_Reasoning_129
+val_Spatial_Reasoning_129_rephrased12,The laptop has been put on the bench.,val_Spatial_Reasoning_129
+val_Spatial_Reasoning_129_rephrased13,The laptop is positioned at the bench.,val_Spatial_Reasoning_129
+val_Spatial_Reasoning_129_rephrased14,The laptop is sitting on the bench.,val_Spatial_Reasoning_129
+val_Spatial_Reasoning_130_rephrased1,The horse has the dog positioned on its right side.,val_Spatial_Reasoning_130
+val_Spatial_Reasoning_130_rephrased2,The dog is located on the right-hand side of the horse.,val_Spatial_Reasoning_130
+val_Spatial_Reasoning_130_rephrased3,The horse and dog are arranged with the dog on the right.,val_Spatial_Reasoning_130
+val_Spatial_Reasoning_130_rephrased4,The dog is situated on the right side of the horse's body.,val_Spatial_Reasoning_130
+val_Spatial_Reasoning_130_rephrased5,The horse is positioned with the dog on its right side.,val_Spatial_Reasoning_130
+val_Spatial_Reasoning_130_rephrased6,The dog occupies the right side of the horse.,val_Spatial_Reasoning_130
+val_Spatial_Reasoning_130_rephrased7,The horse and the dog are standing with the dog on the right.,val_Spatial_Reasoning_130
+val_Spatial_Reasoning_130_rephrased8,The dog is positioned to the right of the horse.,val_Spatial_Reasoning_130
+val_Spatial_Reasoning_130_rephrased9,The right side of the horse has the dog on it.,val_Spatial_Reasoning_130
+val_Spatial_Reasoning_130_rephrased10,The horse has the dog on the right-hand side of it.,val_Spatial_Reasoning_130
+val_Spatial_Reasoning_130_rephrased11,The dog is to the right of the horse in their arrangement.,val_Spatial_Reasoning_130
+val_Spatial_Reasoning_130_rephrased12,The horse and dog are aligned with the dog on the right side.,val_Spatial_Reasoning_130
+val_Spatial_Reasoning_130_rephrased13,The dog is on the horse's right side in their current positioning.,val_Spatial_Reasoning_130
+val_Spatial_Reasoning_130_rephrased14,The horse is situated with the dog positioned on its right.,val_Spatial_Reasoning_130
+val_Spatial_Reasoning_131_rephrased1,The bench is in contact with the dog.,val_Spatial_Reasoning_131
+val_Spatial_Reasoning_131_rephrased2,The dog is being touched by the bench.,val_Spatial_Reasoning_131
+val_Spatial_Reasoning_131_rephrased3,The bench is making contact with the dog.,val_Spatial_Reasoning_131
+val_Spatial_Reasoning_131_rephrased4,The bench is in physical contact with the dog.,val_Spatial_Reasoning_131
+val_Spatial_Reasoning_131_rephrased5,The dog is in contact with the bench.,val_Spatial_Reasoning_131
+val_Spatial_Reasoning_131_rephrased6,The bench is touching against the dog.,val_Spatial_Reasoning_131
+val_Spatial_Reasoning_131_rephrased7,The bench is in direct contact with the dog.,val_Spatial_Reasoning_131
+val_Spatial_Reasoning_131_rephrased8,The dog is being contacted by the bench.,val_Spatial_Reasoning_131
+val_Spatial_Reasoning_131_rephrased9,The bench is adjacent to the dog.,val_Spatial_Reasoning_131
+val_Spatial_Reasoning_131_rephrased10,The bench is in close proximity to the dog.,val_Spatial_Reasoning_131
+val_Spatial_Reasoning_131_rephrased11,The bench is in close contact with the dog.,val_Spatial_Reasoning_131
+val_Spatial_Reasoning_131_rephrased12,The bench is making physical contact with the dog.,val_Spatial_Reasoning_131
+val_Spatial_Reasoning_131_rephrased13,The dog is being in contact with the bench.,val_Spatial_Reasoning_131
+val_Spatial_Reasoning_131_rephrased14,The bench is directly touching the dog.,val_Spatial_Reasoning_131
+val_Spatial_Reasoning_132_rephrased1,The chair has the dog in front of it.,val_Spatial_Reasoning_132
+val_Spatial_Reasoning_132_rephrased2,The dog is positioned ahead of the chair.,val_Spatial_Reasoning_132
+val_Spatial_Reasoning_132_rephrased3,The chair is situated behind the dog.,val_Spatial_Reasoning_132
+val_Spatial_Reasoning_132_rephrased4,The dog stands in front of the chair now.,val_Spatial_Reasoning_132
+val_Spatial_Reasoning_132_rephrased5,The chair is located behind the dog.,val_Spatial_Reasoning_132
+val_Spatial_Reasoning_132_rephrased6,The dog is situated ahead of the chair.,val_Spatial_Reasoning_132
+val_Spatial_Reasoning_132_rephrased7,The chair has the dog positioned in front of it.,val_Spatial_Reasoning_132
+val_Spatial_Reasoning_132_rephrased8,The dog is placed in front of the chair.,val_Spatial_Reasoning_132
+val_Spatial_Reasoning_132_rephrased9,The chair is situated behind the dog at the moment.,val_Spatial_Reasoning_132
+val_Spatial_Reasoning_132_rephrased10,The dog is in the position in front of the chair.,val_Spatial_Reasoning_132
+val_Spatial_Reasoning_132_rephrased11,The chair is located behind the dog at this time.,val_Spatial_Reasoning_132
+val_Spatial_Reasoning_132_rephrased12,The dog is in a position ahead of the chair.,val_Spatial_Reasoning_132
+val_Spatial_Reasoning_132_rephrased13,The chair is situated behind the dog at present.,val_Spatial_Reasoning_132
+val_Spatial_Reasoning_133_rephrased1,The horse is facing away from the dog.,val_Spatial_Reasoning_133
+val_Spatial_Reasoning_133_rephrased2,The dog is positioned with its back to the horse.,val_Spatial_Reasoning_133
+val_Spatial_Reasoning_133_rephrased3,The horse and dog are facing in opposite directions.,val_Spatial_Reasoning_133
+val_Spatial_Reasoning_133_rephrased4,The dog's back is turned to the horse.,val_Spatial_Reasoning_133
+val_Spatial_Reasoning_133_rephrased5,The horse is looking away from the dog.,val_Spatial_Reasoning_133
+val_Spatial_Reasoning_133_rephrased6,The dog is not facing the horse.,val_Spatial_Reasoning_133
+val_Spatial_Reasoning_133_rephrased7,The horse and dog are standing with their backs to each other.,val_Spatial_Reasoning_133
+val_Spatial_Reasoning_133_rephrased8,The dog is turned around to face away from the horse.,val_Spatial_Reasoning_133
+val_Spatial_Reasoning_133_rephrased9,The horse is situated behind the dog.,val_Spatial_Reasoning_133
+val_Spatial_Reasoning_133_rephrased10,The dog is standing with its face away from the horse.,val_Spatial_Reasoning_133
+val_Spatial_Reasoning_133_rephrased11,The horse is positioned behind the dog.,val_Spatial_Reasoning_133
+val_Spatial_Reasoning_133_rephrased12,The dog's face is turned away from the horse.,val_Spatial_Reasoning_133
+val_Spatial_Reasoning_133_rephrased13,The horse is not looking at the dog.,val_Spatial_Reasoning_133
+val_Spatial_Reasoning_133_rephrased14,The dog is standing with its back to the horse.,val_Spatial_Reasoning_133
+val_Spatial_Reasoning_134_rephrased1,The dog is above the bench.,val_Spatial_Reasoning_134
+val_Spatial_Reasoning_134_rephrased2,The bench is situated below the dog.,val_Spatial_Reasoning_134
+val_Spatial_Reasoning_134_rephrased3,Is the bench located under the dog?,val_Spatial_Reasoning_134
+val_Spatial_Reasoning_134_rephrased4,What is the position of the bench in relation to the dog?,val_Spatial_Reasoning_134
+val_Spatial_Reasoning_134_rephrased5,The dog is positioned above the bench.,val_Spatial_Reasoning_134
+val_Spatial_Reasoning_134_rephrased6,The bench is positioned under the dog.,val_Spatial_Reasoning_134
+val_Spatial_Reasoning_134_rephrased7,In what location is the bench in relation to the dog?,val_Spatial_Reasoning_134
+val_Spatial_Reasoning_134_rephrased8,The bench is at the bottom with respect to the dog.,val_Spatial_Reasoning_134
+val_Spatial_Reasoning_134_rephrased9,The dog is situated above the bench.,val_Spatial_Reasoning_134
+val_Spatial_Reasoning_134_rephrased10,The bench is lower than the dog.,val_Spatial_Reasoning_134
+val_Spatial_Reasoning_134_rephrased11,Is the bench below the dog?,val_Spatial_Reasoning_134
+val_Spatial_Reasoning_134_rephrased12,The dog is on top of the bench.,val_Spatial_Reasoning_134
+val_Spatial_Reasoning_134_rephrased13,The bench is positioned at the bottom relative to the dog.,val_Spatial_Reasoning_134
+val_Spatial_Reasoning_134_rephrased14,The bench is located beneath the dog.,val_Spatial_Reasoning_134
+val_Spatial_Reasoning_135_rephrased1,The dog is on top of the surfboard.,val_Spatial_Reasoning_135
+val_Spatial_Reasoning_135_rephrased2,The surfboard is located beneath the dog.,val_Spatial_Reasoning_135
+val_Spatial_Reasoning_135_rephrased3,The dog is directly above the surfboard.,val_Spatial_Reasoning_135
+val_Spatial_Reasoning_135_rephrased4,The surfboard is situated below the dog.,val_Spatial_Reasoning_135
+val_Spatial_Reasoning_135_rephrased5,The dog is positioned above the surfboard.,val_Spatial_Reasoning_135
+val_Spatial_Reasoning_135_rephrased6,The surfboard is placed underneath the dog.,val_Spatial_Reasoning_135
+val_Spatial_Reasoning_135_rephrased7,The dog is sitting on top of the surfboard.,val_Spatial_Reasoning_135
+val_Spatial_Reasoning_135_rephrased8,The surfboard is positioned beneath the dog's feet.,val_Spatial_Reasoning_135
+val_Spatial_Reasoning_135_rephrased9,The dog is resting on top of the surfboard.,val_Spatial_Reasoning_135
+val_Spatial_Reasoning_135_rephrased10,The surfboard lies beneath the dog.,val_Spatial_Reasoning_135
+val_Spatial_Reasoning_135_rephrased11,The dog is lying on top of the surfboard.,val_Spatial_Reasoning_135
+val_Spatial_Reasoning_135_rephrased12,The surfboard is positioned at the bottom beneath the dog.,val_Spatial_Reasoning_135
+val_Spatial_Reasoning_135_rephrased13,The dog is perched on top of the surfboard.,val_Spatial_Reasoning_135
+val_Spatial_Reasoning_135_rephrased14,The surfboard is situated at the bottom under the dog.,val_Spatial_Reasoning_135
+val_Spatial_Reasoning_136_rephrased1,The dog is being touched by the chair.,val_Spatial_Reasoning_136
+val_Spatial_Reasoning_136_rephrased2,The chair is in contact with the dog.,val_Spatial_Reasoning_136
+val_Spatial_Reasoning_136_rephrased3,The dog and the chair are in physical contact.,val_Spatial_Reasoning_136
+val_Spatial_Reasoning_136_rephrased4,The chair is directly touching the dog.,val_Spatial_Reasoning_136
+val_Spatial_Reasoning_136_rephrased5,The dog is in contact with the chair.,val_Spatial_Reasoning_136
+val_Spatial_Reasoning_136_rephrased6,The chair has its surface in contact with the dog.,val_Spatial_Reasoning_136
+val_Spatial_Reasoning_136_rephrased7,The dog's surface is in contact with the chair.,val_Spatial_Reasoning_136
+val_Spatial_Reasoning_136_rephrased8,The chair and the dog are in close proximity.,val_Spatial_Reasoning_136
+val_Spatial_Reasoning_136_rephrased9,The chair's surface is touching the dog's surface.,val_Spatial_Reasoning_136
+val_Spatial_Reasoning_136_rephrased10,The dog's surface is being touched by the chair.,val_Spatial_Reasoning_136
+val_Spatial_Reasoning_136_rephrased11,The chair is making contact with the dog.,val_Spatial_Reasoning_136
+val_Spatial_Reasoning_136_rephrased12,The dog is being contacted by the chair.,val_Spatial_Reasoning_136
+val_Spatial_Reasoning_136_rephrased13,The chair's surface is in physical contact with the dog.,val_Spatial_Reasoning_136
+val_Spatial_Reasoning_136_rephrased14,The chair is in close physical proximity to the dog.,val_Spatial_Reasoning_136
+val_Spatial_Reasoning_137_rephrased1,The laptop is situated directly in front of the dog.,val_Spatial_Reasoning_137
+val_Spatial_Reasoning_137_rephrased2,"In front of the dog, the laptop is located.",val_Spatial_Reasoning_137
+val_Spatial_Reasoning_137_rephrased3,The dog has the laptop positioned directly in front of it.,val_Spatial_Reasoning_137
+val_Spatial_Reasoning_137_rephrased4,The laptop is placed in the immediate vicinity of the dog.,val_Spatial_Reasoning_137
+val_Spatial_Reasoning_137_rephrased5,The dog is positioned in front of the laptop.,val_Spatial_Reasoning_137
+val_Spatial_Reasoning_137_rephrased6,The laptop is positioned ahead of the dog.,val_Spatial_Reasoning_137
+val_Spatial_Reasoning_137_rephrased7,The dog is situated in front of the laptop.,val_Spatial_Reasoning_137
+val_Spatial_Reasoning_137_rephrased8,The laptop is in the immediate proximity of the dog.,val_Spatial_Reasoning_137
+val_Spatial_Reasoning_137_rephrased9,"The dog is facing the laptop, which is in front of it.",val_Spatial_Reasoning_137
+val_Spatial_Reasoning_137_rephrased10,The laptop is directly ahead of the dog.,val_Spatial_Reasoning_137
+val_Spatial_Reasoning_137_rephrased11,The dog has the laptop positioned in front of it.,val_Spatial_Reasoning_137
+val_Spatial_Reasoning_137_rephrased12,The laptop is situated ahead of the dog.,val_Spatial_Reasoning_137
+val_Spatial_Reasoning_137_rephrased13,"The dog is in front of the laptop, which is in its direct line of sight.",val_Spatial_Reasoning_137
+val_Spatial_Reasoning_137_rephrased14,"The laptop is positioned in the dog's direct line of sight, in front of it.",val_Spatial_Reasoning_137
+val_Spatial_Reasoning_138_rephrased1,The dog is situated directly across from the chair.,val_Spatial_Reasoning_138
+val_Spatial_Reasoning_138_rephrased2,The chair is located directly across from the dog.,val_Spatial_Reasoning_138
+val_Spatial_Reasoning_138_rephrased3,The dog is on the other side of the chair.,val_Spatial_Reasoning_138
+val_Spatial_Reasoning_138_rephrased4,The chair and the dog are facing each other.,val_Spatial_Reasoning_138
+val_Spatial_Reasoning_138_rephrased5,The dog is positioned opposite to the chair.,val_Spatial_Reasoning_138
+val_Spatial_Reasoning_138_rephrased6,The chair is situated across from the dog.,val_Spatial_Reasoning_138
+val_Spatial_Reasoning_138_rephrased7,The dog and the chair are situated on opposite sides.,val_Spatial_Reasoning_138
+val_Spatial_Reasoning_138_rephrased8,The chair is on the opposite side of the dog.,val_Spatial_Reasoning_138
+val_Spatial_Reasoning_138_rephrased9,The dog is directly opposite the chair.,val_Spatial_Reasoning_138
+val_Spatial_Reasoning_138_rephrased10,The chair is directly opposite the dog.,val_Spatial_Reasoning_138
+val_Spatial_Reasoning_138_rephrased11,The dog is situated across the chair.,val_Spatial_Reasoning_138
+val_Spatial_Reasoning_138_rephrased12,The chair and dog are on opposite sides.,val_Spatial_Reasoning_138
+val_Spatial_Reasoning_138_rephrased13,The chair is across from the dog.,val_Spatial_Reasoning_138
+val_Spatial_Reasoning_138_rephrased14,The dog is on the opposite side of the chair.,val_Spatial_Reasoning_138
+val_Spatial_Reasoning_139_rephrased1,The bench has the dog underneath it.,val_Spatial_Reasoning_139
+val_Spatial_Reasoning_139_rephrased2,The dog is positioned beneath the bench.,val_Spatial_Reasoning_139
+val_Spatial_Reasoning_139_rephrased3,The bench is situated above the dog.,val_Spatial_Reasoning_139
+val_Spatial_Reasoning_139_rephrased4,The dog is currently beneath the bench.,val_Spatial_Reasoning_139
+val_Spatial_Reasoning_139_rephrased5,The bench is covering the dog.,val_Spatial_Reasoning_139
+val_Spatial_Reasoning_139_rephrased6,The dog is located below the bench.,val_Spatial_Reasoning_139
+val_Spatial_Reasoning_139_rephrased7,The bench is placed on top of the dog.,val_Spatial_Reasoning_139
+val_Spatial_Reasoning_139_rephrased8,The dog is hidden from view under the bench.,val_Spatial_Reasoning_139
+val_Spatial_Reasoning_139_rephrased9,The dog is situated in a lower position than the bench.,val_Spatial_Reasoning_139
+val_Spatial_Reasoning_139_rephrased10,The bench is positioned over the dog.,val_Spatial_Reasoning_139
+val_Spatial_Reasoning_139_rephrased11,The dog is underneath the bench at the moment.,val_Spatial_Reasoning_139
+val_Spatial_Reasoning_139_rephrased12,The dog is lying below the bench.,val_Spatial_Reasoning_139
+val_Spatial_Reasoning_139_rephrased13,The bench is elevated above the dog.,val_Spatial_Reasoning_139
+val_Spatial_Reasoning_139_rephrased14,The dog is directly under the bench.,val_Spatial_Reasoning_139
+val_Spatial_Reasoning_140_rephrased1,The dog is above the chair.,val_Spatial_Reasoning_140
+val_Spatial_Reasoning_140_rephrased2,The chair is positioned beneath the dog.,val_Spatial_Reasoning_140
+val_Spatial_Reasoning_140_rephrased3,What is located beneath the chair?,val_Spatial_Reasoning_140
+val_Spatial_Reasoning_140_rephrased4,The chair is situated under the dog.,val_Spatial_Reasoning_140
+val_Spatial_Reasoning_140_rephrased5,The dog is situated above the chair.,val_Spatial_Reasoning_140
+val_Spatial_Reasoning_140_rephrased6,The chair is placed underneath the dog.,val_Spatial_Reasoning_140
+val_Spatial_Reasoning_140_rephrased7,The dog is positioned above the chair.,val_Spatial_Reasoning_140
+val_Spatial_Reasoning_140_rephrased8,The chair is located beneath the dog.,val_Spatial_Reasoning_140
+val_Spatial_Reasoning_140_rephrased9,The dog is positioned above the chair from the chair's perspective.,val_Spatial_Reasoning_140
+val_Spatial_Reasoning_140_rephrased10,The chair is positioned beneath the dog from a different angle.,val_Spatial_Reasoning_140
+val_Spatial_Reasoning_140_rephrased11,The dog is above the chair from the chair's perspective.,val_Spatial_Reasoning_140
+val_Spatial_Reasoning_140_rephrased12,The chair is situated beneath the dog in this scenario.,val_Spatial_Reasoning_140
+val_Spatial_Reasoning_140_rephrased13,The dog is situated above the chair from this angle.,val_Spatial_Reasoning_140
+val_Spatial_Reasoning_140_rephrased14,The chair is underneath the dog in this situation.,val_Spatial_Reasoning_140
+val_Spatial_Reasoning_141_rephrased1,The motorcycle is directed towards the train.,val_Spatial_Reasoning_141
+val_Spatial_Reasoning_141_rephrased2,The motorcycle is oriented in the direction of the train.,val_Spatial_Reasoning_141
+val_Spatial_Reasoning_141_rephrased3,The motorcycle is positioned with its front towards the train.,val_Spatial_Reasoning_141
+val_Spatial_Reasoning_141_rephrased4,The train is facing the motorcycle.,val_Spatial_Reasoning_141
+val_Spatial_Reasoning_141_rephrased5,The motorcycle is headed towards the train.,val_Spatial_Reasoning_141
+val_Spatial_Reasoning_141_rephrased6,The motorcycle is aimed at the train.,val_Spatial_Reasoning_141
+val_Spatial_Reasoning_141_rephrased7,The motorcycle is pointed towards the train.,val_Spatial_Reasoning_141
+val_Spatial_Reasoning_141_rephrased8,The motorcycle is situated with its front end facing the train.,val_Spatial_Reasoning_141
+val_Spatial_Reasoning_141_rephrased9,The train is directly in front of the motorcycle.,val_Spatial_Reasoning_141
+val_Spatial_Reasoning_141_rephrased10,The motorcycle is facing in the direction of the train's path.,val_Spatial_Reasoning_141
+val_Spatial_Reasoning_141_rephrased11,The motorcycle is turned towards the train.,val_Spatial_Reasoning_141
+val_Spatial_Reasoning_141_rephrased12,The motorcycle is pointing directly at the train.,val_Spatial_Reasoning_141
+val_Spatial_Reasoning_141_rephrased13,The motorcycle is situated with the train in front of it.,val_Spatial_Reasoning_141
+val_Spatial_Reasoning_141_rephrased14,The train is directly ahead of the motorcycle.,val_Spatial_Reasoning_141
+val_Spatial_Reasoning_142_rephrased1,The laptop is located in the train.,val_Spatial_Reasoning_142
+val_Spatial_Reasoning_142_rephrased2,A laptop is found on the train.,val_Spatial_Reasoning_142
+val_Spatial_Reasoning_142_rephrased3,The laptop is on the train.,val_Spatial_Reasoning_142
+val_Spatial_Reasoning_142_rephrased4,The train has the laptop in it.,val_Spatial_Reasoning_142
+val_Spatial_Reasoning_142_rephrased5,A laptop is stored in the train.,val_Spatial_Reasoning_142
+val_Spatial_Reasoning_142_rephrased6,The laptop is inside the train.,val_Spatial_Reasoning_142
+val_Spatial_Reasoning_142_rephrased7,The train contains the laptop in question.,val_Spatial_Reasoning_142
+val_Spatial_Reasoning_142_rephrased8,The laptop is situated within the train.,val_Spatial_Reasoning_142
+val_Spatial_Reasoning_142_rephrased9,The train is carrying the laptop.,val_Spatial_Reasoning_142
+val_Spatial_Reasoning_142_rephrased10,The laptop is on board the train.,val_Spatial_Reasoning_142
+val_Spatial_Reasoning_142_rephrased11,The laptop is on the train at present.,val_Spatial_Reasoning_142
+val_Spatial_Reasoning_142_rephrased12,The laptop is being transported by the train.,val_Spatial_Reasoning_142
+val_Spatial_Reasoning_142_rephrased13,The laptop is currently on the train.,val_Spatial_Reasoning_142
+val_Spatial_Reasoning_142_rephrased14,The train is currently holding the laptop.,val_Spatial_Reasoning_142
+val_Spatial_Reasoning_143_rephrased1,The motorcycle has a dog on it.,val_Spatial_Reasoning_143
+val_Spatial_Reasoning_143_rephrased2,A dog is riding on the motorcycle.,val_Spatial_Reasoning_143
+val_Spatial_Reasoning_143_rephrased3,The motorcycle is carrying a dog.,val_Spatial_Reasoning_143
+val_Spatial_Reasoning_143_rephrased4,There's a dog sitting on the motorcycle.,val_Spatial_Reasoning_143
+val_Spatial_Reasoning_143_rephrased5,The dog is perched on the motorcycle.,val_Spatial_Reasoning_143
+val_Spatial_Reasoning_143_rephrased6,A motorcycle has a dog on it.,val_Spatial_Reasoning_143
+val_Spatial_Reasoning_143_rephrased7,The dog is positioned on the motorcycle.,val_Spatial_Reasoning_143
+val_Spatial_Reasoning_143_rephrased8,The motorcycle is occupied by a dog.,val_Spatial_Reasoning_143
+val_Spatial_Reasoning_143_rephrased9,A dog is sitting on top of the motorcycle.,val_Spatial_Reasoning_143
+val_Spatial_Reasoning_143_rephrased10,The motorcycle is home to a dog.,val_Spatial_Reasoning_143
+val_Spatial_Reasoning_143_rephrased11,The dog is currently on the motorcycle.,val_Spatial_Reasoning_143
+val_Spatial_Reasoning_143_rephrased12,The motorcycle has a canine passenger.,val_Spatial_Reasoning_143
+val_Spatial_Reasoning_143_rephrased13,The dog is situated on the motorcycle.,val_Spatial_Reasoning_143
+val_Spatial_Reasoning_143_rephrased14,A dog is on the back of the motorcycle.,val_Spatial_Reasoning_143
+val_Spatial_Reasoning_144_rephrased1,The dog is facing the wine glass.,val_Spatial_Reasoning_144
+val_Spatial_Reasoning_144_rephrased2,The wine glass is positioned in front of the dog.,val_Spatial_Reasoning_144
+val_Spatial_Reasoning_144_rephrased3,Facing the dog is the wine glass.,val_Spatial_Reasoning_144
+val_Spatial_Reasoning_144_rephrased4,The dog is situated in front of the wine glass.,val_Spatial_Reasoning_144
+val_Spatial_Reasoning_144_rephrased5,The wine glass is directed towards the dog.,val_Spatial_Reasoning_144
+val_Spatial_Reasoning_144_rephrased6,In front of the dog is the wine glass.,val_Spatial_Reasoning_144
+val_Spatial_Reasoning_144_rephrased7,The wine glass is aimed at the dog.,val_Spatial_Reasoning_144
+val_Spatial_Reasoning_144_rephrased8,The dog is opposite the wine glass.,val_Spatial_Reasoning_144
+val_Spatial_Reasoning_144_rephrased9,The wine glass is turned towards the dog.,val_Spatial_Reasoning_144
+val_Spatial_Reasoning_144_rephrased10,Facing the wine glass is the dog.,val_Spatial_Reasoning_144
+val_Spatial_Reasoning_144_rephrased11,The wine glass is looking at the dog.,val_Spatial_Reasoning_144
+val_Spatial_Reasoning_144_rephrased12,The dog is on the opposite side of the wine glass.,val_Spatial_Reasoning_144
+val_Spatial_Reasoning_144_rephrased13,The wine glass is oriented towards the dog.,val_Spatial_Reasoning_144
+val_Spatial_Reasoning_144_rephrased14,The dog is on the same side of the wine glass as its front.,val_Spatial_Reasoning_144
+val_Spatial_Reasoning_145_rephrased1,The dog is in front of the skateboard.,val_Spatial_Reasoning_145
+val_Spatial_Reasoning_145_rephrased2,The skateboard is located in front of the dog.,val_Spatial_Reasoning_145
+val_Spatial_Reasoning_145_rephrased3,In front of the dog is the skateboard.,val_Spatial_Reasoning_145
+val_Spatial_Reasoning_145_rephrased4,The skateboard is situated in front of the dog.,val_Spatial_Reasoning_145
+val_Spatial_Reasoning_145_rephrased5,The dog has the skateboard in front of it.,val_Spatial_Reasoning_145
+val_Spatial_Reasoning_145_rephrased6,"In front of the dog, you'll find the skateboard.",val_Spatial_Reasoning_145
+val_Spatial_Reasoning_145_rephrased7,The skateboard is positioned in front of the dog.,val_Spatial_Reasoning_145
+val_Spatial_Reasoning_145_rephrased8,The skateboard lies in front of the dog.,val_Spatial_Reasoning_145
+val_Spatial_Reasoning_145_rephrased9,"The dog is in front of the skateboard, which is stationary.",val_Spatial_Reasoning_145
+val_Spatial_Reasoning_145_rephrased10,The skateboard is placed in front of the dog.,val_Spatial_Reasoning_145
+val_Spatial_Reasoning_145_rephrased11,The skateboard is in a position in front of the dog.,val_Spatial_Reasoning_145
+val_Spatial_Reasoning_145_rephrased12,"The dog has something in front of it, namely the skateboard.",val_Spatial_Reasoning_145
+val_Spatial_Reasoning_145_rephrased13,The skateboard is positioned ahead of the dog.,val_Spatial_Reasoning_145
+val_Spatial_Reasoning_145_rephrased14,The skateboard is situated ahead of the dog.,val_Spatial_Reasoning_145
+val_Spatial_Reasoning_146_rephrased1,The laptop has the dog at its edge.,val_Spatial_Reasoning_146
+val_Spatial_Reasoning_146_rephrased2,The dog is located at the edge of the laptop.,val_Spatial_Reasoning_146
+val_Spatial_Reasoning_146_rephrased3,The laptop's edge is where the dog is.,val_Spatial_Reasoning_146
+val_Spatial_Reasoning_146_rephrased4,The dog is situated at the edge of the laptop.,val_Spatial_Reasoning_146
+val_Spatial_Reasoning_146_rephrased5,The edge of the laptop is where the dog is positioned.,val_Spatial_Reasoning_146
+val_Spatial_Reasoning_146_rephrased6,The laptop's edge is where the dog can be found.,val_Spatial_Reasoning_146
+val_Spatial_Reasoning_146_rephrased7,The dog is at the laptop's outer edge.,val_Spatial_Reasoning_146
+val_Spatial_Reasoning_146_rephrased8,The edge of the laptop is occupied by the dog.,val_Spatial_Reasoning_146
+val_Spatial_Reasoning_146_rephrased9,The laptop has the dog sitting at its edge.,val_Spatial_Reasoning_146
+val_Spatial_Reasoning_146_rephrased10,The dog is positioned at the edge of the laptop.,val_Spatial_Reasoning_146
+val_Spatial_Reasoning_146_rephrased11,The laptop's edge is where the dog is currently located.,val_Spatial_Reasoning_146
+val_Spatial_Reasoning_146_rephrased12,The dog is situated near the edge of the laptop.,val_Spatial_Reasoning_146
+val_Spatial_Reasoning_146_rephrased13,The edge of the laptop is where the dog is placed.,val_Spatial_Reasoning_146
+val_Spatial_Reasoning_146_rephrased14,The laptop's edge is where the dog is situated.,val_Spatial_Reasoning_146
+val_Spatial_Reasoning_147_rephrased1,The train is facing the motorcycle.,val_Spatial_Reasoning_147
+val_Spatial_Reasoning_147_rephrased2,The motorcycle is positioned directly in front of the train.,val_Spatial_Reasoning_147
+val_Spatial_Reasoning_147_rephrased3,The train is directly in front of the motorcycle.,val_Spatial_Reasoning_147
+val_Spatial_Reasoning_147_rephrased4,The motorcycle is situated in front of the train.,val_Spatial_Reasoning_147
+val_Spatial_Reasoning_147_rephrased5,The train is ahead of the motorcycle.,val_Spatial_Reasoning_147
+val_Spatial_Reasoning_147_rephrased6,The motorcycle is opposite the train.,val_Spatial_Reasoning_147
+val_Spatial_Reasoning_147_rephrased7,The train is opposite the motorcycle.,val_Spatial_Reasoning_147
+val_Spatial_Reasoning_147_rephrased8,The motorcycle is positioned to face the train.,val_Spatial_Reasoning_147
+val_Spatial_Reasoning_147_rephrased9,The train is positioned to face the motorcycle.,val_Spatial_Reasoning_147
+val_Spatial_Reasoning_147_rephrased10,"Facing the train, the motorcycle is in position.",val_Spatial_Reasoning_147
+val_Spatial_Reasoning_147_rephrased11,"In front of the train, the motorcycle is located.",val_Spatial_Reasoning_147
+val_Spatial_Reasoning_147_rephrased12,The motorcycle is located directly in front of the train's direction.,val_Spatial_Reasoning_147
+val_Spatial_Reasoning_147_rephrased13,The train and motorcycle are aligned in a forward direction.,val_Spatial_Reasoning_147
+val_Spatial_Reasoning_147_rephrased14,The motorcycle is situated to face directly towards the train.,val_Spatial_Reasoning_147
+val_Spatial_Reasoning_148_rephrased1,The horse and the dog are side by side.,val_Spatial_Reasoning_148
+val_Spatial_Reasoning_148_rephrased2,The dog is situated next to the horse.,val_Spatial_Reasoning_148
+val_Spatial_Reasoning_148_rephrased3,The horse has the dog by its side.,val_Spatial_Reasoning_148
+val_Spatial_Reasoning_148_rephrased4,The dog is positioned alongside the horse.,val_Spatial_Reasoning_148
+val_Spatial_Reasoning_148_rephrased5,The horse and dog are standing together.,val_Spatial_Reasoning_148
+val_Spatial_Reasoning_148_rephrased6,The dog is standing right next to the horse.,val_Spatial_Reasoning_148
+val_Spatial_Reasoning_148_rephrased7,The horse and the dog are in the same location.,val_Spatial_Reasoning_148
+val_Spatial_Reasoning_148_rephrased8,The dog is located adjacent to the horse.,val_Spatial_Reasoning_148
+val_Spatial_Reasoning_148_rephrased9,The horse and dog are placed side by side.,val_Spatial_Reasoning_148
+val_Spatial_Reasoning_148_rephrased10,The dog is positioned to the side of the horse.,val_Spatial_Reasoning_148
+val_Spatial_Reasoning_148_rephrased11,The horse and dog are adjacent to each other.,val_Spatial_Reasoning_148
+val_Spatial_Reasoning_148_rephrased12,The dog is situated to the side of the horse.,val_Spatial_Reasoning_148
+val_Spatial_Reasoning_148_rephrased13,The horse and the dog are in a side-by-side arrangement.,val_Spatial_Reasoning_148
+val_Spatial_Reasoning_148_rephrased14,The dog is in close proximity to the horse.,val_Spatial_Reasoning_148
+val_Spatial_Reasoning_149_rephrased1,The horse is opposite to the dog.,val_Spatial_Reasoning_149
+val_Spatial_Reasoning_149_rephrased2,The dog is situated on the opposite side of the horse.,val_Spatial_Reasoning_149
+val_Spatial_Reasoning_149_rephrased3,The horse is situated on the opposite side of the dog.,val_Spatial_Reasoning_149
+val_Spatial_Reasoning_149_rephrased4,The dog is located in an opposite position to the horse.,val_Spatial_Reasoning_149
+val_Spatial_Reasoning_149_rephrased5,The horse is located in an opposite position to the dog.,val_Spatial_Reasoning_149
+val_Spatial_Reasoning_149_rephrased6,The dog is directly opposite the horse.,val_Spatial_Reasoning_149
+val_Spatial_Reasoning_149_rephrased7,The horse is directly opposite the dog.,val_Spatial_Reasoning_149
+val_Spatial_Reasoning_149_rephrased8,The dog and the horse are positioned in opposite directions.,val_Spatial_Reasoning_149
+val_Spatial_Reasoning_149_rephrased9,The horse and the dog are positioned in opposite directions.,val_Spatial_Reasoning_149
+val_Spatial_Reasoning_149_rephrased10,The dog is positioned in an opposite direction to the horse.,val_Spatial_Reasoning_149
+val_Spatial_Reasoning_149_rephrased11,The horse is positioned in an opposite direction to the dog.,val_Spatial_Reasoning_149
+val_Spatial_Reasoning_149_rephrased12,The dog is on the other side of the horse.,val_Spatial_Reasoning_149
+val_Spatial_Reasoning_149_rephrased13,The horse is on the other side of the dog.,val_Spatial_Reasoning_149
+val_Spatial_Reasoning_149_rephrased14,The horse and the dog are facing in opposite directions.,val_Spatial_Reasoning_149
+val_Spatial_Reasoning_150_rephrased1,The frisbee is next to the dog.,val_Spatial_Reasoning_150
+val_Spatial_Reasoning_150_rephrased2,The dog is situated next to the frisbee.,val_Spatial_Reasoning_150
+val_Spatial_Reasoning_150_rephrased3,The frisbee is located by the dog.,val_Spatial_Reasoning_150
+val_Spatial_Reasoning_150_rephrased4,The dog is positioned by the frisbee.,val_Spatial_Reasoning_150
+val_Spatial_Reasoning_150_rephrased5,The frisbee is placed near the dog.,val_Spatial_Reasoning_150
+val_Spatial_Reasoning_150_rephrased6,The dog is positioned near the frisbee.,val_Spatial_Reasoning_150
+val_Spatial_Reasoning_150_rephrased7,The frisbee is beside the dog.,val_Spatial_Reasoning_150
+val_Spatial_Reasoning_150_rephrased8,The dog is by the side of the frisbee.,val_Spatial_Reasoning_150
+val_Spatial_Reasoning_150_rephrased9,The frisbee is adjacent to the dog.,val_Spatial_Reasoning_150
+val_Spatial_Reasoning_150_rephrased10,The dog is located by the frisbee.,val_Spatial_Reasoning_150
+val_Spatial_Reasoning_150_rephrased11,The frisbee is situated next to the dog.,val_Spatial_Reasoning_150
+val_Spatial_Reasoning_150_rephrased12,The dog is in close proximity to the frisbee.,val_Spatial_Reasoning_150
+val_Spatial_Reasoning_150_rephrased13,The frisbee is in close proximity to the dog.,val_Spatial_Reasoning_150
+val_Spatial_Reasoning_150_rephrased14,The dog is adjacent to the frisbee.,val_Spatial_Reasoning_150
+val_Spatial_Reasoning_151_rephrased1,The dog is above the bench.,val_Spatial_Reasoning_151
+val_Spatial_Reasoning_151_rephrased2,The bench is situated below the dog's level.,val_Spatial_Reasoning_151
+val_Spatial_Reasoning_151_rephrased3,The dog is positioned above the bench.,val_Spatial_Reasoning_151
+val_Spatial_Reasoning_151_rephrased4,The bench is located beneath the dog.,val_Spatial_Reasoning_151
+val_Spatial_Reasoning_151_rephrased5,The dog is higher than the bench.,val_Spatial_Reasoning_151
+val_Spatial_Reasoning_151_rephrased6,The bench is positioned below the dog's standing height.,val_Spatial_Reasoning_151
+val_Spatial_Reasoning_151_rephrased7,The dog's feet are above the bench.,val_Spatial_Reasoning_151
+val_Spatial_Reasoning_151_rephrased8,The bench is situated at a lower level than the dog.,val_Spatial_Reasoning_151
+val_Spatial_Reasoning_151_rephrased9,The dog is standing above the bench.,val_Spatial_Reasoning_151
+val_Spatial_Reasoning_151_rephrased10,The bench is at a lower position than the dog.,val_Spatial_Reasoning_151
+val_Spatial_Reasoning_151_rephrased11,The dog is elevated above the bench.,val_Spatial_Reasoning_151
+val_Spatial_Reasoning_151_rephrased12,The bench is at a lower height than the dog.,val_Spatial_Reasoning_151
+val_Spatial_Reasoning_151_rephrased13,The dog is above the bench in terms of height.,val_Spatial_Reasoning_151
+val_Spatial_Reasoning_151_rephrased14,The bench is below the level of the dog.,val_Spatial_Reasoning_151
+val_Spatial_Reasoning_152_rephrased1,The motorcycle has the dog on its right side.,val_Spatial_Reasoning_152
+val_Spatial_Reasoning_152_rephrased2,The dog is positioned on the right-hand side of the motorcycle.,val_Spatial_Reasoning_152
+val_Spatial_Reasoning_152_rephrased3,The motorcycle is accompanied by the dog on its right.,val_Spatial_Reasoning_152
+val_Spatial_Reasoning_152_rephrased4,The right side of the motorcycle is occupied by the dog.,val_Spatial_Reasoning_152
+val_Spatial_Reasoning_152_rephrased5,The dog is situated to the right of the motorcycle.,val_Spatial_Reasoning_152
+val_Spatial_Reasoning_152_rephrased6,The motorcycle has the dog placed on its right.,val_Spatial_Reasoning_152
+val_Spatial_Reasoning_152_rephrased7,The dog is located on the right side of the motorcycle.,val_Spatial_Reasoning_152
+val_Spatial_Reasoning_152_rephrased8,The right side of the motorcycle is where the dog is.,val_Spatial_Reasoning_152
+val_Spatial_Reasoning_152_rephrased9,The motorcycle's right side is home to the dog.,val_Spatial_Reasoning_152
+val_Spatial_Reasoning_152_rephrased10,The dog is on the motorcycle's right-hand side.,val_Spatial_Reasoning_152
+val_Spatial_Reasoning_152_rephrased11,The motorcycle is on the right side of the dog.,val_Spatial_Reasoning_152
+val_Spatial_Reasoning_152_rephrased12,The right side of the motorcycle is where you can find the dog.,val_Spatial_Reasoning_152
+val_Spatial_Reasoning_152_rephrased13,The dog is situated on the motorcycle's right.,val_Spatial_Reasoning_152
+val_Spatial_Reasoning_152_rephrased14,The motorcycle's right side is where the dog is positioned.,val_Spatial_Reasoning_152
+val_Spatial_Reasoning_153_rephrased1,The train is directly above the laptop.,val_Spatial_Reasoning_153
+val_Spatial_Reasoning_153_rephrased2,The laptop is positioned underneath the train.,val_Spatial_Reasoning_153
+val_Spatial_Reasoning_153_rephrased3,The train is situated directly above the laptop.,val_Spatial_Reasoning_153
+val_Spatial_Reasoning_153_rephrased4,The laptop is located beneath the train.,val_Spatial_Reasoning_153
+val_Spatial_Reasoning_153_rephrased5,The train is hovering above the laptop.,val_Spatial_Reasoning_153
+val_Spatial_Reasoning_153_rephrased6,The laptop is lying beneath the train.,val_Spatial_Reasoning_153
+val_Spatial_Reasoning_153_rephrased7,The train is placed directly above the laptop.,val_Spatial_Reasoning_153
+val_Spatial_Reasoning_153_rephrased8,The laptop is positioned under the train.,val_Spatial_Reasoning_153
+val_Spatial_Reasoning_153_rephrased9,The train is positioned directly above the laptop.,val_Spatial_Reasoning_153
+val_Spatial_Reasoning_153_rephrased10,The laptop is situated underneath the train.,val_Spatial_Reasoning_153
+val_Spatial_Reasoning_153_rephrased11,The train is above the laptop.,val_Spatial_Reasoning_153
+val_Spatial_Reasoning_153_rephrased12,The laptop is on the underside of the train.,val_Spatial_Reasoning_153
+val_Spatial_Reasoning_153_rephrased13,The train is directly overhead of the laptop.,val_Spatial_Reasoning_153
+val_Spatial_Reasoning_153_rephrased14,The laptop is at the bottom of the train.,val_Spatial_Reasoning_153
+val_Spatial_Reasoning_154_rephrased1,The laptop is located within the train.,val_Spatial_Reasoning_154
+val_Spatial_Reasoning_154_rephrased2,The laptop is situated inside the train.,val_Spatial_Reasoning_154
+val_Spatial_Reasoning_154_rephrased3,The laptop is found inside the train.,val_Spatial_Reasoning_154
+val_Spatial_Reasoning_154_rephrased4,The laptop is positioned inside the train.,val_Spatial_Reasoning_154
+val_Spatial_Reasoning_154_rephrased5,The laptop is currently inside the train.,val_Spatial_Reasoning_154
+val_Spatial_Reasoning_154_rephrased6,The train contains the laptop.,val_Spatial_Reasoning_154
+val_Spatial_Reasoning_154_rephrased7,The laptop is placed inside the train.,val_Spatial_Reasoning_154
+val_Spatial_Reasoning_154_rephrased8,The train has the laptop inside it.,val_Spatial_Reasoning_154
+val_Spatial_Reasoning_154_rephrased9,The laptop is within the interior of the train.,val_Spatial_Reasoning_154
+val_Spatial_Reasoning_154_rephrased10,The laptop is inside the interior of the train.,val_Spatial_Reasoning_154
+val_Spatial_Reasoning_154_rephrased11,The laptop is situated inside the interior of the train.,val_Spatial_Reasoning_154
+val_Spatial_Reasoning_154_rephrased12,The train's interior contains the laptop.,val_Spatial_Reasoning_154
+val_Spatial_Reasoning_154_rephrased13,The laptop is inside the train's interior.,val_Spatial_Reasoning_154
+val_Spatial_Reasoning_154_rephrased14,The laptop is positioned within the train.,val_Spatial_Reasoning_154
+val_Spatial_Reasoning_155_rephrased1,The motorcycle has a dog on it.,val_Spatial_Reasoning_155
+val_Spatial_Reasoning_155_rephrased2,A dog is riding on the motorcycle.,val_Spatial_Reasoning_155
+val_Spatial_Reasoning_155_rephrased3,The motorcycle is carrying a dog.,val_Spatial_Reasoning_155
+val_Spatial_Reasoning_155_rephrased4,There's a dog sitting on the motorcycle.,val_Spatial_Reasoning_155
+val_Spatial_Reasoning_155_rephrased5,A dog is perched on the motorcycle.,val_Spatial_Reasoning_155
+val_Spatial_Reasoning_155_rephrased6,The motorcycle has a canine passenger.,val_Spatial_Reasoning_155
+val_Spatial_Reasoning_155_rephrased7,The dog is positioned on the motorcycle.,val_Spatial_Reasoning_155
+val_Spatial_Reasoning_155_rephrased8,The motorcycle is occupied by a dog.,val_Spatial_Reasoning_155
+val_Spatial_Reasoning_155_rephrased9,A dog is currently on the motorcycle.,val_Spatial_Reasoning_155
+val_Spatial_Reasoning_155_rephrased10,The motorcycle has a dog as a passenger.,val_Spatial_Reasoning_155
+val_Spatial_Reasoning_155_rephrased11,The dog is sitting on the motorcycle right now.,val_Spatial_Reasoning_155
+val_Spatial_Reasoning_155_rephrased12,A dog is situated on the motorcycle.,val_Spatial_Reasoning_155
+val_Spatial_Reasoning_155_rephrased13,A dog is on the back of the motorcycle.,val_Spatial_Reasoning_155
+val_Spatial_Reasoning_155_rephrased14,The motorcycle has a dog as a rider.,val_Spatial_Reasoning_155
+val_Spatial_Reasoning_156_rephrased1,The motorcycle is ahead of the train.,val_Spatial_Reasoning_156
+val_Spatial_Reasoning_156_rephrased2,The train is positioned behind the motorcycle.,val_Spatial_Reasoning_156
+val_Spatial_Reasoning_156_rephrased3,The motorcycle is ahead of it.,val_Spatial_Reasoning_156
+val_Spatial_Reasoning_156_rephrased4,The motorcycle is in front of the train.,val_Spatial_Reasoning_156
+val_Spatial_Reasoning_156_rephrased5,The train is located behind the motorcycle.,val_Spatial_Reasoning_156
+val_Spatial_Reasoning_156_rephrased6,"Behind the motorcycle, the train is situated.",val_Spatial_Reasoning_156
+val_Spatial_Reasoning_156_rephrased7,The motorcycle is ahead of the train in the order.,val_Spatial_Reasoning_156
+val_Spatial_Reasoning_156_rephrased8,The train is situated behind the motorcycle.,val_Spatial_Reasoning_156
+val_Spatial_Reasoning_156_rephrased9,"The motorcycle is in the lead, and the train is behind.",val_Spatial_Reasoning_156
+val_Spatial_Reasoning_156_rephrased10,The train is trailing the motorcycle.,val_Spatial_Reasoning_156
+val_Spatial_Reasoning_156_rephrased11,"The motorcycle is in front of the train, which is behind.",val_Spatial_Reasoning_156
+val_Spatial_Reasoning_156_rephrased12,The train is positioned after the motorcycle.,val_Spatial_Reasoning_156
+val_Spatial_Reasoning_156_rephrased13,"The motorcycle is ahead, and the train is behind.",val_Spatial_Reasoning_156
+val_Spatial_Reasoning_156_rephrased14,The train is located in the rear of the motorcycle.,val_Spatial_Reasoning_156
+val_Spatial_Reasoning_157_rephrased1,The dog is above the chair.,val_Spatial_Reasoning_157
+val_Spatial_Reasoning_157_rephrased2,The chair is situated below the dog.,val_Spatial_Reasoning_157
+val_Spatial_Reasoning_157_rephrased3,The dog is positioned above the chair.,val_Spatial_Reasoning_157
+val_Spatial_Reasoning_157_rephrased4,The chair lies beneath the dog.,val_Spatial_Reasoning_157
+val_Spatial_Reasoning_157_rephrased5,The dog is located above the chair.,val_Spatial_Reasoning_157
+val_Spatial_Reasoning_157_rephrased6,The chair is positioned underneath the dog.,val_Spatial_Reasoning_157
+val_Spatial_Reasoning_157_rephrased7,The dog is above the chair in position.,val_Spatial_Reasoning_157
+val_Spatial_Reasoning_157_rephrased8,The chair is found below the dog.,val_Spatial_Reasoning_157
+val_Spatial_Reasoning_157_rephrased9,The dog is situated above the chair in space.,val_Spatial_Reasoning_157
+val_Spatial_Reasoning_157_rephrased10,The chair is located beneath the dog's feet.,val_Spatial_Reasoning_157
+val_Spatial_Reasoning_157_rephrased11,The dog is positioned above the chair in height.,val_Spatial_Reasoning_157
+val_Spatial_Reasoning_157_rephrased12,The chair is under the dog's presence.,val_Spatial_Reasoning_157
+val_Spatial_Reasoning_157_rephrased13,The dog is above the chair in elevation.,val_Spatial_Reasoning_157
+val_Spatial_Reasoning_157_rephrased14,The chair is situated beneath the dog's body.,val_Spatial_Reasoning_157
+val_Spatial_Reasoning_158_rephrased1,The handbag is in contact with the chair.,val_Spatial_Reasoning_158
+val_Spatial_Reasoning_158_rephrased2,The chair and handbag are in physical contact.,val_Spatial_Reasoning_158
+val_Spatial_Reasoning_158_rephrased3,The handbag is being touched by the chair.,val_Spatial_Reasoning_158
+val_Spatial_Reasoning_158_rephrased4,The chair is in close proximity to the handbag.,val_Spatial_Reasoning_158
+val_Spatial_Reasoning_158_rephrased5,The handbag is adjacent to the chair.,val_Spatial_Reasoning_158
+val_Spatial_Reasoning_158_rephrased6,The chair is adjacent to the handbag.,val_Spatial_Reasoning_158
+val_Spatial_Reasoning_158_rephrased7,"The handbag is in contact with something, specifically the chair.",val_Spatial_Reasoning_158
+val_Spatial_Reasoning_158_rephrased8,The chair and the handbag are touching each other.,val_Spatial_Reasoning_158
+val_Spatial_Reasoning_158_rephrased9,The chair is in contact with the handbag.,val_Spatial_Reasoning_158
+val_Spatial_Reasoning_158_rephrased10,The handbag is in the same location as the chair.,val_Spatial_Reasoning_158
+val_Spatial_Reasoning_158_rephrased11,The chair and handbag are at the same point.,val_Spatial_Reasoning_158
+val_Spatial_Reasoning_158_rephrased12,The handbag is on or near the chair.,val_Spatial_Reasoning_158
+val_Spatial_Reasoning_158_rephrased13,The chair and handbag are in the same physical space.,val_Spatial_Reasoning_158
+val_Spatial_Reasoning_158_rephrased14,The chair is next to the handbag.,val_Spatial_Reasoning_158
+val_Spatial_Reasoning_159_rephrased1,The laptop is close to the train.,val_Spatial_Reasoning_159
+val_Spatial_Reasoning_159_rephrased2,The train is located near the laptop.,val_Spatial_Reasoning_159
+val_Spatial_Reasoning_159_rephrased3,The laptop and train are in close proximity.,val_Spatial_Reasoning_159
+val_Spatial_Reasoning_159_rephrased4,The train is situated near the laptop.,val_Spatial_Reasoning_159
+val_Spatial_Reasoning_159_rephrased5,The laptop is adjacent to the train.,val_Spatial_Reasoning_159
+val_Spatial_Reasoning_159_rephrased6,The train is close by the laptop.,val_Spatial_Reasoning_159
+val_Spatial_Reasoning_159_rephrased7,The laptop is in the vicinity of the train.,val_Spatial_Reasoning_159
+val_Spatial_Reasoning_159_rephrased8,The train is right next to the laptop.,val_Spatial_Reasoning_159
+val_Spatial_Reasoning_159_rephrased9,The laptop and train are nearby.,val_Spatial_Reasoning_159
+val_Spatial_Reasoning_159_rephrased10,The train is positioned near the laptop.,val_Spatial_Reasoning_159
+val_Spatial_Reasoning_159_rephrased11,The laptop is in close proximity to the train.,val_Spatial_Reasoning_159
+val_Spatial_Reasoning_159_rephrased12,The train is just beside the laptop.,val_Spatial_Reasoning_159
+val_Spatial_Reasoning_159_rephrased13,The laptop is located near the train.,val_Spatial_Reasoning_159
+val_Spatial_Reasoning_159_rephrased14,The train is almost touching the laptop.,val_Spatial_Reasoning_159
+val_Spatial_Reasoning_160_rephrased1,The horse is to the right of the zebra.,val_Spatial_Reasoning_160
+val_Spatial_Reasoning_160_rephrased2,The zebra is positioned to the left of the horse.,val_Spatial_Reasoning_160
+val_Spatial_Reasoning_160_rephrased3,The horse is located to the right of the zebra.,val_Spatial_Reasoning_160
+val_Spatial_Reasoning_160_rephrased4,The zebra is situated on the left side of the horse.,val_Spatial_Reasoning_160
+val_Spatial_Reasoning_160_rephrased5,The horse is placed to the right of the zebra.,val_Spatial_Reasoning_160
+val_Spatial_Reasoning_160_rephrased6,The zebra is situated to the left of the horse.,val_Spatial_Reasoning_160
+val_Spatial_Reasoning_160_rephrased7,The horse is on the right side of the zebra.,val_Spatial_Reasoning_160
+val_Spatial_Reasoning_160_rephrased8,The zebra is positioned on the left of the horse.,val_Spatial_Reasoning_160
+val_Spatial_Reasoning_160_rephrased9,The horse is to the right of the zebra in the arrangement.,val_Spatial_Reasoning_160
+val_Spatial_Reasoning_160_rephrased10,The zebra is located on the left of the horse.,val_Spatial_Reasoning_160
+val_Spatial_Reasoning_160_rephrased11,The horse is on the opposite side of the zebra.,val_Spatial_Reasoning_160
+val_Spatial_Reasoning_160_rephrased12,The zebra is situated to the left relative to the horse.,val_Spatial_Reasoning_160
+val_Spatial_Reasoning_160_rephrased13,The horse is positioned to the right relative to the zebra.,val_Spatial_Reasoning_160
+val_Spatial_Reasoning_161_rephrased1,The bench is far from the dog.,val_Spatial_Reasoning_161
+val_Spatial_Reasoning_161_rephrased2,The dog is positioned at a considerable distance from the bench.,val_Spatial_Reasoning_161
+val_Spatial_Reasoning_161_rephrased3,At what distance is the dog situated from the bench?,val_Spatial_Reasoning_161
+val_Spatial_Reasoning_161_rephrased4,The bench is located far away from the dog.,val_Spatial_Reasoning_161
+val_Spatial_Reasoning_161_rephrased5,The dog is not close to the bench.,val_Spatial_Reasoning_161
+val_Spatial_Reasoning_161_rephrased6,How far is the dog from the bench?,val_Spatial_Reasoning_161
+val_Spatial_Reasoning_161_rephrased7,The dog is at a considerable remove from the bench.,val_Spatial_Reasoning_161
+val_Spatial_Reasoning_161_rephrased8,What is the distance between the dog and the bench?,val_Spatial_Reasoning_161
+val_Spatial_Reasoning_161_rephrased9,The bench and the dog are far apart.,val_Spatial_Reasoning_161
+val_Spatial_Reasoning_161_rephrased10,The dog is not near the bench.,val_Spatial_Reasoning_161
+val_Spatial_Reasoning_161_rephrased11,The distance between the dog and the bench is considerable.,val_Spatial_Reasoning_161
+val_Spatial_Reasoning_161_rephrased12,The dog is situated at a great distance from the bench.,val_Spatial_Reasoning_161
+val_Spatial_Reasoning_161_rephrased13,The dog is far removed from the bench.,val_Spatial_Reasoning_161
+val_Spatial_Reasoning_161_rephrased14,The bench and the dog are not close to each other.,val_Spatial_Reasoning_161
+val_Spatial_Reasoning_162_rephrased1,The chair has the dog underneath it.,val_Spatial_Reasoning_162
+val_Spatial_Reasoning_162_rephrased2,"Underneath the chair, you can find the dog.",val_Spatial_Reasoning_162
+val_Spatial_Reasoning_162_rephrased3,The dog is situated beneath the chair.,val_Spatial_Reasoning_162
+val_Spatial_Reasoning_162_rephrased4,Beneath the chair lies the dog.,val_Spatial_Reasoning_162
+val_Spatial_Reasoning_162_rephrased5,The dog is located under the chair.,val_Spatial_Reasoning_162
+val_Spatial_Reasoning_162_rephrased6,The chair is positioned above the dog.,val_Spatial_Reasoning_162
+val_Spatial_Reasoning_162_rephrased7,The dog is hiding under the chair.,val_Spatial_Reasoning_162
+val_Spatial_Reasoning_162_rephrased8,The chair is covering the dog.,val_Spatial_Reasoning_162
+val_Spatial_Reasoning_162_rephrased9,The dog is placed underneath the chair.,val_Spatial_Reasoning_162
+val_Spatial_Reasoning_162_rephrased10,"Under the chair, there is the dog.",val_Spatial_Reasoning_162
+val_Spatial_Reasoning_162_rephrased11,The dog is concealed under the chair.,val_Spatial_Reasoning_162
+val_Spatial_Reasoning_162_rephrased12,The chair is holding the dog underneath.,val_Spatial_Reasoning_162
+val_Spatial_Reasoning_162_rephrased13,The dog is positioned beneath the chair.,val_Spatial_Reasoning_162
+val_Spatial_Reasoning_162_rephrased14,The chair has the dog underneath it now.,val_Spatial_Reasoning_162
+val_Spatial_Reasoning_163_rephrased1,The dog is situated on the right-hand side of the bench.,val_Spatial_Reasoning_163
+val_Spatial_Reasoning_163_rephrased2,The bench has the dog on its right side.,val_Spatial_Reasoning_163
+val_Spatial_Reasoning_163_rephrased3,The dog is positioned to the right of the bench.,val_Spatial_Reasoning_163
+val_Spatial_Reasoning_163_rephrased4,The bench is located to the left of the dog.,val_Spatial_Reasoning_163
+val_Spatial_Reasoning_163_rephrased5,The dog occupies the right side of the bench.,val_Spatial_Reasoning_163
+val_Spatial_Reasoning_163_rephrased6,The right side of the bench contains the dog.,val_Spatial_Reasoning_163
+val_Spatial_Reasoning_163_rephrased7,"The dog is on the right-hand side of the bench, facing outward.",val_Spatial_Reasoning_163
+val_Spatial_Reasoning_163_rephrased8,The bench's right side is occupied by the dog.,val_Spatial_Reasoning_163
+val_Spatial_Reasoning_163_rephrased9,The dog is situated to the right of the bench's center.,val_Spatial_Reasoning_163
+val_Spatial_Reasoning_163_rephrased10,The dog's location is on the right side of the bench.,val_Spatial_Reasoning_163
+val_Spatial_Reasoning_163_rephrased11,The right side of the bench is where the dog is located.,val_Spatial_Reasoning_163
+val_Spatial_Reasoning_163_rephrased12,The bench has the dog located on its right side.,val_Spatial_Reasoning_163
+val_Spatial_Reasoning_163_rephrased13,The dog is to the right of the center point of the bench.,val_Spatial_Reasoning_163
+val_Spatial_Reasoning_163_rephrased14,The right side of the bench is where the dog resides.,val_Spatial_Reasoning_163
+val_Spatial_Reasoning_164_rephrased1,The laptop is being touched by the dog.,val_Spatial_Reasoning_164
+val_Spatial_Reasoning_164_rephrased2,The dog is in contact with the laptop.,val_Spatial_Reasoning_164
+val_Spatial_Reasoning_164_rephrased3,The laptop is being physically touched by the dog.,val_Spatial_Reasoning_164
+val_Spatial_Reasoning_164_rephrased4,The dog is in physical contact with the laptop.,val_Spatial_Reasoning_164
+val_Spatial_Reasoning_164_rephrased5,The laptop has the dog touching it.,val_Spatial_Reasoning_164
+val_Spatial_Reasoning_164_rephrased6,The dog is currently touching the laptop.,val_Spatial_Reasoning_164
+val_Spatial_Reasoning_164_rephrased7,The laptop is being touched at this moment by the dog.,val_Spatial_Reasoning_164
+val_Spatial_Reasoning_164_rephrased8,The dog has its body touching the laptop.,val_Spatial_Reasoning_164
+val_Spatial_Reasoning_164_rephrased9,The laptop is being physically in contact with the dog.,val_Spatial_Reasoning_164
+val_Spatial_Reasoning_164_rephrased10,The dog is making contact with the laptop.,val_Spatial_Reasoning_164
+val_Spatial_Reasoning_164_rephrased11,The laptop is being touched at present by the dog.,val_Spatial_Reasoning_164
+val_Spatial_Reasoning_164_rephrased12,The dog is directly touching the laptop.,val_Spatial_Reasoning_164
+val_Spatial_Reasoning_164_rephrased13,The laptop is being directly touched by the dog.,val_Spatial_Reasoning_164
+val_Spatial_Reasoning_164_rephrased14,The dog is in direct contact with the laptop.,val_Spatial_Reasoning_164
+val_Spatial_Reasoning_165_rephrased1,The wine glass is in front of the dog.,val_Spatial_Reasoning_165
+val_Spatial_Reasoning_165_rephrased2,The dog is looking at the wine glass.,val_Spatial_Reasoning_165
+val_Spatial_Reasoning_165_rephrased3,The wine glass is directly in the dog's line of sight.,val_Spatial_Reasoning_165
+val_Spatial_Reasoning_165_rephrased4,The dog is staring at the wine glass.,val_Spatial_Reasoning_165
+val_Spatial_Reasoning_165_rephrased5,The wine glass is positioned in the direction the dog is facing.,val_Spatial_Reasoning_165
+val_Spatial_Reasoning_165_rephrased6,The dog's gaze is fixed on the wine glass.,val_Spatial_Reasoning_165
+val_Spatial_Reasoning_165_rephrased7,The wine glass is situated in front of the dog's position.,val_Spatial_Reasoning_165
+val_Spatial_Reasoning_165_rephrased8,The dog is directly facing the wine glass.,val_Spatial_Reasoning_165
+val_Spatial_Reasoning_165_rephrased9,The wine glass is in the direction the dog is oriented.,val_Spatial_Reasoning_165
+val_Spatial_Reasoning_165_rephrased10,The dog is turned towards the wine glass.,val_Spatial_Reasoning_165
+val_Spatial_Reasoning_165_rephrased11,The wine glass is the object the dog is facing.,val_Spatial_Reasoning_165
+val_Spatial_Reasoning_165_rephrased12,The dog is looking straight at the wine glass.,val_Spatial_Reasoning_165
+val_Spatial_Reasoning_165_rephrased13,The wine glass is in the dog's direct line of vision.,val_Spatial_Reasoning_165
+val_Spatial_Reasoning_165_rephrased14,The direction the dog is facing is towards the wine glass.,val_Spatial_Reasoning_165
+val_Spatial_Reasoning_166_rephrased1,The train is positioned above the laptop.,val_Spatial_Reasoning_166
+val_Spatial_Reasoning_166_rephrased2,The laptop is located underneath the train.,val_Spatial_Reasoning_166
+val_Spatial_Reasoning_166_rephrased3,The train is sitting on top of the laptop.,val_Spatial_Reasoning_166
+val_Spatial_Reasoning_166_rephrased4,The laptop is directly beneath the train.,val_Spatial_Reasoning_166
+val_Spatial_Reasoning_166_rephrased5,The train is positioned below the laptop.,val_Spatial_Reasoning_166
+val_Spatial_Reasoning_166_rephrased6,The laptop is situated under the train.,val_Spatial_Reasoning_166
+val_Spatial_Reasoning_166_rephrased7,The train is above the laptop in position.,val_Spatial_Reasoning_166
+val_Spatial_Reasoning_166_rephrased8,The laptop is on the underside of the train.,val_Spatial_Reasoning_166
+val_Spatial_Reasoning_166_rephrased9,The train is placed on top of the laptop.,val_Spatial_Reasoning_166
+val_Spatial_Reasoning_166_rephrased10,The laptop is found beneath the train.,val_Spatial_Reasoning_166
+val_Spatial_Reasoning_166_rephrased11,The train is positioned with the laptop underneath.,val_Spatial_Reasoning_166
+val_Spatial_Reasoning_166_rephrased12,The laptop is positioned below the train.,val_Spatial_Reasoning_166
+val_Spatial_Reasoning_166_rephrased13,The train is located above the laptop in space.,val_Spatial_Reasoning_166
+val_Spatial_Reasoning_166_rephrased14,The laptop is situated underneath the train.,val_Spatial_Reasoning_166
+val_Spatial_Reasoning_167_rephrased1,The dog is above the bench.,val_Spatial_Reasoning_167
+val_Spatial_Reasoning_167_rephrased2,The bench is positioned at a lower level than the dog.,val_Spatial_Reasoning_167
+val_Spatial_Reasoning_167_rephrased3,The dog is situated above the bench.,val_Spatial_Reasoning_167
+val_Spatial_Reasoning_167_rephrased4,The bench is located below the level of the dog.,val_Spatial_Reasoning_167
+val_Spatial_Reasoning_167_rephrased5,The dog is higher than the bench.,val_Spatial_Reasoning_167
+val_Spatial_Reasoning_167_rephrased6,The bench is situated at a lower height than the dog.,val_Spatial_Reasoning_167
+val_Spatial_Reasoning_167_rephrased7,The dog is positioned at a higher level than the bench.,val_Spatial_Reasoning_167
+val_Spatial_Reasoning_167_rephrased8,The bench is at a lower elevation than the dog.,val_Spatial_Reasoning_167
+val_Spatial_Reasoning_167_rephrased9,The dog is elevated above the bench.,val_Spatial_Reasoning_167
+val_Spatial_Reasoning_167_rephrased10,The bench is lower than the dog.,val_Spatial_Reasoning_167
+val_Spatial_Reasoning_167_rephrased11,The dog is at a higher position than the bench.,val_Spatial_Reasoning_167
+val_Spatial_Reasoning_167_rephrased12,The bench is below the level of the dog.,val_Spatial_Reasoning_167
+val_Spatial_Reasoning_167_rephrased13,The dog is higher in relation to the bench.,val_Spatial_Reasoning_167
+val_Spatial_Reasoning_167_rephrased14,The bench is in a lower position compared to the dog.,val_Spatial_Reasoning_167
+val_Spatial_Reasoning_168_rephrased1,The horse has the chair positioned beneath it.,val_Spatial_Reasoning_168
+val_Spatial_Reasoning_168_rephrased2,The chair lies directly below the horse.,val_Spatial_Reasoning_168
+val_Spatial_Reasoning_168_rephrased3,Is the chair located directly beneath the horse?,val_Spatial_Reasoning_168
+val_Spatial_Reasoning_168_rephrased4,Does the horse have the chair situated below it?,val_Spatial_Reasoning_168
+val_Spatial_Reasoning_168_rephrased5,The chair is positioned below the horse's feet.,val_Spatial_Reasoning_168
+val_Spatial_Reasoning_168_rephrased6,The horse's feet are above the chair.,val_Spatial_Reasoning_168
+val_Spatial_Reasoning_168_rephrased7,The chair is situated at a lower level than the horse.,val_Spatial_Reasoning_168
+val_Spatial_Reasoning_168_rephrased8,What is the relationship between the chair and the horse?,val_Spatial_Reasoning_168
+val_Spatial_Reasoning_168_rephrased9,The horse is situated above the chair.,val_Spatial_Reasoning_168
+val_Spatial_Reasoning_168_rephrased10,Is the chair on the ground beneath the horse?,val_Spatial_Reasoning_168
+val_Spatial_Reasoning_168_rephrased11,The chair is below the level of the horse.,val_Spatial_Reasoning_168
+val_Spatial_Reasoning_168_rephrased12,The horse is positioned above the chair on the ground.,val_Spatial_Reasoning_168
+val_Spatial_Reasoning_168_rephrased13,The chair is lower than the horse in height.,val_Spatial_Reasoning_168
+val_Spatial_Reasoning_168_rephrased14,The horse is above the chair in elevation.,val_Spatial_Reasoning_168
+val_Spatial_Reasoning_169_rephrased1,The horse and the chair are not in close proximity to each other.,val_Spatial_Reasoning_169
+val_Spatial_Reasoning_169_rephrased2,The chair is situated at a distance from the horse.,val_Spatial_Reasoning_169
+val_Spatial_Reasoning_169_rephrased3,The horse and the chair are separated by some space.,val_Spatial_Reasoning_169
+val_Spatial_Reasoning_169_rephrased4,The chair is positioned far from the horse.,val_Spatial_Reasoning_169
+val_Spatial_Reasoning_169_rephrased5,The horse is not adjacent to the chair.,val_Spatial_Reasoning_169
+val_Spatial_Reasoning_169_rephrased6,The chair is not next to the horse.,val_Spatial_Reasoning_169
+val_Spatial_Reasoning_169_rephrased7,The horse and the chair are not side by side.,val_Spatial_Reasoning_169
+val_Spatial_Reasoning_169_rephrased8,The chair is located a considerable distance away from the horse.,val_Spatial_Reasoning_169
+val_Spatial_Reasoning_169_rephrased9,The horse is separated from the chair by some distance.,val_Spatial_Reasoning_169
+val_Spatial_Reasoning_169_rephrased10,The chair is not in the immediate vicinity of the horse.,val_Spatial_Reasoning_169
+val_Spatial_Reasoning_169_rephrased11,The horse and the chair are not in close proximity.,val_Spatial_Reasoning_169
+val_Spatial_Reasoning_169_rephrased12,The chair is positioned at a considerable remove from the horse.,val_Spatial_Reasoning_169
+val_Spatial_Reasoning_169_rephrased13,The horse and the chair are not adjacent.,val_Spatial_Reasoning_169
+val_Spatial_Reasoning_169_rephrased14,The chair is far removed from the horse.,val_Spatial_Reasoning_169
+val_Spatial_Reasoning_170_rephrased1,The dog is by the motorcycle.,val_Spatial_Reasoning_170
+val_Spatial_Reasoning_170_rephrased2,The motorcycle is positioned next to the dog.,val_Spatial_Reasoning_170
+val_Spatial_Reasoning_170_rephrased3,The motorcycle is located near the dog.,val_Spatial_Reasoning_170
+val_Spatial_Reasoning_170_rephrased4,The dog is situated next to the motorcycle.,val_Spatial_Reasoning_170
+val_Spatial_Reasoning_170_rephrased5,The motorcycle is adjacent to the dog.,val_Spatial_Reasoning_170
+val_Spatial_Reasoning_170_rephrased6,The dog and the motorcycle are in close proximity.,val_Spatial_Reasoning_170
+val_Spatial_Reasoning_170_rephrased7,The motorcycle is alongside the dog.,val_Spatial_Reasoning_170
+val_Spatial_Reasoning_170_rephrased8,The dog is in close proximity to the motorcycle.,val_Spatial_Reasoning_170
+val_Spatial_Reasoning_170_rephrased9,The motorcycle is in the vicinity of the dog.,val_Spatial_Reasoning_170
+val_Spatial_Reasoning_170_rephrased10,The dog is nearby the motorcycle.,val_Spatial_Reasoning_170
+val_Spatial_Reasoning_170_rephrased11,The motorcycle is situated close to the dog.,val_Spatial_Reasoning_170
+val_Spatial_Reasoning_170_rephrased12,The motorcycle is right next to the dog.,val_Spatial_Reasoning_170
+val_Spatial_Reasoning_170_rephrased13,The dog is next to the motorcycle.,val_Spatial_Reasoning_170
+val_Spatial_Reasoning_170_rephrased14,The motorcycle is positioned close to the dog.,val_Spatial_Reasoning_170
+val_Spatial_Reasoning_171_rephrased1,The surfboard is far from the dog.,val_Spatial_Reasoning_171
+val_Spatial_Reasoning_171_rephrased2,The dog is at a distance from the surfboard.,val_Spatial_Reasoning_171
+val_Spatial_Reasoning_171_rephrased3,The surfboard is not close to the dog.,val_Spatial_Reasoning_171
+val_Spatial_Reasoning_171_rephrased4,The dog is not near the surfboard.,val_Spatial_Reasoning_171
+val_Spatial_Reasoning_171_rephrased5,The distance between the dog and the surfboard is considerable.,val_Spatial_Reasoning_171
+val_Spatial_Reasoning_171_rephrased6,The surfboard is positioned far away from the dog.,val_Spatial_Reasoning_171
+val_Spatial_Reasoning_171_rephrased7,The dog is located a considerable distance from the surfboard.,val_Spatial_Reasoning_171
+val_Spatial_Reasoning_171_rephrased8,The surfboard is a considerable distance away from the dog.,val_Spatial_Reasoning_171
+val_Spatial_Reasoning_171_rephrased9,The distance between the dog and the surfboard is large.,val_Spatial_Reasoning_171
+val_Spatial_Reasoning_171_rephrased10,The dog is quite far from the surfboard.,val_Spatial_Reasoning_171
+val_Spatial_Reasoning_171_rephrased11,The surfboard is located far from the dog.,val_Spatial_Reasoning_171
+val_Spatial_Reasoning_171_rephrased12,The dog and the surfboard are not in close proximity.,val_Spatial_Reasoning_171
+val_Spatial_Reasoning_171_rephrased13,The dog is far removed from the surfboard.,val_Spatial_Reasoning_171
+val_Spatial_Reasoning_171_rephrased14,The surfboard is at a considerable distance from the dog.,val_Spatial_Reasoning_171
+val_Spatial_Reasoning_172_rephrased1,The laptop sits on top of the bench.,val_Spatial_Reasoning_172
+val_Spatial_Reasoning_172_rephrased2,The laptop is situated on top of the bench.,val_Spatial_Reasoning_172
+val_Spatial_Reasoning_172_rephrased3,The laptop is placed on top of the bench.,val_Spatial_Reasoning_172
+val_Spatial_Reasoning_172_rephrased4,The laptop rests on top of the bench.,val_Spatial_Reasoning_172
+val_Spatial_Reasoning_172_rephrased5,The laptop is located on top of the bench.,val_Spatial_Reasoning_172
+val_Spatial_Reasoning_172_rephrased6,The laptop is positioned on top of the bench.,val_Spatial_Reasoning_172
+val_Spatial_Reasoning_172_rephrased7,The laptop is perched on top of the bench.,val_Spatial_Reasoning_172
+val_Spatial_Reasoning_172_rephrased8,The laptop is positioned above the bench.,val_Spatial_Reasoning_172
+val_Spatial_Reasoning_172_rephrased9,The laptop is on the top of the bench.,val_Spatial_Reasoning_172
+val_Spatial_Reasoning_172_rephrased10,The laptop is situated above the bench.,val_Spatial_Reasoning_172
+val_Spatial_Reasoning_172_rephrased11,The laptop is placed above the bench.,val_Spatial_Reasoning_172
+val_Spatial_Reasoning_172_rephrased12,The laptop is on the upper surface of the bench.,val_Spatial_Reasoning_172
+val_Spatial_Reasoning_172_rephrased13,The laptop is positioned on the top surface of the bench.,val_Spatial_Reasoning_172
+val_Spatial_Reasoning_172_rephrased14,The laptop is sitting on top of the bench.,val_Spatial_Reasoning_172
+val_Spatial_Reasoning_173_rephrased1,The dog is to the left of the refrigerator.,val_Spatial_Reasoning_173
+val_Spatial_Reasoning_173_rephrased2,The refrigerator is situated to the right of the dog.,val_Spatial_Reasoning_173
+val_Spatial_Reasoning_173_rephrased3,The dog is located to the left of the refrigerator.,val_Spatial_Reasoning_173
+val_Spatial_Reasoning_173_rephrased4,The refrigerator is on the right side of the dog.,val_Spatial_Reasoning_173
+val_Spatial_Reasoning_173_rephrased5,The dog is positioned to the left of the refrigerator.,val_Spatial_Reasoning_173
+val_Spatial_Reasoning_173_rephrased6,The refrigerator is positioned to the right of the dog.,val_Spatial_Reasoning_173
+val_Spatial_Reasoning_173_rephrased7,The dog is on the left side of the refrigerator.,val_Spatial_Reasoning_173
+val_Spatial_Reasoning_173_rephrased8,The refrigerator is located to the right of the dog.,val_Spatial_Reasoning_173
+val_Spatial_Reasoning_173_rephrased9,The dog is to the left of the refrigerator in position.,val_Spatial_Reasoning_173
+val_Spatial_Reasoning_173_rephrased10,The refrigerator is to the right of the dog in space.,val_Spatial_Reasoning_173
+val_Spatial_Reasoning_173_rephrased11,The refrigerator is to the right of the dog's location.,val_Spatial_Reasoning_173
+val_Spatial_Reasoning_173_rephrased12,The refrigerator is situated to the right of the dog's position.,val_Spatial_Reasoning_173
+val_Spatial_Reasoning_173_rephrased13,The dog is positioned to the left of the refrigerator in space.,val_Spatial_Reasoning_173
+val_Spatial_Reasoning_173_rephrased14,The refrigerator is on the right of the dog's location.,val_Spatial_Reasoning_173
+val_Spatial_Reasoning_174_rephrased1,The dog is on top of the motorcycle.,val_Spatial_Reasoning_174
+val_Spatial_Reasoning_174_rephrased2,The motorcycle is positioned beneath the dog.,val_Spatial_Reasoning_174
+val_Spatial_Reasoning_174_rephrased3,The dog is situated above the motorcycle.,val_Spatial_Reasoning_174
+val_Spatial_Reasoning_174_rephrased4,The motorcycle is located underneath the dog.,val_Spatial_Reasoning_174
+val_Spatial_Reasoning_174_rephrased5,The dog is directly above the motorcycle.,val_Spatial_Reasoning_174
+val_Spatial_Reasoning_174_rephrased6,The motorcycle is at the bottom with the dog on top.,val_Spatial_Reasoning_174
+val_Spatial_Reasoning_174_rephrased7,The dog is directly on top of the motorcycle.,val_Spatial_Reasoning_174
+val_Spatial_Reasoning_174_rephrased8,The motorcycle is placed beneath the dog.,val_Spatial_Reasoning_174
+val_Spatial_Reasoning_174_rephrased9,The dog is positioned above the motorcycle in the air.,val_Spatial_Reasoning_174
+val_Spatial_Reasoning_174_rephrased10,The motorcycle is situated beneath the dog's feet.,val_Spatial_Reasoning_174
+val_Spatial_Reasoning_174_rephrased11,"The dog is on top, and the motorcycle is below.",val_Spatial_Reasoning_174
+val_Spatial_Reasoning_174_rephrased12,The motorcycle is positioned at the bottom with the dog above.,val_Spatial_Reasoning_174
+val_Spatial_Reasoning_174_rephrased13,"The motorcycle is located at the bottom, with the dog on top.",val_Spatial_Reasoning_174
+val_Spatial_Reasoning_174_rephrased14,"The dog is on top, and the motorcycle is underneath.",val_Spatial_Reasoning_174
+val_Spatial_Reasoning_175_rephrased1,The chair is facing the laptop.,val_Spatial_Reasoning_175
+val_Spatial_Reasoning_175_rephrased2,The laptop is positioned in front of the chair.,val_Spatial_Reasoning_175
+val_Spatial_Reasoning_175_rephrased3,The laptop is situated opposite the chair.,val_Spatial_Reasoning_175
+val_Spatial_Reasoning_175_rephrased4,The laptop is turned towards the chair.,val_Spatial_Reasoning_175
+val_Spatial_Reasoning_175_rephrased5,The laptop is directed towards the chair.,val_Spatial_Reasoning_175
+val_Spatial_Reasoning_175_rephrased6,The laptop is oriented towards the chair.,val_Spatial_Reasoning_175
+val_Spatial_Reasoning_175_rephrased7,The chair is facing the laptop from a forward direction.,val_Spatial_Reasoning_175
+val_Spatial_Reasoning_175_rephrased8,The laptop is placed in front of the chair's location.,val_Spatial_Reasoning_175
+val_Spatial_Reasoning_175_rephrased9,The laptop is positioned in the direction of the chair.,val_Spatial_Reasoning_175
+val_Spatial_Reasoning_175_rephrased10,The laptop is facing the chair from the front side.,val_Spatial_Reasoning_175
+val_Spatial_Reasoning_175_rephrased11,The chair is in front of the laptop's location.,val_Spatial_Reasoning_175
+val_Spatial_Reasoning_175_rephrased12,The laptop is directed at the chair.,val_Spatial_Reasoning_175
+val_Spatial_Reasoning_175_rephrased13,The laptop is situated in front of the chair's position.,val_Spatial_Reasoning_175
+val_Spatial_Reasoning_175_rephrased14,The laptop is oriented in the direction of the chair.,val_Spatial_Reasoning_175
+val_Spatial_Reasoning_176_rephrased1,The dog is in front of the refrigerator.,val_Spatial_Reasoning_176
+val_Spatial_Reasoning_176_rephrased2,The refrigerator is positioned behind the dog.,val_Spatial_Reasoning_176
+val_Spatial_Reasoning_176_rephrased3,"Behind the dog, you'll find the refrigerator.",val_Spatial_Reasoning_176
+val_Spatial_Reasoning_176_rephrased4,The refrigerator is situated after the dog.,val_Spatial_Reasoning_176
+val_Spatial_Reasoning_176_rephrased5,The dog is ahead of the refrigerator.,val_Spatial_Reasoning_176
+val_Spatial_Reasoning_176_rephrased6,The refrigerator is located in the area behind the dog.,val_Spatial_Reasoning_176
+val_Spatial_Reasoning_176_rephrased7,The refrigerator can be found right after the dog.,val_Spatial_Reasoning_176
+val_Spatial_Reasoning_176_rephrased8,What is in front of the refrigerator?,val_Spatial_Reasoning_176
+val_Spatial_Reasoning_176_rephrased9,The refrigerator is placed in a spot behind the dog.,val_Spatial_Reasoning_176
+val_Spatial_Reasoning_176_rephrased10,The dog is situated ahead of the refrigerator.,val_Spatial_Reasoning_176
+val_Spatial_Reasoning_176_rephrased11,You will find the refrigerator behind the dog.,val_Spatial_Reasoning_176
+val_Spatial_Reasoning_176_rephrased12,The refrigerator is in a position that comes after the dog.,val_Spatial_Reasoning_176
+val_Spatial_Reasoning_176_rephrased13,"The dog is in front of the refrigerator, which is in a back position.",val_Spatial_Reasoning_176
+val_Spatial_Reasoning_176_rephrased14,The refrigerator is positioned in the rear of the area where the dog is.,val_Spatial_Reasoning_176
+val_Spatial_Reasoning_177_rephrased1,The dog is located inside the refrigerator.,val_Spatial_Reasoning_177
+val_Spatial_Reasoning_177_rephrased2,The refrigerator holds the dog.,val_Spatial_Reasoning_177
+val_Spatial_Reasoning_177_rephrased3,The dog is being stored in the refrigerator.,val_Spatial_Reasoning_177
+val_Spatial_Reasoning_177_rephrased4,The refrigerator has the dog inside it.,val_Spatial_Reasoning_177
+val_Spatial_Reasoning_177_rephrased5,The dog is currently in the refrigerator.,val_Spatial_Reasoning_177
+val_Spatial_Reasoning_177_rephrased6,The refrigerator contains the dog within.,val_Spatial_Reasoning_177
+val_Spatial_Reasoning_177_rephrased7,The dog is kept in the refrigerator.,val_Spatial_Reasoning_177
+val_Spatial_Reasoning_177_rephrased8,The refrigerator has the dog stored in it.,val_Spatial_Reasoning_177
+val_Spatial_Reasoning_177_rephrased9,The refrigerator is holding the dog.,val_Spatial_Reasoning_177
+val_Spatial_Reasoning_177_rephrased10,The dog is situated in the refrigerator.,val_Spatial_Reasoning_177
+val_Spatial_Reasoning_177_rephrased11,The refrigerator houses the dog.,val_Spatial_Reasoning_177
+val_Spatial_Reasoning_177_rephrased12,The dog is being kept in the refrigerator.,val_Spatial_Reasoning_177
+val_Spatial_Reasoning_177_rephrased13,The refrigerator is storing the dog.,val_Spatial_Reasoning_177
+val_Spatial_Reasoning_177_rephrased14,The dog is found in the refrigerator.,val_Spatial_Reasoning_177
+val_Spatial_Reasoning_178_rephrased1,The laptop has the chair located at its right side.,val_Spatial_Reasoning_178
+val_Spatial_Reasoning_178_rephrased2,The chair is situated to the right of the laptop.,val_Spatial_Reasoning_178
+val_Spatial_Reasoning_178_rephrased3,The laptop is positioned with the chair on its right-hand side.,val_Spatial_Reasoning_178
+val_Spatial_Reasoning_178_rephrased4,The chair is positioned to the right of the laptop.,val_Spatial_Reasoning_178
+val_Spatial_Reasoning_178_rephrased5,The laptop has the chair situated at its right side.,val_Spatial_Reasoning_178
+val_Spatial_Reasoning_178_rephrased6,The chair is located to the right of the laptop.,val_Spatial_Reasoning_178
+val_Spatial_Reasoning_178_rephrased7,"The laptop and chair are positioned side by side, with the chair on the right.",val_Spatial_Reasoning_178
+val_Spatial_Reasoning_178_rephrased8,The chair is at the right-hand side of the laptop.,val_Spatial_Reasoning_178
+val_Spatial_Reasoning_178_rephrased9,The laptop is set up with the chair on its right side.,val_Spatial_Reasoning_178
+val_Spatial_Reasoning_178_rephrased10,The chair is positioned adjacent to the laptop on the right.,val_Spatial_Reasoning_178
+val_Spatial_Reasoning_178_rephrased11,The laptop and the chair are arranged with the chair to the right.,val_Spatial_Reasoning_178
+val_Spatial_Reasoning_178_rephrased12,The chair is situated on the right of the laptop.,val_Spatial_Reasoning_178
+val_Spatial_Reasoning_178_rephrased13,The laptop has the chair placed at its right side.,val_Spatial_Reasoning_178
+val_Spatial_Reasoning_178_rephrased14,The chair is to the right of the laptop.,val_Spatial_Reasoning_178
+val_Spatial_Reasoning_179_rephrased1,The laptop is above the bench.,val_Spatial_Reasoning_179
+val_Spatial_Reasoning_179_rephrased2,The bench is situated below the laptop.,val_Spatial_Reasoning_179
+val_Spatial_Reasoning_179_rephrased3,The laptop is positioned above the bench.,val_Spatial_Reasoning_179
+val_Spatial_Reasoning_179_rephrased4,The bench is located beneath the laptop.,val_Spatial_Reasoning_179
+val_Spatial_Reasoning_179_rephrased5,The laptop is situated above the bench in the vertical plane.,val_Spatial_Reasoning_179
+val_Spatial_Reasoning_179_rephrased6,The bench is positioned at a lower level than the laptop.,val_Spatial_Reasoning_179
+val_Spatial_Reasoning_179_rephrased7,The laptop is above the bench in height.,val_Spatial_Reasoning_179
+val_Spatial_Reasoning_179_rephrased8,The bench is at a lower elevation than the laptop.,val_Spatial_Reasoning_179
+val_Spatial_Reasoning_179_rephrased9,The laptop is placed above the bench vertically.,val_Spatial_Reasoning_179
+val_Spatial_Reasoning_179_rephrased10,The bench is situated at a lower vertical level than the laptop.,val_Spatial_Reasoning_179
+val_Spatial_Reasoning_179_rephrased11,The laptop is higher than the bench.,val_Spatial_Reasoning_179
+val_Spatial_Reasoning_179_rephrased12,The bench is at a lower vertical position than the laptop.,val_Spatial_Reasoning_179
+val_Spatial_Reasoning_179_rephrased13,The laptop is positioned at a higher level than the bench.,val_Spatial_Reasoning_179
+val_Spatial_Reasoning_179_rephrased14,The bench is below the laptop in terms of elevation.,val_Spatial_Reasoning_179
+val_Spatial_Reasoning_180_rephrased1,The refrigerator has a bench located to its right side.,val_Spatial_Reasoning_180
+val_Spatial_Reasoning_180_rephrased2,The bench is situated to the right of the refrigerator.,val_Spatial_Reasoning_180
+val_Spatial_Reasoning_180_rephrased3,The bench is positioned to the right of the refrigerator.,val_Spatial_Reasoning_180
+val_Spatial_Reasoning_180_rephrased4,The bench is on the right-hand side of the refrigerator.,val_Spatial_Reasoning_180
+val_Spatial_Reasoning_180_rephrased5,The refrigerator has a bench placed on its right side.,val_Spatial_Reasoning_180
+val_Spatial_Reasoning_180_rephrased6,The bench is found on the right side of the refrigerator.,val_Spatial_Reasoning_180
+val_Spatial_Reasoning_180_rephrased7,The bench is to the immediate right of the refrigerator.,val_Spatial_Reasoning_180
+val_Spatial_Reasoning_180_rephrased8,The bench is situated adjacent to the right side of the refrigerator.,val_Spatial_Reasoning_180
+val_Spatial_Reasoning_180_rephrased9,The bench is positioned at the right of the refrigerator.,val_Spatial_Reasoning_180
+val_Spatial_Reasoning_180_rephrased10,The bench is located on the right of the refrigerator.,val_Spatial_Reasoning_180
+val_Spatial_Reasoning_180_rephrased11,The right side of the refrigerator has a bench.,val_Spatial_Reasoning_180
+val_Spatial_Reasoning_180_rephrased12,A bench is located at the right side of the refrigerator.,val_Spatial_Reasoning_180
+val_Spatial_Reasoning_180_rephrased13,The refrigerator's right side has a bench on it.,val_Spatial_Reasoning_180
+val_Spatial_Reasoning_180_rephrased14,A bench is situated on the right side of the refrigerator.,val_Spatial_Reasoning_180
+val_Spatial_Reasoning_181_rephrased1,The dog and the motorcycle are positioned with the motorcycle on the left side.,val_Spatial_Reasoning_181
+val_Spatial_Reasoning_181_rephrased2,The motorcycle is situated to the left of the dog.,val_Spatial_Reasoning_181
+val_Spatial_Reasoning_181_rephrased3,The motorcycle is located to the left of the dog.,val_Spatial_Reasoning_181
+val_Spatial_Reasoning_181_rephrased4,The dog and the motorcycle are aligned with the motorcycle at the left.,val_Spatial_Reasoning_181
+val_Spatial_Reasoning_181_rephrased5,The motorcycle is positioned at the left side of the dog's location.,val_Spatial_Reasoning_181
+val_Spatial_Reasoning_181_rephrased6,"The motorcycle is on the left side of the dog, relative to their positions.",val_Spatial_Reasoning_181
+val_Spatial_Reasoning_181_rephrased7,The motorcycle is situated at the left of the dog.,val_Spatial_Reasoning_181
+val_Spatial_Reasoning_181_rephrased8,The motorcycle is located on the left side of the dog.,val_Spatial_Reasoning_181
+val_Spatial_Reasoning_181_rephrased9,The dog is positioned to the right of the motorcycle.,val_Spatial_Reasoning_181
+val_Spatial_Reasoning_181_rephrased10,The motorcycle is situated on the left side of the dog's position.,val_Spatial_Reasoning_181
+val_Spatial_Reasoning_181_rephrased11,The motorcycle is on the left side in relation to the dog's position.,val_Spatial_Reasoning_181
+val_Spatial_Reasoning_181_rephrased12,The motorcycle is at the left side of the dog's placement.,val_Spatial_Reasoning_181
+val_Spatial_Reasoning_181_rephrased13,The motorcycle is positioned at the left side of the dog's location point.,val_Spatial_Reasoning_181
+val_Spatial_Reasoning_182_rephrased1,The motorcycle has the dog on it.,val_Spatial_Reasoning_182
+val_Spatial_Reasoning_182_rephrased2,The dog is sitting on the motorcycle.,val_Spatial_Reasoning_182
+val_Spatial_Reasoning_182_rephrased3,A dog is perched on the motorcycle.,val_Spatial_Reasoning_182
+val_Spatial_Reasoning_182_rephrased4,The motorcycle is currently occupied by a dog.,val_Spatial_Reasoning_182
+val_Spatial_Reasoning_182_rephrased5,There is a dog riding on the motorcycle.,val_Spatial_Reasoning_182
+val_Spatial_Reasoning_182_rephrased6,The motorcycle has a dog as a passenger.,val_Spatial_Reasoning_182
+val_Spatial_Reasoning_182_rephrased7,A dog is currently on the motorcycle.,val_Spatial_Reasoning_182
+val_Spatial_Reasoning_182_rephrased8,The dog has taken a ride on the motorcycle.,val_Spatial_Reasoning_182
+val_Spatial_Reasoning_182_rephrased9,The motorcycle has a canine on it.,val_Spatial_Reasoning_182
+val_Spatial_Reasoning_182_rephrased10,The dog is on a motorcycle.,val_Spatial_Reasoning_182
+val_Spatial_Reasoning_182_rephrased11,The motorcycle has the canine on board.,val_Spatial_Reasoning_182
+val_Spatial_Reasoning_182_rephrased12,The dog is perched on top of the motorcycle.,val_Spatial_Reasoning_182
+val_Spatial_Reasoning_182_rephrased13,The motorcycle is being ridden by a dog.,val_Spatial_Reasoning_182
+val_Spatial_Reasoning_182_rephrased14,The motorcycle has a dog as its rider.,val_Spatial_Reasoning_182
+val_Spatial_Reasoning_183_rephrased1,The horse and the zebra are at a right angle to each other.,val_Spatial_Reasoning_183
+val_Spatial_Reasoning_183_rephrased2,The zebra stands perpendicular to the horse.,val_Spatial_Reasoning_183
+val_Spatial_Reasoning_183_rephrased3,The horse and the zebra are perpendicular.,val_Spatial_Reasoning_183
+val_Spatial_Reasoning_183_rephrased4,The zebra is positioned at a 90-degree angle to the horse.,val_Spatial_Reasoning_183
+val_Spatial_Reasoning_183_rephrased5,The horse is perpendicular to the zebra.,val_Spatial_Reasoning_183
+val_Spatial_Reasoning_183_rephrased6,The zebra and the horse form a right angle.,val_Spatial_Reasoning_183
+val_Spatial_Reasoning_183_rephrased7,The horse stands at a right angle to the zebra.,val_Spatial_Reasoning_183
+val_Spatial_Reasoning_183_rephrased8,The zebra is at a 90-degree angle to the horse.,val_Spatial_Reasoning_183
+val_Spatial_Reasoning_183_rephrased9,The horse is at a right angle to the zebra.,val_Spatial_Reasoning_183
+val_Spatial_Reasoning_183_rephrased10,The zebra and the horse are oriented perpendicularly.,val_Spatial_Reasoning_183
+val_Spatial_Reasoning_183_rephrased11,The horse and the zebra are positioned perpendicularly.,val_Spatial_Reasoning_183
+val_Spatial_Reasoning_183_rephrased12,The zebra is oriented at a right angle to the horse.,val_Spatial_Reasoning_183
+val_Spatial_Reasoning_183_rephrased13,The horse and the zebra are perpendicular to each other.,val_Spatial_Reasoning_183
+val_Spatial_Reasoning_184_rephrased1,The chair is facing the laptop.,val_Spatial_Reasoning_184
+val_Spatial_Reasoning_184_rephrased2,The laptop and the chair are positioned in the same direction.,val_Spatial_Reasoning_184
+val_Spatial_Reasoning_184_rephrased3,The laptop is situated opposite to the chair.,val_Spatial_Reasoning_184
+val_Spatial_Reasoning_184_rephrased4,The laptop is oriented towards the chair.,val_Spatial_Reasoning_184
+val_Spatial_Reasoning_184_rephrased5,The chair and the laptop are aligned in the same axis.,val_Spatial_Reasoning_184
+val_Spatial_Reasoning_184_rephrased6,The laptop is directed towards the chair.,val_Spatial_Reasoning_184
+val_Spatial_Reasoning_184_rephrased7,The chair is situated in front of the laptop.,val_Spatial_Reasoning_184
+val_Spatial_Reasoning_184_rephrased8,The laptop is facing in the same direction as the chair.,val_Spatial_Reasoning_184
+val_Spatial_Reasoning_184_rephrased9,The chair and the laptop are pointing in the same direction.,val_Spatial_Reasoning_184
+val_Spatial_Reasoning_184_rephrased10,The laptop is oriented with its front side towards the chair.,val_Spatial_Reasoning_184
+val_Spatial_Reasoning_184_rephrased11,The laptop is positioned in the same direction as the chair.,val_Spatial_Reasoning_184
+val_Spatial_Reasoning_184_rephrased12,The chair is directly in front of the laptop.,val_Spatial_Reasoning_184
+val_Spatial_Reasoning_184_rephrased13,The laptop and the chair share the same line of sight.,val_Spatial_Reasoning_184
+val_Spatial_Reasoning_184_rephrased14,The laptop is aimed at the chair.,val_Spatial_Reasoning_184
+val_Spatial_Reasoning_185_rephrased1,The chair has the dog underneath it.,val_Spatial_Reasoning_185
+val_Spatial_Reasoning_185_rephrased2,The dog is positioned beneath the chair.,val_Spatial_Reasoning_185
+val_Spatial_Reasoning_185_rephrased3,There is a dog located under the chair.,val_Spatial_Reasoning_185
+val_Spatial_Reasoning_185_rephrased4,The dog is situated below the chair.,val_Spatial_Reasoning_185
+val_Spatial_Reasoning_185_rephrased5,The chair is covering the dog.,val_Spatial_Reasoning_185
+val_Spatial_Reasoning_185_rephrased6,A dog is found under the chair.,val_Spatial_Reasoning_185
+val_Spatial_Reasoning_185_rephrased7,The dog is hiding under the chair.,val_Spatial_Reasoning_185
+val_Spatial_Reasoning_185_rephrased8,The chair is above the dog.,val_Spatial_Reasoning_185
+val_Spatial_Reasoning_185_rephrased9,The dog is concealed under the chair.,val_Spatial_Reasoning_185
+val_Spatial_Reasoning_185_rephrased10,"Under the chair, there is a dog.",val_Spatial_Reasoning_185
+val_Spatial_Reasoning_185_rephrased11,The dog is lying under the chair.,val_Spatial_Reasoning_185
+val_Spatial_Reasoning_185_rephrased12,A dog is currently under the chair.,val_Spatial_Reasoning_185
+val_Spatial_Reasoning_185_rephrased13,The dog is placed under the chair.,val_Spatial_Reasoning_185
+val_Spatial_Reasoning_185_rephrased14,The chair is holding the dog below.,val_Spatial_Reasoning_185
+val_Spatial_Reasoning_186_rephrased1,A dog is currently sitting on a motorcycle.,val_Spatial_Reasoning_186
+val_Spatial_Reasoning_186_rephrased2,The motorcycle is occupied by a dog.,val_Spatial_Reasoning_186
+val_Spatial_Reasoning_186_rephrased3,A canine is perched on the motorcycle.,val_Spatial_Reasoning_186
+val_Spatial_Reasoning_186_rephrased4,The dog has taken a ride on the motorcycle.,val_Spatial_Reasoning_186
+val_Spatial_Reasoning_186_rephrased5,A dog is found on the motorcycle.,val_Spatial_Reasoning_186
+val_Spatial_Reasoning_186_rephrased6,There is a dog on top of the motorcycle.,val_Spatial_Reasoning_186
+val_Spatial_Reasoning_186_rephrased7,A dog is located on the motorcycle.,val_Spatial_Reasoning_186
+val_Spatial_Reasoning_186_rephrased8,The motorcycle has a dog on it.,val_Spatial_Reasoning_186
+val_Spatial_Reasoning_186_rephrased9,A dog is sitting on the motorcycle at the moment.,val_Spatial_Reasoning_186
+val_Spatial_Reasoning_186_rephrased10,The motorcycle is being ridden by a dog.,val_Spatial_Reasoning_186
+val_Spatial_Reasoning_186_rephrased11,A dog is currently on the motorcycle.,val_Spatial_Reasoning_186
+val_Spatial_Reasoning_186_rephrased12,A dog has positioned itself on the motorcycle.,val_Spatial_Reasoning_186
+val_Spatial_Reasoning_186_rephrased13,The motorcycle is currently occupied by a dog.,val_Spatial_Reasoning_186
+val_Spatial_Reasoning_186_rephrased14,A dog is situated on the motorcycle.,val_Spatial_Reasoning_186
+val_Spatial_Reasoning_187_rephrased1,The dog and the laptop are positioned in a way that the laptop is to the left of the dog.,val_Spatial_Reasoning_187
+val_Spatial_Reasoning_187_rephrased2,The laptop is situated to the left of the dog.,val_Spatial_Reasoning_187
+val_Spatial_Reasoning_187_rephrased3,The laptop and the dog are arranged so the laptop is to the left.,val_Spatial_Reasoning_187
+val_Spatial_Reasoning_187_rephrased4,The laptop is positioned on the left side when compared to the dog.,val_Spatial_Reasoning_187
+val_Spatial_Reasoning_187_rephrased5,The dog and the laptop are positioned in an arrangement where the laptop is to the left.,val_Spatial_Reasoning_187
+val_Spatial_Reasoning_187_rephrased6,The laptop is located to the left when considering the dog.,val_Spatial_Reasoning_187
+val_Spatial_Reasoning_187_rephrased7,The laptop and the dog are placed in a manner where the laptop is to the left.,val_Spatial_Reasoning_187
+val_Spatial_Reasoning_187_rephrased8,The laptop is on the left side relative to the dog.,val_Spatial_Reasoning_187
+val_Spatial_Reasoning_187_rephrased9,The dog is on the right side of the laptop.,val_Spatial_Reasoning_187
+val_Spatial_Reasoning_187_rephrased10,The laptop is to the left of the dog when viewed from a certain perspective.,val_Spatial_Reasoning_187
+val_Spatial_Reasoning_187_rephrased11,The dog and the laptop are arranged with the laptop on the left.,val_Spatial_Reasoning_187
+val_Spatial_Reasoning_187_rephrased12,The laptop is positioned on the left-hand side in relation to the dog.,val_Spatial_Reasoning_187
+val_Spatial_Reasoning_187_rephrased13,The laptop is situated on the left side relative to the dog's position.,val_Spatial_Reasoning_187
+val_Spatial_Reasoning_187_rephrased14,The laptop is positioned at the left side in comparison to the dog.,val_Spatial_Reasoning_187
+val_Spatial_Reasoning_188_rephrased1,The motorcycle is in front of the train.,val_Spatial_Reasoning_188
+val_Spatial_Reasoning_188_rephrased2,The train is positioned behind the motorcycle.,val_Spatial_Reasoning_188
+val_Spatial_Reasoning_188_rephrased3,The motorcycle is ahead of the train.,val_Spatial_Reasoning_188
+val_Spatial_Reasoning_188_rephrased4,The train is located behind the motorcycle.,val_Spatial_Reasoning_188
+val_Spatial_Reasoning_188_rephrased5,The motorcycle is in back of the train.,val_Spatial_Reasoning_188
+val_Spatial_Reasoning_188_rephrased6,The train is situated behind the motorcycle.,val_Spatial_Reasoning_188
+val_Spatial_Reasoning_188_rephrased7,The motorcycle is in front of the train in a spatial sense.,val_Spatial_Reasoning_188
+val_Spatial_Reasoning_188_rephrased8,The train is positioned to the rear of the motorcycle.,val_Spatial_Reasoning_188
+val_Spatial_Reasoning_188_rephrased9,The motorcycle is ahead of the train in terms of position.,val_Spatial_Reasoning_188
+val_Spatial_Reasoning_188_rephrased10,The train is located to the back of the motorcycle.,val_Spatial_Reasoning_188
+val_Spatial_Reasoning_188_rephrased11,The motorcycle is in the lead of the train.,val_Spatial_Reasoning_188
+val_Spatial_Reasoning_188_rephrased12,The train is at the rear of the motorcycle.,val_Spatial_Reasoning_188
+val_Spatial_Reasoning_188_rephrased13,The motorcycle is in a forward position relative to the train.,val_Spatial_Reasoning_188
+val_Spatial_Reasoning_188_rephrased14,The train is positioned in a rearward position relative to the motorcycle.,val_Spatial_Reasoning_188
+val_Spatial_Reasoning_189_rephrased1,The horse has the chair on top of it.,val_Spatial_Reasoning_189
+val_Spatial_Reasoning_189_rephrased2,The chair is situated above the horse.,val_Spatial_Reasoning_189
+val_Spatial_Reasoning_189_rephrased3,The horse has the chair placed on top.,val_Spatial_Reasoning_189
+val_Spatial_Reasoning_189_rephrased4,The chair is positioned above the horse.,val_Spatial_Reasoning_189
+val_Spatial_Reasoning_189_rephrased5,The horse is supporting the chair above.,val_Spatial_Reasoning_189
+val_Spatial_Reasoning_189_rephrased6,The chair is positioned on top of the horse's back.,val_Spatial_Reasoning_189
+val_Spatial_Reasoning_189_rephrased7,The horse has the chair situated above it.,val_Spatial_Reasoning_189
+val_Spatial_Reasoning_189_rephrased8,The chair is located on top of the horse's body.,val_Spatial_Reasoning_189
+val_Spatial_Reasoning_189_rephrased9,The horse is carrying the chair on top.,val_Spatial_Reasoning_189
+val_Spatial_Reasoning_189_rephrased10,The chair is on the horse's upper surface.,val_Spatial_Reasoning_189
+val_Spatial_Reasoning_189_rephrased11,The horse has the chair on its upper side.,val_Spatial_Reasoning_189
+val_Spatial_Reasoning_189_rephrased12,The chair is situated on the horse's top.,val_Spatial_Reasoning_189
+val_Spatial_Reasoning_189_rephrased13,The horse is holding the chair above.,val_Spatial_Reasoning_189
+val_Spatial_Reasoning_189_rephrased14,The chair is placed on the horse's top surface.,val_Spatial_Reasoning_189
+val_Spatial_Reasoning_190_rephrased1,The train is in front of the bench.,val_Spatial_Reasoning_190
+val_Spatial_Reasoning_190_rephrased2,The bench is situated in front of the train.,val_Spatial_Reasoning_190
+val_Spatial_Reasoning_190_rephrased3,"In front of the train, you can find the bench.",val_Spatial_Reasoning_190
+val_Spatial_Reasoning_190_rephrased4,The bench is located ahead of the train.,val_Spatial_Reasoning_190
+val_Spatial_Reasoning_190_rephrased5,The train has the bench in front of it.,val_Spatial_Reasoning_190
+val_Spatial_Reasoning_190_rephrased6,The bench is placed in the direction of the train.,val_Spatial_Reasoning_190
+val_Spatial_Reasoning_190_rephrased7,"In front of the train, there is the bench.",val_Spatial_Reasoning_190
+val_Spatial_Reasoning_190_rephrased8,The bench is positioned in front of the train.,val_Spatial_Reasoning_190
+val_Spatial_Reasoning_190_rephrased9,"Ahead of the train, you will find the bench.",val_Spatial_Reasoning_190
+val_Spatial_Reasoning_190_rephrased10,The bench is located before the train.,val_Spatial_Reasoning_190
+val_Spatial_Reasoning_190_rephrased11,The train is positioned behind the bench.,val_Spatial_Reasoning_190
+val_Spatial_Reasoning_190_rephrased12,The bench is positioned in the lead of the train.,val_Spatial_Reasoning_190
+val_Spatial_Reasoning_190_rephrased13,The train has the bench situated in front of it.,val_Spatial_Reasoning_190
+val_Spatial_Reasoning_190_rephrased14,The bench is situated ahead of the train's position.,val_Spatial_Reasoning_190
+val_Spatial_Reasoning_191_rephrased1,The motorcycle has the dog sitting on top of it.,val_Spatial_Reasoning_191
+val_Spatial_Reasoning_191_rephrased2,The dog is positioned on top of the motorcycle.,val_Spatial_Reasoning_191
+val_Spatial_Reasoning_191_rephrased3,A dog is sitting at the top of the motorcycle.,val_Spatial_Reasoning_191
+val_Spatial_Reasoning_191_rephrased4,The motorcycle is being ridden by a dog on top.,val_Spatial_Reasoning_191
+val_Spatial_Reasoning_191_rephrased5,A dog is perched on top of the motorcycle.,val_Spatial_Reasoning_191
+val_Spatial_Reasoning_191_rephrased6,The dog is situated at the top of the motorcycle.,val_Spatial_Reasoning_191
+val_Spatial_Reasoning_191_rephrased7,The top of the motorcycle is occupied by a dog.,val_Spatial_Reasoning_191
+val_Spatial_Reasoning_191_rephrased8,"On top of the motorcycle, a dog is located.",val_Spatial_Reasoning_191
+val_Spatial_Reasoning_191_rephrased9,The motorcycle has a dog on its top surface.,val_Spatial_Reasoning_191
+val_Spatial_Reasoning_191_rephrased10,A dog is located on top of the motorcycle's surface.,val_Spatial_Reasoning_191
+val_Spatial_Reasoning_191_rephrased11,The motorcycle has a dog sitting at its top.,val_Spatial_Reasoning_191
+val_Spatial_Reasoning_191_rephrased12,The dog is currently on the top of the motorcycle.,val_Spatial_Reasoning_191
+val_Spatial_Reasoning_191_rephrased13,A dog is positioned on top of the motorcycle's surface.,val_Spatial_Reasoning_191
+val_Spatial_Reasoning_191_rephrased14,The motorcycle's top area is occupied by a dog.,val_Spatial_Reasoning_191
+val_Spatial_Reasoning_192_rephrased1,The horse is above the chair.,val_Spatial_Reasoning_192
+val_Spatial_Reasoning_192_rephrased2,The chair is located directly beneath the horse.,val_Spatial_Reasoning_192
+val_Spatial_Reasoning_192_rephrased3,Beneath the horse is the chair.,val_Spatial_Reasoning_192
+val_Spatial_Reasoning_192_rephrased4,The horse is situated above the chair.,val_Spatial_Reasoning_192
+val_Spatial_Reasoning_192_rephrased5,The chair lies directly beneath the horse.,val_Spatial_Reasoning_192
+val_Spatial_Reasoning_192_rephrased6,The chair is positioned below the horse.,val_Spatial_Reasoning_192
+val_Spatial_Reasoning_192_rephrased7,The horse is positioned above the chair.,val_Spatial_Reasoning_192
+val_Spatial_Reasoning_192_rephrased8,The chair is situated beneath the horse.,val_Spatial_Reasoning_192
+val_Spatial_Reasoning_192_rephrased9,The chair is positioned below the level of the horse.,val_Spatial_Reasoning_192
+val_Spatial_Reasoning_192_rephrased10,The horse is positioned above the level of the chair.,val_Spatial_Reasoning_192
+val_Spatial_Reasoning_192_rephrased11,The chair is directly beneath the horse.,val_Spatial_Reasoning_192
+val_Spatial_Reasoning_192_rephrased12,The horse is located above the chair's position.,val_Spatial_Reasoning_192
+val_Spatial_Reasoning_192_rephrased13,The chair is positioned at a lower level than the horse.,val_Spatial_Reasoning_192
+val_Spatial_Reasoning_192_rephrased14,The horse is situated above the chair in terms of elevation.,val_Spatial_Reasoning_192
+val_Spatial_Reasoning_193_rephrased1,The dog is positioned with the skateboard on its left side.,val_Spatial_Reasoning_193
+val_Spatial_Reasoning_193_rephrased2,The skateboard is situated to the left of the dog.,val_Spatial_Reasoning_193
+val_Spatial_Reasoning_193_rephrased3,"On the left side of the dog, you will find the skateboard.",val_Spatial_Reasoning_193
+val_Spatial_Reasoning_193_rephrased4,The skateboard is located on the left side of the dog.,val_Spatial_Reasoning_193
+val_Spatial_Reasoning_193_rephrased5,The dog has the skateboard positioned on its left side.,val_Spatial_Reasoning_193
+val_Spatial_Reasoning_193_rephrased6,"To the left of the dog, the skateboard is placed.",val_Spatial_Reasoning_193
+val_Spatial_Reasoning_193_rephrased7,"The skateboard is at the left side of the dog, relative to its position in relation to the dog.",val_Spatial_Reasoning_193
+val_Spatial_Reasoning_193_rephrased8,The skateboard is located at the left side of the dog.,val_Spatial_Reasoning_193
+val_Spatial_Reasoning_193_rephrased9,The skateboard is positioned at the left side of the dog.,val_Spatial_Reasoning_193
+val_Spatial_Reasoning_193_rephrased10,"On the left side of the dog, the skateboard can be found.",val_Spatial_Reasoning_193
+val_Spatial_Reasoning_193_rephrased11,The skateboard is situated at the left side of the dog relative to the dog's position.,val_Spatial_Reasoning_193
+val_Spatial_Reasoning_193_rephrased12,"The skateboard is on the left side of the dog, with the dog situated in the middle.",val_Spatial_Reasoning_193
+val_Spatial_Reasoning_193_rephrased13,The skateboard is positioned on the left side of the dog.,val_Spatial_Reasoning_193
+val_Spatial_Reasoning_193_rephrased14,The skateboard is located at the left side in relation to the dog's position.,val_Spatial_Reasoning_193
+val_Spatial_Reasoning_194_rephrased1,The dog is to the right of the skateboard.,val_Spatial_Reasoning_194
+val_Spatial_Reasoning_194_rephrased2,The skateboard is situated on the left side of the dog.,val_Spatial_Reasoning_194
+val_Spatial_Reasoning_194_rephrased3,The dog has the skateboard positioned to its left.,val_Spatial_Reasoning_194
+val_Spatial_Reasoning_194_rephrased4,The skateboard is located on the left side of the dog.,val_Spatial_Reasoning_194
+val_Spatial_Reasoning_194_rephrased5,The skateboard is placed on the left side of the dog.,val_Spatial_Reasoning_194
+val_Spatial_Reasoning_194_rephrased6,On the left side of the dog is the skateboard.,val_Spatial_Reasoning_194
+val_Spatial_Reasoning_194_rephrased7,The skateboard is on the left side of the dog's position.,val_Spatial_Reasoning_194
+val_Spatial_Reasoning_194_rephrased8,To the left of the dog is the skateboard's location.,val_Spatial_Reasoning_194
+val_Spatial_Reasoning_194_rephrased9,The skateboard's placement is on the left side of the dog.,val_Spatial_Reasoning_194
+val_Spatial_Reasoning_194_rephrased10,The skateboard is positioned at the left side of the dog.,val_Spatial_Reasoning_194
+val_Spatial_Reasoning_194_rephrased11,The left side of the dog has the skateboard.,val_Spatial_Reasoning_194
+val_Spatial_Reasoning_194_rephrased12,The skateboard is situated at the left of the dog.,val_Spatial_Reasoning_194
+val_Spatial_Reasoning_194_rephrased13,The skateboard's location is on the left side of the dog.,val_Spatial_Reasoning_194
+val_Spatial_Reasoning_194_rephrased14,The skateboard is positioned on the left side of the dog's location.,val_Spatial_Reasoning_194
+val_Spatial_Reasoning_195_rephrased1,The bench is below the dog.,val_Spatial_Reasoning_195
+val_Spatial_Reasoning_195_rephrased2,The dog is situated above the bench.,val_Spatial_Reasoning_195
+val_Spatial_Reasoning_195_rephrased3,Above the bench is the dog.,val_Spatial_Reasoning_195
+val_Spatial_Reasoning_195_rephrased4,The dog is positioned above the bench.,val_Spatial_Reasoning_195
+val_Spatial_Reasoning_195_rephrased5,The bench is located below the dog's position.,val_Spatial_Reasoning_195
+val_Spatial_Reasoning_195_rephrased6,The dog is positioned on a level higher than the bench.,val_Spatial_Reasoning_195
+val_Spatial_Reasoning_195_rephrased7,The dog is placed above the bench.,val_Spatial_Reasoning_195
+val_Spatial_Reasoning_195_rephrased8,The level of the bench is below the dog.,val_Spatial_Reasoning_195
+val_Spatial_Reasoning_195_rephrased9,The dog is situated on a higher level than the bench.,val_Spatial_Reasoning_195
+val_Spatial_Reasoning_195_rephrased10,The dog is above the bench's location.,val_Spatial_Reasoning_195
+val_Spatial_Reasoning_195_rephrased11,The dog's position is above the bench.,val_Spatial_Reasoning_195
+val_Spatial_Reasoning_195_rephrased12,The level of the dog is higher than the bench.,val_Spatial_Reasoning_195
+val_Spatial_Reasoning_195_rephrased13,The dog is in a higher position than the bench.,val_Spatial_Reasoning_195
+val_Spatial_Reasoning_195_rephrased14,The bench is situated below the dog's location.,val_Spatial_Reasoning_195
+val_Spatial_Reasoning_196_rephrased1,The motorcycle contains the dog.,val_Spatial_Reasoning_196
+val_Spatial_Reasoning_196_rephrased2,The dog is sitting in the motorcycle.,val_Spatial_Reasoning_196
+val_Spatial_Reasoning_196_rephrased3,Is the dog inside the motorcycle?,val_Spatial_Reasoning_196
+val_Spatial_Reasoning_196_rephrased4,Does the motorcycle have the dog in it?,val_Spatial_Reasoning_196
+val_Spatial_Reasoning_196_rephrased5,The motorcycle has the dog.,val_Spatial_Reasoning_196
+val_Spatial_Reasoning_196_rephrased6,The dog is positioned inside the motorcycle.,val_Spatial_Reasoning_196
+val_Spatial_Reasoning_196_rephrased7,Is the motorcycle carrying the dog?,val_Spatial_Reasoning_196
+val_Spatial_Reasoning_196_rephrased8,The motorcycle houses the dog.,val_Spatial_Reasoning_196
+val_Spatial_Reasoning_196_rephrased9,The dog is located within the motorcycle.,val_Spatial_Reasoning_196
+val_Spatial_Reasoning_196_rephrased10,The motorcycle has the dog inside.,val_Spatial_Reasoning_196
+val_Spatial_Reasoning_196_rephrased11,The dog is present in the motorcycle.,val_Spatial_Reasoning_196
+val_Spatial_Reasoning_196_rephrased12,The motorcycle contains the dog inside.,val_Spatial_Reasoning_196
+val_Spatial_Reasoning_196_rephrased13,The dog is positioned within the motorcycle.,val_Spatial_Reasoning_196
+val_Spatial_Reasoning_196_rephrased14,The motorcycle is carrying the dog inside.,val_Spatial_Reasoning_196
+val_Spatial_Reasoning_197_rephrased1,The train contains the bench as one of its components.,val_Spatial_Reasoning_197
+val_Spatial_Reasoning_197_rephrased2,The bench is a component of the train.,val_Spatial_Reasoning_197
+val_Spatial_Reasoning_197_rephrased3,The bench is incorporated into the train.,val_Spatial_Reasoning_197
+val_Spatial_Reasoning_197_rephrased4,The train features the bench as an integral part.,val_Spatial_Reasoning_197
+val_Spatial_Reasoning_197_rephrased5,The bench is an integral part of the train.,val_Spatial_Reasoning_197
+val_Spatial_Reasoning_197_rephrased6,The train consists of the bench.,val_Spatial_Reasoning_197
+val_Spatial_Reasoning_197_rephrased7,The bench is a constituent part of the train.,val_Spatial_Reasoning_197
+val_Spatial_Reasoning_197_rephrased8,The bench is part of the train's structure.,val_Spatial_Reasoning_197
+val_Spatial_Reasoning_197_rephrased9,The train comprises the bench.,val_Spatial_Reasoning_197
+val_Spatial_Reasoning_197_rephrased10,The bench is an element of the train.,val_Spatial_Reasoning_197
+val_Spatial_Reasoning_197_rephrased11,The train includes the bench as a component.,val_Spatial_Reasoning_197
+val_Spatial_Reasoning_197_rephrased12,The bench is a part of the train's composition.,val_Spatial_Reasoning_197
+val_Spatial_Reasoning_197_rephrased13,The train contains the bench as a component part.,val_Spatial_Reasoning_197
+val_Spatial_Reasoning_197_rephrased14,The bench is a constituent element of the train.,val_Spatial_Reasoning_197
+val_Spatial_Reasoning_198_rephrased1,The handbag contains the dog.,val_Spatial_Reasoning_198
+val_Spatial_Reasoning_198_rephrased2,The dog is found inside the handbag.,val_Spatial_Reasoning_198
+val_Spatial_Reasoning_198_rephrased3,A dog is situated within the handbag.,val_Spatial_Reasoning_198
+val_Spatial_Reasoning_198_rephrased4,The dog is located inside the handbag.,val_Spatial_Reasoning_198
+val_Spatial_Reasoning_198_rephrased5,The handbag has the dog inside it.,val_Spatial_Reasoning_198
+val_Spatial_Reasoning_198_rephrased6,A dog is positioned inside the handbag.,val_Spatial_Reasoning_198
+val_Spatial_Reasoning_198_rephrased7,The dog is placed inside the handbag.,val_Spatial_Reasoning_198
+val_Spatial_Reasoning_198_rephrased8,The handbag encloses the dog.,val_Spatial_Reasoning_198
+val_Spatial_Reasoning_198_rephrased9,The dog is situated within the confines of the handbag.,val_Spatial_Reasoning_198
+val_Spatial_Reasoning_198_rephrased10,The handbag holds the dog inside.,val_Spatial_Reasoning_198
+val_Spatial_Reasoning_198_rephrased11,The dog is currently inside the handbag.,val_Spatial_Reasoning_198
+val_Spatial_Reasoning_198_rephrased12,The handbag contains the dog within its interior.,val_Spatial_Reasoning_198
+val_Spatial_Reasoning_198_rephrased13,The dog is found within the interior of the handbag.,val_Spatial_Reasoning_198
+val_Spatial_Reasoning_198_rephrased14,The handbag has the dog in it.,val_Spatial_Reasoning_198
+val_Spatial_Reasoning_199_rephrased1,The dog is located inside the refrigerator.,val_Spatial_Reasoning_199
+val_Spatial_Reasoning_199_rephrased2,The refrigerator has the dog inside it.,val_Spatial_Reasoning_199
+val_Spatial_Reasoning_199_rephrased3,The dog is being held within the refrigerator.,val_Spatial_Reasoning_199
+val_Spatial_Reasoning_199_rephrased4,The refrigerator is storing the dog.,val_Spatial_Reasoning_199
+val_Spatial_Reasoning_199_rephrased5,The dog is currently inside the refrigerator.,val_Spatial_Reasoning_199
+val_Spatial_Reasoning_199_rephrased6,The refrigerator contains the dog at this time.,val_Spatial_Reasoning_199
+val_Spatial_Reasoning_199_rephrased7,The dog is situated inside the refrigerator.,val_Spatial_Reasoning_199
+val_Spatial_Reasoning_199_rephrased8,The refrigerator is housing the dog.,val_Spatial_Reasoning_199
+val_Spatial_Reasoning_199_rephrased9,The dog is placed inside the refrigerator.,val_Spatial_Reasoning_199
+val_Spatial_Reasoning_199_rephrased10,The refrigerator holds the dog within it.,val_Spatial_Reasoning_199
+val_Spatial_Reasoning_199_rephrased11,The dog is located within the refrigerator.,val_Spatial_Reasoning_199
+val_Spatial_Reasoning_199_rephrased12,The refrigerator has the dog stored inside.,val_Spatial_Reasoning_199
+val_Spatial_Reasoning_199_rephrased13,The dog is found inside the refrigerator.,val_Spatial_Reasoning_199
+val_Spatial_Reasoning_199_rephrased14,The refrigerator is storing the dog at present.,val_Spatial_Reasoning_199
+val_Spatial_Reasoning_200_rephrased1,The chair is positioned at an angle to the laptop.,val_Spatial_Reasoning_200
+val_Spatial_Reasoning_200_rephrased2,The laptop is angled away from the chair.,val_Spatial_Reasoning_200
+val_Spatial_Reasoning_200_rephrased3,The laptop is positioned in the opposite direction to the chair.,val_Spatial_Reasoning_200
+val_Spatial_Reasoning_200_rephrased4,The laptop is turned away from the chair.,val_Spatial_Reasoning_200
+val_Spatial_Reasoning_200_rephrased5,The chair is situated in front of the laptop at an angle.,val_Spatial_Reasoning_200
+val_Spatial_Reasoning_200_rephrased6,The laptop is situated in a direction opposite to the chair.,val_Spatial_Reasoning_200
+val_Spatial_Reasoning_200_rephrased7,The laptop is oriented in a direction away from the chair.,val_Spatial_Reasoning_200
+val_Spatial_Reasoning_200_rephrased8,The laptop's front is not facing the chair.,val_Spatial_Reasoning_200
+val_Spatial_Reasoning_200_rephrased9,The chair is positioned in a way that the laptop is not facing it.,val_Spatial_Reasoning_200
+val_Spatial_Reasoning_200_rephrased10,The laptop is not directed towards the chair.,val_Spatial_Reasoning_200
+val_Spatial_Reasoning_200_rephrased11,The laptop is angled in a direction away from the chair.,val_Spatial_Reasoning_200
+val_Spatial_Reasoning_200_rephrased12,The laptop's back is facing the chair.,val_Spatial_Reasoning_200
+val_Spatial_Reasoning_200_rephrased13,The chair and laptop are not facing each other.,val_Spatial_Reasoning_200
+val_Spatial_Reasoning_200_rephrased14,The laptop is positioned so its back is towards the chair.,val_Spatial_Reasoning_200
+val_Spatial_Reasoning_201_rephrased1,The handbag contains the dog.,val_Spatial_Reasoning_201
+val_Spatial_Reasoning_201_rephrased2,The dog is located within the handbag.,val_Spatial_Reasoning_201
+val_Spatial_Reasoning_201_rephrased3,The handbag has the dog inside it.,val_Spatial_Reasoning_201
+val_Spatial_Reasoning_201_rephrased4,The dog is placed inside the handbag.,val_Spatial_Reasoning_201
+val_Spatial_Reasoning_201_rephrased5,The handbag holds the dog.,val_Spatial_Reasoning_201
+val_Spatial_Reasoning_201_rephrased6,The dog is situated inside the handbag.,val_Spatial_Reasoning_201
+val_Spatial_Reasoning_201_rephrased7,The handbag encloses the dog.,val_Spatial_Reasoning_201
+val_Spatial_Reasoning_201_rephrased8,The dog is found inside the handbag.,val_Spatial_Reasoning_201
+val_Spatial_Reasoning_201_rephrased9,The handbag possesses the dog.,val_Spatial_Reasoning_201
+val_Spatial_Reasoning_201_rephrased10,The dog is nestled inside the handbag.,val_Spatial_Reasoning_201
+val_Spatial_Reasoning_201_rephrased11,The handbag has the dog contained within.,val_Spatial_Reasoning_201
+val_Spatial_Reasoning_201_rephrased12,The dog is positioned inside the handbag.,val_Spatial_Reasoning_201
+val_Spatial_Reasoning_201_rephrased13,The handbag contains the dog inside it.,val_Spatial_Reasoning_201
+val_Spatial_Reasoning_201_rephrased14,The dog is enclosed within the handbag.,val_Spatial_Reasoning_201
+val_Spatial_Reasoning_202_rephrased1,The chair is positioned above the dog.,val_Spatial_Reasoning_202
+val_Spatial_Reasoning_202_rephrased2,The dog is located below the chair.,val_Spatial_Reasoning_202
+val_Spatial_Reasoning_202_rephrased3,The chair is situated above the dog's position.,val_Spatial_Reasoning_202
+val_Spatial_Reasoning_202_rephrased4,The chair is placed higher than the dog.,val_Spatial_Reasoning_202
+val_Spatial_Reasoning_202_rephrased5,The dog is underneath the chair.,val_Spatial_Reasoning_202
+val_Spatial_Reasoning_202_rephrased6,The chair is over the top of the dog.,val_Spatial_Reasoning_202
+val_Spatial_Reasoning_202_rephrased7,The chair is positioned over the dog's location.,val_Spatial_Reasoning_202
+val_Spatial_Reasoning_202_rephrased8,The dog is below the chair's level.,val_Spatial_Reasoning_202
+val_Spatial_Reasoning_202_rephrased9,The chair is above the dog's current position.,val_Spatial_Reasoning_202
+val_Spatial_Reasoning_202_rephrased10,The dog is at the bottom of the chair.,val_Spatial_Reasoning_202
+val_Spatial_Reasoning_202_rephrased11,The chair is in a higher position than the dog.,val_Spatial_Reasoning_202
+val_Spatial_Reasoning_202_rephrased12,The chair is positioned on top of the dog.,val_Spatial_Reasoning_202
+val_Spatial_Reasoning_202_rephrased13,The dog is at the base of the chair.,val_Spatial_Reasoning_202
+val_Spatial_Reasoning_202_rephrased14,The chair is above where the dog is.,val_Spatial_Reasoning_202
+val_Spatial_Reasoning_203_rephrased1,The dog is below the bench.,val_Spatial_Reasoning_203
+val_Spatial_Reasoning_203_rephrased2,The bench is situated above the dog.,val_Spatial_Reasoning_203
+val_Spatial_Reasoning_203_rephrased3,The dog is located below the bench.,val_Spatial_Reasoning_203
+val_Spatial_Reasoning_203_rephrased4,The bench is positioned above the dog.,val_Spatial_Reasoning_203
+val_Spatial_Reasoning_203_rephrased5,The dog is beneath the bench.,val_Spatial_Reasoning_203
+val_Spatial_Reasoning_203_rephrased6,The bench is elevated above the dog.,val_Spatial_Reasoning_203
+val_Spatial_Reasoning_203_rephrased7,The dog is situated below the bench.,val_Spatial_Reasoning_203
+val_Spatial_Reasoning_203_rephrased8,The bench is higher than the dog.,val_Spatial_Reasoning_203
+val_Spatial_Reasoning_203_rephrased9,The dog is positioned below the bench.,val_Spatial_Reasoning_203
+val_Spatial_Reasoning_203_rephrased10,The bench is placed above the dog.,val_Spatial_Reasoning_203
+val_Spatial_Reasoning_203_rephrased11,The dog is at a lower level than the bench.,val_Spatial_Reasoning_203
+val_Spatial_Reasoning_203_rephrased12,The bench is positioned on top of the dog is incorrect -,val_Spatial_Reasoning_203
+val_Spatial_Reasoning_203_rephrased13,The dog is on the lower level of the bench.,val_Spatial_Reasoning_203
+val_Spatial_Reasoning_203_rephrased14,The bench is above the dog's level.,val_Spatial_Reasoning_203
+val_Spatial_Reasoning_204_rephrased1,The chair is above the dog.,val_Spatial_Reasoning_204
+val_Spatial_Reasoning_204_rephrased2,The dog lies on the floor beneath the chair.,val_Spatial_Reasoning_204
+val_Spatial_Reasoning_204_rephrased3,The chair is positioned above the dog.,val_Spatial_Reasoning_204
+val_Spatial_Reasoning_204_rephrased4,Is the dog situated beneath the chair?,val_Spatial_Reasoning_204
+val_Spatial_Reasoning_204_rephrased5,The dog is located beneath the chair.,val_Spatial_Reasoning_204
+val_Spatial_Reasoning_204_rephrased6,Beneath the chair is where the dog is.,val_Spatial_Reasoning_204
+val_Spatial_Reasoning_204_rephrased7,"The chair is positioned above something, which is the dog.",val_Spatial_Reasoning_204
+val_Spatial_Reasoning_204_rephrased8,The dog is positioned at the bottom of the chair.,val_Spatial_Reasoning_204
+val_Spatial_Reasoning_204_rephrased9,The chair is on top of the dog.,val_Spatial_Reasoning_204
+val_Spatial_Reasoning_204_rephrased10,What is the dog's position relative to the chair?,val_Spatial_Reasoning_204
+val_Spatial_Reasoning_204_rephrased11,The dog is below the chair.,val_Spatial_Reasoning_204
+val_Spatial_Reasoning_204_rephrased12,Is the chair above the dog?,val_Spatial_Reasoning_204
+val_Spatial_Reasoning_204_rephrased13,The dog is situated at the base of the chair.,val_Spatial_Reasoning_204
+val_Spatial_Reasoning_204_rephrased14,The chair is above something that is the dog.,val_Spatial_Reasoning_204
+val_Spatial_Reasoning_205_rephrased1,The laptop is being touched by the dog.,val_Spatial_Reasoning_205
+val_Spatial_Reasoning_205_rephrased2,The dog has its body in contact with the laptop.,val_Spatial_Reasoning_205
+val_Spatial_Reasoning_205_rephrased3,The laptop is in physical contact with the dog.,val_Spatial_Reasoning_205
+val_Spatial_Reasoning_205_rephrased4,The dog is currently in contact with the laptop.,val_Spatial_Reasoning_205
+val_Spatial_Reasoning_205_rephrased5,The laptop is being physically touched by the dog.,val_Spatial_Reasoning_205
+val_Spatial_Reasoning_205_rephrased6,The dog's body is in close proximity to the laptop.,val_Spatial_Reasoning_205
+val_Spatial_Reasoning_205_rephrased7,The dog is in direct physical contact with the laptop.,val_Spatial_Reasoning_205
+val_Spatial_Reasoning_205_rephrased8,The laptop is in direct contact with the dog.,val_Spatial_Reasoning_205
+val_Spatial_Reasoning_205_rephrased9,The dog is making contact with the laptop.,val_Spatial_Reasoning_205
+val_Spatial_Reasoning_205_rephrased10,The laptop is being contacted by the dog.,val_Spatial_Reasoning_205
+val_Spatial_Reasoning_205_rephrased11,The dog is in physical proximity to the laptop.,val_Spatial_Reasoning_205
+val_Spatial_Reasoning_205_rephrased12,The dog is in contact with the laptop at this moment.,val_Spatial_Reasoning_205
+val_Spatial_Reasoning_205_rephrased13,The laptop and the dog are in physical contact.,val_Spatial_Reasoning_205
+val_Spatial_Reasoning_205_rephrased14,The dog is physically in contact with the laptop right now.,val_Spatial_Reasoning_205
+val_Spatial_Reasoning_206_rephrased1,The horse has the dog positioned to its right.,val_Spatial_Reasoning_206
+val_Spatial_Reasoning_206_rephrased2,The dog is placed on the right-hand side of the horse.,val_Spatial_Reasoning_206
+val_Spatial_Reasoning_206_rephrased3,The horse has the dog situated to its right side.,val_Spatial_Reasoning_206
+val_Spatial_Reasoning_206_rephrased4,The dog is located on the right side of the horse.,val_Spatial_Reasoning_206
+val_Spatial_Reasoning_206_rephrased5,The horse has the dog positioned at its right.,val_Spatial_Reasoning_206
+val_Spatial_Reasoning_206_rephrased6,The dog is situated on the right-hand side of the horse.,val_Spatial_Reasoning_206
+val_Spatial_Reasoning_206_rephrased7,The horse has the dog placed to its right side.,val_Spatial_Reasoning_206
+val_Spatial_Reasoning_206_rephrased8,The dog is on the right-hand side of the horse.,val_Spatial_Reasoning_206
+val_Spatial_Reasoning_206_rephrased9,The horse is positioned with the dog to its right.,val_Spatial_Reasoning_206
+val_Spatial_Reasoning_206_rephrased10,The dog is situated at the right side of the horse.,val_Spatial_Reasoning_206
+val_Spatial_Reasoning_206_rephrased11,The horse has the dog located to its right.,val_Spatial_Reasoning_206
+val_Spatial_Reasoning_206_rephrased12,The dog is on the right side of the horse.,val_Spatial_Reasoning_206
+val_Spatial_Reasoning_206_rephrased13,The horse has the dog situated at its right side.,val_Spatial_Reasoning_206
+val_Spatial_Reasoning_206_rephrased14,The dog is positioned to the right of the horse.,val_Spatial_Reasoning_206
+val_Spatial_Reasoning_207_rephrased1,The dog is behind the motorcycle.,val_Spatial_Reasoning_207
+val_Spatial_Reasoning_207_rephrased2,The motorcycle is positioned ahead of the dog.,val_Spatial_Reasoning_207
+val_Spatial_Reasoning_207_rephrased3,The dog is located behind the motorcycle.,val_Spatial_Reasoning_207
+val_Spatial_Reasoning_207_rephrased4,The motorcycle is situated in front of the dog.,val_Spatial_Reasoning_207
+val_Spatial_Reasoning_207_rephrased5,The dog is placed behind the motorcycle.,val_Spatial_Reasoning_207
+val_Spatial_Reasoning_207_rephrased6,The motorcycle is positioned before the dog.,val_Spatial_Reasoning_207
+val_Spatial_Reasoning_207_rephrased7,The dog is located in back of the motorcycle.,val_Spatial_Reasoning_207
+val_Spatial_Reasoning_207_rephrased8,The motorcycle is ahead of the dog in line.,val_Spatial_Reasoning_207
+val_Spatial_Reasoning_207_rephrased9,The motorcycle is in the lead position relative to the dog.,val_Spatial_Reasoning_207
+val_Spatial_Reasoning_207_rephrased10,The dog is in the rear position relative to the motorcycle.,val_Spatial_Reasoning_207
+val_Spatial_Reasoning_207_rephrased11,The motorcycle is in a position ahead of the dog.,val_Spatial_Reasoning_207
+val_Spatial_Reasoning_207_rephrased12,The dog is positioned in the rear relative to the motorcycle.,val_Spatial_Reasoning_207
+val_Spatial_Reasoning_207_rephrased13,The motorcycle is positioned ahead in relation to the dog.,val_Spatial_Reasoning_207
+val_Spatial_Reasoning_207_rephrased14,The motorcycle is situated ahead of the dog in space.,val_Spatial_Reasoning_207
+val_Spatial_Reasoning_208_rephrased1,The bench is above the dog.,val_Spatial_Reasoning_208
+val_Spatial_Reasoning_208_rephrased2,The dog lies on the ground beneath the bench.,val_Spatial_Reasoning_208
+val_Spatial_Reasoning_208_rephrased3,"Beneath the bench, you will find the dog.",val_Spatial_Reasoning_208
+val_Spatial_Reasoning_208_rephrased4,The dog is positioned at the bottom of the bench.,val_Spatial_Reasoning_208
+val_Spatial_Reasoning_208_rephrased5,The bench is situated above the dog.,val_Spatial_Reasoning_208
+val_Spatial_Reasoning_208_rephrased6,The dog is located below the bench.,val_Spatial_Reasoning_208
+val_Spatial_Reasoning_208_rephrased7,The dog is found beneath the bench's base.,val_Spatial_Reasoning_208
+val_Spatial_Reasoning_208_rephrased8,The bench is positioned on top of the dog is incorrect - The dog is positioned at the bottom of the bench.,val_Spatial_Reasoning_208
+val_Spatial_Reasoning_208_rephrased9,The dog is situated beneath the bench's underside.,val_Spatial_Reasoning_208
+val_Spatial_Reasoning_208_rephrased10,The dog rests at the bottom of the bench.,val_Spatial_Reasoning_208
+val_Spatial_Reasoning_208_rephrased11,The bench is above the dog in a vertical sense.,val_Spatial_Reasoning_208
+val_Spatial_Reasoning_208_rephrased12,The dog is at the lower end of the bench.,val_Spatial_Reasoning_208
+val_Spatial_Reasoning_208_rephrased13,The dog is positioned below the bench's level.,val_Spatial_Reasoning_208
+val_Spatial_Reasoning_208_rephrased14,The dog is beneath the bench's lower part.,val_Spatial_Reasoning_208
+val_Spatial_Reasoning_209_rephrased1,The bench is above the dog.,val_Spatial_Reasoning_209
+val_Spatial_Reasoning_209_rephrased2,The dog is located below the bench.,val_Spatial_Reasoning_209
+val_Spatial_Reasoning_209_rephrased3,The dog lies underneath the bench.,val_Spatial_Reasoning_209
+val_Spatial_Reasoning_209_rephrased4,Beneath the bench is where the dog is.,val_Spatial_Reasoning_209
+val_Spatial_Reasoning_209_rephrased5,The dog is situated below the bench.,val_Spatial_Reasoning_209
+val_Spatial_Reasoning_209_rephrased6,The bench is positioned above the dog.,val_Spatial_Reasoning_209
+val_Spatial_Reasoning_209_rephrased7,The dog is positioned below the bench.,val_Spatial_Reasoning_209
+val_Spatial_Reasoning_209_rephrased8,The dog is on the ground beneath the bench.,val_Spatial_Reasoning_209
+val_Spatial_Reasoning_209_rephrased9,The dog is situated on the ground below the bench.,val_Spatial_Reasoning_209
+val_Spatial_Reasoning_209_rephrased10,The bench is over the dog.,val_Spatial_Reasoning_209
+val_Spatial_Reasoning_209_rephrased11,The dog is at the bottom of the bench.,val_Spatial_Reasoning_209
+val_Spatial_Reasoning_209_rephrased12,The dog is below the level of the bench.,val_Spatial_Reasoning_209
+val_Spatial_Reasoning_209_rephrased13,The dog is underneath the bench's base.,val_Spatial_Reasoning_209
+val_Spatial_Reasoning_209_rephrased14,The bench is above the ground where the dog is.,val_Spatial_Reasoning_209
+val_Spatial_Reasoning_210_rephrased1,The surfboard has a dog on it.,val_Spatial_Reasoning_210
+val_Spatial_Reasoning_210_rephrased2,A dog is currently situated on the surfboard.,val_Spatial_Reasoning_210
+val_Spatial_Reasoning_210_rephrased3,The dog is positioned on the surfboard.,val_Spatial_Reasoning_210
+val_Spatial_Reasoning_210_rephrased4,The surfboard is occupied by a dog.,val_Spatial_Reasoning_210
+val_Spatial_Reasoning_210_rephrased5,A dog has taken a place on the surfboard.,val_Spatial_Reasoning_210
+val_Spatial_Reasoning_210_rephrased6,The dog is riding on the surfboard.,val_Spatial_Reasoning_210
+val_Spatial_Reasoning_210_rephrased7,There is a dog on the surfboard.,val_Spatial_Reasoning_210
+val_Spatial_Reasoning_210_rephrased8,The dog occupies a spot on the surfboard.,val_Spatial_Reasoning_210
+val_Spatial_Reasoning_210_rephrased9,A dog is located on the surfboard.,val_Spatial_Reasoning_210
+val_Spatial_Reasoning_210_rephrased10,The dog has found a place on the surfboard.,val_Spatial_Reasoning_210
+val_Spatial_Reasoning_210_rephrased11,The surfboard is carrying a dog.,val_Spatial_Reasoning_210
+val_Spatial_Reasoning_210_rephrased12,The dog is perched on the surfboard.,val_Spatial_Reasoning_210
+val_Spatial_Reasoning_210_rephrased13,A dog is situated on the surfboard right now.,val_Spatial_Reasoning_210
+val_Spatial_Reasoning_210_rephrased14,The dog is currently on the surfboard.,val_Spatial_Reasoning_210

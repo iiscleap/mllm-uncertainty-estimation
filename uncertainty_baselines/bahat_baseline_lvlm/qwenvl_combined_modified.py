@@ -1,0 +1,153 @@
+from transformers import Qwen2_5_VLForConditionalGeneration, AutoTokenizer, AutoProcessor
+from qwen_vl_utils import process_vision_info
+import csv
+import sys
+import os
+
+# Get dataset and experiment type from command line arguments
+if len(sys.argv) != 3:
+    print("Usage: python qwenvl_combined_modified.py <dataset> <exp_type>")
+    print("dataset: blink, vsr")
+    print("exp_type: image_only, text_only, text_image")
+    sys.exit(1)
+
+dataset = sys.argv[1]
+exp = sys.argv[2]
+
+print(f"Running qwenvl on dataset: {dataset}, experiment: {exp}")
+
+model = Qwen2_5_VLForConditionalGeneration.from_pretrained("Qwen/Qwen2.5-VL-7B-Instruct", torch_dtype="auto", device_map="auto")
+processor = AutoProcessor.from_pretrained("Qwen/Qwen2.5-VL-7B-Instruct")
+
+# Set parameters based on dataset and experiment type
+if exp == "image_only" and dataset == "blink":
+    csv_filepath = "blink_image_perturbations_only.csv"
+    img_column = "idx"
+    img_dir = "blink_image_perturbations_only"
+    option_type = "A. Yes\nB. No"
+
+elif exp == "image_only" and dataset == "vsr":
+    csv_filepath = "vsr_image_perturbations_only.csv"
+    img_column = "idx"
+    img_dir = "vsr_image_perturbations_only"
+    option_type = "A. True\nB. False"
+
+elif exp == "text_only" and dataset == "blink":
+    csv_filepath = "blink_text_perturbations_only.csv"
+    img_column = "orig_idx"
+    img_dir = "blink_data/orig_images"
+    option_type = "A. Yes\nB. No"
+
+elif exp == "text_only" and dataset == "vsr":
+    csv_filepath = "vsr_text_perturbations_only.csv"
+    img_column = "orig_idx"
+    img_dir = "vsr_data/orig_images"
+    option_type = "A. True\nB. False"
+
+elif exp == "text_image" and dataset == "blink":
+    csv_filepath = "blink_perturbations_data.csv"
+    img_column = "image_idx"
+    img_dir = "blink_perturbed_images"
+    option_type = "A. Yes\nB. No"
+
+elif exp == "text_image" and dataset == "vsr":
+    csv_filepath = "vsr_perturbations_data.csv"
+    img_column = "image_idx"
+    img_dir = "vsr_perturbed_images"
+    option_type = "A. True\nB. False"
+
+else:
+    print(f"Invalid combination: dataset={dataset}, exp_type={exp}")
+    sys.exit(1)
+
+# Check if CSV file exists
+if not os.path.exists(csv_filepath):
+    print(f"CSV file not found: {csv_filepath}")
+    sys.exit(1)
+
+# Clear the output file
+output_file = f"qwenvl_results/qwenvl_{exp}_{dataset}.txt"
+os.makedirs("qwenvl_results", exist_ok=True)
+with open(output_file, "w") as f:
+    pass
+
+print(f"Processing file: {csv_filepath}")
+processed_count = 0
+error_count = 0
+
+with open(csv_filepath, mode='r', newline='', encoding='utf-8') as file:
+    reader = csv.DictReader(file)
+    for row in reader:
+        idx = row["idx"]
+        image_idx = row[img_column]
+        qns = row["question"]
+        img_path = f"{img_dir}/{image_idx}.jpg"
+        
+        # Check if image file exists
+        if not os.path.exists(img_path):
+            print(f"Warning: Image file {img_path} not found, skipping...")
+            error_count += 1
+            continue
+        
+        try:
+            txt = f"{qns}\nChoices:\n{option_type}\nReturn only the option (A or B), and nothing else.\nMAKE SURE your output is A or B"
+            
+            messages = [
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "image",
+                            "image": img_path,
+                        },
+                        {"type": "text", "text": txt},
+                    ],
+                }
+            ]
+
+            text = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+
+            image_inputs, video_inputs = process_vision_info(messages)
+            inputs = processor(
+                text=[text],
+                images=image_inputs,
+                videos=video_inputs,
+                padding=True,
+                return_tensors="pt",
+            )
+            inputs = inputs.to("cuda")
+
+            generated_ids = model.generate(**inputs, max_new_tokens=1)
+            generated_ids_trimmed = [
+                out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
+            ]
+            output_text = processor.batch_decode(
+                generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False
+            )
+            
+            res = output_text[0].strip()
+            # Extract just the first character if it's A or B
+            if res and res[0] in ['A', 'B']:
+                res = res[0]
+            else:
+                res = res[:1] if res else ''
+
+            with open(output_file, "a") as resfile:
+                resfile.write(f"{idx} {res}\n")
+            
+            processed_count += 1
+            if processed_count % 50 == 0:
+                print(f"Processed {processed_count} samples...")
+                
+        except Exception as e:
+            print(f"Error processing sample {idx}: {str(e)}")
+            error_count += 1
+            # Write empty response on error
+            with open(output_file, "a") as resfile:
+                resfile.write(f"{idx} \n")
+            continue
+
+print(f"Completed {dataset} - {exp}")
+print(f"Successfully processed: {processed_count} samples")
+print(f"Errors: {error_count} samples")
+print(f"Results saved to: {output_file}")

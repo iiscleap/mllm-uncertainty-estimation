@@ -1,0 +1,1401 @@
+idx,orig_idx,question,transformation_type,intensity
+val_Spatial_Reasoning_111_contrast1,val_Spatial_Reasoning_111,The motorcycle is behind the dog.,contrast,8
+val_Spatial_Reasoning_111_contrast2,val_Spatial_Reasoning_111,The motorcycle is behind the dog.,contrast,3
+val_Spatial_Reasoning_111_blur1,val_Spatial_Reasoning_111,The motorcycle is behind the dog.,blur,8
+val_Spatial_Reasoning_111_blur2,val_Spatial_Reasoning_111,The motorcycle is behind the dog.,blur,3
+val_Spatial_Reasoning_111_noise1,val_Spatial_Reasoning_111,The motorcycle is behind the dog.,noise,5
+val_Spatial_Reasoning_111_noise2,val_Spatial_Reasoning_111,The motorcycle is behind the dog.,noise,7
+val_Spatial_Reasoning_111_masking1,val_Spatial_Reasoning_111,The motorcycle is behind the dog.,masking,5
+val_Spatial_Reasoning_111_masking2,val_Spatial_Reasoning_111,The motorcycle is behind the dog.,masking,7
+val_Spatial_Reasoning_111_rotate1,val_Spatial_Reasoning_111,The motorcycle is behind the dog.,rotate,8
+val_Spatial_Reasoning_111_rotate2,val_Spatial_Reasoning_111,The motorcycle is behind the dog.,rotate,3
+val_Spatial_Reasoning_111_shift1,val_Spatial_Reasoning_111,The motorcycle is behind the dog.,shift,8
+val_Spatial_Reasoning_111_shift2,val_Spatial_Reasoning_111,The motorcycle is behind the dog.,shift,3
+val_Spatial_Reasoning_111_bw1,val_Spatial_Reasoning_111,The motorcycle is behind the dog.,bw,NA
+val_Spatial_Reasoning_111_bw2,val_Spatial_Reasoning_111,The motorcycle is behind the dog.,bw,NA
+val_Spatial_Reasoning_112_contrast1,val_Spatial_Reasoning_112,The train contains the chair.,contrast,4
+val_Spatial_Reasoning_112_contrast2,val_Spatial_Reasoning_112,The train contains the chair.,contrast,8
+val_Spatial_Reasoning_112_blur1,val_Spatial_Reasoning_112,The train contains the chair.,blur,4
+val_Spatial_Reasoning_112_blur2,val_Spatial_Reasoning_112,The train contains the chair.,blur,8
+val_Spatial_Reasoning_112_noise1,val_Spatial_Reasoning_112,The train contains the chair.,noise,6
+val_Spatial_Reasoning_112_noise2,val_Spatial_Reasoning_112,The train contains the chair.,noise,5
+val_Spatial_Reasoning_112_masking1,val_Spatial_Reasoning_112,The train contains the chair.,masking,6
+val_Spatial_Reasoning_112_masking2,val_Spatial_Reasoning_112,The train contains the chair.,masking,5
+val_Spatial_Reasoning_112_rotate1,val_Spatial_Reasoning_112,The train contains the chair.,rotate,4
+val_Spatial_Reasoning_112_rotate2,val_Spatial_Reasoning_112,The train contains the chair.,rotate,8
+val_Spatial_Reasoning_112_shift1,val_Spatial_Reasoning_112,The train contains the chair.,shift,4
+val_Spatial_Reasoning_112_shift2,val_Spatial_Reasoning_112,The train contains the chair.,shift,8
+val_Spatial_Reasoning_112_bw1,val_Spatial_Reasoning_112,The train contains the chair.,bw,NA
+val_Spatial_Reasoning_112_bw2,val_Spatial_Reasoning_112,The train contains the chair.,bw,NA
+val_Spatial_Reasoning_113_contrast1,val_Spatial_Reasoning_113,The zebra is behind the horse.,contrast,8
+val_Spatial_Reasoning_113_contrast2,val_Spatial_Reasoning_113,The zebra is behind the horse.,contrast,7
+val_Spatial_Reasoning_113_blur1,val_Spatial_Reasoning_113,The zebra is behind the horse.,blur,8
+val_Spatial_Reasoning_113_blur2,val_Spatial_Reasoning_113,The zebra is behind the horse.,blur,7
+val_Spatial_Reasoning_113_noise1,val_Spatial_Reasoning_113,The zebra is behind the horse.,noise,5
+val_Spatial_Reasoning_113_noise2,val_Spatial_Reasoning_113,The zebra is behind the horse.,noise,9
+val_Spatial_Reasoning_113_masking1,val_Spatial_Reasoning_113,The zebra is behind the horse.,masking,5
+val_Spatial_Reasoning_113_masking2,val_Spatial_Reasoning_113,The zebra is behind the horse.,masking,9
+val_Spatial_Reasoning_113_rotate1,val_Spatial_Reasoning_113,The zebra is behind the horse.,rotate,8
+val_Spatial_Reasoning_113_rotate2,val_Spatial_Reasoning_113,The zebra is behind the horse.,rotate,7
+val_Spatial_Reasoning_113_shift1,val_Spatial_Reasoning_113,The zebra is behind the horse.,shift,8
+val_Spatial_Reasoning_113_shift2,val_Spatial_Reasoning_113,The zebra is behind the horse.,shift,7
+val_Spatial_Reasoning_113_bw1,val_Spatial_Reasoning_113,The zebra is behind the horse.,bw,NA
+val_Spatial_Reasoning_113_bw2,val_Spatial_Reasoning_113,The zebra is behind the horse.,bw,NA
+val_Spatial_Reasoning_114_contrast1,val_Spatial_Reasoning_114,The laptop is touching the bench.,contrast,6
+val_Spatial_Reasoning_114_contrast2,val_Spatial_Reasoning_114,The laptop is touching the bench.,contrast,3
+val_Spatial_Reasoning_114_blur1,val_Spatial_Reasoning_114,The laptop is touching the bench.,blur,6
+val_Spatial_Reasoning_114_blur2,val_Spatial_Reasoning_114,The laptop is touching the bench.,blur,3
+val_Spatial_Reasoning_114_noise1,val_Spatial_Reasoning_114,The laptop is touching the bench.,noise,5
+val_Spatial_Reasoning_114_noise2,val_Spatial_Reasoning_114,The laptop is touching the bench.,noise,10
+val_Spatial_Reasoning_114_masking1,val_Spatial_Reasoning_114,The laptop is touching the bench.,masking,5
+val_Spatial_Reasoning_114_masking2,val_Spatial_Reasoning_114,The laptop is touching the bench.,masking,10
+val_Spatial_Reasoning_114_rotate1,val_Spatial_Reasoning_114,The laptop is touching the bench.,rotate,6
+val_Spatial_Reasoning_114_rotate2,val_Spatial_Reasoning_114,The laptop is touching the bench.,rotate,3
+val_Spatial_Reasoning_114_shift1,val_Spatial_Reasoning_114,The laptop is touching the bench.,shift,6
+val_Spatial_Reasoning_114_shift2,val_Spatial_Reasoning_114,The laptop is touching the bench.,shift,3
+val_Spatial_Reasoning_114_bw1,val_Spatial_Reasoning_114,The laptop is touching the bench.,bw,NA
+val_Spatial_Reasoning_114_bw2,val_Spatial_Reasoning_114,The laptop is touching the bench.,bw,NA
+val_Spatial_Reasoning_115_contrast1,val_Spatial_Reasoning_115,The dog is above the laptop.,contrast,4
+val_Spatial_Reasoning_115_contrast2,val_Spatial_Reasoning_115,The dog is above the laptop.,contrast,8
+val_Spatial_Reasoning_115_blur1,val_Spatial_Reasoning_115,The dog is above the laptop.,blur,4
+val_Spatial_Reasoning_115_blur2,val_Spatial_Reasoning_115,The dog is above the laptop.,blur,8
+val_Spatial_Reasoning_115_noise1,val_Spatial_Reasoning_115,The dog is above the laptop.,noise,9
+val_Spatial_Reasoning_115_noise2,val_Spatial_Reasoning_115,The dog is above the laptop.,noise,10
+val_Spatial_Reasoning_115_masking1,val_Spatial_Reasoning_115,The dog is above the laptop.,masking,9
+val_Spatial_Reasoning_115_masking2,val_Spatial_Reasoning_115,The dog is above the laptop.,masking,10
+val_Spatial_Reasoning_115_rotate1,val_Spatial_Reasoning_115,The dog is above the laptop.,rotate,4
+val_Spatial_Reasoning_115_rotate2,val_Spatial_Reasoning_115,The dog is above the laptop.,rotate,8
+val_Spatial_Reasoning_115_shift1,val_Spatial_Reasoning_115,The dog is above the laptop.,shift,4
+val_Spatial_Reasoning_115_shift2,val_Spatial_Reasoning_115,The dog is above the laptop.,shift,8
+val_Spatial_Reasoning_115_bw1,val_Spatial_Reasoning_115,The dog is above the laptop.,bw,NA
+val_Spatial_Reasoning_115_bw2,val_Spatial_Reasoning_115,The dog is above the laptop.,bw,NA
+val_Spatial_Reasoning_116_contrast1,val_Spatial_Reasoning_116,The bench is below the dog.,contrast,3
+val_Spatial_Reasoning_116_contrast2,val_Spatial_Reasoning_116,The bench is below the dog.,contrast,7
+val_Spatial_Reasoning_116_blur1,val_Spatial_Reasoning_116,The bench is below the dog.,blur,3
+val_Spatial_Reasoning_116_blur2,val_Spatial_Reasoning_116,The bench is below the dog.,blur,7
+val_Spatial_Reasoning_116_noise1,val_Spatial_Reasoning_116,The bench is below the dog.,noise,6
+val_Spatial_Reasoning_116_noise2,val_Spatial_Reasoning_116,The bench is below the dog.,noise,9
+val_Spatial_Reasoning_116_masking1,val_Spatial_Reasoning_116,The bench is below the dog.,masking,6
+val_Spatial_Reasoning_116_masking2,val_Spatial_Reasoning_116,The bench is below the dog.,masking,9
+val_Spatial_Reasoning_116_rotate1,val_Spatial_Reasoning_116,The bench is below the dog.,rotate,3
+val_Spatial_Reasoning_116_rotate2,val_Spatial_Reasoning_116,The bench is below the dog.,rotate,7
+val_Spatial_Reasoning_116_shift1,val_Spatial_Reasoning_116,The bench is below the dog.,shift,3
+val_Spatial_Reasoning_116_shift2,val_Spatial_Reasoning_116,The bench is below the dog.,shift,7
+val_Spatial_Reasoning_116_bw1,val_Spatial_Reasoning_116,The bench is below the dog.,bw,NA
+val_Spatial_Reasoning_116_bw2,val_Spatial_Reasoning_116,The bench is below the dog.,bw,NA
+val_Spatial_Reasoning_117_contrast1,val_Spatial_Reasoning_117,The laptop is above the dog.,contrast,6
+val_Spatial_Reasoning_117_contrast2,val_Spatial_Reasoning_117,The laptop is above the dog.,contrast,4
+val_Spatial_Reasoning_117_blur1,val_Spatial_Reasoning_117,The laptop is above the dog.,blur,6
+val_Spatial_Reasoning_117_blur2,val_Spatial_Reasoning_117,The laptop is above the dog.,blur,4
+val_Spatial_Reasoning_117_noise1,val_Spatial_Reasoning_117,The laptop is above the dog.,noise,8
+val_Spatial_Reasoning_117_noise2,val_Spatial_Reasoning_117,The laptop is above the dog.,noise,9
+val_Spatial_Reasoning_117_masking1,val_Spatial_Reasoning_117,The laptop is above the dog.,masking,8
+val_Spatial_Reasoning_117_masking2,val_Spatial_Reasoning_117,The laptop is above the dog.,masking,9
+val_Spatial_Reasoning_117_rotate1,val_Spatial_Reasoning_117,The laptop is above the dog.,rotate,6
+val_Spatial_Reasoning_117_rotate2,val_Spatial_Reasoning_117,The laptop is above the dog.,rotate,4
+val_Spatial_Reasoning_117_shift1,val_Spatial_Reasoning_117,The laptop is above the dog.,shift,6
+val_Spatial_Reasoning_117_shift2,val_Spatial_Reasoning_117,The laptop is above the dog.,shift,4
+val_Spatial_Reasoning_117_bw1,val_Spatial_Reasoning_117,The laptop is above the dog.,bw,NA
+val_Spatial_Reasoning_117_bw2,val_Spatial_Reasoning_117,The laptop is above the dog.,bw,NA
+val_Spatial_Reasoning_118_contrast1,val_Spatial_Reasoning_118,The chair is beneath the horse.,contrast,5
+val_Spatial_Reasoning_118_contrast2,val_Spatial_Reasoning_118,The chair is beneath the horse.,contrast,3
+val_Spatial_Reasoning_118_blur1,val_Spatial_Reasoning_118,The chair is beneath the horse.,blur,5
+val_Spatial_Reasoning_118_blur2,val_Spatial_Reasoning_118,The chair is beneath the horse.,blur,3
+val_Spatial_Reasoning_118_noise1,val_Spatial_Reasoning_118,The chair is beneath the horse.,noise,6
+val_Spatial_Reasoning_118_noise2,val_Spatial_Reasoning_118,The chair is beneath the horse.,noise,8
+val_Spatial_Reasoning_118_masking1,val_Spatial_Reasoning_118,The chair is beneath the horse.,masking,6
+val_Spatial_Reasoning_118_masking2,val_Spatial_Reasoning_118,The chair is beneath the horse.,masking,8
+val_Spatial_Reasoning_118_rotate1,val_Spatial_Reasoning_118,The chair is beneath the horse.,rotate,5
+val_Spatial_Reasoning_118_rotate2,val_Spatial_Reasoning_118,The chair is beneath the horse.,rotate,3
+val_Spatial_Reasoning_118_shift1,val_Spatial_Reasoning_118,The chair is beneath the horse.,shift,5
+val_Spatial_Reasoning_118_shift2,val_Spatial_Reasoning_118,The chair is beneath the horse.,shift,3
+val_Spatial_Reasoning_118_bw1,val_Spatial_Reasoning_118,The chair is beneath the horse.,bw,NA
+val_Spatial_Reasoning_118_bw2,val_Spatial_Reasoning_118,The chair is beneath the horse.,bw,NA
+val_Spatial_Reasoning_119_contrast1,val_Spatial_Reasoning_119,The chair is facing the laptop.,contrast,5
+val_Spatial_Reasoning_119_contrast2,val_Spatial_Reasoning_119,The chair is facing the laptop.,contrast,8
+val_Spatial_Reasoning_119_blur1,val_Spatial_Reasoning_119,The chair is facing the laptop.,blur,5
+val_Spatial_Reasoning_119_blur2,val_Spatial_Reasoning_119,The chair is facing the laptop.,blur,8
+val_Spatial_Reasoning_119_noise1,val_Spatial_Reasoning_119,The chair is facing the laptop.,noise,6
+val_Spatial_Reasoning_119_noise2,val_Spatial_Reasoning_119,The chair is facing the laptop.,noise,10
+val_Spatial_Reasoning_119_masking1,val_Spatial_Reasoning_119,The chair is facing the laptop.,masking,6
+val_Spatial_Reasoning_119_masking2,val_Spatial_Reasoning_119,The chair is facing the laptop.,masking,10
+val_Spatial_Reasoning_119_rotate1,val_Spatial_Reasoning_119,The chair is facing the laptop.,rotate,5
+val_Spatial_Reasoning_119_rotate2,val_Spatial_Reasoning_119,The chair is facing the laptop.,rotate,8
+val_Spatial_Reasoning_119_shift1,val_Spatial_Reasoning_119,The chair is facing the laptop.,shift,5
+val_Spatial_Reasoning_119_shift2,val_Spatial_Reasoning_119,The chair is facing the laptop.,shift,8
+val_Spatial_Reasoning_119_bw1,val_Spatial_Reasoning_119,The chair is facing the laptop.,bw,NA
+val_Spatial_Reasoning_119_bw2,val_Spatial_Reasoning_119,The chair is facing the laptop.,bw,NA
+val_Spatial_Reasoning_120_contrast1,val_Spatial_Reasoning_120,The dog is facing the horse.,contrast,5
+val_Spatial_Reasoning_120_contrast2,val_Spatial_Reasoning_120,The dog is facing the horse.,contrast,3
+val_Spatial_Reasoning_120_blur1,val_Spatial_Reasoning_120,The dog is facing the horse.,blur,5
+val_Spatial_Reasoning_120_blur2,val_Spatial_Reasoning_120,The dog is facing the horse.,blur,3
+val_Spatial_Reasoning_120_noise1,val_Spatial_Reasoning_120,The dog is facing the horse.,noise,5
+val_Spatial_Reasoning_120_noise2,val_Spatial_Reasoning_120,The dog is facing the horse.,noise,8
+val_Spatial_Reasoning_120_masking1,val_Spatial_Reasoning_120,The dog is facing the horse.,masking,5
+val_Spatial_Reasoning_120_masking2,val_Spatial_Reasoning_120,The dog is facing the horse.,masking,8
+val_Spatial_Reasoning_120_rotate1,val_Spatial_Reasoning_120,The dog is facing the horse.,rotate,5
+val_Spatial_Reasoning_120_rotate2,val_Spatial_Reasoning_120,The dog is facing the horse.,rotate,3
+val_Spatial_Reasoning_120_shift1,val_Spatial_Reasoning_120,The dog is facing the horse.,shift,5
+val_Spatial_Reasoning_120_shift2,val_Spatial_Reasoning_120,The dog is facing the horse.,shift,3
+val_Spatial_Reasoning_120_bw1,val_Spatial_Reasoning_120,The dog is facing the horse.,bw,NA
+val_Spatial_Reasoning_120_bw2,val_Spatial_Reasoning_120,The dog is facing the horse.,bw,NA
+val_Spatial_Reasoning_121_contrast1,val_Spatial_Reasoning_121,The zebra is touching the horse.,contrast,3
+val_Spatial_Reasoning_121_contrast2,val_Spatial_Reasoning_121,The zebra is touching the horse.,contrast,5
+val_Spatial_Reasoning_121_blur1,val_Spatial_Reasoning_121,The zebra is touching the horse.,blur,3
+val_Spatial_Reasoning_121_blur2,val_Spatial_Reasoning_121,The zebra is touching the horse.,blur,5
+val_Spatial_Reasoning_121_noise1,val_Spatial_Reasoning_121,The zebra is touching the horse.,noise,7
+val_Spatial_Reasoning_121_noise2,val_Spatial_Reasoning_121,The zebra is touching the horse.,noise,9
+val_Spatial_Reasoning_121_masking1,val_Spatial_Reasoning_121,The zebra is touching the horse.,masking,7
+val_Spatial_Reasoning_121_masking2,val_Spatial_Reasoning_121,The zebra is touching the horse.,masking,9
+val_Spatial_Reasoning_121_rotate1,val_Spatial_Reasoning_121,The zebra is touching the horse.,rotate,3
+val_Spatial_Reasoning_121_rotate2,val_Spatial_Reasoning_121,The zebra is touching the horse.,rotate,5
+val_Spatial_Reasoning_121_shift1,val_Spatial_Reasoning_121,The zebra is touching the horse.,shift,3
+val_Spatial_Reasoning_121_shift2,val_Spatial_Reasoning_121,The zebra is touching the horse.,shift,5
+val_Spatial_Reasoning_121_bw1,val_Spatial_Reasoning_121,The zebra is touching the horse.,bw,NA
+val_Spatial_Reasoning_121_bw2,val_Spatial_Reasoning_121,The zebra is touching the horse.,bw,NA
+val_Spatial_Reasoning_122_contrast1,val_Spatial_Reasoning_122,The laptop is facing the chair.,contrast,5
+val_Spatial_Reasoning_122_contrast2,val_Spatial_Reasoning_122,The laptop is facing the chair.,contrast,3
+val_Spatial_Reasoning_122_blur1,val_Spatial_Reasoning_122,The laptop is facing the chair.,blur,5
+val_Spatial_Reasoning_122_blur2,val_Spatial_Reasoning_122,The laptop is facing the chair.,blur,3
+val_Spatial_Reasoning_122_noise1,val_Spatial_Reasoning_122,The laptop is facing the chair.,noise,10
+val_Spatial_Reasoning_122_noise2,val_Spatial_Reasoning_122,The laptop is facing the chair.,noise,8
+val_Spatial_Reasoning_122_masking1,val_Spatial_Reasoning_122,The laptop is facing the chair.,masking,10
+val_Spatial_Reasoning_122_masking2,val_Spatial_Reasoning_122,The laptop is facing the chair.,masking,8
+val_Spatial_Reasoning_122_rotate1,val_Spatial_Reasoning_122,The laptop is facing the chair.,rotate,5
+val_Spatial_Reasoning_122_rotate2,val_Spatial_Reasoning_122,The laptop is facing the chair.,rotate,3
+val_Spatial_Reasoning_122_shift1,val_Spatial_Reasoning_122,The laptop is facing the chair.,shift,5
+val_Spatial_Reasoning_122_shift2,val_Spatial_Reasoning_122,The laptop is facing the chair.,shift,3
+val_Spatial_Reasoning_122_bw1,val_Spatial_Reasoning_122,The laptop is facing the chair.,bw,NA
+val_Spatial_Reasoning_122_bw2,val_Spatial_Reasoning_122,The laptop is facing the chair.,bw,NA
+val_Spatial_Reasoning_123_contrast1,val_Spatial_Reasoning_123,The laptop is facing away from the chair.,contrast,7
+val_Spatial_Reasoning_123_contrast2,val_Spatial_Reasoning_123,The laptop is facing away from the chair.,contrast,3
+val_Spatial_Reasoning_123_blur1,val_Spatial_Reasoning_123,The laptop is facing away from the chair.,blur,7
+val_Spatial_Reasoning_123_blur2,val_Spatial_Reasoning_123,The laptop is facing away from the chair.,blur,3
+val_Spatial_Reasoning_123_noise1,val_Spatial_Reasoning_123,The laptop is facing away from the chair.,noise,8
+val_Spatial_Reasoning_123_noise2,val_Spatial_Reasoning_123,The laptop is facing away from the chair.,noise,5
+val_Spatial_Reasoning_123_masking1,val_Spatial_Reasoning_123,The laptop is facing away from the chair.,masking,8
+val_Spatial_Reasoning_123_masking2,val_Spatial_Reasoning_123,The laptop is facing away from the chair.,masking,5
+val_Spatial_Reasoning_123_rotate1,val_Spatial_Reasoning_123,The laptop is facing away from the chair.,rotate,7
+val_Spatial_Reasoning_123_rotate2,val_Spatial_Reasoning_123,The laptop is facing away from the chair.,rotate,3
+val_Spatial_Reasoning_123_shift1,val_Spatial_Reasoning_123,The laptop is facing away from the chair.,shift,7
+val_Spatial_Reasoning_123_shift2,val_Spatial_Reasoning_123,The laptop is facing away from the chair.,shift,3
+val_Spatial_Reasoning_123_bw1,val_Spatial_Reasoning_123,The laptop is facing away from the chair.,bw,NA
+val_Spatial_Reasoning_123_bw2,val_Spatial_Reasoning_123,The laptop is facing away from the chair.,bw,NA
+val_Spatial_Reasoning_124_contrast1,val_Spatial_Reasoning_124,The dog is below the bench.,contrast,7
+val_Spatial_Reasoning_124_contrast2,val_Spatial_Reasoning_124,The dog is below the bench.,contrast,5
+val_Spatial_Reasoning_124_blur1,val_Spatial_Reasoning_124,The dog is below the bench.,blur,7
+val_Spatial_Reasoning_124_blur2,val_Spatial_Reasoning_124,The dog is below the bench.,blur,5
+val_Spatial_Reasoning_124_noise1,val_Spatial_Reasoning_124,The dog is below the bench.,noise,10
+val_Spatial_Reasoning_124_noise2,val_Spatial_Reasoning_124,The dog is below the bench.,noise,9
+val_Spatial_Reasoning_124_masking1,val_Spatial_Reasoning_124,The dog is below the bench.,masking,10
+val_Spatial_Reasoning_124_masking2,val_Spatial_Reasoning_124,The dog is below the bench.,masking,9
+val_Spatial_Reasoning_124_rotate1,val_Spatial_Reasoning_124,The dog is below the bench.,rotate,7
+val_Spatial_Reasoning_124_rotate2,val_Spatial_Reasoning_124,The dog is below the bench.,rotate,5
+val_Spatial_Reasoning_124_shift1,val_Spatial_Reasoning_124,The dog is below the bench.,shift,7
+val_Spatial_Reasoning_124_shift2,val_Spatial_Reasoning_124,The dog is below the bench.,shift,5
+val_Spatial_Reasoning_124_bw1,val_Spatial_Reasoning_124,The dog is below the bench.,bw,NA
+val_Spatial_Reasoning_124_bw2,val_Spatial_Reasoning_124,The dog is below the bench.,bw,NA
+val_Spatial_Reasoning_125_contrast1,val_Spatial_Reasoning_125,The chair is under the horse.,contrast,5
+val_Spatial_Reasoning_125_contrast2,val_Spatial_Reasoning_125,The chair is under the horse.,contrast,7
+val_Spatial_Reasoning_125_blur1,val_Spatial_Reasoning_125,The chair is under the horse.,blur,5
+val_Spatial_Reasoning_125_blur2,val_Spatial_Reasoning_125,The chair is under the horse.,blur,7
+val_Spatial_Reasoning_125_noise1,val_Spatial_Reasoning_125,The chair is under the horse.,noise,6
+val_Spatial_Reasoning_125_noise2,val_Spatial_Reasoning_125,The chair is under the horse.,noise,5
+val_Spatial_Reasoning_125_masking1,val_Spatial_Reasoning_125,The chair is under the horse.,masking,6
+val_Spatial_Reasoning_125_masking2,val_Spatial_Reasoning_125,The chair is under the horse.,masking,5
+val_Spatial_Reasoning_125_rotate1,val_Spatial_Reasoning_125,The chair is under the horse.,rotate,5
+val_Spatial_Reasoning_125_rotate2,val_Spatial_Reasoning_125,The chair is under the horse.,rotate,7
+val_Spatial_Reasoning_125_shift1,val_Spatial_Reasoning_125,The chair is under the horse.,shift,5
+val_Spatial_Reasoning_125_shift2,val_Spatial_Reasoning_125,The chair is under the horse.,shift,7
+val_Spatial_Reasoning_125_bw1,val_Spatial_Reasoning_125,The chair is under the horse.,bw,NA
+val_Spatial_Reasoning_125_bw2,val_Spatial_Reasoning_125,The chair is under the horse.,bw,NA
+val_Spatial_Reasoning_126_contrast1,val_Spatial_Reasoning_126,The dog is on top of the bench.,contrast,3
+val_Spatial_Reasoning_126_contrast2,val_Spatial_Reasoning_126,The dog is on top of the bench.,contrast,4
+val_Spatial_Reasoning_126_blur1,val_Spatial_Reasoning_126,The dog is on top of the bench.,blur,3
+val_Spatial_Reasoning_126_blur2,val_Spatial_Reasoning_126,The dog is on top of the bench.,blur,4
+val_Spatial_Reasoning_126_noise1,val_Spatial_Reasoning_126,The dog is on top of the bench.,noise,7
+val_Spatial_Reasoning_126_noise2,val_Spatial_Reasoning_126,The dog is on top of the bench.,noise,5
+val_Spatial_Reasoning_126_masking1,val_Spatial_Reasoning_126,The dog is on top of the bench.,masking,7
+val_Spatial_Reasoning_126_masking2,val_Spatial_Reasoning_126,The dog is on top of the bench.,masking,5
+val_Spatial_Reasoning_126_rotate1,val_Spatial_Reasoning_126,The dog is on top of the bench.,rotate,3
+val_Spatial_Reasoning_126_rotate2,val_Spatial_Reasoning_126,The dog is on top of the bench.,rotate,4
+val_Spatial_Reasoning_126_shift1,val_Spatial_Reasoning_126,The dog is on top of the bench.,shift,3
+val_Spatial_Reasoning_126_shift2,val_Spatial_Reasoning_126,The dog is on top of the bench.,shift,4
+val_Spatial_Reasoning_126_bw1,val_Spatial_Reasoning_126,The dog is on top of the bench.,bw,NA
+val_Spatial_Reasoning_126_bw2,val_Spatial_Reasoning_126,The dog is on top of the bench.,bw,NA
+val_Spatial_Reasoning_127_contrast1,val_Spatial_Reasoning_127,The bench is behind the laptop.,contrast,4
+val_Spatial_Reasoning_127_contrast2,val_Spatial_Reasoning_127,The bench is behind the laptop.,contrast,3
+val_Spatial_Reasoning_127_blur1,val_Spatial_Reasoning_127,The bench is behind the laptop.,blur,4
+val_Spatial_Reasoning_127_blur2,val_Spatial_Reasoning_127,The bench is behind the laptop.,blur,3
+val_Spatial_Reasoning_127_noise1,val_Spatial_Reasoning_127,The bench is behind the laptop.,noise,8
+val_Spatial_Reasoning_127_noise2,val_Spatial_Reasoning_127,The bench is behind the laptop.,noise,7
+val_Spatial_Reasoning_127_masking1,val_Spatial_Reasoning_127,The bench is behind the laptop.,masking,8
+val_Spatial_Reasoning_127_masking2,val_Spatial_Reasoning_127,The bench is behind the laptop.,masking,7
+val_Spatial_Reasoning_127_rotate1,val_Spatial_Reasoning_127,The bench is behind the laptop.,rotate,4
+val_Spatial_Reasoning_127_rotate2,val_Spatial_Reasoning_127,The bench is behind the laptop.,rotate,3
+val_Spatial_Reasoning_127_shift1,val_Spatial_Reasoning_127,The bench is behind the laptop.,shift,4
+val_Spatial_Reasoning_127_shift2,val_Spatial_Reasoning_127,The bench is behind the laptop.,shift,3
+val_Spatial_Reasoning_127_bw1,val_Spatial_Reasoning_127,The bench is behind the laptop.,bw,NA
+val_Spatial_Reasoning_127_bw2,val_Spatial_Reasoning_127,The bench is behind the laptop.,bw,NA
+val_Spatial_Reasoning_128_contrast1,val_Spatial_Reasoning_128,The laptop is above the chair.,contrast,6
+val_Spatial_Reasoning_128_contrast2,val_Spatial_Reasoning_128,The laptop is above the chair.,contrast,5
+val_Spatial_Reasoning_128_blur1,val_Spatial_Reasoning_128,The laptop is above the chair.,blur,6
+val_Spatial_Reasoning_128_blur2,val_Spatial_Reasoning_128,The laptop is above the chair.,blur,5
+val_Spatial_Reasoning_128_noise1,val_Spatial_Reasoning_128,The laptop is above the chair.,noise,6
+val_Spatial_Reasoning_128_noise2,val_Spatial_Reasoning_128,The laptop is above the chair.,noise,7
+val_Spatial_Reasoning_128_masking1,val_Spatial_Reasoning_128,The laptop is above the chair.,masking,6
+val_Spatial_Reasoning_128_masking2,val_Spatial_Reasoning_128,The laptop is above the chair.,masking,7
+val_Spatial_Reasoning_128_rotate1,val_Spatial_Reasoning_128,The laptop is above the chair.,rotate,6
+val_Spatial_Reasoning_128_rotate2,val_Spatial_Reasoning_128,The laptop is above the chair.,rotate,5
+val_Spatial_Reasoning_128_shift1,val_Spatial_Reasoning_128,The laptop is above the chair.,shift,6
+val_Spatial_Reasoning_128_shift2,val_Spatial_Reasoning_128,The laptop is above the chair.,shift,5
+val_Spatial_Reasoning_128_bw1,val_Spatial_Reasoning_128,The laptop is above the chair.,bw,NA
+val_Spatial_Reasoning_128_bw2,val_Spatial_Reasoning_128,The laptop is above the chair.,bw,NA
+val_Spatial_Reasoning_129_contrast1,val_Spatial_Reasoning_129,The laptop is on the bench.,contrast,5
+val_Spatial_Reasoning_129_contrast2,val_Spatial_Reasoning_129,The laptop is on the bench.,contrast,4
+val_Spatial_Reasoning_129_blur1,val_Spatial_Reasoning_129,The laptop is on the bench.,blur,5
+val_Spatial_Reasoning_129_blur2,val_Spatial_Reasoning_129,The laptop is on the bench.,blur,4
+val_Spatial_Reasoning_129_noise1,val_Spatial_Reasoning_129,The laptop is on the bench.,noise,10
+val_Spatial_Reasoning_129_noise2,val_Spatial_Reasoning_129,The laptop is on the bench.,noise,7
+val_Spatial_Reasoning_129_masking1,val_Spatial_Reasoning_129,The laptop is on the bench.,masking,10
+val_Spatial_Reasoning_129_masking2,val_Spatial_Reasoning_129,The laptop is on the bench.,masking,7
+val_Spatial_Reasoning_129_rotate1,val_Spatial_Reasoning_129,The laptop is on the bench.,rotate,5
+val_Spatial_Reasoning_129_rotate2,val_Spatial_Reasoning_129,The laptop is on the bench.,rotate,4
+val_Spatial_Reasoning_129_shift1,val_Spatial_Reasoning_129,The laptop is on the bench.,shift,5
+val_Spatial_Reasoning_129_shift2,val_Spatial_Reasoning_129,The laptop is on the bench.,shift,4
+val_Spatial_Reasoning_129_bw1,val_Spatial_Reasoning_129,The laptop is on the bench.,bw,NA
+val_Spatial_Reasoning_129_bw2,val_Spatial_Reasoning_129,The laptop is on the bench.,bw,NA
+val_Spatial_Reasoning_130_contrast1,val_Spatial_Reasoning_130,The dog is at the right side of the horse.,contrast,8
+val_Spatial_Reasoning_130_contrast2,val_Spatial_Reasoning_130,The dog is at the right side of the horse.,contrast,3
+val_Spatial_Reasoning_130_blur1,val_Spatial_Reasoning_130,The dog is at the right side of the horse.,blur,8
+val_Spatial_Reasoning_130_blur2,val_Spatial_Reasoning_130,The dog is at the right side of the horse.,blur,3
+val_Spatial_Reasoning_130_noise1,val_Spatial_Reasoning_130,The dog is at the right side of the horse.,noise,9
+val_Spatial_Reasoning_130_noise2,val_Spatial_Reasoning_130,The dog is at the right side of the horse.,noise,6
+val_Spatial_Reasoning_130_masking1,val_Spatial_Reasoning_130,The dog is at the right side of the horse.,masking,9
+val_Spatial_Reasoning_130_masking2,val_Spatial_Reasoning_130,The dog is at the right side of the horse.,masking,6
+val_Spatial_Reasoning_130_rotate1,val_Spatial_Reasoning_130,The dog is at the right side of the horse.,rotate,8
+val_Spatial_Reasoning_130_rotate2,val_Spatial_Reasoning_130,The dog is at the right side of the horse.,rotate,3
+val_Spatial_Reasoning_130_shift1,val_Spatial_Reasoning_130,The dog is at the right side of the horse.,shift,8
+val_Spatial_Reasoning_130_shift2,val_Spatial_Reasoning_130,The dog is at the right side of the horse.,shift,3
+val_Spatial_Reasoning_130_bw1,val_Spatial_Reasoning_130,The dog is at the right side of the horse.,bw,NA
+val_Spatial_Reasoning_130_bw2,val_Spatial_Reasoning_130,The dog is at the right side of the horse.,bw,NA
+val_Spatial_Reasoning_131_contrast1,val_Spatial_Reasoning_131,The bench is touching the dog.,contrast,7
+val_Spatial_Reasoning_131_contrast2,val_Spatial_Reasoning_131,The bench is touching the dog.,contrast,4
+val_Spatial_Reasoning_131_blur1,val_Spatial_Reasoning_131,The bench is touching the dog.,blur,7
+val_Spatial_Reasoning_131_blur2,val_Spatial_Reasoning_131,The bench is touching the dog.,blur,4
+val_Spatial_Reasoning_131_noise1,val_Spatial_Reasoning_131,The bench is touching the dog.,noise,6
+val_Spatial_Reasoning_131_noise2,val_Spatial_Reasoning_131,The bench is touching the dog.,noise,8
+val_Spatial_Reasoning_131_masking1,val_Spatial_Reasoning_131,The bench is touching the dog.,masking,6
+val_Spatial_Reasoning_131_masking2,val_Spatial_Reasoning_131,The bench is touching the dog.,masking,8
+val_Spatial_Reasoning_131_rotate1,val_Spatial_Reasoning_131,The bench is touching the dog.,rotate,7
+val_Spatial_Reasoning_131_rotate2,val_Spatial_Reasoning_131,The bench is touching the dog.,rotate,4
+val_Spatial_Reasoning_131_shift1,val_Spatial_Reasoning_131,The bench is touching the dog.,shift,7
+val_Spatial_Reasoning_131_shift2,val_Spatial_Reasoning_131,The bench is touching the dog.,shift,4
+val_Spatial_Reasoning_131_bw1,val_Spatial_Reasoning_131,The bench is touching the dog.,bw,NA
+val_Spatial_Reasoning_131_bw2,val_Spatial_Reasoning_131,The bench is touching the dog.,bw,NA
+val_Spatial_Reasoning_132_contrast1,val_Spatial_Reasoning_132,The dog is in front of the chair.,contrast,6
+val_Spatial_Reasoning_132_contrast2,val_Spatial_Reasoning_132,The dog is in front of the chair.,contrast,5
+val_Spatial_Reasoning_132_blur1,val_Spatial_Reasoning_132,The dog is in front of the chair.,blur,6
+val_Spatial_Reasoning_132_blur2,val_Spatial_Reasoning_132,The dog is in front of the chair.,blur,5
+val_Spatial_Reasoning_132_noise1,val_Spatial_Reasoning_132,The dog is in front of the chair.,noise,10
+val_Spatial_Reasoning_132_noise2,val_Spatial_Reasoning_132,The dog is in front of the chair.,noise,9
+val_Spatial_Reasoning_132_masking1,val_Spatial_Reasoning_132,The dog is in front of the chair.,masking,10
+val_Spatial_Reasoning_132_masking2,val_Spatial_Reasoning_132,The dog is in front of the chair.,masking,9
+val_Spatial_Reasoning_132_rotate1,val_Spatial_Reasoning_132,The dog is in front of the chair.,rotate,6
+val_Spatial_Reasoning_132_rotate2,val_Spatial_Reasoning_132,The dog is in front of the chair.,rotate,5
+val_Spatial_Reasoning_132_shift1,val_Spatial_Reasoning_132,The dog is in front of the chair.,shift,6
+val_Spatial_Reasoning_132_shift2,val_Spatial_Reasoning_132,The dog is in front of the chair.,shift,5
+val_Spatial_Reasoning_132_bw1,val_Spatial_Reasoning_132,The dog is in front of the chair.,bw,NA
+val_Spatial_Reasoning_132_bw2,val_Spatial_Reasoning_132,The dog is in front of the chair.,bw,NA
+val_Spatial_Reasoning_133_contrast1,val_Spatial_Reasoning_133,The dog is facing away from the horse.,contrast,4
+val_Spatial_Reasoning_133_contrast2,val_Spatial_Reasoning_133,The dog is facing away from the horse.,contrast,5
+val_Spatial_Reasoning_133_blur1,val_Spatial_Reasoning_133,The dog is facing away from the horse.,blur,4
+val_Spatial_Reasoning_133_blur2,val_Spatial_Reasoning_133,The dog is facing away from the horse.,blur,5
+val_Spatial_Reasoning_133_noise1,val_Spatial_Reasoning_133,The dog is facing away from the horse.,noise,5
+val_Spatial_Reasoning_133_noise2,val_Spatial_Reasoning_133,The dog is facing away from the horse.,noise,6
+val_Spatial_Reasoning_133_masking1,val_Spatial_Reasoning_133,The dog is facing away from the horse.,masking,5
+val_Spatial_Reasoning_133_masking2,val_Spatial_Reasoning_133,The dog is facing away from the horse.,masking,6
+val_Spatial_Reasoning_133_rotate1,val_Spatial_Reasoning_133,The dog is facing away from the horse.,rotate,4
+val_Spatial_Reasoning_133_rotate2,val_Spatial_Reasoning_133,The dog is facing away from the horse.,rotate,5
+val_Spatial_Reasoning_133_shift1,val_Spatial_Reasoning_133,The dog is facing away from the horse.,shift,4
+val_Spatial_Reasoning_133_shift2,val_Spatial_Reasoning_133,The dog is facing away from the horse.,shift,5
+val_Spatial_Reasoning_133_bw1,val_Spatial_Reasoning_133,The dog is facing away from the horse.,bw,NA
+val_Spatial_Reasoning_133_bw2,val_Spatial_Reasoning_133,The dog is facing away from the horse.,bw,NA
+val_Spatial_Reasoning_134_contrast1,val_Spatial_Reasoning_134,The bench is under the dog.,contrast,3
+val_Spatial_Reasoning_134_contrast2,val_Spatial_Reasoning_134,The bench is under the dog.,contrast,5
+val_Spatial_Reasoning_134_blur1,val_Spatial_Reasoning_134,The bench is under the dog.,blur,3
+val_Spatial_Reasoning_134_blur2,val_Spatial_Reasoning_134,The bench is under the dog.,blur,5
+val_Spatial_Reasoning_134_noise1,val_Spatial_Reasoning_134,The bench is under the dog.,noise,8
+val_Spatial_Reasoning_134_noise2,val_Spatial_Reasoning_134,The bench is under the dog.,noise,7
+val_Spatial_Reasoning_134_masking1,val_Spatial_Reasoning_134,The bench is under the dog.,masking,8
+val_Spatial_Reasoning_134_masking2,val_Spatial_Reasoning_134,The bench is under the dog.,masking,7
+val_Spatial_Reasoning_134_rotate1,val_Spatial_Reasoning_134,The bench is under the dog.,rotate,3
+val_Spatial_Reasoning_134_rotate2,val_Spatial_Reasoning_134,The bench is under the dog.,rotate,5
+val_Spatial_Reasoning_134_shift1,val_Spatial_Reasoning_134,The bench is under the dog.,shift,3
+val_Spatial_Reasoning_134_shift2,val_Spatial_Reasoning_134,The bench is under the dog.,shift,5
+val_Spatial_Reasoning_134_bw1,val_Spatial_Reasoning_134,The bench is under the dog.,bw,NA
+val_Spatial_Reasoning_134_bw2,val_Spatial_Reasoning_134,The bench is under the dog.,bw,NA
+val_Spatial_Reasoning_135_contrast1,val_Spatial_Reasoning_135,The surfboard is under the dog.,contrast,3
+val_Spatial_Reasoning_135_contrast2,val_Spatial_Reasoning_135,The surfboard is under the dog.,contrast,4
+val_Spatial_Reasoning_135_blur1,val_Spatial_Reasoning_135,The surfboard is under the dog.,blur,3
+val_Spatial_Reasoning_135_blur2,val_Spatial_Reasoning_135,The surfboard is under the dog.,blur,4
+val_Spatial_Reasoning_135_noise1,val_Spatial_Reasoning_135,The surfboard is under the dog.,noise,9
+val_Spatial_Reasoning_135_noise2,val_Spatial_Reasoning_135,The surfboard is under the dog.,noise,7
+val_Spatial_Reasoning_135_masking1,val_Spatial_Reasoning_135,The surfboard is under the dog.,masking,9
+val_Spatial_Reasoning_135_masking2,val_Spatial_Reasoning_135,The surfboard is under the dog.,masking,7
+val_Spatial_Reasoning_135_rotate1,val_Spatial_Reasoning_135,The surfboard is under the dog.,rotate,3
+val_Spatial_Reasoning_135_rotate2,val_Spatial_Reasoning_135,The surfboard is under the dog.,rotate,4
+val_Spatial_Reasoning_135_shift1,val_Spatial_Reasoning_135,The surfboard is under the dog.,shift,3
+val_Spatial_Reasoning_135_shift2,val_Spatial_Reasoning_135,The surfboard is under the dog.,shift,4
+val_Spatial_Reasoning_135_bw1,val_Spatial_Reasoning_135,The surfboard is under the dog.,bw,NA
+val_Spatial_Reasoning_135_bw2,val_Spatial_Reasoning_135,The surfboard is under the dog.,bw,NA
+val_Spatial_Reasoning_136_contrast1,val_Spatial_Reasoning_136,The chair is touching the dog.,contrast,4
+val_Spatial_Reasoning_136_contrast2,val_Spatial_Reasoning_136,The chair is touching the dog.,contrast,6
+val_Spatial_Reasoning_136_blur1,val_Spatial_Reasoning_136,The chair is touching the dog.,blur,4
+val_Spatial_Reasoning_136_blur2,val_Spatial_Reasoning_136,The chair is touching the dog.,blur,6
+val_Spatial_Reasoning_136_noise1,val_Spatial_Reasoning_136,The chair is touching the dog.,noise,8
+val_Spatial_Reasoning_136_noise2,val_Spatial_Reasoning_136,The chair is touching the dog.,noise,10
+val_Spatial_Reasoning_136_masking1,val_Spatial_Reasoning_136,The chair is touching the dog.,masking,8
+val_Spatial_Reasoning_136_masking2,val_Spatial_Reasoning_136,The chair is touching the dog.,masking,10
+val_Spatial_Reasoning_136_rotate1,val_Spatial_Reasoning_136,The chair is touching the dog.,rotate,4
+val_Spatial_Reasoning_136_rotate2,val_Spatial_Reasoning_136,The chair is touching the dog.,rotate,6
+val_Spatial_Reasoning_136_shift1,val_Spatial_Reasoning_136,The chair is touching the dog.,shift,4
+val_Spatial_Reasoning_136_shift2,val_Spatial_Reasoning_136,The chair is touching the dog.,shift,6
+val_Spatial_Reasoning_136_bw1,val_Spatial_Reasoning_136,The chair is touching the dog.,bw,NA
+val_Spatial_Reasoning_136_bw2,val_Spatial_Reasoning_136,The chair is touching the dog.,bw,NA
+val_Spatial_Reasoning_137_contrast1,val_Spatial_Reasoning_137,The laptop is in front of the dog.,contrast,4
+val_Spatial_Reasoning_137_contrast2,val_Spatial_Reasoning_137,The laptop is in front of the dog.,contrast,5
+val_Spatial_Reasoning_137_blur1,val_Spatial_Reasoning_137,The laptop is in front of the dog.,blur,4
+val_Spatial_Reasoning_137_blur2,val_Spatial_Reasoning_137,The laptop is in front of the dog.,blur,5
+val_Spatial_Reasoning_137_noise1,val_Spatial_Reasoning_137,The laptop is in front of the dog.,noise,6
+val_Spatial_Reasoning_137_noise2,val_Spatial_Reasoning_137,The laptop is in front of the dog.,noise,10
+val_Spatial_Reasoning_137_masking1,val_Spatial_Reasoning_137,The laptop is in front of the dog.,masking,6
+val_Spatial_Reasoning_137_masking2,val_Spatial_Reasoning_137,The laptop is in front of the dog.,masking,10
+val_Spatial_Reasoning_137_rotate1,val_Spatial_Reasoning_137,The laptop is in front of the dog.,rotate,4
+val_Spatial_Reasoning_137_rotate2,val_Spatial_Reasoning_137,The laptop is in front of the dog.,rotate,5
+val_Spatial_Reasoning_137_shift1,val_Spatial_Reasoning_137,The laptop is in front of the dog.,shift,4
+val_Spatial_Reasoning_137_shift2,val_Spatial_Reasoning_137,The laptop is in front of the dog.,shift,5
+val_Spatial_Reasoning_137_bw1,val_Spatial_Reasoning_137,The laptop is in front of the dog.,bw,NA
+val_Spatial_Reasoning_137_bw2,val_Spatial_Reasoning_137,The laptop is in front of the dog.,bw,NA
+val_Spatial_Reasoning_138_contrast1,val_Spatial_Reasoning_138,The chair is opposite to the dog.,contrast,8
+val_Spatial_Reasoning_138_contrast2,val_Spatial_Reasoning_138,The chair is opposite to the dog.,contrast,7
+val_Spatial_Reasoning_138_blur1,val_Spatial_Reasoning_138,The chair is opposite to the dog.,blur,8
+val_Spatial_Reasoning_138_blur2,val_Spatial_Reasoning_138,The chair is opposite to the dog.,blur,7
+val_Spatial_Reasoning_138_noise1,val_Spatial_Reasoning_138,The chair is opposite to the dog.,noise,9
+val_Spatial_Reasoning_138_noise2,val_Spatial_Reasoning_138,The chair is opposite to the dog.,noise,7
+val_Spatial_Reasoning_138_masking1,val_Spatial_Reasoning_138,The chair is opposite to the dog.,masking,9
+val_Spatial_Reasoning_138_masking2,val_Spatial_Reasoning_138,The chair is opposite to the dog.,masking,7
+val_Spatial_Reasoning_138_rotate1,val_Spatial_Reasoning_138,The chair is opposite to the dog.,rotate,8
+val_Spatial_Reasoning_138_rotate2,val_Spatial_Reasoning_138,The chair is opposite to the dog.,rotate,7
+val_Spatial_Reasoning_138_shift1,val_Spatial_Reasoning_138,The chair is opposite to the dog.,shift,8
+val_Spatial_Reasoning_138_shift2,val_Spatial_Reasoning_138,The chair is opposite to the dog.,shift,7
+val_Spatial_Reasoning_138_bw1,val_Spatial_Reasoning_138,The chair is opposite to the dog.,bw,NA
+val_Spatial_Reasoning_138_bw2,val_Spatial_Reasoning_138,The chair is opposite to the dog.,bw,NA
+val_Spatial_Reasoning_139_contrast1,val_Spatial_Reasoning_139,The dog is under the bench.,contrast,8
+val_Spatial_Reasoning_139_contrast2,val_Spatial_Reasoning_139,The dog is under the bench.,contrast,7
+val_Spatial_Reasoning_139_blur1,val_Spatial_Reasoning_139,The dog is under the bench.,blur,8
+val_Spatial_Reasoning_139_blur2,val_Spatial_Reasoning_139,The dog is under the bench.,blur,7
+val_Spatial_Reasoning_139_noise1,val_Spatial_Reasoning_139,The dog is under the bench.,noise,8
+val_Spatial_Reasoning_139_noise2,val_Spatial_Reasoning_139,The dog is under the bench.,noise,9
+val_Spatial_Reasoning_139_masking1,val_Spatial_Reasoning_139,The dog is under the bench.,masking,8
+val_Spatial_Reasoning_139_masking2,val_Spatial_Reasoning_139,The dog is under the bench.,masking,9
+val_Spatial_Reasoning_139_rotate1,val_Spatial_Reasoning_139,The dog is under the bench.,rotate,8
+val_Spatial_Reasoning_139_rotate2,val_Spatial_Reasoning_139,The dog is under the bench.,rotate,7
+val_Spatial_Reasoning_139_shift1,val_Spatial_Reasoning_139,The dog is under the bench.,shift,8
+val_Spatial_Reasoning_139_shift2,val_Spatial_Reasoning_139,The dog is under the bench.,shift,7
+val_Spatial_Reasoning_139_bw1,val_Spatial_Reasoning_139,The dog is under the bench.,bw,NA
+val_Spatial_Reasoning_139_bw2,val_Spatial_Reasoning_139,The dog is under the bench.,bw,NA
+val_Spatial_Reasoning_140_contrast1,val_Spatial_Reasoning_140,The chair is under the dog.,contrast,6
+val_Spatial_Reasoning_140_contrast2,val_Spatial_Reasoning_140,The chair is under the dog.,contrast,5
+val_Spatial_Reasoning_140_blur1,val_Spatial_Reasoning_140,The chair is under the dog.,blur,6
+val_Spatial_Reasoning_140_blur2,val_Spatial_Reasoning_140,The chair is under the dog.,blur,5
+val_Spatial_Reasoning_140_noise1,val_Spatial_Reasoning_140,The chair is under the dog.,noise,6
+val_Spatial_Reasoning_140_noise2,val_Spatial_Reasoning_140,The chair is under the dog.,noise,10
+val_Spatial_Reasoning_140_masking1,val_Spatial_Reasoning_140,The chair is under the dog.,masking,6
+val_Spatial_Reasoning_140_masking2,val_Spatial_Reasoning_140,The chair is under the dog.,masking,10
+val_Spatial_Reasoning_140_rotate1,val_Spatial_Reasoning_140,The chair is under the dog.,rotate,6
+val_Spatial_Reasoning_140_rotate2,val_Spatial_Reasoning_140,The chair is under the dog.,rotate,5
+val_Spatial_Reasoning_140_shift1,val_Spatial_Reasoning_140,The chair is under the dog.,shift,6
+val_Spatial_Reasoning_140_shift2,val_Spatial_Reasoning_140,The chair is under the dog.,shift,5
+val_Spatial_Reasoning_140_bw1,val_Spatial_Reasoning_140,The chair is under the dog.,bw,NA
+val_Spatial_Reasoning_140_bw2,val_Spatial_Reasoning_140,The chair is under the dog.,bw,NA
+val_Spatial_Reasoning_141_contrast1,val_Spatial_Reasoning_141,The motorcycle is facing the train.,contrast,7
+val_Spatial_Reasoning_141_contrast2,val_Spatial_Reasoning_141,The motorcycle is facing the train.,contrast,6
+val_Spatial_Reasoning_141_blur1,val_Spatial_Reasoning_141,The motorcycle is facing the train.,blur,7
+val_Spatial_Reasoning_141_blur2,val_Spatial_Reasoning_141,The motorcycle is facing the train.,blur,6
+val_Spatial_Reasoning_141_noise1,val_Spatial_Reasoning_141,The motorcycle is facing the train.,noise,5
+val_Spatial_Reasoning_141_noise2,val_Spatial_Reasoning_141,The motorcycle is facing the train.,noise,10
+val_Spatial_Reasoning_141_masking1,val_Spatial_Reasoning_141,The motorcycle is facing the train.,masking,5
+val_Spatial_Reasoning_141_masking2,val_Spatial_Reasoning_141,The motorcycle is facing the train.,masking,10
+val_Spatial_Reasoning_141_rotate1,val_Spatial_Reasoning_141,The motorcycle is facing the train.,rotate,7
+val_Spatial_Reasoning_141_rotate2,val_Spatial_Reasoning_141,The motorcycle is facing the train.,rotate,6
+val_Spatial_Reasoning_141_shift1,val_Spatial_Reasoning_141,The motorcycle is facing the train.,shift,7
+val_Spatial_Reasoning_141_shift2,val_Spatial_Reasoning_141,The motorcycle is facing the train.,shift,6
+val_Spatial_Reasoning_141_bw1,val_Spatial_Reasoning_141,The motorcycle is facing the train.,bw,NA
+val_Spatial_Reasoning_141_bw2,val_Spatial_Reasoning_141,The motorcycle is facing the train.,bw,NA
+val_Spatial_Reasoning_142_contrast1,val_Spatial_Reasoning_142,The train contains the laptop.,contrast,3
+val_Spatial_Reasoning_142_contrast2,val_Spatial_Reasoning_142,The train contains the laptop.,contrast,4
+val_Spatial_Reasoning_142_blur1,val_Spatial_Reasoning_142,The train contains the laptop.,blur,3
+val_Spatial_Reasoning_142_blur2,val_Spatial_Reasoning_142,The train contains the laptop.,blur,4
+val_Spatial_Reasoning_142_noise1,val_Spatial_Reasoning_142,The train contains the laptop.,noise,10
+val_Spatial_Reasoning_142_noise2,val_Spatial_Reasoning_142,The train contains the laptop.,noise,6
+val_Spatial_Reasoning_142_masking1,val_Spatial_Reasoning_142,The train contains the laptop.,masking,10
+val_Spatial_Reasoning_142_masking2,val_Spatial_Reasoning_142,The train contains the laptop.,masking,6
+val_Spatial_Reasoning_142_rotate1,val_Spatial_Reasoning_142,The train contains the laptop.,rotate,3
+val_Spatial_Reasoning_142_rotate2,val_Spatial_Reasoning_142,The train contains the laptop.,rotate,4
+val_Spatial_Reasoning_142_shift1,val_Spatial_Reasoning_142,The train contains the laptop.,shift,3
+val_Spatial_Reasoning_142_shift2,val_Spatial_Reasoning_142,The train contains the laptop.,shift,4
+val_Spatial_Reasoning_142_bw1,val_Spatial_Reasoning_142,The train contains the laptop.,bw,NA
+val_Spatial_Reasoning_142_bw2,val_Spatial_Reasoning_142,The train contains the laptop.,bw,NA
+val_Spatial_Reasoning_143_contrast1,val_Spatial_Reasoning_143,The dog is on the motorcycle.,contrast,8
+val_Spatial_Reasoning_143_contrast2,val_Spatial_Reasoning_143,The dog is on the motorcycle.,contrast,6
+val_Spatial_Reasoning_143_blur1,val_Spatial_Reasoning_143,The dog is on the motorcycle.,blur,8
+val_Spatial_Reasoning_143_blur2,val_Spatial_Reasoning_143,The dog is on the motorcycle.,blur,6
+val_Spatial_Reasoning_143_noise1,val_Spatial_Reasoning_143,The dog is on the motorcycle.,noise,9
+val_Spatial_Reasoning_143_noise2,val_Spatial_Reasoning_143,The dog is on the motorcycle.,noise,5
+val_Spatial_Reasoning_143_masking1,val_Spatial_Reasoning_143,The dog is on the motorcycle.,masking,9
+val_Spatial_Reasoning_143_masking2,val_Spatial_Reasoning_143,The dog is on the motorcycle.,masking,5
+val_Spatial_Reasoning_143_rotate1,val_Spatial_Reasoning_143,The dog is on the motorcycle.,rotate,8
+val_Spatial_Reasoning_143_rotate2,val_Spatial_Reasoning_143,The dog is on the motorcycle.,rotate,6
+val_Spatial_Reasoning_143_shift1,val_Spatial_Reasoning_143,The dog is on the motorcycle.,shift,8
+val_Spatial_Reasoning_143_shift2,val_Spatial_Reasoning_143,The dog is on the motorcycle.,shift,6
+val_Spatial_Reasoning_143_bw1,val_Spatial_Reasoning_143,The dog is on the motorcycle.,bw,NA
+val_Spatial_Reasoning_143_bw2,val_Spatial_Reasoning_143,The dog is on the motorcycle.,bw,NA
+val_Spatial_Reasoning_144_contrast1,val_Spatial_Reasoning_144,The wine glass is facing the dog.,contrast,6
+val_Spatial_Reasoning_144_contrast2,val_Spatial_Reasoning_144,The wine glass is facing the dog.,contrast,8
+val_Spatial_Reasoning_144_blur1,val_Spatial_Reasoning_144,The wine glass is facing the dog.,blur,6
+val_Spatial_Reasoning_144_blur2,val_Spatial_Reasoning_144,The wine glass is facing the dog.,blur,8
+val_Spatial_Reasoning_144_noise1,val_Spatial_Reasoning_144,The wine glass is facing the dog.,noise,9
+val_Spatial_Reasoning_144_noise2,val_Spatial_Reasoning_144,The wine glass is facing the dog.,noise,8
+val_Spatial_Reasoning_144_masking1,val_Spatial_Reasoning_144,The wine glass is facing the dog.,masking,9
+val_Spatial_Reasoning_144_masking2,val_Spatial_Reasoning_144,The wine glass is facing the dog.,masking,8
+val_Spatial_Reasoning_144_rotate1,val_Spatial_Reasoning_144,The wine glass is facing the dog.,rotate,6
+val_Spatial_Reasoning_144_rotate2,val_Spatial_Reasoning_144,The wine glass is facing the dog.,rotate,8
+val_Spatial_Reasoning_144_shift1,val_Spatial_Reasoning_144,The wine glass is facing the dog.,shift,6
+val_Spatial_Reasoning_144_shift2,val_Spatial_Reasoning_144,The wine glass is facing the dog.,shift,8
+val_Spatial_Reasoning_144_bw1,val_Spatial_Reasoning_144,The wine glass is facing the dog.,bw,NA
+val_Spatial_Reasoning_144_bw2,val_Spatial_Reasoning_144,The wine glass is facing the dog.,bw,NA
+val_Spatial_Reasoning_145_contrast1,val_Spatial_Reasoning_145,The skateboard is in front of the dog.,contrast,7
+val_Spatial_Reasoning_145_contrast2,val_Spatial_Reasoning_145,The skateboard is in front of the dog.,contrast,5
+val_Spatial_Reasoning_145_blur1,val_Spatial_Reasoning_145,The skateboard is in front of the dog.,blur,7
+val_Spatial_Reasoning_145_blur2,val_Spatial_Reasoning_145,The skateboard is in front of the dog.,blur,5
+val_Spatial_Reasoning_145_noise1,val_Spatial_Reasoning_145,The skateboard is in front of the dog.,noise,9
+val_Spatial_Reasoning_145_noise2,val_Spatial_Reasoning_145,The skateboard is in front of the dog.,noise,5
+val_Spatial_Reasoning_145_masking1,val_Spatial_Reasoning_145,The skateboard is in front of the dog.,masking,9
+val_Spatial_Reasoning_145_masking2,val_Spatial_Reasoning_145,The skateboard is in front of the dog.,masking,5
+val_Spatial_Reasoning_145_rotate1,val_Spatial_Reasoning_145,The skateboard is in front of the dog.,rotate,7
+val_Spatial_Reasoning_145_rotate2,val_Spatial_Reasoning_145,The skateboard is in front of the dog.,rotate,5
+val_Spatial_Reasoning_145_shift1,val_Spatial_Reasoning_145,The skateboard is in front of the dog.,shift,7
+val_Spatial_Reasoning_145_shift2,val_Spatial_Reasoning_145,The skateboard is in front of the dog.,shift,5
+val_Spatial_Reasoning_145_bw1,val_Spatial_Reasoning_145,The skateboard is in front of the dog.,bw,NA
+val_Spatial_Reasoning_145_bw2,val_Spatial_Reasoning_145,The skateboard is in front of the dog.,bw,NA
+val_Spatial_Reasoning_146_contrast1,val_Spatial_Reasoning_146,The dog is at the edge of the laptop.,contrast,8
+val_Spatial_Reasoning_146_contrast2,val_Spatial_Reasoning_146,The dog is at the edge of the laptop.,contrast,3
+val_Spatial_Reasoning_146_blur1,val_Spatial_Reasoning_146,The dog is at the edge of the laptop.,blur,8
+val_Spatial_Reasoning_146_blur2,val_Spatial_Reasoning_146,The dog is at the edge of the laptop.,blur,3
+val_Spatial_Reasoning_146_noise1,val_Spatial_Reasoning_146,The dog is at the edge of the laptop.,noise,10
+val_Spatial_Reasoning_146_noise2,val_Spatial_Reasoning_146,The dog is at the edge of the laptop.,noise,9
+val_Spatial_Reasoning_146_masking1,val_Spatial_Reasoning_146,The dog is at the edge of the laptop.,masking,10
+val_Spatial_Reasoning_146_masking2,val_Spatial_Reasoning_146,The dog is at the edge of the laptop.,masking,9
+val_Spatial_Reasoning_146_rotate1,val_Spatial_Reasoning_146,The dog is at the edge of the laptop.,rotate,8
+val_Spatial_Reasoning_146_rotate2,val_Spatial_Reasoning_146,The dog is at the edge of the laptop.,rotate,3
+val_Spatial_Reasoning_146_shift1,val_Spatial_Reasoning_146,The dog is at the edge of the laptop.,shift,8
+val_Spatial_Reasoning_146_shift2,val_Spatial_Reasoning_146,The dog is at the edge of the laptop.,shift,3
+val_Spatial_Reasoning_146_bw1,val_Spatial_Reasoning_146,The dog is at the edge of the laptop.,bw,NA
+val_Spatial_Reasoning_146_bw2,val_Spatial_Reasoning_146,The dog is at the edge of the laptop.,bw,NA
+val_Spatial_Reasoning_147_contrast1,val_Spatial_Reasoning_147,The motorcycle is facing the train.,contrast,5
+val_Spatial_Reasoning_147_contrast2,val_Spatial_Reasoning_147,The motorcycle is facing the train.,contrast,8
+val_Spatial_Reasoning_147_blur1,val_Spatial_Reasoning_147,The motorcycle is facing the train.,blur,5
+val_Spatial_Reasoning_147_blur2,val_Spatial_Reasoning_147,The motorcycle is facing the train.,blur,8
+val_Spatial_Reasoning_147_noise1,val_Spatial_Reasoning_147,The motorcycle is facing the train.,noise,5
+val_Spatial_Reasoning_147_noise2,val_Spatial_Reasoning_147,The motorcycle is facing the train.,noise,7
+val_Spatial_Reasoning_147_masking1,val_Spatial_Reasoning_147,The motorcycle is facing the train.,masking,5
+val_Spatial_Reasoning_147_masking2,val_Spatial_Reasoning_147,The motorcycle is facing the train.,masking,7
+val_Spatial_Reasoning_147_rotate1,val_Spatial_Reasoning_147,The motorcycle is facing the train.,rotate,5
+val_Spatial_Reasoning_147_rotate2,val_Spatial_Reasoning_147,The motorcycle is facing the train.,rotate,8
+val_Spatial_Reasoning_147_shift1,val_Spatial_Reasoning_147,The motorcycle is facing the train.,shift,5
+val_Spatial_Reasoning_147_shift2,val_Spatial_Reasoning_147,The motorcycle is facing the train.,shift,8
+val_Spatial_Reasoning_147_bw1,val_Spatial_Reasoning_147,The motorcycle is facing the train.,bw,NA
+val_Spatial_Reasoning_147_bw2,val_Spatial_Reasoning_147,The motorcycle is facing the train.,bw,NA
+val_Spatial_Reasoning_148_contrast1,val_Spatial_Reasoning_148,The dog is alongside the horse.,contrast,6
+val_Spatial_Reasoning_148_contrast2,val_Spatial_Reasoning_148,The dog is alongside the horse.,contrast,4
+val_Spatial_Reasoning_148_blur1,val_Spatial_Reasoning_148,The dog is alongside the horse.,blur,6
+val_Spatial_Reasoning_148_blur2,val_Spatial_Reasoning_148,The dog is alongside the horse.,blur,4
+val_Spatial_Reasoning_148_noise1,val_Spatial_Reasoning_148,The dog is alongside the horse.,noise,8
+val_Spatial_Reasoning_148_noise2,val_Spatial_Reasoning_148,The dog is alongside the horse.,noise,5
+val_Spatial_Reasoning_148_masking1,val_Spatial_Reasoning_148,The dog is alongside the horse.,masking,8
+val_Spatial_Reasoning_148_masking2,val_Spatial_Reasoning_148,The dog is alongside the horse.,masking,5
+val_Spatial_Reasoning_148_rotate1,val_Spatial_Reasoning_148,The dog is alongside the horse.,rotate,6
+val_Spatial_Reasoning_148_rotate2,val_Spatial_Reasoning_148,The dog is alongside the horse.,rotate,4
+val_Spatial_Reasoning_148_shift1,val_Spatial_Reasoning_148,The dog is alongside the horse.,shift,6
+val_Spatial_Reasoning_148_shift2,val_Spatial_Reasoning_148,The dog is alongside the horse.,shift,4
+val_Spatial_Reasoning_148_bw1,val_Spatial_Reasoning_148,The dog is alongside the horse.,bw,NA
+val_Spatial_Reasoning_148_bw2,val_Spatial_Reasoning_148,The dog is alongside the horse.,bw,NA
+val_Spatial_Reasoning_149_contrast1,val_Spatial_Reasoning_149,The dog is opposite to the horse.,contrast,8
+val_Spatial_Reasoning_149_contrast2,val_Spatial_Reasoning_149,The dog is opposite to the horse.,contrast,5
+val_Spatial_Reasoning_149_blur1,val_Spatial_Reasoning_149,The dog is opposite to the horse.,blur,8
+val_Spatial_Reasoning_149_blur2,val_Spatial_Reasoning_149,The dog is opposite to the horse.,blur,5
+val_Spatial_Reasoning_149_noise1,val_Spatial_Reasoning_149,The dog is opposite to the horse.,noise,9
+val_Spatial_Reasoning_149_noise2,val_Spatial_Reasoning_149,The dog is opposite to the horse.,noise,6
+val_Spatial_Reasoning_149_masking1,val_Spatial_Reasoning_149,The dog is opposite to the horse.,masking,9
+val_Spatial_Reasoning_149_masking2,val_Spatial_Reasoning_149,The dog is opposite to the horse.,masking,6
+val_Spatial_Reasoning_149_rotate1,val_Spatial_Reasoning_149,The dog is opposite to the horse.,rotate,8
+val_Spatial_Reasoning_149_rotate2,val_Spatial_Reasoning_149,The dog is opposite to the horse.,rotate,5
+val_Spatial_Reasoning_149_shift1,val_Spatial_Reasoning_149,The dog is opposite to the horse.,shift,8
+val_Spatial_Reasoning_149_shift2,val_Spatial_Reasoning_149,The dog is opposite to the horse.,shift,5
+val_Spatial_Reasoning_149_bw1,val_Spatial_Reasoning_149,The dog is opposite to the horse.,bw,NA
+val_Spatial_Reasoning_149_bw2,val_Spatial_Reasoning_149,The dog is opposite to the horse.,bw,NA
+val_Spatial_Reasoning_150_contrast1,val_Spatial_Reasoning_150,The dog is by the frisbee.,contrast,7
+val_Spatial_Reasoning_150_contrast2,val_Spatial_Reasoning_150,The dog is by the frisbee.,contrast,3
+val_Spatial_Reasoning_150_blur1,val_Spatial_Reasoning_150,The dog is by the frisbee.,blur,7
+val_Spatial_Reasoning_150_blur2,val_Spatial_Reasoning_150,The dog is by the frisbee.,blur,3
+val_Spatial_Reasoning_150_noise1,val_Spatial_Reasoning_150,The dog is by the frisbee.,noise,10
+val_Spatial_Reasoning_150_noise2,val_Spatial_Reasoning_150,The dog is by the frisbee.,noise,7
+val_Spatial_Reasoning_150_masking1,val_Spatial_Reasoning_150,The dog is by the frisbee.,masking,10
+val_Spatial_Reasoning_150_masking2,val_Spatial_Reasoning_150,The dog is by the frisbee.,masking,7
+val_Spatial_Reasoning_150_rotate1,val_Spatial_Reasoning_150,The dog is by the frisbee.,rotate,7
+val_Spatial_Reasoning_150_rotate2,val_Spatial_Reasoning_150,The dog is by the frisbee.,rotate,3
+val_Spatial_Reasoning_150_shift1,val_Spatial_Reasoning_150,The dog is by the frisbee.,shift,7
+val_Spatial_Reasoning_150_shift2,val_Spatial_Reasoning_150,The dog is by the frisbee.,shift,3
+val_Spatial_Reasoning_150_bw1,val_Spatial_Reasoning_150,The dog is by the frisbee.,bw,NA
+val_Spatial_Reasoning_150_bw2,val_Spatial_Reasoning_150,The dog is by the frisbee.,bw,NA
+val_Spatial_Reasoning_151_contrast1,val_Spatial_Reasoning_151,The bench is below the dog.,contrast,8
+val_Spatial_Reasoning_151_contrast2,val_Spatial_Reasoning_151,The bench is below the dog.,contrast,7
+val_Spatial_Reasoning_151_blur1,val_Spatial_Reasoning_151,The bench is below the dog.,blur,8
+val_Spatial_Reasoning_151_blur2,val_Spatial_Reasoning_151,The bench is below the dog.,blur,7
+val_Spatial_Reasoning_151_noise1,val_Spatial_Reasoning_151,The bench is below the dog.,noise,9
+val_Spatial_Reasoning_151_noise2,val_Spatial_Reasoning_151,The bench is below the dog.,noise,6
+val_Spatial_Reasoning_151_masking1,val_Spatial_Reasoning_151,The bench is below the dog.,masking,9
+val_Spatial_Reasoning_151_masking2,val_Spatial_Reasoning_151,The bench is below the dog.,masking,6
+val_Spatial_Reasoning_151_rotate1,val_Spatial_Reasoning_151,The bench is below the dog.,rotate,8
+val_Spatial_Reasoning_151_rotate2,val_Spatial_Reasoning_151,The bench is below the dog.,rotate,7
+val_Spatial_Reasoning_151_shift1,val_Spatial_Reasoning_151,The bench is below the dog.,shift,8
+val_Spatial_Reasoning_151_shift2,val_Spatial_Reasoning_151,The bench is below the dog.,shift,7
+val_Spatial_Reasoning_151_bw1,val_Spatial_Reasoning_151,The bench is below the dog.,bw,NA
+val_Spatial_Reasoning_151_bw2,val_Spatial_Reasoning_151,The bench is below the dog.,bw,NA
+val_Spatial_Reasoning_152_contrast1,val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.,contrast,4
+val_Spatial_Reasoning_152_contrast2,val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.,contrast,5
+val_Spatial_Reasoning_152_blur1,val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.,blur,4
+val_Spatial_Reasoning_152_blur2,val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.,blur,5
+val_Spatial_Reasoning_152_noise1,val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.,noise,6
+val_Spatial_Reasoning_152_noise2,val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.,noise,9
+val_Spatial_Reasoning_152_masking1,val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.,masking,6
+val_Spatial_Reasoning_152_masking2,val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.,masking,9
+val_Spatial_Reasoning_152_rotate1,val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.,rotate,4
+val_Spatial_Reasoning_152_rotate2,val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.,rotate,5
+val_Spatial_Reasoning_152_shift1,val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.,shift,4
+val_Spatial_Reasoning_152_shift2,val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.,shift,5
+val_Spatial_Reasoning_152_bw1,val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.,bw,NA
+val_Spatial_Reasoning_152_bw2,val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.,bw,NA
+val_Spatial_Reasoning_153_contrast1,val_Spatial_Reasoning_153,The laptop is under the train.,contrast,7
+val_Spatial_Reasoning_153_contrast2,val_Spatial_Reasoning_153,The laptop is under the train.,contrast,3
+val_Spatial_Reasoning_153_blur1,val_Spatial_Reasoning_153,The laptop is under the train.,blur,7
+val_Spatial_Reasoning_153_blur2,val_Spatial_Reasoning_153,The laptop is under the train.,blur,3
+val_Spatial_Reasoning_153_noise1,val_Spatial_Reasoning_153,The laptop is under the train.,noise,9
+val_Spatial_Reasoning_153_noise2,val_Spatial_Reasoning_153,The laptop is under the train.,noise,7
+val_Spatial_Reasoning_153_masking1,val_Spatial_Reasoning_153,The laptop is under the train.,masking,9
+val_Spatial_Reasoning_153_masking2,val_Spatial_Reasoning_153,The laptop is under the train.,masking,7
+val_Spatial_Reasoning_153_rotate1,val_Spatial_Reasoning_153,The laptop is under the train.,rotate,7
+val_Spatial_Reasoning_153_rotate2,val_Spatial_Reasoning_153,The laptop is under the train.,rotate,3
+val_Spatial_Reasoning_153_shift1,val_Spatial_Reasoning_153,The laptop is under the train.,shift,7
+val_Spatial_Reasoning_153_shift2,val_Spatial_Reasoning_153,The laptop is under the train.,shift,3
+val_Spatial_Reasoning_153_bw1,val_Spatial_Reasoning_153,The laptop is under the train.,bw,NA
+val_Spatial_Reasoning_153_bw2,val_Spatial_Reasoning_153,The laptop is under the train.,bw,NA
+val_Spatial_Reasoning_154_contrast1,val_Spatial_Reasoning_154,The laptop is inside the train.,contrast,6
+val_Spatial_Reasoning_154_contrast2,val_Spatial_Reasoning_154,The laptop is inside the train.,contrast,3
+val_Spatial_Reasoning_154_blur1,val_Spatial_Reasoning_154,The laptop is inside the train.,blur,6
+val_Spatial_Reasoning_154_blur2,val_Spatial_Reasoning_154,The laptop is inside the train.,blur,3
+val_Spatial_Reasoning_154_noise1,val_Spatial_Reasoning_154,The laptop is inside the train.,noise,5
+val_Spatial_Reasoning_154_noise2,val_Spatial_Reasoning_154,The laptop is inside the train.,noise,7
+val_Spatial_Reasoning_154_masking1,val_Spatial_Reasoning_154,The laptop is inside the train.,masking,5
+val_Spatial_Reasoning_154_masking2,val_Spatial_Reasoning_154,The laptop is inside the train.,masking,7
+val_Spatial_Reasoning_154_rotate1,val_Spatial_Reasoning_154,The laptop is inside the train.,rotate,6
+val_Spatial_Reasoning_154_rotate2,val_Spatial_Reasoning_154,The laptop is inside the train.,rotate,3
+val_Spatial_Reasoning_154_shift1,val_Spatial_Reasoning_154,The laptop is inside the train.,shift,6
+val_Spatial_Reasoning_154_shift2,val_Spatial_Reasoning_154,The laptop is inside the train.,shift,3
+val_Spatial_Reasoning_154_bw1,val_Spatial_Reasoning_154,The laptop is inside the train.,bw,NA
+val_Spatial_Reasoning_154_bw2,val_Spatial_Reasoning_154,The laptop is inside the train.,bw,NA
+val_Spatial_Reasoning_155_contrast1,val_Spatial_Reasoning_155,The dog is on the motorcycle.,contrast,5
+val_Spatial_Reasoning_155_contrast2,val_Spatial_Reasoning_155,The dog is on the motorcycle.,contrast,4
+val_Spatial_Reasoning_155_blur1,val_Spatial_Reasoning_155,The dog is on the motorcycle.,blur,5
+val_Spatial_Reasoning_155_blur2,val_Spatial_Reasoning_155,The dog is on the motorcycle.,blur,4
+val_Spatial_Reasoning_155_noise1,val_Spatial_Reasoning_155,The dog is on the motorcycle.,noise,5
+val_Spatial_Reasoning_155_noise2,val_Spatial_Reasoning_155,The dog is on the motorcycle.,noise,6
+val_Spatial_Reasoning_155_masking1,val_Spatial_Reasoning_155,The dog is on the motorcycle.,masking,5
+val_Spatial_Reasoning_155_masking2,val_Spatial_Reasoning_155,The dog is on the motorcycle.,masking,6
+val_Spatial_Reasoning_155_rotate1,val_Spatial_Reasoning_155,The dog is on the motorcycle.,rotate,5
+val_Spatial_Reasoning_155_rotate2,val_Spatial_Reasoning_155,The dog is on the motorcycle.,rotate,4
+val_Spatial_Reasoning_155_shift1,val_Spatial_Reasoning_155,The dog is on the motorcycle.,shift,5
+val_Spatial_Reasoning_155_shift2,val_Spatial_Reasoning_155,The dog is on the motorcycle.,shift,4
+val_Spatial_Reasoning_155_bw1,val_Spatial_Reasoning_155,The dog is on the motorcycle.,bw,NA
+val_Spatial_Reasoning_155_bw2,val_Spatial_Reasoning_155,The dog is on the motorcycle.,bw,NA
+val_Spatial_Reasoning_156_contrast1,val_Spatial_Reasoning_156,The train is behind the motorcycle.,contrast,7
+val_Spatial_Reasoning_156_contrast2,val_Spatial_Reasoning_156,The train is behind the motorcycle.,contrast,3
+val_Spatial_Reasoning_156_blur1,val_Spatial_Reasoning_156,The train is behind the motorcycle.,blur,7
+val_Spatial_Reasoning_156_blur2,val_Spatial_Reasoning_156,The train is behind the motorcycle.,blur,3
+val_Spatial_Reasoning_156_noise1,val_Spatial_Reasoning_156,The train is behind the motorcycle.,noise,5
+val_Spatial_Reasoning_156_noise2,val_Spatial_Reasoning_156,The train is behind the motorcycle.,noise,8
+val_Spatial_Reasoning_156_masking1,val_Spatial_Reasoning_156,The train is behind the motorcycle.,masking,5
+val_Spatial_Reasoning_156_masking2,val_Spatial_Reasoning_156,The train is behind the motorcycle.,masking,8
+val_Spatial_Reasoning_156_rotate1,val_Spatial_Reasoning_156,The train is behind the motorcycle.,rotate,7
+val_Spatial_Reasoning_156_rotate2,val_Spatial_Reasoning_156,The train is behind the motorcycle.,rotate,3
+val_Spatial_Reasoning_156_shift1,val_Spatial_Reasoning_156,The train is behind the motorcycle.,shift,7
+val_Spatial_Reasoning_156_shift2,val_Spatial_Reasoning_156,The train is behind the motorcycle.,shift,3
+val_Spatial_Reasoning_156_bw1,val_Spatial_Reasoning_156,The train is behind the motorcycle.,bw,NA
+val_Spatial_Reasoning_156_bw2,val_Spatial_Reasoning_156,The train is behind the motorcycle.,bw,NA
+val_Spatial_Reasoning_157_contrast1,val_Spatial_Reasoning_157,The chair is under the dog.,contrast,3
+val_Spatial_Reasoning_157_contrast2,val_Spatial_Reasoning_157,The chair is under the dog.,contrast,7
+val_Spatial_Reasoning_157_blur1,val_Spatial_Reasoning_157,The chair is under the dog.,blur,3
+val_Spatial_Reasoning_157_blur2,val_Spatial_Reasoning_157,The chair is under the dog.,blur,7
+val_Spatial_Reasoning_157_noise1,val_Spatial_Reasoning_157,The chair is under the dog.,noise,6
+val_Spatial_Reasoning_157_noise2,val_Spatial_Reasoning_157,The chair is under the dog.,noise,10
+val_Spatial_Reasoning_157_masking1,val_Spatial_Reasoning_157,The chair is under the dog.,masking,6
+val_Spatial_Reasoning_157_masking2,val_Spatial_Reasoning_157,The chair is under the dog.,masking,10
+val_Spatial_Reasoning_157_rotate1,val_Spatial_Reasoning_157,The chair is under the dog.,rotate,3
+val_Spatial_Reasoning_157_rotate2,val_Spatial_Reasoning_157,The chair is under the dog.,rotate,7
+val_Spatial_Reasoning_157_shift1,val_Spatial_Reasoning_157,The chair is under the dog.,shift,3
+val_Spatial_Reasoning_157_shift2,val_Spatial_Reasoning_157,The chair is under the dog.,shift,7
+val_Spatial_Reasoning_157_bw1,val_Spatial_Reasoning_157,The chair is under the dog.,bw,NA
+val_Spatial_Reasoning_157_bw2,val_Spatial_Reasoning_157,The chair is under the dog.,bw,NA
+val_Spatial_Reasoning_158_contrast1,val_Spatial_Reasoning_158,The chair is touching the handbag.,contrast,8
+val_Spatial_Reasoning_158_contrast2,val_Spatial_Reasoning_158,The chair is touching the handbag.,contrast,6
+val_Spatial_Reasoning_158_blur1,val_Spatial_Reasoning_158,The chair is touching the handbag.,blur,8
+val_Spatial_Reasoning_158_blur2,val_Spatial_Reasoning_158,The chair is touching the handbag.,blur,6
+val_Spatial_Reasoning_158_noise1,val_Spatial_Reasoning_158,The chair is touching the handbag.,noise,9
+val_Spatial_Reasoning_158_noise2,val_Spatial_Reasoning_158,The chair is touching the handbag.,noise,6
+val_Spatial_Reasoning_158_masking1,val_Spatial_Reasoning_158,The chair is touching the handbag.,masking,9
+val_Spatial_Reasoning_158_masking2,val_Spatial_Reasoning_158,The chair is touching the handbag.,masking,6
+val_Spatial_Reasoning_158_rotate1,val_Spatial_Reasoning_158,The chair is touching the handbag.,rotate,8
+val_Spatial_Reasoning_158_rotate2,val_Spatial_Reasoning_158,The chair is touching the handbag.,rotate,6
+val_Spatial_Reasoning_158_shift1,val_Spatial_Reasoning_158,The chair is touching the handbag.,shift,8
+val_Spatial_Reasoning_158_shift2,val_Spatial_Reasoning_158,The chair is touching the handbag.,shift,6
+val_Spatial_Reasoning_158_bw1,val_Spatial_Reasoning_158,The chair is touching the handbag.,bw,NA
+val_Spatial_Reasoning_158_bw2,val_Spatial_Reasoning_158,The chair is touching the handbag.,bw,NA
+val_Spatial_Reasoning_159_contrast1,val_Spatial_Reasoning_159,The train is near the laptop.,contrast,5
+val_Spatial_Reasoning_159_contrast2,val_Spatial_Reasoning_159,The train is near the laptop.,contrast,7
+val_Spatial_Reasoning_159_blur1,val_Spatial_Reasoning_159,The train is near the laptop.,blur,5
+val_Spatial_Reasoning_159_blur2,val_Spatial_Reasoning_159,The train is near the laptop.,blur,7
+val_Spatial_Reasoning_159_noise1,val_Spatial_Reasoning_159,The train is near the laptop.,noise,9
+val_Spatial_Reasoning_159_noise2,val_Spatial_Reasoning_159,The train is near the laptop.,noise,8
+val_Spatial_Reasoning_159_masking1,val_Spatial_Reasoning_159,The train is near the laptop.,masking,9
+val_Spatial_Reasoning_159_masking2,val_Spatial_Reasoning_159,The train is near the laptop.,masking,8
+val_Spatial_Reasoning_159_rotate1,val_Spatial_Reasoning_159,The train is near the laptop.,rotate,5
+val_Spatial_Reasoning_159_rotate2,val_Spatial_Reasoning_159,The train is near the laptop.,rotate,7
+val_Spatial_Reasoning_159_shift1,val_Spatial_Reasoning_159,The train is near the laptop.,shift,5
+val_Spatial_Reasoning_159_shift2,val_Spatial_Reasoning_159,The train is near the laptop.,shift,7
+val_Spatial_Reasoning_159_bw1,val_Spatial_Reasoning_159,The train is near the laptop.,bw,NA
+val_Spatial_Reasoning_159_bw2,val_Spatial_Reasoning_159,The train is near the laptop.,bw,NA
+val_Spatial_Reasoning_160_contrast1,val_Spatial_Reasoning_160,The zebra is left of the horse.,contrast,4
+val_Spatial_Reasoning_160_contrast2,val_Spatial_Reasoning_160,The zebra is left of the horse.,contrast,7
+val_Spatial_Reasoning_160_blur1,val_Spatial_Reasoning_160,The zebra is left of the horse.,blur,4
+val_Spatial_Reasoning_160_blur2,val_Spatial_Reasoning_160,The zebra is left of the horse.,blur,7
+val_Spatial_Reasoning_160_noise1,val_Spatial_Reasoning_160,The zebra is left of the horse.,noise,10
+val_Spatial_Reasoning_160_noise2,val_Spatial_Reasoning_160,The zebra is left of the horse.,noise,6
+val_Spatial_Reasoning_160_masking1,val_Spatial_Reasoning_160,The zebra is left of the horse.,masking,10
+val_Spatial_Reasoning_160_masking2,val_Spatial_Reasoning_160,The zebra is left of the horse.,masking,6
+val_Spatial_Reasoning_160_rotate1,val_Spatial_Reasoning_160,The zebra is left of the horse.,rotate,4
+val_Spatial_Reasoning_160_rotate2,val_Spatial_Reasoning_160,The zebra is left of the horse.,rotate,7
+val_Spatial_Reasoning_160_shift1,val_Spatial_Reasoning_160,The zebra is left of the horse.,shift,4
+val_Spatial_Reasoning_160_shift2,val_Spatial_Reasoning_160,The zebra is left of the horse.,shift,7
+val_Spatial_Reasoning_160_bw1,val_Spatial_Reasoning_160,The zebra is left of the horse.,bw,NA
+val_Spatial_Reasoning_160_bw2,val_Spatial_Reasoning_160,The zebra is left of the horse.,bw,NA
+val_Spatial_Reasoning_161_contrast1,val_Spatial_Reasoning_161,The dog is far from the bench.,contrast,8
+val_Spatial_Reasoning_161_contrast2,val_Spatial_Reasoning_161,The dog is far from the bench.,contrast,5
+val_Spatial_Reasoning_161_blur1,val_Spatial_Reasoning_161,The dog is far from the bench.,blur,8
+val_Spatial_Reasoning_161_blur2,val_Spatial_Reasoning_161,The dog is far from the bench.,blur,5
+val_Spatial_Reasoning_161_noise1,val_Spatial_Reasoning_161,The dog is far from the bench.,noise,8
+val_Spatial_Reasoning_161_noise2,val_Spatial_Reasoning_161,The dog is far from the bench.,noise,7
+val_Spatial_Reasoning_161_masking1,val_Spatial_Reasoning_161,The dog is far from the bench.,masking,8
+val_Spatial_Reasoning_161_masking2,val_Spatial_Reasoning_161,The dog is far from the bench.,masking,7
+val_Spatial_Reasoning_161_rotate1,val_Spatial_Reasoning_161,The dog is far from the bench.,rotate,8
+val_Spatial_Reasoning_161_rotate2,val_Spatial_Reasoning_161,The dog is far from the bench.,rotate,5
+val_Spatial_Reasoning_161_shift1,val_Spatial_Reasoning_161,The dog is far from the bench.,shift,8
+val_Spatial_Reasoning_161_shift2,val_Spatial_Reasoning_161,The dog is far from the bench.,shift,5
+val_Spatial_Reasoning_161_bw1,val_Spatial_Reasoning_161,The dog is far from the bench.,bw,NA
+val_Spatial_Reasoning_161_bw2,val_Spatial_Reasoning_161,The dog is far from the bench.,bw,NA
+val_Spatial_Reasoning_162_contrast1,val_Spatial_Reasoning_162,The dog is under the chair.,contrast,6
+val_Spatial_Reasoning_162_contrast2,val_Spatial_Reasoning_162,The dog is under the chair.,contrast,7
+val_Spatial_Reasoning_162_blur1,val_Spatial_Reasoning_162,The dog is under the chair.,blur,6
+val_Spatial_Reasoning_162_blur2,val_Spatial_Reasoning_162,The dog is under the chair.,blur,7
+val_Spatial_Reasoning_162_noise1,val_Spatial_Reasoning_162,The dog is under the chair.,noise,8
+val_Spatial_Reasoning_162_noise2,val_Spatial_Reasoning_162,The dog is under the chair.,noise,5
+val_Spatial_Reasoning_162_masking1,val_Spatial_Reasoning_162,The dog is under the chair.,masking,8
+val_Spatial_Reasoning_162_masking2,val_Spatial_Reasoning_162,The dog is under the chair.,masking,5
+val_Spatial_Reasoning_162_rotate1,val_Spatial_Reasoning_162,The dog is under the chair.,rotate,6
+val_Spatial_Reasoning_162_rotate2,val_Spatial_Reasoning_162,The dog is under the chair.,rotate,7
+val_Spatial_Reasoning_162_shift1,val_Spatial_Reasoning_162,The dog is under the chair.,shift,6
+val_Spatial_Reasoning_162_shift2,val_Spatial_Reasoning_162,The dog is under the chair.,shift,7
+val_Spatial_Reasoning_162_bw1,val_Spatial_Reasoning_162,The dog is under the chair.,bw,NA
+val_Spatial_Reasoning_162_bw2,val_Spatial_Reasoning_162,The dog is under the chair.,bw,NA
+val_Spatial_Reasoning_163_contrast1,val_Spatial_Reasoning_163,The dog is at the right side of the bench.,contrast,4
+val_Spatial_Reasoning_163_contrast2,val_Spatial_Reasoning_163,The dog is at the right side of the bench.,contrast,8
+val_Spatial_Reasoning_163_blur1,val_Spatial_Reasoning_163,The dog is at the right side of the bench.,blur,4
+val_Spatial_Reasoning_163_blur2,val_Spatial_Reasoning_163,The dog is at the right side of the bench.,blur,8
+val_Spatial_Reasoning_163_noise1,val_Spatial_Reasoning_163,The dog is at the right side of the bench.,noise,5
+val_Spatial_Reasoning_163_noise2,val_Spatial_Reasoning_163,The dog is at the right side of the bench.,noise,7
+val_Spatial_Reasoning_163_masking1,val_Spatial_Reasoning_163,The dog is at the right side of the bench.,masking,5
+val_Spatial_Reasoning_163_masking2,val_Spatial_Reasoning_163,The dog is at the right side of the bench.,masking,7
+val_Spatial_Reasoning_163_rotate1,val_Spatial_Reasoning_163,The dog is at the right side of the bench.,rotate,4
+val_Spatial_Reasoning_163_rotate2,val_Spatial_Reasoning_163,The dog is at the right side of the bench.,rotate,8
+val_Spatial_Reasoning_163_shift1,val_Spatial_Reasoning_163,The dog is at the right side of the bench.,shift,4
+val_Spatial_Reasoning_163_shift2,val_Spatial_Reasoning_163,The dog is at the right side of the bench.,shift,8
+val_Spatial_Reasoning_163_bw1,val_Spatial_Reasoning_163,The dog is at the right side of the bench.,bw,NA
+val_Spatial_Reasoning_163_bw2,val_Spatial_Reasoning_163,The dog is at the right side of the bench.,bw,NA
+val_Spatial_Reasoning_164_contrast1,val_Spatial_Reasoning_164,The dog is touching the laptop.,contrast,3
+val_Spatial_Reasoning_164_contrast2,val_Spatial_Reasoning_164,The dog is touching the laptop.,contrast,7
+val_Spatial_Reasoning_164_blur1,val_Spatial_Reasoning_164,The dog is touching the laptop.,blur,3
+val_Spatial_Reasoning_164_blur2,val_Spatial_Reasoning_164,The dog is touching the laptop.,blur,7
+val_Spatial_Reasoning_164_noise1,val_Spatial_Reasoning_164,The dog is touching the laptop.,noise,9
+val_Spatial_Reasoning_164_noise2,val_Spatial_Reasoning_164,The dog is touching the laptop.,noise,6
+val_Spatial_Reasoning_164_masking1,val_Spatial_Reasoning_164,The dog is touching the laptop.,masking,9
+val_Spatial_Reasoning_164_masking2,val_Spatial_Reasoning_164,The dog is touching the laptop.,masking,6
+val_Spatial_Reasoning_164_rotate1,val_Spatial_Reasoning_164,The dog is touching the laptop.,rotate,3
+val_Spatial_Reasoning_164_rotate2,val_Spatial_Reasoning_164,The dog is touching the laptop.,rotate,7
+val_Spatial_Reasoning_164_shift1,val_Spatial_Reasoning_164,The dog is touching the laptop.,shift,3
+val_Spatial_Reasoning_164_shift2,val_Spatial_Reasoning_164,The dog is touching the laptop.,shift,7
+val_Spatial_Reasoning_164_bw1,val_Spatial_Reasoning_164,The dog is touching the laptop.,bw,NA
+val_Spatial_Reasoning_164_bw2,val_Spatial_Reasoning_164,The dog is touching the laptop.,bw,NA
+val_Spatial_Reasoning_165_contrast1,val_Spatial_Reasoning_165,The dog is facing the wine glass.,contrast,7
+val_Spatial_Reasoning_165_contrast2,val_Spatial_Reasoning_165,The dog is facing the wine glass.,contrast,4
+val_Spatial_Reasoning_165_blur1,val_Spatial_Reasoning_165,The dog is facing the wine glass.,blur,7
+val_Spatial_Reasoning_165_blur2,val_Spatial_Reasoning_165,The dog is facing the wine glass.,blur,4
+val_Spatial_Reasoning_165_noise1,val_Spatial_Reasoning_165,The dog is facing the wine glass.,noise,5
+val_Spatial_Reasoning_165_noise2,val_Spatial_Reasoning_165,The dog is facing the wine glass.,noise,10
+val_Spatial_Reasoning_165_masking1,val_Spatial_Reasoning_165,The dog is facing the wine glass.,masking,5
+val_Spatial_Reasoning_165_masking2,val_Spatial_Reasoning_165,The dog is facing the wine glass.,masking,10
+val_Spatial_Reasoning_165_rotate1,val_Spatial_Reasoning_165,The dog is facing the wine glass.,rotate,7
+val_Spatial_Reasoning_165_rotate2,val_Spatial_Reasoning_165,The dog is facing the wine glass.,rotate,4
+val_Spatial_Reasoning_165_shift1,val_Spatial_Reasoning_165,The dog is facing the wine glass.,shift,7
+val_Spatial_Reasoning_165_shift2,val_Spatial_Reasoning_165,The dog is facing the wine glass.,shift,4
+val_Spatial_Reasoning_165_bw1,val_Spatial_Reasoning_165,The dog is facing the wine glass.,bw,NA
+val_Spatial_Reasoning_165_bw2,val_Spatial_Reasoning_165,The dog is facing the wine glass.,bw,NA
+val_Spatial_Reasoning_166_contrast1,val_Spatial_Reasoning_166,The laptop is under the train.,contrast,8
+val_Spatial_Reasoning_166_contrast2,val_Spatial_Reasoning_166,The laptop is under the train.,contrast,3
+val_Spatial_Reasoning_166_blur1,val_Spatial_Reasoning_166,The laptop is under the train.,blur,8
+val_Spatial_Reasoning_166_blur2,val_Spatial_Reasoning_166,The laptop is under the train.,blur,3
+val_Spatial_Reasoning_166_noise1,val_Spatial_Reasoning_166,The laptop is under the train.,noise,6
+val_Spatial_Reasoning_166_noise2,val_Spatial_Reasoning_166,The laptop is under the train.,noise,5
+val_Spatial_Reasoning_166_masking1,val_Spatial_Reasoning_166,The laptop is under the train.,masking,6
+val_Spatial_Reasoning_166_masking2,val_Spatial_Reasoning_166,The laptop is under the train.,masking,5
+val_Spatial_Reasoning_166_rotate1,val_Spatial_Reasoning_166,The laptop is under the train.,rotate,8
+val_Spatial_Reasoning_166_rotate2,val_Spatial_Reasoning_166,The laptop is under the train.,rotate,3
+val_Spatial_Reasoning_166_shift1,val_Spatial_Reasoning_166,The laptop is under the train.,shift,8
+val_Spatial_Reasoning_166_shift2,val_Spatial_Reasoning_166,The laptop is under the train.,shift,3
+val_Spatial_Reasoning_166_bw1,val_Spatial_Reasoning_166,The laptop is under the train.,bw,NA
+val_Spatial_Reasoning_166_bw2,val_Spatial_Reasoning_166,The laptop is under the train.,bw,NA
+val_Spatial_Reasoning_167_contrast1,val_Spatial_Reasoning_167,The bench is below the dog.,contrast,3
+val_Spatial_Reasoning_167_contrast2,val_Spatial_Reasoning_167,The bench is below the dog.,contrast,5
+val_Spatial_Reasoning_167_blur1,val_Spatial_Reasoning_167,The bench is below the dog.,blur,3
+val_Spatial_Reasoning_167_blur2,val_Spatial_Reasoning_167,The bench is below the dog.,blur,5
+val_Spatial_Reasoning_167_noise1,val_Spatial_Reasoning_167,The bench is below the dog.,noise,5
+val_Spatial_Reasoning_167_noise2,val_Spatial_Reasoning_167,The bench is below the dog.,noise,9
+val_Spatial_Reasoning_167_masking1,val_Spatial_Reasoning_167,The bench is below the dog.,masking,5
+val_Spatial_Reasoning_167_masking2,val_Spatial_Reasoning_167,The bench is below the dog.,masking,9
+val_Spatial_Reasoning_167_rotate1,val_Spatial_Reasoning_167,The bench is below the dog.,rotate,3
+val_Spatial_Reasoning_167_rotate2,val_Spatial_Reasoning_167,The bench is below the dog.,rotate,5
+val_Spatial_Reasoning_167_shift1,val_Spatial_Reasoning_167,The bench is below the dog.,shift,3
+val_Spatial_Reasoning_167_shift2,val_Spatial_Reasoning_167,The bench is below the dog.,shift,5
+val_Spatial_Reasoning_167_bw1,val_Spatial_Reasoning_167,The bench is below the dog.,bw,NA
+val_Spatial_Reasoning_167_bw2,val_Spatial_Reasoning_167,The bench is below the dog.,bw,NA
+val_Spatial_Reasoning_168_contrast1,val_Spatial_Reasoning_168,The chair is beneath the horse.,contrast,4
+val_Spatial_Reasoning_168_contrast2,val_Spatial_Reasoning_168,The chair is beneath the horse.,contrast,5
+val_Spatial_Reasoning_168_blur1,val_Spatial_Reasoning_168,The chair is beneath the horse.,blur,4
+val_Spatial_Reasoning_168_blur2,val_Spatial_Reasoning_168,The chair is beneath the horse.,blur,5
+val_Spatial_Reasoning_168_noise1,val_Spatial_Reasoning_168,The chair is beneath the horse.,noise,10
+val_Spatial_Reasoning_168_noise2,val_Spatial_Reasoning_168,The chair is beneath the horse.,noise,8
+val_Spatial_Reasoning_168_masking1,val_Spatial_Reasoning_168,The chair is beneath the horse.,masking,10
+val_Spatial_Reasoning_168_masking2,val_Spatial_Reasoning_168,The chair is beneath the horse.,masking,8
+val_Spatial_Reasoning_168_rotate1,val_Spatial_Reasoning_168,The chair is beneath the horse.,rotate,4
+val_Spatial_Reasoning_168_rotate2,val_Spatial_Reasoning_168,The chair is beneath the horse.,rotate,5
+val_Spatial_Reasoning_168_shift1,val_Spatial_Reasoning_168,The chair is beneath the horse.,shift,4
+val_Spatial_Reasoning_168_shift2,val_Spatial_Reasoning_168,The chair is beneath the horse.,shift,5
+val_Spatial_Reasoning_168_bw1,val_Spatial_Reasoning_168,The chair is beneath the horse.,bw,NA
+val_Spatial_Reasoning_168_bw2,val_Spatial_Reasoning_168,The chair is beneath the horse.,bw,NA
+val_Spatial_Reasoning_169_contrast1,val_Spatial_Reasoning_169,The chair is away from the horse.,contrast,4
+val_Spatial_Reasoning_169_contrast2,val_Spatial_Reasoning_169,The chair is away from the horse.,contrast,7
+val_Spatial_Reasoning_169_blur1,val_Spatial_Reasoning_169,The chair is away from the horse.,blur,4
+val_Spatial_Reasoning_169_blur2,val_Spatial_Reasoning_169,The chair is away from the horse.,blur,7
+val_Spatial_Reasoning_169_noise1,val_Spatial_Reasoning_169,The chair is away from the horse.,noise,6
+val_Spatial_Reasoning_169_noise2,val_Spatial_Reasoning_169,The chair is away from the horse.,noise,9
+val_Spatial_Reasoning_169_masking1,val_Spatial_Reasoning_169,The chair is away from the horse.,masking,6
+val_Spatial_Reasoning_169_masking2,val_Spatial_Reasoning_169,The chair is away from the horse.,masking,9
+val_Spatial_Reasoning_169_rotate1,val_Spatial_Reasoning_169,The chair is away from the horse.,rotate,4
+val_Spatial_Reasoning_169_rotate2,val_Spatial_Reasoning_169,The chair is away from the horse.,rotate,7
+val_Spatial_Reasoning_169_shift1,val_Spatial_Reasoning_169,The chair is away from the horse.,shift,4
+val_Spatial_Reasoning_169_shift2,val_Spatial_Reasoning_169,The chair is away from the horse.,shift,7
+val_Spatial_Reasoning_169_bw1,val_Spatial_Reasoning_169,The chair is away from the horse.,bw,NA
+val_Spatial_Reasoning_169_bw2,val_Spatial_Reasoning_169,The chair is away from the horse.,bw,NA
+val_Spatial_Reasoning_170_contrast1,val_Spatial_Reasoning_170,The motorcycle is by the dog.,contrast,7
+val_Spatial_Reasoning_170_contrast2,val_Spatial_Reasoning_170,The motorcycle is by the dog.,contrast,6
+val_Spatial_Reasoning_170_blur1,val_Spatial_Reasoning_170,The motorcycle is by the dog.,blur,7
+val_Spatial_Reasoning_170_blur2,val_Spatial_Reasoning_170,The motorcycle is by the dog.,blur,6
+val_Spatial_Reasoning_170_noise1,val_Spatial_Reasoning_170,The motorcycle is by the dog.,noise,6
+val_Spatial_Reasoning_170_noise2,val_Spatial_Reasoning_170,The motorcycle is by the dog.,noise,8
+val_Spatial_Reasoning_170_masking1,val_Spatial_Reasoning_170,The motorcycle is by the dog.,masking,6
+val_Spatial_Reasoning_170_masking2,val_Spatial_Reasoning_170,The motorcycle is by the dog.,masking,8
+val_Spatial_Reasoning_170_rotate1,val_Spatial_Reasoning_170,The motorcycle is by the dog.,rotate,7
+val_Spatial_Reasoning_170_rotate2,val_Spatial_Reasoning_170,The motorcycle is by the dog.,rotate,6
+val_Spatial_Reasoning_170_shift1,val_Spatial_Reasoning_170,The motorcycle is by the dog.,shift,7
+val_Spatial_Reasoning_170_shift2,val_Spatial_Reasoning_170,The motorcycle is by the dog.,shift,6
+val_Spatial_Reasoning_170_bw1,val_Spatial_Reasoning_170,The motorcycle is by the dog.,bw,NA
+val_Spatial_Reasoning_170_bw2,val_Spatial_Reasoning_170,The motorcycle is by the dog.,bw,NA
+val_Spatial_Reasoning_171_contrast1,val_Spatial_Reasoning_171,The dog is far from the surfboard.,contrast,6
+val_Spatial_Reasoning_171_contrast2,val_Spatial_Reasoning_171,The dog is far from the surfboard.,contrast,4
+val_Spatial_Reasoning_171_blur1,val_Spatial_Reasoning_171,The dog is far from the surfboard.,blur,6
+val_Spatial_Reasoning_171_blur2,val_Spatial_Reasoning_171,The dog is far from the surfboard.,blur,4
+val_Spatial_Reasoning_171_noise1,val_Spatial_Reasoning_171,The dog is far from the surfboard.,noise,5
+val_Spatial_Reasoning_171_noise2,val_Spatial_Reasoning_171,The dog is far from the surfboard.,noise,10
+val_Spatial_Reasoning_171_masking1,val_Spatial_Reasoning_171,The dog is far from the surfboard.,masking,5
+val_Spatial_Reasoning_171_masking2,val_Spatial_Reasoning_171,The dog is far from the surfboard.,masking,10
+val_Spatial_Reasoning_171_rotate1,val_Spatial_Reasoning_171,The dog is far from the surfboard.,rotate,6
+val_Spatial_Reasoning_171_rotate2,val_Spatial_Reasoning_171,The dog is far from the surfboard.,rotate,4
+val_Spatial_Reasoning_171_shift1,val_Spatial_Reasoning_171,The dog is far from the surfboard.,shift,6
+val_Spatial_Reasoning_171_shift2,val_Spatial_Reasoning_171,The dog is far from the surfboard.,shift,4
+val_Spatial_Reasoning_171_bw1,val_Spatial_Reasoning_171,The dog is far from the surfboard.,bw,NA
+val_Spatial_Reasoning_171_bw2,val_Spatial_Reasoning_171,The dog is far from the surfboard.,bw,NA
+val_Spatial_Reasoning_172_contrast1,val_Spatial_Reasoning_172,The laptop is on top of the bench.,contrast,8
+val_Spatial_Reasoning_172_contrast2,val_Spatial_Reasoning_172,The laptop is on top of the bench.,contrast,6
+val_Spatial_Reasoning_172_blur1,val_Spatial_Reasoning_172,The laptop is on top of the bench.,blur,8
+val_Spatial_Reasoning_172_blur2,val_Spatial_Reasoning_172,The laptop is on top of the bench.,blur,6
+val_Spatial_Reasoning_172_noise1,val_Spatial_Reasoning_172,The laptop is on top of the bench.,noise,7
+val_Spatial_Reasoning_172_noise2,val_Spatial_Reasoning_172,The laptop is on top of the bench.,noise,8
+val_Spatial_Reasoning_172_masking1,val_Spatial_Reasoning_172,The laptop is on top of the bench.,masking,7
+val_Spatial_Reasoning_172_masking2,val_Spatial_Reasoning_172,The laptop is on top of the bench.,masking,8
+val_Spatial_Reasoning_172_rotate1,val_Spatial_Reasoning_172,The laptop is on top of the bench.,rotate,8
+val_Spatial_Reasoning_172_rotate2,val_Spatial_Reasoning_172,The laptop is on top of the bench.,rotate,6
+val_Spatial_Reasoning_172_shift1,val_Spatial_Reasoning_172,The laptop is on top of the bench.,shift,8
+val_Spatial_Reasoning_172_shift2,val_Spatial_Reasoning_172,The laptop is on top of the bench.,shift,6
+val_Spatial_Reasoning_172_bw1,val_Spatial_Reasoning_172,The laptop is on top of the bench.,bw,NA
+val_Spatial_Reasoning_172_bw2,val_Spatial_Reasoning_172,The laptop is on top of the bench.,bw,NA
+val_Spatial_Reasoning_173_contrast1,val_Spatial_Reasoning_173,The refrigerator is right of the dog.,contrast,6
+val_Spatial_Reasoning_173_contrast2,val_Spatial_Reasoning_173,The refrigerator is right of the dog.,contrast,8
+val_Spatial_Reasoning_173_blur1,val_Spatial_Reasoning_173,The refrigerator is right of the dog.,blur,6
+val_Spatial_Reasoning_173_blur2,val_Spatial_Reasoning_173,The refrigerator is right of the dog.,blur,8
+val_Spatial_Reasoning_173_noise1,val_Spatial_Reasoning_173,The refrigerator is right of the dog.,noise,10
+val_Spatial_Reasoning_173_noise2,val_Spatial_Reasoning_173,The refrigerator is right of the dog.,noise,5
+val_Spatial_Reasoning_173_masking1,val_Spatial_Reasoning_173,The refrigerator is right of the dog.,masking,10
+val_Spatial_Reasoning_173_masking2,val_Spatial_Reasoning_173,The refrigerator is right of the dog.,masking,5
+val_Spatial_Reasoning_173_rotate1,val_Spatial_Reasoning_173,The refrigerator is right of the dog.,rotate,6
+val_Spatial_Reasoning_173_rotate2,val_Spatial_Reasoning_173,The refrigerator is right of the dog.,rotate,8
+val_Spatial_Reasoning_173_shift1,val_Spatial_Reasoning_173,The refrigerator is right of the dog.,shift,6
+val_Spatial_Reasoning_173_shift2,val_Spatial_Reasoning_173,The refrigerator is right of the dog.,shift,8
+val_Spatial_Reasoning_173_bw1,val_Spatial_Reasoning_173,The refrigerator is right of the dog.,bw,NA
+val_Spatial_Reasoning_173_bw2,val_Spatial_Reasoning_173,The refrigerator is right of the dog.,bw,NA
+val_Spatial_Reasoning_174_contrast1,val_Spatial_Reasoning_174,The motorcycle is under the dog.,contrast,8
+val_Spatial_Reasoning_174_contrast2,val_Spatial_Reasoning_174,The motorcycle is under the dog.,contrast,3
+val_Spatial_Reasoning_174_blur1,val_Spatial_Reasoning_174,The motorcycle is under the dog.,blur,8
+val_Spatial_Reasoning_174_blur2,val_Spatial_Reasoning_174,The motorcycle is under the dog.,blur,3
+val_Spatial_Reasoning_174_noise1,val_Spatial_Reasoning_174,The motorcycle is under the dog.,noise,5
+val_Spatial_Reasoning_174_noise2,val_Spatial_Reasoning_174,The motorcycle is under the dog.,noise,8
+val_Spatial_Reasoning_174_masking1,val_Spatial_Reasoning_174,The motorcycle is under the dog.,masking,5
+val_Spatial_Reasoning_174_masking2,val_Spatial_Reasoning_174,The motorcycle is under the dog.,masking,8
+val_Spatial_Reasoning_174_rotate1,val_Spatial_Reasoning_174,The motorcycle is under the dog.,rotate,8
+val_Spatial_Reasoning_174_rotate2,val_Spatial_Reasoning_174,The motorcycle is under the dog.,rotate,3
+val_Spatial_Reasoning_174_shift1,val_Spatial_Reasoning_174,The motorcycle is under the dog.,shift,8
+val_Spatial_Reasoning_174_shift2,val_Spatial_Reasoning_174,The motorcycle is under the dog.,shift,3
+val_Spatial_Reasoning_174_bw1,val_Spatial_Reasoning_174,The motorcycle is under the dog.,bw,NA
+val_Spatial_Reasoning_174_bw2,val_Spatial_Reasoning_174,The motorcycle is under the dog.,bw,NA
+val_Spatial_Reasoning_175_contrast1,val_Spatial_Reasoning_175,The laptop is facing the chair.,contrast,8
+val_Spatial_Reasoning_175_contrast2,val_Spatial_Reasoning_175,The laptop is facing the chair.,contrast,5
+val_Spatial_Reasoning_175_blur1,val_Spatial_Reasoning_175,The laptop is facing the chair.,blur,8
+val_Spatial_Reasoning_175_blur2,val_Spatial_Reasoning_175,The laptop is facing the chair.,blur,5
+val_Spatial_Reasoning_175_noise1,val_Spatial_Reasoning_175,The laptop is facing the chair.,noise,5
+val_Spatial_Reasoning_175_noise2,val_Spatial_Reasoning_175,The laptop is facing the chair.,noise,6
+val_Spatial_Reasoning_175_masking1,val_Spatial_Reasoning_175,The laptop is facing the chair.,masking,5
+val_Spatial_Reasoning_175_masking2,val_Spatial_Reasoning_175,The laptop is facing the chair.,masking,6
+val_Spatial_Reasoning_175_rotate1,val_Spatial_Reasoning_175,The laptop is facing the chair.,rotate,8
+val_Spatial_Reasoning_175_rotate2,val_Spatial_Reasoning_175,The laptop is facing the chair.,rotate,5
+val_Spatial_Reasoning_175_shift1,val_Spatial_Reasoning_175,The laptop is facing the chair.,shift,8
+val_Spatial_Reasoning_175_shift2,val_Spatial_Reasoning_175,The laptop is facing the chair.,shift,5
+val_Spatial_Reasoning_175_bw1,val_Spatial_Reasoning_175,The laptop is facing the chair.,bw,NA
+val_Spatial_Reasoning_175_bw2,val_Spatial_Reasoning_175,The laptop is facing the chair.,bw,NA
+val_Spatial_Reasoning_176_contrast1,val_Spatial_Reasoning_176,The refrigerator is behind the dog.,contrast,4
+val_Spatial_Reasoning_176_contrast2,val_Spatial_Reasoning_176,The refrigerator is behind the dog.,contrast,8
+val_Spatial_Reasoning_176_blur1,val_Spatial_Reasoning_176,The refrigerator is behind the dog.,blur,4
+val_Spatial_Reasoning_176_blur2,val_Spatial_Reasoning_176,The refrigerator is behind the dog.,blur,8
+val_Spatial_Reasoning_176_noise1,val_Spatial_Reasoning_176,The refrigerator is behind the dog.,noise,9
+val_Spatial_Reasoning_176_noise2,val_Spatial_Reasoning_176,The refrigerator is behind the dog.,noise,8
+val_Spatial_Reasoning_176_masking1,val_Spatial_Reasoning_176,The refrigerator is behind the dog.,masking,9
+val_Spatial_Reasoning_176_masking2,val_Spatial_Reasoning_176,The refrigerator is behind the dog.,masking,8
+val_Spatial_Reasoning_176_rotate1,val_Spatial_Reasoning_176,The refrigerator is behind the dog.,rotate,4
+val_Spatial_Reasoning_176_rotate2,val_Spatial_Reasoning_176,The refrigerator is behind the dog.,rotate,8
+val_Spatial_Reasoning_176_shift1,val_Spatial_Reasoning_176,The refrigerator is behind the dog.,shift,4
+val_Spatial_Reasoning_176_shift2,val_Spatial_Reasoning_176,The refrigerator is behind the dog.,shift,8
+val_Spatial_Reasoning_176_bw1,val_Spatial_Reasoning_176,The refrigerator is behind the dog.,bw,NA
+val_Spatial_Reasoning_176_bw2,val_Spatial_Reasoning_176,The refrigerator is behind the dog.,bw,NA
+val_Spatial_Reasoning_177_contrast1,val_Spatial_Reasoning_177,The refrigerator contains the dog.,contrast,4
+val_Spatial_Reasoning_177_contrast2,val_Spatial_Reasoning_177,The refrigerator contains the dog.,contrast,6
+val_Spatial_Reasoning_177_blur1,val_Spatial_Reasoning_177,The refrigerator contains the dog.,blur,4
+val_Spatial_Reasoning_177_blur2,val_Spatial_Reasoning_177,The refrigerator contains the dog.,blur,6
+val_Spatial_Reasoning_177_noise1,val_Spatial_Reasoning_177,The refrigerator contains the dog.,noise,6
+val_Spatial_Reasoning_177_noise2,val_Spatial_Reasoning_177,The refrigerator contains the dog.,noise,7
+val_Spatial_Reasoning_177_masking1,val_Spatial_Reasoning_177,The refrigerator contains the dog.,masking,6
+val_Spatial_Reasoning_177_masking2,val_Spatial_Reasoning_177,The refrigerator contains the dog.,masking,7
+val_Spatial_Reasoning_177_rotate1,val_Spatial_Reasoning_177,The refrigerator contains the dog.,rotate,4
+val_Spatial_Reasoning_177_rotate2,val_Spatial_Reasoning_177,The refrigerator contains the dog.,rotate,6
+val_Spatial_Reasoning_177_shift1,val_Spatial_Reasoning_177,The refrigerator contains the dog.,shift,4
+val_Spatial_Reasoning_177_shift2,val_Spatial_Reasoning_177,The refrigerator contains the dog.,shift,6
+val_Spatial_Reasoning_177_bw1,val_Spatial_Reasoning_177,The refrigerator contains the dog.,bw,NA
+val_Spatial_Reasoning_177_bw2,val_Spatial_Reasoning_177,The refrigerator contains the dog.,bw,NA
+val_Spatial_Reasoning_178_contrast1,val_Spatial_Reasoning_178,The chair is at the right side of the laptop.,contrast,6
+val_Spatial_Reasoning_178_contrast2,val_Spatial_Reasoning_178,The chair is at the right side of the laptop.,contrast,4
+val_Spatial_Reasoning_178_blur1,val_Spatial_Reasoning_178,The chair is at the right side of the laptop.,blur,6
+val_Spatial_Reasoning_178_blur2,val_Spatial_Reasoning_178,The chair is at the right side of the laptop.,blur,4
+val_Spatial_Reasoning_178_noise1,val_Spatial_Reasoning_178,The chair is at the right side of the laptop.,noise,5
+val_Spatial_Reasoning_178_noise2,val_Spatial_Reasoning_178,The chair is at the right side of the laptop.,noise,8
+val_Spatial_Reasoning_178_masking1,val_Spatial_Reasoning_178,The chair is at the right side of the laptop.,masking,5
+val_Spatial_Reasoning_178_masking2,val_Spatial_Reasoning_178,The chair is at the right side of the laptop.,masking,8
+val_Spatial_Reasoning_178_rotate1,val_Spatial_Reasoning_178,The chair is at the right side of the laptop.,rotate,6
+val_Spatial_Reasoning_178_rotate2,val_Spatial_Reasoning_178,The chair is at the right side of the laptop.,rotate,4
+val_Spatial_Reasoning_178_shift1,val_Spatial_Reasoning_178,The chair is at the right side of the laptop.,shift,6
+val_Spatial_Reasoning_178_shift2,val_Spatial_Reasoning_178,The chair is at the right side of the laptop.,shift,4
+val_Spatial_Reasoning_178_bw1,val_Spatial_Reasoning_178,The chair is at the right side of the laptop.,bw,NA
+val_Spatial_Reasoning_178_bw2,val_Spatial_Reasoning_178,The chair is at the right side of the laptop.,bw,NA
+val_Spatial_Reasoning_179_contrast1,val_Spatial_Reasoning_179,The bench is below the laptop.,contrast,7
+val_Spatial_Reasoning_179_contrast2,val_Spatial_Reasoning_179,The bench is below the laptop.,contrast,3
+val_Spatial_Reasoning_179_blur1,val_Spatial_Reasoning_179,The bench is below the laptop.,blur,7
+val_Spatial_Reasoning_179_blur2,val_Spatial_Reasoning_179,The bench is below the laptop.,blur,3
+val_Spatial_Reasoning_179_noise1,val_Spatial_Reasoning_179,The bench is below the laptop.,noise,5
+val_Spatial_Reasoning_179_noise2,val_Spatial_Reasoning_179,The bench is below the laptop.,noise,9
+val_Spatial_Reasoning_179_masking1,val_Spatial_Reasoning_179,The bench is below the laptop.,masking,5
+val_Spatial_Reasoning_179_masking2,val_Spatial_Reasoning_179,The bench is below the laptop.,masking,9
+val_Spatial_Reasoning_179_rotate1,val_Spatial_Reasoning_179,The bench is below the laptop.,rotate,7
+val_Spatial_Reasoning_179_rotate2,val_Spatial_Reasoning_179,The bench is below the laptop.,rotate,3
+val_Spatial_Reasoning_179_shift1,val_Spatial_Reasoning_179,The bench is below the laptop.,shift,7
+val_Spatial_Reasoning_179_shift2,val_Spatial_Reasoning_179,The bench is below the laptop.,shift,3
+val_Spatial_Reasoning_179_bw1,val_Spatial_Reasoning_179,The bench is below the laptop.,bw,NA
+val_Spatial_Reasoning_179_bw2,val_Spatial_Reasoning_179,The bench is below the laptop.,bw,NA
+val_Spatial_Reasoning_180_contrast1,val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.,contrast,3
+val_Spatial_Reasoning_180_contrast2,val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.,contrast,8
+val_Spatial_Reasoning_180_blur1,val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.,blur,3
+val_Spatial_Reasoning_180_blur2,val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.,blur,8
+val_Spatial_Reasoning_180_noise1,val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.,noise,6
+val_Spatial_Reasoning_180_noise2,val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.,noise,10
+val_Spatial_Reasoning_180_masking1,val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.,masking,6
+val_Spatial_Reasoning_180_masking2,val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.,masking,10
+val_Spatial_Reasoning_180_rotate1,val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.,rotate,3
+val_Spatial_Reasoning_180_rotate2,val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.,rotate,8
+val_Spatial_Reasoning_180_shift1,val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.,shift,3
+val_Spatial_Reasoning_180_shift2,val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.,shift,8
+val_Spatial_Reasoning_180_bw1,val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.,bw,NA
+val_Spatial_Reasoning_180_bw2,val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.,bw,NA
+val_Spatial_Reasoning_181_contrast1,val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.,contrast,6
+val_Spatial_Reasoning_181_contrast2,val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.,contrast,8
+val_Spatial_Reasoning_181_blur1,val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.,blur,6
+val_Spatial_Reasoning_181_blur2,val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.,blur,8
+val_Spatial_Reasoning_181_noise1,val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.,noise,8
+val_Spatial_Reasoning_181_noise2,val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.,noise,6
+val_Spatial_Reasoning_181_masking1,val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.,masking,8
+val_Spatial_Reasoning_181_masking2,val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.,masking,6
+val_Spatial_Reasoning_181_rotate1,val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.,rotate,6
+val_Spatial_Reasoning_181_rotate2,val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.,rotate,8
+val_Spatial_Reasoning_181_shift1,val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.,shift,6
+val_Spatial_Reasoning_181_shift2,val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.,shift,8
+val_Spatial_Reasoning_181_bw1,val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.,bw,NA
+val_Spatial_Reasoning_181_bw2,val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.,bw,NA
+val_Spatial_Reasoning_182_contrast1,val_Spatial_Reasoning_182,The dog is on the motorcycle.,contrast,6
+val_Spatial_Reasoning_182_contrast2,val_Spatial_Reasoning_182,The dog is on the motorcycle.,contrast,3
+val_Spatial_Reasoning_182_blur1,val_Spatial_Reasoning_182,The dog is on the motorcycle.,blur,6
+val_Spatial_Reasoning_182_blur2,val_Spatial_Reasoning_182,The dog is on the motorcycle.,blur,3
+val_Spatial_Reasoning_182_noise1,val_Spatial_Reasoning_182,The dog is on the motorcycle.,noise,6
+val_Spatial_Reasoning_182_noise2,val_Spatial_Reasoning_182,The dog is on the motorcycle.,noise,8
+val_Spatial_Reasoning_182_masking1,val_Spatial_Reasoning_182,The dog is on the motorcycle.,masking,6
+val_Spatial_Reasoning_182_masking2,val_Spatial_Reasoning_182,The dog is on the motorcycle.,masking,8
+val_Spatial_Reasoning_182_rotate1,val_Spatial_Reasoning_182,The dog is on the motorcycle.,rotate,6
+val_Spatial_Reasoning_182_rotate2,val_Spatial_Reasoning_182,The dog is on the motorcycle.,rotate,3
+val_Spatial_Reasoning_182_shift1,val_Spatial_Reasoning_182,The dog is on the motorcycle.,shift,6
+val_Spatial_Reasoning_182_shift2,val_Spatial_Reasoning_182,The dog is on the motorcycle.,shift,3
+val_Spatial_Reasoning_182_bw1,val_Spatial_Reasoning_182,The dog is on the motorcycle.,bw,NA
+val_Spatial_Reasoning_182_bw2,val_Spatial_Reasoning_182,The dog is on the motorcycle.,bw,NA
+val_Spatial_Reasoning_183_contrast1,val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.,contrast,3
+val_Spatial_Reasoning_183_contrast2,val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.,contrast,6
+val_Spatial_Reasoning_183_blur1,val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.,blur,3
+val_Spatial_Reasoning_183_blur2,val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.,blur,6
+val_Spatial_Reasoning_183_noise1,val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.,noise,7
+val_Spatial_Reasoning_183_noise2,val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.,noise,8
+val_Spatial_Reasoning_183_masking1,val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.,masking,7
+val_Spatial_Reasoning_183_masking2,val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.,masking,8
+val_Spatial_Reasoning_183_rotate1,val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.,rotate,3
+val_Spatial_Reasoning_183_rotate2,val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.,rotate,6
+val_Spatial_Reasoning_183_shift1,val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.,shift,3
+val_Spatial_Reasoning_183_shift2,val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.,shift,6
+val_Spatial_Reasoning_183_bw1,val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.,bw,NA
+val_Spatial_Reasoning_183_bw2,val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.,bw,NA
+val_Spatial_Reasoning_184_contrast1,val_Spatial_Reasoning_184,The laptop is facing the chair.,contrast,5
+val_Spatial_Reasoning_184_contrast2,val_Spatial_Reasoning_184,The laptop is facing the chair.,contrast,6
+val_Spatial_Reasoning_184_blur1,val_Spatial_Reasoning_184,The laptop is facing the chair.,blur,5
+val_Spatial_Reasoning_184_blur2,val_Spatial_Reasoning_184,The laptop is facing the chair.,blur,6
+val_Spatial_Reasoning_184_noise1,val_Spatial_Reasoning_184,The laptop is facing the chair.,noise,10
+val_Spatial_Reasoning_184_noise2,val_Spatial_Reasoning_184,The laptop is facing the chair.,noise,9
+val_Spatial_Reasoning_184_masking1,val_Spatial_Reasoning_184,The laptop is facing the chair.,masking,10
+val_Spatial_Reasoning_184_masking2,val_Spatial_Reasoning_184,The laptop is facing the chair.,masking,9
+val_Spatial_Reasoning_184_rotate1,val_Spatial_Reasoning_184,The laptop is facing the chair.,rotate,5
+val_Spatial_Reasoning_184_rotate2,val_Spatial_Reasoning_184,The laptop is facing the chair.,rotate,6
+val_Spatial_Reasoning_184_shift1,val_Spatial_Reasoning_184,The laptop is facing the chair.,shift,5
+val_Spatial_Reasoning_184_shift2,val_Spatial_Reasoning_184,The laptop is facing the chair.,shift,6
+val_Spatial_Reasoning_184_bw1,val_Spatial_Reasoning_184,The laptop is facing the chair.,bw,NA
+val_Spatial_Reasoning_184_bw2,val_Spatial_Reasoning_184,The laptop is facing the chair.,bw,NA
+val_Spatial_Reasoning_185_contrast1,val_Spatial_Reasoning_185,The dog is under the chair.,contrast,8
+val_Spatial_Reasoning_185_contrast2,val_Spatial_Reasoning_185,The dog is under the chair.,contrast,6
+val_Spatial_Reasoning_185_blur1,val_Spatial_Reasoning_185,The dog is under the chair.,blur,8
+val_Spatial_Reasoning_185_blur2,val_Spatial_Reasoning_185,The dog is under the chair.,blur,6
+val_Spatial_Reasoning_185_noise1,val_Spatial_Reasoning_185,The dog is under the chair.,noise,6
+val_Spatial_Reasoning_185_noise2,val_Spatial_Reasoning_185,The dog is under the chair.,noise,10
+val_Spatial_Reasoning_185_masking1,val_Spatial_Reasoning_185,The dog is under the chair.,masking,6
+val_Spatial_Reasoning_185_masking2,val_Spatial_Reasoning_185,The dog is under the chair.,masking,10
+val_Spatial_Reasoning_185_rotate1,val_Spatial_Reasoning_185,The dog is under the chair.,rotate,8
+val_Spatial_Reasoning_185_rotate2,val_Spatial_Reasoning_185,The dog is under the chair.,rotate,6
+val_Spatial_Reasoning_185_shift1,val_Spatial_Reasoning_185,The dog is under the chair.,shift,8
+val_Spatial_Reasoning_185_shift2,val_Spatial_Reasoning_185,The dog is under the chair.,shift,6
+val_Spatial_Reasoning_185_bw1,val_Spatial_Reasoning_185,The dog is under the chair.,bw,NA
+val_Spatial_Reasoning_185_bw2,val_Spatial_Reasoning_185,The dog is under the chair.,bw,NA
+val_Spatial_Reasoning_186_contrast1,val_Spatial_Reasoning_186,The dog is on the motorcycle.,contrast,5
+val_Spatial_Reasoning_186_contrast2,val_Spatial_Reasoning_186,The dog is on the motorcycle.,contrast,4
+val_Spatial_Reasoning_186_blur1,val_Spatial_Reasoning_186,The dog is on the motorcycle.,blur,5
+val_Spatial_Reasoning_186_blur2,val_Spatial_Reasoning_186,The dog is on the motorcycle.,blur,4
+val_Spatial_Reasoning_186_noise1,val_Spatial_Reasoning_186,The dog is on the motorcycle.,noise,5
+val_Spatial_Reasoning_186_noise2,val_Spatial_Reasoning_186,The dog is on the motorcycle.,noise,9
+val_Spatial_Reasoning_186_masking1,val_Spatial_Reasoning_186,The dog is on the motorcycle.,masking,5
+val_Spatial_Reasoning_186_masking2,val_Spatial_Reasoning_186,The dog is on the motorcycle.,masking,9
+val_Spatial_Reasoning_186_rotate1,val_Spatial_Reasoning_186,The dog is on the motorcycle.,rotate,5
+val_Spatial_Reasoning_186_rotate2,val_Spatial_Reasoning_186,The dog is on the motorcycle.,rotate,4
+val_Spatial_Reasoning_186_shift1,val_Spatial_Reasoning_186,The dog is on the motorcycle.,shift,5
+val_Spatial_Reasoning_186_shift2,val_Spatial_Reasoning_186,The dog is on the motorcycle.,shift,4
+val_Spatial_Reasoning_186_bw1,val_Spatial_Reasoning_186,The dog is on the motorcycle.,bw,NA
+val_Spatial_Reasoning_186_bw2,val_Spatial_Reasoning_186,The dog is on the motorcycle.,bw,NA
+val_Spatial_Reasoning_187_contrast1,val_Spatial_Reasoning_187,The laptop is at the left side of the dog.,contrast,8
+val_Spatial_Reasoning_187_contrast2,val_Spatial_Reasoning_187,The laptop is at the left side of the dog.,contrast,7
+val_Spatial_Reasoning_187_blur1,val_Spatial_Reasoning_187,The laptop is at the left side of the dog.,blur,8
+val_Spatial_Reasoning_187_blur2,val_Spatial_Reasoning_187,The laptop is at the left side of the dog.,blur,7
+val_Spatial_Reasoning_187_noise1,val_Spatial_Reasoning_187,The laptop is at the left side of the dog.,noise,5
+val_Spatial_Reasoning_187_noise2,val_Spatial_Reasoning_187,The laptop is at the left side of the dog.,noise,7
+val_Spatial_Reasoning_187_masking1,val_Spatial_Reasoning_187,The laptop is at the left side of the dog.,masking,5
+val_Spatial_Reasoning_187_masking2,val_Spatial_Reasoning_187,The laptop is at the left side of the dog.,masking,7
+val_Spatial_Reasoning_187_rotate1,val_Spatial_Reasoning_187,The laptop is at the left side of the dog.,rotate,8
+val_Spatial_Reasoning_187_rotate2,val_Spatial_Reasoning_187,The laptop is at the left side of the dog.,rotate,7
+val_Spatial_Reasoning_187_shift1,val_Spatial_Reasoning_187,The laptop is at the left side of the dog.,shift,8
+val_Spatial_Reasoning_187_shift2,val_Spatial_Reasoning_187,The laptop is at the left side of the dog.,shift,7
+val_Spatial_Reasoning_187_bw1,val_Spatial_Reasoning_187,The laptop is at the left side of the dog.,bw,NA
+val_Spatial_Reasoning_187_bw2,val_Spatial_Reasoning_187,The laptop is at the left side of the dog.,bw,NA
+val_Spatial_Reasoning_188_contrast1,val_Spatial_Reasoning_188,The train is behind the motorcycle.,contrast,3
+val_Spatial_Reasoning_188_contrast2,val_Spatial_Reasoning_188,The train is behind the motorcycle.,contrast,8
+val_Spatial_Reasoning_188_blur1,val_Spatial_Reasoning_188,The train is behind the motorcycle.,blur,3
+val_Spatial_Reasoning_188_blur2,val_Spatial_Reasoning_188,The train is behind the motorcycle.,blur,8
+val_Spatial_Reasoning_188_noise1,val_Spatial_Reasoning_188,The train is behind the motorcycle.,noise,9
+val_Spatial_Reasoning_188_noise2,val_Spatial_Reasoning_188,The train is behind the motorcycle.,noise,8
+val_Spatial_Reasoning_188_masking1,val_Spatial_Reasoning_188,The train is behind the motorcycle.,masking,9
+val_Spatial_Reasoning_188_masking2,val_Spatial_Reasoning_188,The train is behind the motorcycle.,masking,8
+val_Spatial_Reasoning_188_rotate1,val_Spatial_Reasoning_188,The train is behind the motorcycle.,rotate,3
+val_Spatial_Reasoning_188_rotate2,val_Spatial_Reasoning_188,The train is behind the motorcycle.,rotate,8
+val_Spatial_Reasoning_188_shift1,val_Spatial_Reasoning_188,The train is behind the motorcycle.,shift,3
+val_Spatial_Reasoning_188_shift2,val_Spatial_Reasoning_188,The train is behind the motorcycle.,shift,8
+val_Spatial_Reasoning_188_bw1,val_Spatial_Reasoning_188,The train is behind the motorcycle.,bw,NA
+val_Spatial_Reasoning_188_bw2,val_Spatial_Reasoning_188,The train is behind the motorcycle.,bw,NA
+val_Spatial_Reasoning_189_contrast1,val_Spatial_Reasoning_189,The chair is on top of the horse.,contrast,7
+val_Spatial_Reasoning_189_contrast2,val_Spatial_Reasoning_189,The chair is on top of the horse.,contrast,8
+val_Spatial_Reasoning_189_blur1,val_Spatial_Reasoning_189,The chair is on top of the horse.,blur,7
+val_Spatial_Reasoning_189_blur2,val_Spatial_Reasoning_189,The chair is on top of the horse.,blur,8
+val_Spatial_Reasoning_189_noise1,val_Spatial_Reasoning_189,The chair is on top of the horse.,noise,6
+val_Spatial_Reasoning_189_noise2,val_Spatial_Reasoning_189,The chair is on top of the horse.,noise,5
+val_Spatial_Reasoning_189_masking1,val_Spatial_Reasoning_189,The chair is on top of the horse.,masking,6
+val_Spatial_Reasoning_189_masking2,val_Spatial_Reasoning_189,The chair is on top of the horse.,masking,5
+val_Spatial_Reasoning_189_rotate1,val_Spatial_Reasoning_189,The chair is on top of the horse.,rotate,7
+val_Spatial_Reasoning_189_rotate2,val_Spatial_Reasoning_189,The chair is on top of the horse.,rotate,8
+val_Spatial_Reasoning_189_shift1,val_Spatial_Reasoning_189,The chair is on top of the horse.,shift,7
+val_Spatial_Reasoning_189_shift2,val_Spatial_Reasoning_189,The chair is on top of the horse.,shift,8
+val_Spatial_Reasoning_189_bw1,val_Spatial_Reasoning_189,The chair is on top of the horse.,bw,NA
+val_Spatial_Reasoning_189_bw2,val_Spatial_Reasoning_189,The chair is on top of the horse.,bw,NA
+val_Spatial_Reasoning_190_contrast1,val_Spatial_Reasoning_190,The bench is in front of the train.,contrast,7
+val_Spatial_Reasoning_190_contrast2,val_Spatial_Reasoning_190,The bench is in front of the train.,contrast,3
+val_Spatial_Reasoning_190_blur1,val_Spatial_Reasoning_190,The bench is in front of the train.,blur,7
+val_Spatial_Reasoning_190_blur2,val_Spatial_Reasoning_190,The bench is in front of the train.,blur,3
+val_Spatial_Reasoning_190_noise1,val_Spatial_Reasoning_190,The bench is in front of the train.,noise,6
+val_Spatial_Reasoning_190_noise2,val_Spatial_Reasoning_190,The bench is in front of the train.,noise,5
+val_Spatial_Reasoning_190_masking1,val_Spatial_Reasoning_190,The bench is in front of the train.,masking,6
+val_Spatial_Reasoning_190_masking2,val_Spatial_Reasoning_190,The bench is in front of the train.,masking,5
+val_Spatial_Reasoning_190_rotate1,val_Spatial_Reasoning_190,The bench is in front of the train.,rotate,7
+val_Spatial_Reasoning_190_rotate2,val_Spatial_Reasoning_190,The bench is in front of the train.,rotate,3
+val_Spatial_Reasoning_190_shift1,val_Spatial_Reasoning_190,The bench is in front of the train.,shift,7
+val_Spatial_Reasoning_190_shift2,val_Spatial_Reasoning_190,The bench is in front of the train.,shift,3
+val_Spatial_Reasoning_190_bw1,val_Spatial_Reasoning_190,The bench is in front of the train.,bw,NA
+val_Spatial_Reasoning_190_bw2,val_Spatial_Reasoning_190,The bench is in front of the train.,bw,NA
+val_Spatial_Reasoning_191_contrast1,val_Spatial_Reasoning_191,The dog is on top of the motorcycle.,contrast,7
+val_Spatial_Reasoning_191_contrast2,val_Spatial_Reasoning_191,The dog is on top of the motorcycle.,contrast,3
+val_Spatial_Reasoning_191_blur1,val_Spatial_Reasoning_191,The dog is on top of the motorcycle.,blur,7
+val_Spatial_Reasoning_191_blur2,val_Spatial_Reasoning_191,The dog is on top of the motorcycle.,blur,3
+val_Spatial_Reasoning_191_noise1,val_Spatial_Reasoning_191,The dog is on top of the motorcycle.,noise,10
+val_Spatial_Reasoning_191_noise2,val_Spatial_Reasoning_191,The dog is on top of the motorcycle.,noise,6
+val_Spatial_Reasoning_191_masking1,val_Spatial_Reasoning_191,The dog is on top of the motorcycle.,masking,10
+val_Spatial_Reasoning_191_masking2,val_Spatial_Reasoning_191,The dog is on top of the motorcycle.,masking,6
+val_Spatial_Reasoning_191_rotate1,val_Spatial_Reasoning_191,The dog is on top of the motorcycle.,rotate,7
+val_Spatial_Reasoning_191_rotate2,val_Spatial_Reasoning_191,The dog is on top of the motorcycle.,rotate,3
+val_Spatial_Reasoning_191_shift1,val_Spatial_Reasoning_191,The dog is on top of the motorcycle.,shift,7
+val_Spatial_Reasoning_191_shift2,val_Spatial_Reasoning_191,The dog is on top of the motorcycle.,shift,3
+val_Spatial_Reasoning_191_bw1,val_Spatial_Reasoning_191,The dog is on top of the motorcycle.,bw,NA
+val_Spatial_Reasoning_191_bw2,val_Spatial_Reasoning_191,The dog is on top of the motorcycle.,bw,NA
+val_Spatial_Reasoning_192_contrast1,val_Spatial_Reasoning_192,The chair is beneath the horse.,contrast,6
+val_Spatial_Reasoning_192_contrast2,val_Spatial_Reasoning_192,The chair is beneath the horse.,contrast,3
+val_Spatial_Reasoning_192_blur1,val_Spatial_Reasoning_192,The chair is beneath the horse.,blur,6
+val_Spatial_Reasoning_192_blur2,val_Spatial_Reasoning_192,The chair is beneath the horse.,blur,3
+val_Spatial_Reasoning_192_noise1,val_Spatial_Reasoning_192,The chair is beneath the horse.,noise,9
+val_Spatial_Reasoning_192_noise2,val_Spatial_Reasoning_192,The chair is beneath the horse.,noise,6
+val_Spatial_Reasoning_192_masking1,val_Spatial_Reasoning_192,The chair is beneath the horse.,masking,9
+val_Spatial_Reasoning_192_masking2,val_Spatial_Reasoning_192,The chair is beneath the horse.,masking,6
+val_Spatial_Reasoning_192_rotate1,val_Spatial_Reasoning_192,The chair is beneath the horse.,rotate,6
+val_Spatial_Reasoning_192_rotate2,val_Spatial_Reasoning_192,The chair is beneath the horse.,rotate,3
+val_Spatial_Reasoning_192_shift1,val_Spatial_Reasoning_192,The chair is beneath the horse.,shift,6
+val_Spatial_Reasoning_192_shift2,val_Spatial_Reasoning_192,The chair is beneath the horse.,shift,3
+val_Spatial_Reasoning_192_bw1,val_Spatial_Reasoning_192,The chair is beneath the horse.,bw,NA
+val_Spatial_Reasoning_192_bw2,val_Spatial_Reasoning_192,The chair is beneath the horse.,bw,NA
+val_Spatial_Reasoning_193_contrast1,val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.,contrast,7
+val_Spatial_Reasoning_193_contrast2,val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.,contrast,8
+val_Spatial_Reasoning_193_blur1,val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.,blur,7
+val_Spatial_Reasoning_193_blur2,val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.,blur,8
+val_Spatial_Reasoning_193_noise1,val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.,noise,5
+val_Spatial_Reasoning_193_noise2,val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.,noise,9
+val_Spatial_Reasoning_193_masking1,val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.,masking,5
+val_Spatial_Reasoning_193_masking2,val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.,masking,9
+val_Spatial_Reasoning_193_rotate1,val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.,rotate,7
+val_Spatial_Reasoning_193_rotate2,val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.,rotate,8
+val_Spatial_Reasoning_193_shift1,val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.,shift,7
+val_Spatial_Reasoning_193_shift2,val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.,shift,8
+val_Spatial_Reasoning_193_bw1,val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.,bw,NA
+val_Spatial_Reasoning_193_bw2,val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.,bw,NA
+val_Spatial_Reasoning_194_contrast1,val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.,contrast,3
+val_Spatial_Reasoning_194_contrast2,val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.,contrast,6
+val_Spatial_Reasoning_194_blur1,val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.,blur,3
+val_Spatial_Reasoning_194_blur2,val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.,blur,6
+val_Spatial_Reasoning_194_noise1,val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.,noise,10
+val_Spatial_Reasoning_194_noise2,val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.,noise,9
+val_Spatial_Reasoning_194_masking1,val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.,masking,10
+val_Spatial_Reasoning_194_masking2,val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.,masking,9
+val_Spatial_Reasoning_194_rotate1,val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.,rotate,3
+val_Spatial_Reasoning_194_rotate2,val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.,rotate,6
+val_Spatial_Reasoning_194_shift1,val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.,shift,3
+val_Spatial_Reasoning_194_shift2,val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.,shift,6
+val_Spatial_Reasoning_194_bw1,val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.,bw,NA
+val_Spatial_Reasoning_194_bw2,val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.,bw,NA
+val_Spatial_Reasoning_195_contrast1,val_Spatial_Reasoning_195,The dog is above the bench.,contrast,7
+val_Spatial_Reasoning_195_contrast2,val_Spatial_Reasoning_195,The dog is above the bench.,contrast,8
+val_Spatial_Reasoning_195_blur1,val_Spatial_Reasoning_195,The dog is above the bench.,blur,7
+val_Spatial_Reasoning_195_blur2,val_Spatial_Reasoning_195,The dog is above the bench.,blur,8
+val_Spatial_Reasoning_195_noise1,val_Spatial_Reasoning_195,The dog is above the bench.,noise,7
+val_Spatial_Reasoning_195_noise2,val_Spatial_Reasoning_195,The dog is above the bench.,noise,10
+val_Spatial_Reasoning_195_masking1,val_Spatial_Reasoning_195,The dog is above the bench.,masking,7
+val_Spatial_Reasoning_195_masking2,val_Spatial_Reasoning_195,The dog is above the bench.,masking,10
+val_Spatial_Reasoning_195_rotate1,val_Spatial_Reasoning_195,The dog is above the bench.,rotate,7
+val_Spatial_Reasoning_195_rotate2,val_Spatial_Reasoning_195,The dog is above the bench.,rotate,8
+val_Spatial_Reasoning_195_shift1,val_Spatial_Reasoning_195,The dog is above the bench.,shift,7
+val_Spatial_Reasoning_195_shift2,val_Spatial_Reasoning_195,The dog is above the bench.,shift,8
+val_Spatial_Reasoning_195_bw1,val_Spatial_Reasoning_195,The dog is above the bench.,bw,NA
+val_Spatial_Reasoning_195_bw2,val_Spatial_Reasoning_195,The dog is above the bench.,bw,NA
+val_Spatial_Reasoning_196_contrast1,val_Spatial_Reasoning_196,The dog is in the motorcycle.,contrast,4
+val_Spatial_Reasoning_196_contrast2,val_Spatial_Reasoning_196,The dog is in the motorcycle.,contrast,5
+val_Spatial_Reasoning_196_blur1,val_Spatial_Reasoning_196,The dog is in the motorcycle.,blur,4
+val_Spatial_Reasoning_196_blur2,val_Spatial_Reasoning_196,The dog is in the motorcycle.,blur,5
+val_Spatial_Reasoning_196_noise1,val_Spatial_Reasoning_196,The dog is in the motorcycle.,noise,6
+val_Spatial_Reasoning_196_noise2,val_Spatial_Reasoning_196,The dog is in the motorcycle.,noise,7
+val_Spatial_Reasoning_196_masking1,val_Spatial_Reasoning_196,The dog is in the motorcycle.,masking,6
+val_Spatial_Reasoning_196_masking2,val_Spatial_Reasoning_196,The dog is in the motorcycle.,masking,7
+val_Spatial_Reasoning_196_rotate1,val_Spatial_Reasoning_196,The dog is in the motorcycle.,rotate,4
+val_Spatial_Reasoning_196_rotate2,val_Spatial_Reasoning_196,The dog is in the motorcycle.,rotate,5
+val_Spatial_Reasoning_196_shift1,val_Spatial_Reasoning_196,The dog is in the motorcycle.,shift,4
+val_Spatial_Reasoning_196_shift2,val_Spatial_Reasoning_196,The dog is in the motorcycle.,shift,5
+val_Spatial_Reasoning_196_bw1,val_Spatial_Reasoning_196,The dog is in the motorcycle.,bw,NA
+val_Spatial_Reasoning_196_bw2,val_Spatial_Reasoning_196,The dog is in the motorcycle.,bw,NA
+val_Spatial_Reasoning_197_contrast1,val_Spatial_Reasoning_197,The bench is part of the train.,contrast,6
+val_Spatial_Reasoning_197_contrast2,val_Spatial_Reasoning_197,The bench is part of the train.,contrast,4
+val_Spatial_Reasoning_197_blur1,val_Spatial_Reasoning_197,The bench is part of the train.,blur,6
+val_Spatial_Reasoning_197_blur2,val_Spatial_Reasoning_197,The bench is part of the train.,blur,4
+val_Spatial_Reasoning_197_noise1,val_Spatial_Reasoning_197,The bench is part of the train.,noise,10
+val_Spatial_Reasoning_197_noise2,val_Spatial_Reasoning_197,The bench is part of the train.,noise,7
+val_Spatial_Reasoning_197_masking1,val_Spatial_Reasoning_197,The bench is part of the train.,masking,10
+val_Spatial_Reasoning_197_masking2,val_Spatial_Reasoning_197,The bench is part of the train.,masking,7
+val_Spatial_Reasoning_197_rotate1,val_Spatial_Reasoning_197,The bench is part of the train.,rotate,6
+val_Spatial_Reasoning_197_rotate2,val_Spatial_Reasoning_197,The bench is part of the train.,rotate,4
+val_Spatial_Reasoning_197_shift1,val_Spatial_Reasoning_197,The bench is part of the train.,shift,6
+val_Spatial_Reasoning_197_shift2,val_Spatial_Reasoning_197,The bench is part of the train.,shift,4
+val_Spatial_Reasoning_197_bw1,val_Spatial_Reasoning_197,The bench is part of the train.,bw,NA
+val_Spatial_Reasoning_197_bw2,val_Spatial_Reasoning_197,The bench is part of the train.,bw,NA
+val_Spatial_Reasoning_198_contrast1,val_Spatial_Reasoning_198,The dog is inside the handbag.,contrast,6
+val_Spatial_Reasoning_198_contrast2,val_Spatial_Reasoning_198,The dog is inside the handbag.,contrast,5
+val_Spatial_Reasoning_198_blur1,val_Spatial_Reasoning_198,The dog is inside the handbag.,blur,6
+val_Spatial_Reasoning_198_blur2,val_Spatial_Reasoning_198,The dog is inside the handbag.,blur,5
+val_Spatial_Reasoning_198_noise1,val_Spatial_Reasoning_198,The dog is inside the handbag.,noise,5
+val_Spatial_Reasoning_198_noise2,val_Spatial_Reasoning_198,The dog is inside the handbag.,noise,10
+val_Spatial_Reasoning_198_masking1,val_Spatial_Reasoning_198,The dog is inside the handbag.,masking,5
+val_Spatial_Reasoning_198_masking2,val_Spatial_Reasoning_198,The dog is inside the handbag.,masking,10
+val_Spatial_Reasoning_198_rotate1,val_Spatial_Reasoning_198,The dog is inside the handbag.,rotate,6
+val_Spatial_Reasoning_198_rotate2,val_Spatial_Reasoning_198,The dog is inside the handbag.,rotate,5
+val_Spatial_Reasoning_198_shift1,val_Spatial_Reasoning_198,The dog is inside the handbag.,shift,6
+val_Spatial_Reasoning_198_shift2,val_Spatial_Reasoning_198,The dog is inside the handbag.,shift,5
+val_Spatial_Reasoning_198_bw1,val_Spatial_Reasoning_198,The dog is inside the handbag.,bw,NA
+val_Spatial_Reasoning_198_bw2,val_Spatial_Reasoning_198,The dog is inside the handbag.,bw,NA
+val_Spatial_Reasoning_199_contrast1,val_Spatial_Reasoning_199,The refrigerator contains the dog.,contrast,6
+val_Spatial_Reasoning_199_contrast2,val_Spatial_Reasoning_199,The refrigerator contains the dog.,contrast,7
+val_Spatial_Reasoning_199_blur1,val_Spatial_Reasoning_199,The refrigerator contains the dog.,blur,6
+val_Spatial_Reasoning_199_blur2,val_Spatial_Reasoning_199,The refrigerator contains the dog.,blur,7
+val_Spatial_Reasoning_199_noise1,val_Spatial_Reasoning_199,The refrigerator contains the dog.,noise,9
+val_Spatial_Reasoning_199_noise2,val_Spatial_Reasoning_199,The refrigerator contains the dog.,noise,5
+val_Spatial_Reasoning_199_masking1,val_Spatial_Reasoning_199,The refrigerator contains the dog.,masking,9
+val_Spatial_Reasoning_199_masking2,val_Spatial_Reasoning_199,The refrigerator contains the dog.,masking,5
+val_Spatial_Reasoning_199_rotate1,val_Spatial_Reasoning_199,The refrigerator contains the dog.,rotate,6
+val_Spatial_Reasoning_199_rotate2,val_Spatial_Reasoning_199,The refrigerator contains the dog.,rotate,7
+val_Spatial_Reasoning_199_shift1,val_Spatial_Reasoning_199,The refrigerator contains the dog.,shift,6
+val_Spatial_Reasoning_199_shift2,val_Spatial_Reasoning_199,The refrigerator contains the dog.,shift,7
+val_Spatial_Reasoning_199_bw1,val_Spatial_Reasoning_199,The refrigerator contains the dog.,bw,NA
+val_Spatial_Reasoning_199_bw2,val_Spatial_Reasoning_199,The refrigerator contains the dog.,bw,NA
+val_Spatial_Reasoning_200_contrast1,val_Spatial_Reasoning_200,The laptop is facing away from the chair.,contrast,3
+val_Spatial_Reasoning_200_contrast2,val_Spatial_Reasoning_200,The laptop is facing away from the chair.,contrast,7
+val_Spatial_Reasoning_200_blur1,val_Spatial_Reasoning_200,The laptop is facing away from the chair.,blur,3
+val_Spatial_Reasoning_200_blur2,val_Spatial_Reasoning_200,The laptop is facing away from the chair.,blur,7
+val_Spatial_Reasoning_200_noise1,val_Spatial_Reasoning_200,The laptop is facing away from the chair.,noise,6
+val_Spatial_Reasoning_200_noise2,val_Spatial_Reasoning_200,The laptop is facing away from the chair.,noise,9
+val_Spatial_Reasoning_200_masking1,val_Spatial_Reasoning_200,The laptop is facing away from the chair.,masking,6
+val_Spatial_Reasoning_200_masking2,val_Spatial_Reasoning_200,The laptop is facing away from the chair.,masking,9
+val_Spatial_Reasoning_200_rotate1,val_Spatial_Reasoning_200,The laptop is facing away from the chair.,rotate,3
+val_Spatial_Reasoning_200_rotate2,val_Spatial_Reasoning_200,The laptop is facing away from the chair.,rotate,7
+val_Spatial_Reasoning_200_shift1,val_Spatial_Reasoning_200,The laptop is facing away from the chair.,shift,3
+val_Spatial_Reasoning_200_shift2,val_Spatial_Reasoning_200,The laptop is facing away from the chair.,shift,7
+val_Spatial_Reasoning_200_bw1,val_Spatial_Reasoning_200,The laptop is facing away from the chair.,bw,NA
+val_Spatial_Reasoning_200_bw2,val_Spatial_Reasoning_200,The laptop is facing away from the chair.,bw,NA
+val_Spatial_Reasoning_201_contrast1,val_Spatial_Reasoning_201,The dog is inside the handbag.,contrast,5
+val_Spatial_Reasoning_201_contrast2,val_Spatial_Reasoning_201,The dog is inside the handbag.,contrast,4
+val_Spatial_Reasoning_201_blur1,val_Spatial_Reasoning_201,The dog is inside the handbag.,blur,5
+val_Spatial_Reasoning_201_blur2,val_Spatial_Reasoning_201,The dog is inside the handbag.,blur,4
+val_Spatial_Reasoning_201_noise1,val_Spatial_Reasoning_201,The dog is inside the handbag.,noise,7
+val_Spatial_Reasoning_201_noise2,val_Spatial_Reasoning_201,The dog is inside the handbag.,noise,5
+val_Spatial_Reasoning_201_masking1,val_Spatial_Reasoning_201,The dog is inside the handbag.,masking,7
+val_Spatial_Reasoning_201_masking2,val_Spatial_Reasoning_201,The dog is inside the handbag.,masking,5
+val_Spatial_Reasoning_201_rotate1,val_Spatial_Reasoning_201,The dog is inside the handbag.,rotate,5
+val_Spatial_Reasoning_201_rotate2,val_Spatial_Reasoning_201,The dog is inside the handbag.,rotate,4
+val_Spatial_Reasoning_201_shift1,val_Spatial_Reasoning_201,The dog is inside the handbag.,shift,5
+val_Spatial_Reasoning_201_shift2,val_Spatial_Reasoning_201,The dog is inside the handbag.,shift,4
+val_Spatial_Reasoning_201_bw1,val_Spatial_Reasoning_201,The dog is inside the handbag.,bw,NA
+val_Spatial_Reasoning_201_bw2,val_Spatial_Reasoning_201,The dog is inside the handbag.,bw,NA
+val_Spatial_Reasoning_202_contrast1,val_Spatial_Reasoning_202,The chair is over the dog.,contrast,4
+val_Spatial_Reasoning_202_contrast2,val_Spatial_Reasoning_202,The chair is over the dog.,contrast,5
+val_Spatial_Reasoning_202_blur1,val_Spatial_Reasoning_202,The chair is over the dog.,blur,4
+val_Spatial_Reasoning_202_blur2,val_Spatial_Reasoning_202,The chair is over the dog.,blur,5
+val_Spatial_Reasoning_202_noise1,val_Spatial_Reasoning_202,The chair is over the dog.,noise,7
+val_Spatial_Reasoning_202_noise2,val_Spatial_Reasoning_202,The chair is over the dog.,noise,6
+val_Spatial_Reasoning_202_masking1,val_Spatial_Reasoning_202,The chair is over the dog.,masking,7
+val_Spatial_Reasoning_202_masking2,val_Spatial_Reasoning_202,The chair is over the dog.,masking,6
+val_Spatial_Reasoning_202_rotate1,val_Spatial_Reasoning_202,The chair is over the dog.,rotate,4
+val_Spatial_Reasoning_202_rotate2,val_Spatial_Reasoning_202,The chair is over the dog.,rotate,5
+val_Spatial_Reasoning_202_shift1,val_Spatial_Reasoning_202,The chair is over the dog.,shift,4
+val_Spatial_Reasoning_202_shift2,val_Spatial_Reasoning_202,The chair is over the dog.,shift,5
+val_Spatial_Reasoning_202_bw1,val_Spatial_Reasoning_202,The chair is over the dog.,bw,NA
+val_Spatial_Reasoning_202_bw2,val_Spatial_Reasoning_202,The chair is over the dog.,bw,NA
+val_Spatial_Reasoning_203_contrast1,val_Spatial_Reasoning_203,The bench is above the dog.,contrast,6
+val_Spatial_Reasoning_203_contrast2,val_Spatial_Reasoning_203,The bench is above the dog.,contrast,7
+val_Spatial_Reasoning_203_blur1,val_Spatial_Reasoning_203,The bench is above the dog.,blur,6
+val_Spatial_Reasoning_203_blur2,val_Spatial_Reasoning_203,The bench is above the dog.,blur,7
+val_Spatial_Reasoning_203_noise1,val_Spatial_Reasoning_203,The bench is above the dog.,noise,10
+val_Spatial_Reasoning_203_noise2,val_Spatial_Reasoning_203,The bench is above the dog.,noise,7
+val_Spatial_Reasoning_203_masking1,val_Spatial_Reasoning_203,The bench is above the dog.,masking,10
+val_Spatial_Reasoning_203_masking2,val_Spatial_Reasoning_203,The bench is above the dog.,masking,7
+val_Spatial_Reasoning_203_rotate1,val_Spatial_Reasoning_203,The bench is above the dog.,rotate,6
+val_Spatial_Reasoning_203_rotate2,val_Spatial_Reasoning_203,The bench is above the dog.,rotate,7
+val_Spatial_Reasoning_203_shift1,val_Spatial_Reasoning_203,The bench is above the dog.,shift,6
+val_Spatial_Reasoning_203_shift2,val_Spatial_Reasoning_203,The bench is above the dog.,shift,7
+val_Spatial_Reasoning_203_bw1,val_Spatial_Reasoning_203,The bench is above the dog.,bw,NA
+val_Spatial_Reasoning_203_bw2,val_Spatial_Reasoning_203,The bench is above the dog.,bw,NA
+val_Spatial_Reasoning_204_contrast1,val_Spatial_Reasoning_204,The dog is beneath the chair.,contrast,7
+val_Spatial_Reasoning_204_contrast2,val_Spatial_Reasoning_204,The dog is beneath the chair.,contrast,8
+val_Spatial_Reasoning_204_blur1,val_Spatial_Reasoning_204,The dog is beneath the chair.,blur,7
+val_Spatial_Reasoning_204_blur2,val_Spatial_Reasoning_204,The dog is beneath the chair.,blur,8
+val_Spatial_Reasoning_204_noise1,val_Spatial_Reasoning_204,The dog is beneath the chair.,noise,5
+val_Spatial_Reasoning_204_noise2,val_Spatial_Reasoning_204,The dog is beneath the chair.,noise,9
+val_Spatial_Reasoning_204_masking1,val_Spatial_Reasoning_204,The dog is beneath the chair.,masking,5
+val_Spatial_Reasoning_204_masking2,val_Spatial_Reasoning_204,The dog is beneath the chair.,masking,9
+val_Spatial_Reasoning_204_rotate1,val_Spatial_Reasoning_204,The dog is beneath the chair.,rotate,7
+val_Spatial_Reasoning_204_rotate2,val_Spatial_Reasoning_204,The dog is beneath the chair.,rotate,8
+val_Spatial_Reasoning_204_shift1,val_Spatial_Reasoning_204,The dog is beneath the chair.,shift,7
+val_Spatial_Reasoning_204_shift2,val_Spatial_Reasoning_204,The dog is beneath the chair.,shift,8
+val_Spatial_Reasoning_204_bw1,val_Spatial_Reasoning_204,The dog is beneath the chair.,bw,NA
+val_Spatial_Reasoning_204_bw2,val_Spatial_Reasoning_204,The dog is beneath the chair.,bw,NA
+val_Spatial_Reasoning_205_contrast1,val_Spatial_Reasoning_205,The dog is touching the laptop.,contrast,5
+val_Spatial_Reasoning_205_contrast2,val_Spatial_Reasoning_205,The dog is touching the laptop.,contrast,3
+val_Spatial_Reasoning_205_blur1,val_Spatial_Reasoning_205,The dog is touching the laptop.,blur,5
+val_Spatial_Reasoning_205_blur2,val_Spatial_Reasoning_205,The dog is touching the laptop.,blur,3
+val_Spatial_Reasoning_205_noise1,val_Spatial_Reasoning_205,The dog is touching the laptop.,noise,6
+val_Spatial_Reasoning_205_noise2,val_Spatial_Reasoning_205,The dog is touching the laptop.,noise,7
+val_Spatial_Reasoning_205_masking1,val_Spatial_Reasoning_205,The dog is touching the laptop.,masking,6
+val_Spatial_Reasoning_205_masking2,val_Spatial_Reasoning_205,The dog is touching the laptop.,masking,7
+val_Spatial_Reasoning_205_rotate1,val_Spatial_Reasoning_205,The dog is touching the laptop.,rotate,5
+val_Spatial_Reasoning_205_rotate2,val_Spatial_Reasoning_205,The dog is touching the laptop.,rotate,3
+val_Spatial_Reasoning_205_shift1,val_Spatial_Reasoning_205,The dog is touching the laptop.,shift,5
+val_Spatial_Reasoning_205_shift2,val_Spatial_Reasoning_205,The dog is touching the laptop.,shift,3
+val_Spatial_Reasoning_205_bw1,val_Spatial_Reasoning_205,The dog is touching the laptop.,bw,NA
+val_Spatial_Reasoning_205_bw2,val_Spatial_Reasoning_205,The dog is touching the laptop.,bw,NA
+val_Spatial_Reasoning_206_contrast1,val_Spatial_Reasoning_206,The dog is at the right side of the horse.,contrast,3
+val_Spatial_Reasoning_206_contrast2,val_Spatial_Reasoning_206,The dog is at the right side of the horse.,contrast,8
+val_Spatial_Reasoning_206_blur1,val_Spatial_Reasoning_206,The dog is at the right side of the horse.,blur,3
+val_Spatial_Reasoning_206_blur2,val_Spatial_Reasoning_206,The dog is at the right side of the horse.,blur,8
+val_Spatial_Reasoning_206_noise1,val_Spatial_Reasoning_206,The dog is at the right side of the horse.,noise,10
+val_Spatial_Reasoning_206_noise2,val_Spatial_Reasoning_206,The dog is at the right side of the horse.,noise,9
+val_Spatial_Reasoning_206_masking1,val_Spatial_Reasoning_206,The dog is at the right side of the horse.,masking,10
+val_Spatial_Reasoning_206_masking2,val_Spatial_Reasoning_206,The dog is at the right side of the horse.,masking,9
+val_Spatial_Reasoning_206_rotate1,val_Spatial_Reasoning_206,The dog is at the right side of the horse.,rotate,3
+val_Spatial_Reasoning_206_rotate2,val_Spatial_Reasoning_206,The dog is at the right side of the horse.,rotate,8
+val_Spatial_Reasoning_206_shift1,val_Spatial_Reasoning_206,The dog is at the right side of the horse.,shift,3
+val_Spatial_Reasoning_206_shift2,val_Spatial_Reasoning_206,The dog is at the right side of the horse.,shift,8
+val_Spatial_Reasoning_206_bw1,val_Spatial_Reasoning_206,The dog is at the right side of the horse.,bw,NA
+val_Spatial_Reasoning_206_bw2,val_Spatial_Reasoning_206,The dog is at the right side of the horse.,bw,NA
+val_Spatial_Reasoning_207_contrast1,val_Spatial_Reasoning_207,The motorcycle is in front of the dog.,contrast,4
+val_Spatial_Reasoning_207_contrast2,val_Spatial_Reasoning_207,The motorcycle is in front of the dog.,contrast,5
+val_Spatial_Reasoning_207_blur1,val_Spatial_Reasoning_207,The motorcycle is in front of the dog.,blur,4
+val_Spatial_Reasoning_207_blur2,val_Spatial_Reasoning_207,The motorcycle is in front of the dog.,blur,5
+val_Spatial_Reasoning_207_noise1,val_Spatial_Reasoning_207,The motorcycle is in front of the dog.,noise,7
+val_Spatial_Reasoning_207_noise2,val_Spatial_Reasoning_207,The motorcycle is in front of the dog.,noise,9
+val_Spatial_Reasoning_207_masking1,val_Spatial_Reasoning_207,The motorcycle is in front of the dog.,masking,7
+val_Spatial_Reasoning_207_masking2,val_Spatial_Reasoning_207,The motorcycle is in front of the dog.,masking,9
+val_Spatial_Reasoning_207_rotate1,val_Spatial_Reasoning_207,The motorcycle is in front of the dog.,rotate,4
+val_Spatial_Reasoning_207_rotate2,val_Spatial_Reasoning_207,The motorcycle is in front of the dog.,rotate,5
+val_Spatial_Reasoning_207_shift1,val_Spatial_Reasoning_207,The motorcycle is in front of the dog.,shift,4
+val_Spatial_Reasoning_207_shift2,val_Spatial_Reasoning_207,The motorcycle is in front of the dog.,shift,5
+val_Spatial_Reasoning_207_bw1,val_Spatial_Reasoning_207,The motorcycle is in front of the dog.,bw,NA
+val_Spatial_Reasoning_207_bw2,val_Spatial_Reasoning_207,The motorcycle is in front of the dog.,bw,NA
+val_Spatial_Reasoning_208_contrast1,val_Spatial_Reasoning_208,The dog is beneath the bench.,contrast,4
+val_Spatial_Reasoning_208_contrast2,val_Spatial_Reasoning_208,The dog is beneath the bench.,contrast,5
+val_Spatial_Reasoning_208_blur1,val_Spatial_Reasoning_208,The dog is beneath the bench.,blur,4
+val_Spatial_Reasoning_208_blur2,val_Spatial_Reasoning_208,The dog is beneath the bench.,blur,5
+val_Spatial_Reasoning_208_noise1,val_Spatial_Reasoning_208,The dog is beneath the bench.,noise,6
+val_Spatial_Reasoning_208_noise2,val_Spatial_Reasoning_208,The dog is beneath the bench.,noise,7
+val_Spatial_Reasoning_208_masking1,val_Spatial_Reasoning_208,The dog is beneath the bench.,masking,6
+val_Spatial_Reasoning_208_masking2,val_Spatial_Reasoning_208,The dog is beneath the bench.,masking,7
+val_Spatial_Reasoning_208_rotate1,val_Spatial_Reasoning_208,The dog is beneath the bench.,rotate,4
+val_Spatial_Reasoning_208_rotate2,val_Spatial_Reasoning_208,The dog is beneath the bench.,rotate,5
+val_Spatial_Reasoning_208_shift1,val_Spatial_Reasoning_208,The dog is beneath the bench.,shift,4
+val_Spatial_Reasoning_208_shift2,val_Spatial_Reasoning_208,The dog is beneath the bench.,shift,5
+val_Spatial_Reasoning_208_bw1,val_Spatial_Reasoning_208,The dog is beneath the bench.,bw,NA
+val_Spatial_Reasoning_208_bw2,val_Spatial_Reasoning_208,The dog is beneath the bench.,bw,NA
+val_Spatial_Reasoning_209_contrast1,val_Spatial_Reasoning_209,The dog is beneath the bench.,contrast,7
+val_Spatial_Reasoning_209_contrast2,val_Spatial_Reasoning_209,The dog is beneath the bench.,contrast,6
+val_Spatial_Reasoning_209_blur1,val_Spatial_Reasoning_209,The dog is beneath the bench.,blur,7
+val_Spatial_Reasoning_209_blur2,val_Spatial_Reasoning_209,The dog is beneath the bench.,blur,6
+val_Spatial_Reasoning_209_noise1,val_Spatial_Reasoning_209,The dog is beneath the bench.,noise,7
+val_Spatial_Reasoning_209_noise2,val_Spatial_Reasoning_209,The dog is beneath the bench.,noise,5
+val_Spatial_Reasoning_209_masking1,val_Spatial_Reasoning_209,The dog is beneath the bench.,masking,7
+val_Spatial_Reasoning_209_masking2,val_Spatial_Reasoning_209,The dog is beneath the bench.,masking,5
+val_Spatial_Reasoning_209_rotate1,val_Spatial_Reasoning_209,The dog is beneath the bench.,rotate,7
+val_Spatial_Reasoning_209_rotate2,val_Spatial_Reasoning_209,The dog is beneath the bench.,rotate,6
+val_Spatial_Reasoning_209_shift1,val_Spatial_Reasoning_209,The dog is beneath the bench.,shift,7
+val_Spatial_Reasoning_209_shift2,val_Spatial_Reasoning_209,The dog is beneath the bench.,shift,6
+val_Spatial_Reasoning_209_bw1,val_Spatial_Reasoning_209,The dog is beneath the bench.,bw,NA
+val_Spatial_Reasoning_209_bw2,val_Spatial_Reasoning_209,The dog is beneath the bench.,bw,NA
+val_Spatial_Reasoning_210_contrast1,val_Spatial_Reasoning_210,The dog is on the surfboard.,contrast,3
+val_Spatial_Reasoning_210_contrast2,val_Spatial_Reasoning_210,The dog is on the surfboard.,contrast,6
+val_Spatial_Reasoning_210_blur1,val_Spatial_Reasoning_210,The dog is on the surfboard.,blur,3
+val_Spatial_Reasoning_210_blur2,val_Spatial_Reasoning_210,The dog is on the surfboard.,blur,6
+val_Spatial_Reasoning_210_noise1,val_Spatial_Reasoning_210,The dog is on the surfboard.,noise,7
+val_Spatial_Reasoning_210_noise2,val_Spatial_Reasoning_210,The dog is on the surfboard.,noise,5
+val_Spatial_Reasoning_210_masking1,val_Spatial_Reasoning_210,The dog is on the surfboard.,masking,7
+val_Spatial_Reasoning_210_masking2,val_Spatial_Reasoning_210,The dog is on the surfboard.,masking,5
+val_Spatial_Reasoning_210_rotate1,val_Spatial_Reasoning_210,The dog is on the surfboard.,rotate,3
+val_Spatial_Reasoning_210_rotate2,val_Spatial_Reasoning_210,The dog is on the surfboard.,rotate,6
+val_Spatial_Reasoning_210_shift1,val_Spatial_Reasoning_210,The dog is on the surfboard.,shift,3
+val_Spatial_Reasoning_210_shift2,val_Spatial_Reasoning_210,The dog is on the surfboard.,shift,6
+val_Spatial_Reasoning_210_bw1,val_Spatial_Reasoning_210,The dog is on the surfboard.,bw,NA
+val_Spatial_Reasoning_210_bw2,val_Spatial_Reasoning_210,The dog is on the surfboard.,bw,NA

@@ -1,0 +1,1001 @@
+idx,orig_idx,question,optionA,optionB,optionC,optionD,new_audio_path
+59_silence_0,59,Which sound event occurs after sheep sound?,Sheep,"Drinking, sipping",Siren,pig,order_audio_perturbations_only/59_silence_0.wav
+59_silence_1,59,Which sound event occurs after sheep sound?,Sheep,"Drinking, sipping",Siren,pig,order_audio_perturbations_only/59_silence_1.wav
+59_silence_2,59,Which sound event occurs after sheep sound?,Sheep,"Drinking, sipping",Siren,pig,order_audio_perturbations_only/59_silence_2.wav
+59_silence_3,59,Which sound event occurs after sheep sound?,Sheep,"Drinking, sipping",Siren,pig,order_audio_perturbations_only/59_silence_3.wav
+59_silence_4,59,Which sound event occurs after sheep sound?,Sheep,"Drinking, sipping",Siren,pig,order_audio_perturbations_only/59_silence_4.wav
+59_volume_0,59,Which sound event occurs after sheep sound?,Sheep,"Drinking, sipping",Siren,pig,order_audio_perturbations_only/59_volume_0.wav
+59_volume_1,59,Which sound event occurs after sheep sound?,Sheep,"Drinking, sipping",Siren,pig,order_audio_perturbations_only/59_volume_1.wav
+59_volume_2,59,Which sound event occurs after sheep sound?,Sheep,"Drinking, sipping",Siren,pig,order_audio_perturbations_only/59_volume_2.wav
+59_volume_3,59,Which sound event occurs after sheep sound?,Sheep,"Drinking, sipping",Siren,pig,order_audio_perturbations_only/59_volume_3.wav
+59_volume_4,59,Which sound event occurs after sheep sound?,Sheep,"Drinking, sipping",Siren,pig,order_audio_perturbations_only/59_volume_4.wav
+60_silence_0,60,Which sound event occurs after car_horn sound?,Cat,Train,water_drops,Pig,order_audio_perturbations_only/60_silence_0.wav
+60_silence_1,60,Which sound event occurs after car_horn sound?,Cat,Train,water_drops,Pig,order_audio_perturbations_only/60_silence_1.wav
+60_silence_2,60,Which sound event occurs after car_horn sound?,Cat,Train,water_drops,Pig,order_audio_perturbations_only/60_silence_2.wav
+60_silence_3,60,Which sound event occurs after car_horn sound?,Cat,Train,water_drops,Pig,order_audio_perturbations_only/60_silence_3.wav
+60_silence_4,60,Which sound event occurs after car_horn sound?,Cat,Train,water_drops,Pig,order_audio_perturbations_only/60_silence_4.wav
+60_volume_0,60,Which sound event occurs after car_horn sound?,Cat,Train,water_drops,Pig,order_audio_perturbations_only/60_volume_0.wav
+60_volume_1,60,Which sound event occurs after car_horn sound?,Cat,Train,water_drops,Pig,order_audio_perturbations_only/60_volume_1.wav
+60_volume_2,60,Which sound event occurs after car_horn sound?,Cat,Train,water_drops,Pig,order_audio_perturbations_only/60_volume_2.wav
+60_volume_3,60,Which sound event occurs after car_horn sound?,Cat,Train,water_drops,Pig,order_audio_perturbations_only/60_volume_3.wav
+60_volume_4,60,Which sound event occurs after car_horn sound?,Cat,Train,water_drops,Pig,order_audio_perturbations_only/60_volume_4.wav
+63_silence_0,63,Which sound event occurs second?,Crackling fire,Dog,Mouse click,water_drops,order_audio_perturbations_only/63_silence_0.wav
+63_silence_1,63,Which sound event occurs second?,Crackling fire,Dog,Mouse click,water_drops,order_audio_perturbations_only/63_silence_1.wav
+63_silence_2,63,Which sound event occurs second?,Crackling fire,Dog,Mouse click,water_drops,order_audio_perturbations_only/63_silence_2.wav
+63_silence_3,63,Which sound event occurs second?,Crackling fire,Dog,Mouse click,water_drops,order_audio_perturbations_only/63_silence_3.wav
+63_silence_4,63,Which sound event occurs second?,Crackling fire,Dog,Mouse click,water_drops,order_audio_perturbations_only/63_silence_4.wav
+63_volume_0,63,Which sound event occurs second?,Crackling fire,Dog,Mouse click,water_drops,order_audio_perturbations_only/63_volume_0.wav
+63_volume_1,63,Which sound event occurs second?,Crackling fire,Dog,Mouse click,water_drops,order_audio_perturbations_only/63_volume_1.wav
+63_volume_2,63,Which sound event occurs second?,Crackling fire,Dog,Mouse click,water_drops,order_audio_perturbations_only/63_volume_2.wav
+63_volume_3,63,Which sound event occurs second?,Crackling fire,Dog,Mouse click,water_drops,order_audio_perturbations_only/63_volume_3.wav
+63_volume_4,63,Which sound event occurs second?,Crackling fire,Dog,Mouse click,water_drops,order_audio_perturbations_only/63_volume_4.wav
+66_silence_0,66,Which sound event occurs second?,Cat,Crow,Clock tick,frog,order_audio_perturbations_only/66_silence_0.wav
+66_silence_1,66,Which sound event occurs second?,Cat,Crow,Clock tick,frog,order_audio_perturbations_only/66_silence_1.wav
+66_silence_2,66,Which sound event occurs second?,Cat,Crow,Clock tick,frog,order_audio_perturbations_only/66_silence_2.wav
+66_silence_3,66,Which sound event occurs second?,Cat,Crow,Clock tick,frog,order_audio_perturbations_only/66_silence_3.wav
+66_silence_4,66,Which sound event occurs second?,Cat,Crow,Clock tick,frog,order_audio_perturbations_only/66_silence_4.wav
+66_volume_0,66,Which sound event occurs second?,Cat,Crow,Clock tick,frog,order_audio_perturbations_only/66_volume_0.wav
+66_volume_1,66,Which sound event occurs second?,Cat,Crow,Clock tick,frog,order_audio_perturbations_only/66_volume_1.wav
+66_volume_2,66,Which sound event occurs second?,Cat,Crow,Clock tick,frog,order_audio_perturbations_only/66_volume_2.wav
+66_volume_3,66,Which sound event occurs second?,Cat,Crow,Clock tick,frog,order_audio_perturbations_only/66_volume_3.wav
+66_volume_4,66,Which sound event occurs second?,Cat,Crow,Clock tick,frog,order_audio_perturbations_only/66_volume_4.wav
+67_silence_0,67,Which sound event occurs after can_opening sound?,sneezing,Siren,"Drinking, sipping",Clock alarm,order_audio_perturbations_only/67_silence_0.wav
+67_silence_1,67,Which sound event occurs after can_opening sound?,sneezing,Siren,"Drinking, sipping",Clock alarm,order_audio_perturbations_only/67_silence_1.wav
+67_silence_2,67,Which sound event occurs after can_opening sound?,sneezing,Siren,"Drinking, sipping",Clock alarm,order_audio_perturbations_only/67_silence_2.wav
+67_silence_3,67,Which sound event occurs after can_opening sound?,sneezing,Siren,"Drinking, sipping",Clock alarm,order_audio_perturbations_only/67_silence_3.wav
+67_silence_4,67,Which sound event occurs after can_opening sound?,sneezing,Siren,"Drinking, sipping",Clock alarm,order_audio_perturbations_only/67_silence_4.wav
+67_volume_0,67,Which sound event occurs after can_opening sound?,sneezing,Siren,"Drinking, sipping",Clock alarm,order_audio_perturbations_only/67_volume_0.wav
+67_volume_1,67,Which sound event occurs after can_opening sound?,sneezing,Siren,"Drinking, sipping",Clock alarm,order_audio_perturbations_only/67_volume_1.wav
+67_volume_2,67,Which sound event occurs after can_opening sound?,sneezing,Siren,"Drinking, sipping",Clock alarm,order_audio_perturbations_only/67_volume_2.wav
+67_volume_3,67,Which sound event occurs after can_opening sound?,sneezing,Siren,"Drinking, sipping",Clock alarm,order_audio_perturbations_only/67_volume_3.wav
+67_volume_4,67,Which sound event occurs after can_opening sound?,sneezing,Siren,"Drinking, sipping",Clock alarm,order_audio_perturbations_only/67_volume_4.wav
+68_silence_0,68,Which sound event occurs second?,"Drinking, sipping",Glass breaking,Train,wind,order_audio_perturbations_only/68_silence_0.wav
+68_silence_1,68,Which sound event occurs second?,"Drinking, sipping",Glass breaking,Train,wind,order_audio_perturbations_only/68_silence_1.wav
+68_silence_2,68,Which sound event occurs second?,"Drinking, sipping",Glass breaking,Train,wind,order_audio_perturbations_only/68_silence_2.wav
+68_silence_3,68,Which sound event occurs second?,"Drinking, sipping",Glass breaking,Train,wind,order_audio_perturbations_only/68_silence_3.wav
+68_silence_4,68,Which sound event occurs second?,"Drinking, sipping",Glass breaking,Train,wind,order_audio_perturbations_only/68_silence_4.wav
+68_volume_0,68,Which sound event occurs second?,"Drinking, sipping",Glass breaking,Train,wind,order_audio_perturbations_only/68_volume_0.wav
+68_volume_1,68,Which sound event occurs second?,"Drinking, sipping",Glass breaking,Train,wind,order_audio_perturbations_only/68_volume_1.wav
+68_volume_2,68,Which sound event occurs second?,"Drinking, sipping",Glass breaking,Train,wind,order_audio_perturbations_only/68_volume_2.wav
+68_volume_3,68,Which sound event occurs second?,"Drinking, sipping",Glass breaking,Train,wind,order_audio_perturbations_only/68_volume_3.wav
+68_volume_4,68,Which sound event occurs second?,"Drinking, sipping",Glass breaking,Train,wind,order_audio_perturbations_only/68_volume_4.wav
+70_silence_0,70,Which sound event occurs after vacuum_cleaner sound?,crackling_fire,Helicopter,Hen,Fireworks,order_audio_perturbations_only/70_silence_0.wav
+70_silence_1,70,Which sound event occurs after vacuum_cleaner sound?,crackling_fire,Helicopter,Hen,Fireworks,order_audio_perturbations_only/70_silence_1.wav
+70_silence_2,70,Which sound event occurs after vacuum_cleaner sound?,crackling_fire,Helicopter,Hen,Fireworks,order_audio_perturbations_only/70_silence_2.wav
+70_silence_3,70,Which sound event occurs after vacuum_cleaner sound?,crackling_fire,Helicopter,Hen,Fireworks,order_audio_perturbations_only/70_silence_3.wav
+70_silence_4,70,Which sound event occurs after vacuum_cleaner sound?,crackling_fire,Helicopter,Hen,Fireworks,order_audio_perturbations_only/70_silence_4.wav
+70_volume_0,70,Which sound event occurs after vacuum_cleaner sound?,crackling_fire,Helicopter,Hen,Fireworks,order_audio_perturbations_only/70_volume_0.wav
+70_volume_1,70,Which sound event occurs after vacuum_cleaner sound?,crackling_fire,Helicopter,Hen,Fireworks,order_audio_perturbations_only/70_volume_1.wav
+70_volume_2,70,Which sound event occurs after vacuum_cleaner sound?,crackling_fire,Helicopter,Hen,Fireworks,order_audio_perturbations_only/70_volume_2.wav
+70_volume_3,70,Which sound event occurs after vacuum_cleaner sound?,crackling_fire,Helicopter,Hen,Fireworks,order_audio_perturbations_only/70_volume_3.wav
+70_volume_4,70,Which sound event occurs after vacuum_cleaner sound?,crackling_fire,Helicopter,Hen,Fireworks,order_audio_perturbations_only/70_volume_4.wav
+71_silence_0,71,Which sound event occurs second?,Chirping birds,"Door, wood creaks",Sea waves,car_horn,order_audio_perturbations_only/71_silence_0.wav
+71_silence_1,71,Which sound event occurs second?,Chirping birds,"Door, wood creaks",Sea waves,car_horn,order_audio_perturbations_only/71_silence_1.wav
+71_silence_2,71,Which sound event occurs second?,Chirping birds,"Door, wood creaks",Sea waves,car_horn,order_audio_perturbations_only/71_silence_2.wav
+71_silence_3,71,Which sound event occurs second?,Chirping birds,"Door, wood creaks",Sea waves,car_horn,order_audio_perturbations_only/71_silence_3.wav
+71_silence_4,71,Which sound event occurs second?,Chirping birds,"Door, wood creaks",Sea waves,car_horn,order_audio_perturbations_only/71_silence_4.wav
+71_volume_0,71,Which sound event occurs second?,Chirping birds,"Door, wood creaks",Sea waves,car_horn,order_audio_perturbations_only/71_volume_0.wav
+71_volume_1,71,Which sound event occurs second?,Chirping birds,"Door, wood creaks",Sea waves,car_horn,order_audio_perturbations_only/71_volume_1.wav
+71_volume_2,71,Which sound event occurs second?,Chirping birds,"Door, wood creaks",Sea waves,car_horn,order_audio_perturbations_only/71_volume_2.wav
+71_volume_3,71,Which sound event occurs second?,Chirping birds,"Door, wood creaks",Sea waves,car_horn,order_audio_perturbations_only/71_volume_3.wav
+71_volume_4,71,Which sound event occurs second?,Chirping birds,"Door, wood creaks",Sea waves,car_horn,order_audio_perturbations_only/71_volume_4.wav
+72_silence_0,72,Which sound event occurs second?,Brushing teeth,glass_breaking,Fireworks,Pouring water,order_audio_perturbations_only/72_silence_0.wav
+72_silence_1,72,Which sound event occurs second?,Brushing teeth,glass_breaking,Fireworks,Pouring water,order_audio_perturbations_only/72_silence_1.wav
+72_silence_2,72,Which sound event occurs second?,Brushing teeth,glass_breaking,Fireworks,Pouring water,order_audio_perturbations_only/72_silence_2.wav
+72_silence_3,72,Which sound event occurs second?,Brushing teeth,glass_breaking,Fireworks,Pouring water,order_audio_perturbations_only/72_silence_3.wav
+72_silence_4,72,Which sound event occurs second?,Brushing teeth,glass_breaking,Fireworks,Pouring water,order_audio_perturbations_only/72_silence_4.wav
+72_volume_0,72,Which sound event occurs second?,Brushing teeth,glass_breaking,Fireworks,Pouring water,order_audio_perturbations_only/72_volume_0.wav
+72_volume_1,72,Which sound event occurs second?,Brushing teeth,glass_breaking,Fireworks,Pouring water,order_audio_perturbations_only/72_volume_1.wav
+72_volume_2,72,Which sound event occurs second?,Brushing teeth,glass_breaking,Fireworks,Pouring water,order_audio_perturbations_only/72_volume_2.wav
+72_volume_3,72,Which sound event occurs second?,Brushing teeth,glass_breaking,Fireworks,Pouring water,order_audio_perturbations_only/72_volume_3.wav
+72_volume_4,72,Which sound event occurs second?,Brushing teeth,glass_breaking,Fireworks,Pouring water,order_audio_perturbations_only/72_volume_4.wav
+73_silence_0,73,Which sound event occurs first?,Snoring,Pouring water,laughing,Crackling fire,order_audio_perturbations_only/73_silence_0.wav
+73_silence_1,73,Which sound event occurs first?,Snoring,Pouring water,laughing,Crackling fire,order_audio_perturbations_only/73_silence_1.wav
+73_silence_2,73,Which sound event occurs first?,Snoring,Pouring water,laughing,Crackling fire,order_audio_perturbations_only/73_silence_2.wav
+73_silence_3,73,Which sound event occurs first?,Snoring,Pouring water,laughing,Crackling fire,order_audio_perturbations_only/73_silence_3.wav
+73_silence_4,73,Which sound event occurs first?,Snoring,Pouring water,laughing,Crackling fire,order_audio_perturbations_only/73_silence_4.wav
+73_volume_0,73,Which sound event occurs first?,Snoring,Pouring water,laughing,Crackling fire,order_audio_perturbations_only/73_volume_0.wav
+73_volume_1,73,Which sound event occurs first?,Snoring,Pouring water,laughing,Crackling fire,order_audio_perturbations_only/73_volume_1.wav
+73_volume_2,73,Which sound event occurs first?,Snoring,Pouring water,laughing,Crackling fire,order_audio_perturbations_only/73_volume_2.wav
+73_volume_3,73,Which sound event occurs first?,Snoring,Pouring water,laughing,Crackling fire,order_audio_perturbations_only/73_volume_3.wav
+73_volume_4,73,Which sound event occurs first?,Snoring,Pouring water,laughing,Crackling fire,order_audio_perturbations_only/73_volume_4.wav
+74_silence_0,74,Which sound event occurs after coughing sound?,Crickets,Clapping,car_horn,Clock tick,order_audio_perturbations_only/74_silence_0.wav
+74_silence_1,74,Which sound event occurs after coughing sound?,Crickets,Clapping,car_horn,Clock tick,order_audio_perturbations_only/74_silence_1.wav
+74_silence_2,74,Which sound event occurs after coughing sound?,Crickets,Clapping,car_horn,Clock tick,order_audio_perturbations_only/74_silence_2.wav
+74_silence_3,74,Which sound event occurs after coughing sound?,Crickets,Clapping,car_horn,Clock tick,order_audio_perturbations_only/74_silence_3.wav
+74_silence_4,74,Which sound event occurs after coughing sound?,Crickets,Clapping,car_horn,Clock tick,order_audio_perturbations_only/74_silence_4.wav
+74_volume_0,74,Which sound event occurs after coughing sound?,Crickets,Clapping,car_horn,Clock tick,order_audio_perturbations_only/74_volume_0.wav
+74_volume_1,74,Which sound event occurs after coughing sound?,Crickets,Clapping,car_horn,Clock tick,order_audio_perturbations_only/74_volume_1.wav
+74_volume_2,74,Which sound event occurs after coughing sound?,Crickets,Clapping,car_horn,Clock tick,order_audio_perturbations_only/74_volume_2.wav
+74_volume_3,74,Which sound event occurs after coughing sound?,Crickets,Clapping,car_horn,Clock tick,order_audio_perturbations_only/74_volume_3.wav
+74_volume_4,74,Which sound event occurs after coughing sound?,Crickets,Clapping,car_horn,Clock tick,order_audio_perturbations_only/74_volume_4.wav
+75_silence_0,75,Which sound event occurs second?,Coughing,Crickets,Glass breaking,washing_machine,order_audio_perturbations_only/75_silence_0.wav
+75_silence_1,75,Which sound event occurs second?,Coughing,Crickets,Glass breaking,washing_machine,order_audio_perturbations_only/75_silence_1.wav
+75_silence_2,75,Which sound event occurs second?,Coughing,Crickets,Glass breaking,washing_machine,order_audio_perturbations_only/75_silence_2.wav
+75_silence_3,75,Which sound event occurs second?,Coughing,Crickets,Glass breaking,washing_machine,order_audio_perturbations_only/75_silence_3.wav
+75_silence_4,75,Which sound event occurs second?,Coughing,Crickets,Glass breaking,washing_machine,order_audio_perturbations_only/75_silence_4.wav
+75_volume_0,75,Which sound event occurs second?,Coughing,Crickets,Glass breaking,washing_machine,order_audio_perturbations_only/75_volume_0.wav
+75_volume_1,75,Which sound event occurs second?,Coughing,Crickets,Glass breaking,washing_machine,order_audio_perturbations_only/75_volume_1.wav
+75_volume_2,75,Which sound event occurs second?,Coughing,Crickets,Glass breaking,washing_machine,order_audio_perturbations_only/75_volume_2.wav
+75_volume_3,75,Which sound event occurs second?,Coughing,Crickets,Glass breaking,washing_machine,order_audio_perturbations_only/75_volume_3.wav
+75_volume_4,75,Which sound event occurs second?,Coughing,Crickets,Glass breaking,washing_machine,order_audio_perturbations_only/75_volume_4.wav
+76_silence_0,76,Which sound event occurs first?,Water drops,clock_alarm,Hand saw,Sheep,order_audio_perturbations_only/76_silence_0.wav
+76_silence_1,76,Which sound event occurs first?,Water drops,clock_alarm,Hand saw,Sheep,order_audio_perturbations_only/76_silence_1.wav
+76_silence_2,76,Which sound event occurs first?,Water drops,clock_alarm,Hand saw,Sheep,order_audio_perturbations_only/76_silence_2.wav
+76_silence_3,76,Which sound event occurs first?,Water drops,clock_alarm,Hand saw,Sheep,order_audio_perturbations_only/76_silence_3.wav
+76_silence_4,76,Which sound event occurs first?,Water drops,clock_alarm,Hand saw,Sheep,order_audio_perturbations_only/76_silence_4.wav
+76_volume_0,76,Which sound event occurs first?,Water drops,clock_alarm,Hand saw,Sheep,order_audio_perturbations_only/76_volume_0.wav
+76_volume_1,76,Which sound event occurs first?,Water drops,clock_alarm,Hand saw,Sheep,order_audio_perturbations_only/76_volume_1.wav
+76_volume_2,76,Which sound event occurs first?,Water drops,clock_alarm,Hand saw,Sheep,order_audio_perturbations_only/76_volume_2.wav
+76_volume_3,76,Which sound event occurs first?,Water drops,clock_alarm,Hand saw,Sheep,order_audio_perturbations_only/76_volume_3.wav
+76_volume_4,76,Which sound event occurs first?,Water drops,clock_alarm,Hand saw,Sheep,order_audio_perturbations_only/76_volume_4.wav
+78_silence_0,78,Which sound event occurs after siren sound?,helicopter,Can opening,"Door, wood creaks",Fireworks,order_audio_perturbations_only/78_silence_0.wav
+78_silence_1,78,Which sound event occurs after siren sound?,helicopter,Can opening,"Door, wood creaks",Fireworks,order_audio_perturbations_only/78_silence_1.wav
+78_silence_2,78,Which sound event occurs after siren sound?,helicopter,Can opening,"Door, wood creaks",Fireworks,order_audio_perturbations_only/78_silence_2.wav
+78_silence_3,78,Which sound event occurs after siren sound?,helicopter,Can opening,"Door, wood creaks",Fireworks,order_audio_perturbations_only/78_silence_3.wav
+78_silence_4,78,Which sound event occurs after siren sound?,helicopter,Can opening,"Door, wood creaks",Fireworks,order_audio_perturbations_only/78_silence_4.wav
+78_volume_0,78,Which sound event occurs after siren sound?,helicopter,Can opening,"Door, wood creaks",Fireworks,order_audio_perturbations_only/78_volume_0.wav
+78_volume_1,78,Which sound event occurs after siren sound?,helicopter,Can opening,"Door, wood creaks",Fireworks,order_audio_perturbations_only/78_volume_1.wav
+78_volume_2,78,Which sound event occurs after siren sound?,helicopter,Can opening,"Door, wood creaks",Fireworks,order_audio_perturbations_only/78_volume_2.wav
+78_volume_3,78,Which sound event occurs after siren sound?,helicopter,Can opening,"Door, wood creaks",Fireworks,order_audio_perturbations_only/78_volume_3.wav
+78_volume_4,78,Which sound event occurs after siren sound?,helicopter,Can opening,"Door, wood creaks",Fireworks,order_audio_perturbations_only/78_volume_4.wav
+80_silence_0,80,Which sound event occurs first?,Car horn,"Door, wood creaks",Crow,rooster,order_audio_perturbations_only/80_silence_0.wav
+80_silence_1,80,Which sound event occurs first?,Car horn,"Door, wood creaks",Crow,rooster,order_audio_perturbations_only/80_silence_1.wav
+80_silence_2,80,Which sound event occurs first?,Car horn,"Door, wood creaks",Crow,rooster,order_audio_perturbations_only/80_silence_2.wav
+80_silence_3,80,Which sound event occurs first?,Car horn,"Door, wood creaks",Crow,rooster,order_audio_perturbations_only/80_silence_3.wav
+80_silence_4,80,Which sound event occurs first?,Car horn,"Door, wood creaks",Crow,rooster,order_audio_perturbations_only/80_silence_4.wav
+80_volume_0,80,Which sound event occurs first?,Car horn,"Door, wood creaks",Crow,rooster,order_audio_perturbations_only/80_volume_0.wav
+80_volume_1,80,Which sound event occurs first?,Car horn,"Door, wood creaks",Crow,rooster,order_audio_perturbations_only/80_volume_1.wav
+80_volume_2,80,Which sound event occurs first?,Car horn,"Door, wood creaks",Crow,rooster,order_audio_perturbations_only/80_volume_2.wav
+80_volume_3,80,Which sound event occurs first?,Car horn,"Door, wood creaks",Crow,rooster,order_audio_perturbations_only/80_volume_3.wav
+80_volume_4,80,Which sound event occurs first?,Car horn,"Door, wood creaks",Crow,rooster,order_audio_perturbations_only/80_volume_4.wav
+83_silence_0,83,Which sound event occurs second?,Crying baby,"Door, wood creaks",Helicopter,engine,order_audio_perturbations_only/83_silence_0.wav
+83_silence_1,83,Which sound event occurs second?,Crying baby,"Door, wood creaks",Helicopter,engine,order_audio_perturbations_only/83_silence_1.wav
+83_silence_2,83,Which sound event occurs second?,Crying baby,"Door, wood creaks",Helicopter,engine,order_audio_perturbations_only/83_silence_2.wav
+83_silence_3,83,Which sound event occurs second?,Crying baby,"Door, wood creaks",Helicopter,engine,order_audio_perturbations_only/83_silence_3.wav
+83_silence_4,83,Which sound event occurs second?,Crying baby,"Door, wood creaks",Helicopter,engine,order_audio_perturbations_only/83_silence_4.wav
+83_volume_0,83,Which sound event occurs second?,Crying baby,"Door, wood creaks",Helicopter,engine,order_audio_perturbations_only/83_volume_0.wav
+83_volume_1,83,Which sound event occurs second?,Crying baby,"Door, wood creaks",Helicopter,engine,order_audio_perturbations_only/83_volume_1.wav
+83_volume_2,83,Which sound event occurs second?,Crying baby,"Door, wood creaks",Helicopter,engine,order_audio_perturbations_only/83_volume_2.wav
+83_volume_3,83,Which sound event occurs second?,Crying baby,"Door, wood creaks",Helicopter,engine,order_audio_perturbations_only/83_volume_3.wav
+83_volume_4,83,Which sound event occurs second?,Crying baby,"Door, wood creaks",Helicopter,engine,order_audio_perturbations_only/83_volume_4.wav
+87_silence_0,87,Which sound event occurs second?,Hen,Car horn,Crying baby,door_wood_knock,order_audio_perturbations_only/87_silence_0.wav
+87_silence_1,87,Which sound event occurs second?,Hen,Car horn,Crying baby,door_wood_knock,order_audio_perturbations_only/87_silence_1.wav
+87_silence_2,87,Which sound event occurs second?,Hen,Car horn,Crying baby,door_wood_knock,order_audio_perturbations_only/87_silence_2.wav
+87_silence_3,87,Which sound event occurs second?,Hen,Car horn,Crying baby,door_wood_knock,order_audio_perturbations_only/87_silence_3.wav
+87_silence_4,87,Which sound event occurs second?,Hen,Car horn,Crying baby,door_wood_knock,order_audio_perturbations_only/87_silence_4.wav
+87_volume_0,87,Which sound event occurs second?,Hen,Car horn,Crying baby,door_wood_knock,order_audio_perturbations_only/87_volume_0.wav
+87_volume_1,87,Which sound event occurs second?,Hen,Car horn,Crying baby,door_wood_knock,order_audio_perturbations_only/87_volume_1.wav
+87_volume_2,87,Which sound event occurs second?,Hen,Car horn,Crying baby,door_wood_knock,order_audio_perturbations_only/87_volume_2.wav
+87_volume_3,87,Which sound event occurs second?,Hen,Car horn,Crying baby,door_wood_knock,order_audio_perturbations_only/87_volume_3.wav
+87_volume_4,87,Which sound event occurs second?,Hen,Car horn,Crying baby,door_wood_knock,order_audio_perturbations_only/87_volume_4.wav
+88_silence_0,88,Which sound event occurs second?,pouring_water,Siren,Crying baby,Clock alarm,order_audio_perturbations_only/88_silence_0.wav
+88_silence_1,88,Which sound event occurs second?,pouring_water,Siren,Crying baby,Clock alarm,order_audio_perturbations_only/88_silence_1.wav
+88_silence_2,88,Which sound event occurs second?,pouring_water,Siren,Crying baby,Clock alarm,order_audio_perturbations_only/88_silence_2.wav
+88_silence_3,88,Which sound event occurs second?,pouring_water,Siren,Crying baby,Clock alarm,order_audio_perturbations_only/88_silence_3.wav
+88_silence_4,88,Which sound event occurs second?,pouring_water,Siren,Crying baby,Clock alarm,order_audio_perturbations_only/88_silence_4.wav
+88_volume_0,88,Which sound event occurs second?,pouring_water,Siren,Crying baby,Clock alarm,order_audio_perturbations_only/88_volume_0.wav
+88_volume_1,88,Which sound event occurs second?,pouring_water,Siren,Crying baby,Clock alarm,order_audio_perturbations_only/88_volume_1.wav
+88_volume_2,88,Which sound event occurs second?,pouring_water,Siren,Crying baby,Clock alarm,order_audio_perturbations_only/88_volume_2.wav
+88_volume_3,88,Which sound event occurs second?,pouring_water,Siren,Crying baby,Clock alarm,order_audio_perturbations_only/88_volume_3.wav
+88_volume_4,88,Which sound event occurs second?,pouring_water,Siren,Crying baby,Clock alarm,order_audio_perturbations_only/88_volume_4.wav
+89_silence_0,89,Which sound event occurs after snoring sound?,frog,Thunderstorm,Breathing,Siren,order_audio_perturbations_only/89_silence_0.wav
+89_silence_1,89,Which sound event occurs after snoring sound?,frog,Thunderstorm,Breathing,Siren,order_audio_perturbations_only/89_silence_1.wav
+89_silence_2,89,Which sound event occurs after snoring sound?,frog,Thunderstorm,Breathing,Siren,order_audio_perturbations_only/89_silence_2.wav
+89_silence_3,89,Which sound event occurs after snoring sound?,frog,Thunderstorm,Breathing,Siren,order_audio_perturbations_only/89_silence_3.wav
+89_silence_4,89,Which sound event occurs after snoring sound?,frog,Thunderstorm,Breathing,Siren,order_audio_perturbations_only/89_silence_4.wav
+89_volume_0,89,Which sound event occurs after snoring sound?,frog,Thunderstorm,Breathing,Siren,order_audio_perturbations_only/89_volume_0.wav
+89_volume_1,89,Which sound event occurs after snoring sound?,frog,Thunderstorm,Breathing,Siren,order_audio_perturbations_only/89_volume_1.wav
+89_volume_2,89,Which sound event occurs after snoring sound?,frog,Thunderstorm,Breathing,Siren,order_audio_perturbations_only/89_volume_2.wav
+89_volume_3,89,Which sound event occurs after snoring sound?,frog,Thunderstorm,Breathing,Siren,order_audio_perturbations_only/89_volume_3.wav
+89_volume_4,89,Which sound event occurs after snoring sound?,frog,Thunderstorm,Breathing,Siren,order_audio_perturbations_only/89_volume_4.wav
+90_silence_0,90,Which sound event occurs third?,sheep,Siren,Door knock,Chainsaw,order_audio_perturbations_only/90_silence_0.wav
+90_silence_1,90,Which sound event occurs third?,sheep,Siren,Door knock,Chainsaw,order_audio_perturbations_only/90_silence_1.wav
+90_silence_2,90,Which sound event occurs third?,sheep,Siren,Door knock,Chainsaw,order_audio_perturbations_only/90_silence_2.wav
+90_silence_3,90,Which sound event occurs third?,sheep,Siren,Door knock,Chainsaw,order_audio_perturbations_only/90_silence_3.wav
+90_silence_4,90,Which sound event occurs third?,sheep,Siren,Door knock,Chainsaw,order_audio_perturbations_only/90_silence_4.wav
+90_volume_0,90,Which sound event occurs third?,sheep,Siren,Door knock,Chainsaw,order_audio_perturbations_only/90_volume_0.wav
+90_volume_1,90,Which sound event occurs third?,sheep,Siren,Door knock,Chainsaw,order_audio_perturbations_only/90_volume_1.wav
+90_volume_2,90,Which sound event occurs third?,sheep,Siren,Door knock,Chainsaw,order_audio_perturbations_only/90_volume_2.wav
+90_volume_3,90,Which sound event occurs third?,sheep,Siren,Door knock,Chainsaw,order_audio_perturbations_only/90_volume_3.wav
+90_volume_4,90,Which sound event occurs third?,sheep,Siren,Door knock,Chainsaw,order_audio_perturbations_only/90_volume_4.wav
+91_silence_0,91,Which sound event occurs second?,Thunderstorm,Fireworks,train,Church bells,order_audio_perturbations_only/91_silence_0.wav
+91_silence_1,91,Which sound event occurs second?,Thunderstorm,Fireworks,train,Church bells,order_audio_perturbations_only/91_silence_1.wav
+91_silence_2,91,Which sound event occurs second?,Thunderstorm,Fireworks,train,Church bells,order_audio_perturbations_only/91_silence_2.wav
+91_silence_3,91,Which sound event occurs second?,Thunderstorm,Fireworks,train,Church bells,order_audio_perturbations_only/91_silence_3.wav
+91_silence_4,91,Which sound event occurs second?,Thunderstorm,Fireworks,train,Church bells,order_audio_perturbations_only/91_silence_4.wav
+91_volume_0,91,Which sound event occurs second?,Thunderstorm,Fireworks,train,Church bells,order_audio_perturbations_only/91_volume_0.wav
+91_volume_1,91,Which sound event occurs second?,Thunderstorm,Fireworks,train,Church bells,order_audio_perturbations_only/91_volume_1.wav
+91_volume_2,91,Which sound event occurs second?,Thunderstorm,Fireworks,train,Church bells,order_audio_perturbations_only/91_volume_2.wav
+91_volume_3,91,Which sound event occurs second?,Thunderstorm,Fireworks,train,Church bells,order_audio_perturbations_only/91_volume_3.wav
+91_volume_4,91,Which sound event occurs second?,Thunderstorm,Fireworks,train,Church bells,order_audio_perturbations_only/91_volume_4.wav
+93_silence_0,93,Which sound event occurs fourth?,coughing,Snoring,Church bells,Laughing,order_audio_perturbations_only/93_silence_0.wav
+93_silence_1,93,Which sound event occurs fourth?,coughing,Snoring,Church bells,Laughing,order_audio_perturbations_only/93_silence_1.wav
+93_silence_2,93,Which sound event occurs fourth?,coughing,Snoring,Church bells,Laughing,order_audio_perturbations_only/93_silence_2.wav
+93_silence_3,93,Which sound event occurs fourth?,coughing,Snoring,Church bells,Laughing,order_audio_perturbations_only/93_silence_3.wav
+93_silence_4,93,Which sound event occurs fourth?,coughing,Snoring,Church bells,Laughing,order_audio_perturbations_only/93_silence_4.wav
+93_volume_0,93,Which sound event occurs fourth?,coughing,Snoring,Church bells,Laughing,order_audio_perturbations_only/93_volume_0.wav
+93_volume_1,93,Which sound event occurs fourth?,coughing,Snoring,Church bells,Laughing,order_audio_perturbations_only/93_volume_1.wav
+93_volume_2,93,Which sound event occurs fourth?,coughing,Snoring,Church bells,Laughing,order_audio_perturbations_only/93_volume_2.wav
+93_volume_3,93,Which sound event occurs fourth?,coughing,Snoring,Church bells,Laughing,order_audio_perturbations_only/93_volume_3.wav
+93_volume_4,93,Which sound event occurs fourth?,coughing,Snoring,Church bells,Laughing,order_audio_perturbations_only/93_volume_4.wav
+94_silence_0,94,Which sound event occurs second?,Laughing,Crow,Rain,can_opening,order_audio_perturbations_only/94_silence_0.wav
+94_silence_1,94,Which sound event occurs second?,Laughing,Crow,Rain,can_opening,order_audio_perturbations_only/94_silence_1.wav
+94_silence_2,94,Which sound event occurs second?,Laughing,Crow,Rain,can_opening,order_audio_perturbations_only/94_silence_2.wav
+94_silence_3,94,Which sound event occurs second?,Laughing,Crow,Rain,can_opening,order_audio_perturbations_only/94_silence_3.wav
+94_silence_4,94,Which sound event occurs second?,Laughing,Crow,Rain,can_opening,order_audio_perturbations_only/94_silence_4.wav
+94_volume_0,94,Which sound event occurs second?,Laughing,Crow,Rain,can_opening,order_audio_perturbations_only/94_volume_0.wav
+94_volume_1,94,Which sound event occurs second?,Laughing,Crow,Rain,can_opening,order_audio_perturbations_only/94_volume_1.wav
+94_volume_2,94,Which sound event occurs second?,Laughing,Crow,Rain,can_opening,order_audio_perturbations_only/94_volume_2.wav
+94_volume_3,94,Which sound event occurs second?,Laughing,Crow,Rain,can_opening,order_audio_perturbations_only/94_volume_3.wav
+94_volume_4,94,Which sound event occurs second?,Laughing,Crow,Rain,can_opening,order_audio_perturbations_only/94_volume_4.wav
+95_silence_0,95,Which sound event occurs third?,Chainsaw,brushing_teeth,Thunderstorm,Insects (flying),order_audio_perturbations_only/95_silence_0.wav
+95_silence_1,95,Which sound event occurs third?,Chainsaw,brushing_teeth,Thunderstorm,Insects (flying),order_audio_perturbations_only/95_silence_1.wav
+95_silence_2,95,Which sound event occurs third?,Chainsaw,brushing_teeth,Thunderstorm,Insects (flying),order_audio_perturbations_only/95_silence_2.wav
+95_silence_3,95,Which sound event occurs third?,Chainsaw,brushing_teeth,Thunderstorm,Insects (flying),order_audio_perturbations_only/95_silence_3.wav
+95_silence_4,95,Which sound event occurs third?,Chainsaw,brushing_teeth,Thunderstorm,Insects (flying),order_audio_perturbations_only/95_silence_4.wav
+95_volume_0,95,Which sound event occurs third?,Chainsaw,brushing_teeth,Thunderstorm,Insects (flying),order_audio_perturbations_only/95_volume_0.wav
+95_volume_1,95,Which sound event occurs third?,Chainsaw,brushing_teeth,Thunderstorm,Insects (flying),order_audio_perturbations_only/95_volume_1.wav
+95_volume_2,95,Which sound event occurs third?,Chainsaw,brushing_teeth,Thunderstorm,Insects (flying),order_audio_perturbations_only/95_volume_2.wav
+95_volume_3,95,Which sound event occurs third?,Chainsaw,brushing_teeth,Thunderstorm,Insects (flying),order_audio_perturbations_only/95_volume_3.wav
+95_volume_4,95,Which sound event occurs third?,Chainsaw,brushing_teeth,Thunderstorm,Insects (flying),order_audio_perturbations_only/95_volume_4.wav
+96_silence_0,96,Which sound event occurs after car_horn sound?,Keyboard typing,Hand saw,footsteps,Rain,order_audio_perturbations_only/96_silence_0.wav
+96_silence_1,96,Which sound event occurs after car_horn sound?,Keyboard typing,Hand saw,footsteps,Rain,order_audio_perturbations_only/96_silence_1.wav
+96_silence_2,96,Which sound event occurs after car_horn sound?,Keyboard typing,Hand saw,footsteps,Rain,order_audio_perturbations_only/96_silence_2.wav
+96_silence_3,96,Which sound event occurs after car_horn sound?,Keyboard typing,Hand saw,footsteps,Rain,order_audio_perturbations_only/96_silence_3.wav
+96_silence_4,96,Which sound event occurs after car_horn sound?,Keyboard typing,Hand saw,footsteps,Rain,order_audio_perturbations_only/96_silence_4.wav
+96_volume_0,96,Which sound event occurs after car_horn sound?,Keyboard typing,Hand saw,footsteps,Rain,order_audio_perturbations_only/96_volume_0.wav
+96_volume_1,96,Which sound event occurs after car_horn sound?,Keyboard typing,Hand saw,footsteps,Rain,order_audio_perturbations_only/96_volume_1.wav
+96_volume_2,96,Which sound event occurs after car_horn sound?,Keyboard typing,Hand saw,footsteps,Rain,order_audio_perturbations_only/96_volume_2.wav
+96_volume_3,96,Which sound event occurs after car_horn sound?,Keyboard typing,Hand saw,footsteps,Rain,order_audio_perturbations_only/96_volume_3.wav
+96_volume_4,96,Which sound event occurs after car_horn sound?,Keyboard typing,Hand saw,footsteps,Rain,order_audio_perturbations_only/96_volume_4.wav
+99_silence_0,99,Which sound event occurs third?,Mouse click,Hen,Airplane,drinking_sipping,order_audio_perturbations_only/99_silence_0.wav
+99_silence_1,99,Which sound event occurs third?,Mouse click,Hen,Airplane,drinking_sipping,order_audio_perturbations_only/99_silence_1.wav
+99_silence_2,99,Which sound event occurs third?,Mouse click,Hen,Airplane,drinking_sipping,order_audio_perturbations_only/99_silence_2.wav
+99_silence_3,99,Which sound event occurs third?,Mouse click,Hen,Airplane,drinking_sipping,order_audio_perturbations_only/99_silence_3.wav
+99_silence_4,99,Which sound event occurs third?,Mouse click,Hen,Airplane,drinking_sipping,order_audio_perturbations_only/99_silence_4.wav
+99_volume_0,99,Which sound event occurs third?,Mouse click,Hen,Airplane,drinking_sipping,order_audio_perturbations_only/99_volume_0.wav
+99_volume_1,99,Which sound event occurs third?,Mouse click,Hen,Airplane,drinking_sipping,order_audio_perturbations_only/99_volume_1.wav
+99_volume_2,99,Which sound event occurs third?,Mouse click,Hen,Airplane,drinking_sipping,order_audio_perturbations_only/99_volume_2.wav
+99_volume_3,99,Which sound event occurs third?,Mouse click,Hen,Airplane,drinking_sipping,order_audio_perturbations_only/99_volume_3.wav
+99_volume_4,99,Which sound event occurs third?,Mouse click,Hen,Airplane,drinking_sipping,order_audio_perturbations_only/99_volume_4.wav
+100_silence_0,100,Which sound event occurs second?,Fireworks,laughing,Vacuum cleaner,Clock tick,order_audio_perturbations_only/100_silence_0.wav
+100_silence_1,100,Which sound event occurs second?,Fireworks,laughing,Vacuum cleaner,Clock tick,order_audio_perturbations_only/100_silence_1.wav
+100_silence_2,100,Which sound event occurs second?,Fireworks,laughing,Vacuum cleaner,Clock tick,order_audio_perturbations_only/100_silence_2.wav
+100_silence_3,100,Which sound event occurs second?,Fireworks,laughing,Vacuum cleaner,Clock tick,order_audio_perturbations_only/100_silence_3.wav
+100_silence_4,100,Which sound event occurs second?,Fireworks,laughing,Vacuum cleaner,Clock tick,order_audio_perturbations_only/100_silence_4.wav
+100_volume_0,100,Which sound event occurs second?,Fireworks,laughing,Vacuum cleaner,Clock tick,order_audio_perturbations_only/100_volume_0.wav
+100_volume_1,100,Which sound event occurs second?,Fireworks,laughing,Vacuum cleaner,Clock tick,order_audio_perturbations_only/100_volume_1.wav
+100_volume_2,100,Which sound event occurs second?,Fireworks,laughing,Vacuum cleaner,Clock tick,order_audio_perturbations_only/100_volume_2.wav
+100_volume_3,100,Which sound event occurs second?,Fireworks,laughing,Vacuum cleaner,Clock tick,order_audio_perturbations_only/100_volume_3.wav
+100_volume_4,100,Which sound event occurs second?,Fireworks,laughing,Vacuum cleaner,Clock tick,order_audio_perturbations_only/100_volume_4.wav
+101_silence_0,101,Which sound event occurs first?,Door knock,Wind,can_opening,"Door, wood creaks",order_audio_perturbations_only/101_silence_0.wav
+101_silence_1,101,Which sound event occurs first?,Door knock,Wind,can_opening,"Door, wood creaks",order_audio_perturbations_only/101_silence_1.wav
+101_silence_2,101,Which sound event occurs first?,Door knock,Wind,can_opening,"Door, wood creaks",order_audio_perturbations_only/101_silence_2.wav
+101_silence_3,101,Which sound event occurs first?,Door knock,Wind,can_opening,"Door, wood creaks",order_audio_perturbations_only/101_silence_3.wav
+101_silence_4,101,Which sound event occurs first?,Door knock,Wind,can_opening,"Door, wood creaks",order_audio_perturbations_only/101_silence_4.wav
+101_volume_0,101,Which sound event occurs first?,Door knock,Wind,can_opening,"Door, wood creaks",order_audio_perturbations_only/101_volume_0.wav
+101_volume_1,101,Which sound event occurs first?,Door knock,Wind,can_opening,"Door, wood creaks",order_audio_perturbations_only/101_volume_1.wav
+101_volume_2,101,Which sound event occurs first?,Door knock,Wind,can_opening,"Door, wood creaks",order_audio_perturbations_only/101_volume_2.wav
+101_volume_3,101,Which sound event occurs first?,Door knock,Wind,can_opening,"Door, wood creaks",order_audio_perturbations_only/101_volume_3.wav
+101_volume_4,101,Which sound event occurs first?,Door knock,Wind,can_opening,"Door, wood creaks",order_audio_perturbations_only/101_volume_4.wav
+102_silence_0,102,Which sound event occurs second?,Sneezing,Siren,Wind,glass_breaking,order_audio_perturbations_only/102_silence_0.wav
+102_silence_1,102,Which sound event occurs second?,Sneezing,Siren,Wind,glass_breaking,order_audio_perturbations_only/102_silence_1.wav
+102_silence_2,102,Which sound event occurs second?,Sneezing,Siren,Wind,glass_breaking,order_audio_perturbations_only/102_silence_2.wav
+102_silence_3,102,Which sound event occurs second?,Sneezing,Siren,Wind,glass_breaking,order_audio_perturbations_only/102_silence_3.wav
+102_silence_4,102,Which sound event occurs second?,Sneezing,Siren,Wind,glass_breaking,order_audio_perturbations_only/102_silence_4.wav
+102_volume_0,102,Which sound event occurs second?,Sneezing,Siren,Wind,glass_breaking,order_audio_perturbations_only/102_volume_0.wav
+102_volume_1,102,Which sound event occurs second?,Sneezing,Siren,Wind,glass_breaking,order_audio_perturbations_only/102_volume_1.wav
+102_volume_2,102,Which sound event occurs second?,Sneezing,Siren,Wind,glass_breaking,order_audio_perturbations_only/102_volume_2.wav
+102_volume_3,102,Which sound event occurs second?,Sneezing,Siren,Wind,glass_breaking,order_audio_perturbations_only/102_volume_3.wav
+102_volume_4,102,Which sound event occurs second?,Sneezing,Siren,Wind,glass_breaking,order_audio_perturbations_only/102_volume_4.wav
+103_silence_0,103,Which sound event occurs second?,Washing machine,Dog,Vacuum cleaner,siren,order_audio_perturbations_only/103_silence_0.wav
+103_silence_1,103,Which sound event occurs second?,Washing machine,Dog,Vacuum cleaner,siren,order_audio_perturbations_only/103_silence_1.wav
+103_silence_2,103,Which sound event occurs second?,Washing machine,Dog,Vacuum cleaner,siren,order_audio_perturbations_only/103_silence_2.wav
+103_silence_3,103,Which sound event occurs second?,Washing machine,Dog,Vacuum cleaner,siren,order_audio_perturbations_only/103_silence_3.wav
+103_silence_4,103,Which sound event occurs second?,Washing machine,Dog,Vacuum cleaner,siren,order_audio_perturbations_only/103_silence_4.wav
+103_volume_0,103,Which sound event occurs second?,Washing machine,Dog,Vacuum cleaner,siren,order_audio_perturbations_only/103_volume_0.wav
+103_volume_1,103,Which sound event occurs second?,Washing machine,Dog,Vacuum cleaner,siren,order_audio_perturbations_only/103_volume_1.wav
+103_volume_2,103,Which sound event occurs second?,Washing machine,Dog,Vacuum cleaner,siren,order_audio_perturbations_only/103_volume_2.wav
+103_volume_3,103,Which sound event occurs second?,Washing machine,Dog,Vacuum cleaner,siren,order_audio_perturbations_only/103_volume_3.wav
+103_volume_4,103,Which sound event occurs second?,Washing machine,Dog,Vacuum cleaner,siren,order_audio_perturbations_only/103_volume_4.wav
+104_silence_0,104,Which sound event occurs after drinking_sipping sound?,engine,Crow,Sneezing,Airplane,order_audio_perturbations_only/104_silence_0.wav
+104_silence_1,104,Which sound event occurs after drinking_sipping sound?,engine,Crow,Sneezing,Airplane,order_audio_perturbations_only/104_silence_1.wav
+104_silence_2,104,Which sound event occurs after drinking_sipping sound?,engine,Crow,Sneezing,Airplane,order_audio_perturbations_only/104_silence_2.wav
+104_silence_3,104,Which sound event occurs after drinking_sipping sound?,engine,Crow,Sneezing,Airplane,order_audio_perturbations_only/104_silence_3.wav
+104_silence_4,104,Which sound event occurs after drinking_sipping sound?,engine,Crow,Sneezing,Airplane,order_audio_perturbations_only/104_silence_4.wav
+104_volume_0,104,Which sound event occurs after drinking_sipping sound?,engine,Crow,Sneezing,Airplane,order_audio_perturbations_only/104_volume_0.wav
+104_volume_1,104,Which sound event occurs after drinking_sipping sound?,engine,Crow,Sneezing,Airplane,order_audio_perturbations_only/104_volume_1.wav
+104_volume_2,104,Which sound event occurs after drinking_sipping sound?,engine,Crow,Sneezing,Airplane,order_audio_perturbations_only/104_volume_2.wav
+104_volume_3,104,Which sound event occurs after drinking_sipping sound?,engine,Crow,Sneezing,Airplane,order_audio_perturbations_only/104_volume_3.wav
+104_volume_4,104,Which sound event occurs after drinking_sipping sound?,engine,Crow,Sneezing,Airplane,order_audio_perturbations_only/104_volume_4.wav
+105_silence_0,105,Which sound event occurs second?,Rooster,Clapping,airplane,Water drops,order_audio_perturbations_only/105_silence_0.wav
+105_silence_1,105,Which sound event occurs second?,Rooster,Clapping,airplane,Water drops,order_audio_perturbations_only/105_silence_1.wav
+105_silence_2,105,Which sound event occurs second?,Rooster,Clapping,airplane,Water drops,order_audio_perturbations_only/105_silence_2.wav
+105_silence_3,105,Which sound event occurs second?,Rooster,Clapping,airplane,Water drops,order_audio_perturbations_only/105_silence_3.wav
+105_silence_4,105,Which sound event occurs second?,Rooster,Clapping,airplane,Water drops,order_audio_perturbations_only/105_silence_4.wav
+105_volume_0,105,Which sound event occurs second?,Rooster,Clapping,airplane,Water drops,order_audio_perturbations_only/105_volume_0.wav
+105_volume_1,105,Which sound event occurs second?,Rooster,Clapping,airplane,Water drops,order_audio_perturbations_only/105_volume_1.wav
+105_volume_2,105,Which sound event occurs second?,Rooster,Clapping,airplane,Water drops,order_audio_perturbations_only/105_volume_2.wav
+105_volume_3,105,Which sound event occurs second?,Rooster,Clapping,airplane,Water drops,order_audio_perturbations_only/105_volume_3.wav
+105_volume_4,105,Which sound event occurs second?,Rooster,Clapping,airplane,Water drops,order_audio_perturbations_only/105_volume_4.wav
+108_silence_0,108,Which sound event occurs first?,Airplane,hand_saw,Frog,Mouse click,order_audio_perturbations_only/108_silence_0.wav
+108_silence_1,108,Which sound event occurs first?,Airplane,hand_saw,Frog,Mouse click,order_audio_perturbations_only/108_silence_1.wav
+108_silence_2,108,Which sound event occurs first?,Airplane,hand_saw,Frog,Mouse click,order_audio_perturbations_only/108_silence_2.wav
+108_silence_3,108,Which sound event occurs first?,Airplane,hand_saw,Frog,Mouse click,order_audio_perturbations_only/108_silence_3.wav
+108_silence_4,108,Which sound event occurs first?,Airplane,hand_saw,Frog,Mouse click,order_audio_perturbations_only/108_silence_4.wav
+108_volume_0,108,Which sound event occurs first?,Airplane,hand_saw,Frog,Mouse click,order_audio_perturbations_only/108_volume_0.wav
+108_volume_1,108,Which sound event occurs first?,Airplane,hand_saw,Frog,Mouse click,order_audio_perturbations_only/108_volume_1.wav
+108_volume_2,108,Which sound event occurs first?,Airplane,hand_saw,Frog,Mouse click,order_audio_perturbations_only/108_volume_2.wav
+108_volume_3,108,Which sound event occurs first?,Airplane,hand_saw,Frog,Mouse click,order_audio_perturbations_only/108_volume_3.wav
+108_volume_4,108,Which sound event occurs first?,Airplane,hand_saw,Frog,Mouse click,order_audio_perturbations_only/108_volume_4.wav
+109_silence_0,109,Which sound event occurs fourth?,Siren,frog,Footsteps,Thunderstorm,order_audio_perturbations_only/109_silence_0.wav
+109_silence_1,109,Which sound event occurs fourth?,Siren,frog,Footsteps,Thunderstorm,order_audio_perturbations_only/109_silence_1.wav
+109_silence_2,109,Which sound event occurs fourth?,Siren,frog,Footsteps,Thunderstorm,order_audio_perturbations_only/109_silence_2.wav
+109_silence_3,109,Which sound event occurs fourth?,Siren,frog,Footsteps,Thunderstorm,order_audio_perturbations_only/109_silence_3.wav
+109_silence_4,109,Which sound event occurs fourth?,Siren,frog,Footsteps,Thunderstorm,order_audio_perturbations_only/109_silence_4.wav
+109_volume_0,109,Which sound event occurs fourth?,Siren,frog,Footsteps,Thunderstorm,order_audio_perturbations_only/109_volume_0.wav
+109_volume_1,109,Which sound event occurs fourth?,Siren,frog,Footsteps,Thunderstorm,order_audio_perturbations_only/109_volume_1.wav
+109_volume_2,109,Which sound event occurs fourth?,Siren,frog,Footsteps,Thunderstorm,order_audio_perturbations_only/109_volume_2.wav
+109_volume_3,109,Which sound event occurs fourth?,Siren,frog,Footsteps,Thunderstorm,order_audio_perturbations_only/109_volume_3.wav
+109_volume_4,109,Which sound event occurs fourth?,Siren,frog,Footsteps,Thunderstorm,order_audio_perturbations_only/109_volume_4.wav
+110_silence_0,110,Which sound event occurs third?,breathing,Keyboard typing,Chainsaw,Thunderstorm,order_audio_perturbations_only/110_silence_0.wav
+110_silence_1,110,Which sound event occurs third?,breathing,Keyboard typing,Chainsaw,Thunderstorm,order_audio_perturbations_only/110_silence_1.wav
+110_silence_2,110,Which sound event occurs third?,breathing,Keyboard typing,Chainsaw,Thunderstorm,order_audio_perturbations_only/110_silence_2.wav
+110_silence_3,110,Which sound event occurs third?,breathing,Keyboard typing,Chainsaw,Thunderstorm,order_audio_perturbations_only/110_silence_3.wav
+110_silence_4,110,Which sound event occurs third?,breathing,Keyboard typing,Chainsaw,Thunderstorm,order_audio_perturbations_only/110_silence_4.wav
+110_volume_0,110,Which sound event occurs third?,breathing,Keyboard typing,Chainsaw,Thunderstorm,order_audio_perturbations_only/110_volume_0.wav
+110_volume_1,110,Which sound event occurs third?,breathing,Keyboard typing,Chainsaw,Thunderstorm,order_audio_perturbations_only/110_volume_1.wav
+110_volume_2,110,Which sound event occurs third?,breathing,Keyboard typing,Chainsaw,Thunderstorm,order_audio_perturbations_only/110_volume_2.wav
+110_volume_3,110,Which sound event occurs third?,breathing,Keyboard typing,Chainsaw,Thunderstorm,order_audio_perturbations_only/110_volume_3.wav
+110_volume_4,110,Which sound event occurs third?,breathing,Keyboard typing,Chainsaw,Thunderstorm,order_audio_perturbations_only/110_volume_4.wav
+111_silence_0,111,Which sound event occurs first?,Thunderstorm,church_bells,Crying baby,Chirping birds,order_audio_perturbations_only/111_silence_0.wav
+111_silence_1,111,Which sound event occurs first?,Thunderstorm,church_bells,Crying baby,Chirping birds,order_audio_perturbations_only/111_silence_1.wav
+111_silence_2,111,Which sound event occurs first?,Thunderstorm,church_bells,Crying baby,Chirping birds,order_audio_perturbations_only/111_silence_2.wav
+111_silence_3,111,Which sound event occurs first?,Thunderstorm,church_bells,Crying baby,Chirping birds,order_audio_perturbations_only/111_silence_3.wav
+111_silence_4,111,Which sound event occurs first?,Thunderstorm,church_bells,Crying baby,Chirping birds,order_audio_perturbations_only/111_silence_4.wav
+111_volume_0,111,Which sound event occurs first?,Thunderstorm,church_bells,Crying baby,Chirping birds,order_audio_perturbations_only/111_volume_0.wav
+111_volume_1,111,Which sound event occurs first?,Thunderstorm,church_bells,Crying baby,Chirping birds,order_audio_perturbations_only/111_volume_1.wav
+111_volume_2,111,Which sound event occurs first?,Thunderstorm,church_bells,Crying baby,Chirping birds,order_audio_perturbations_only/111_volume_2.wav
+111_volume_3,111,Which sound event occurs first?,Thunderstorm,church_bells,Crying baby,Chirping birds,order_audio_perturbations_only/111_volume_3.wav
+111_volume_4,111,Which sound event occurs first?,Thunderstorm,church_bells,Crying baby,Chirping birds,order_audio_perturbations_only/111_volume_4.wav
+112_silence_0,112,Which sound event occurs third?,Wind,Coughing,Sheep,drinking_sipping,order_audio_perturbations_only/112_silence_0.wav
+112_silence_1,112,Which sound event occurs third?,Wind,Coughing,Sheep,drinking_sipping,order_audio_perturbations_only/112_silence_1.wav
+112_silence_2,112,Which sound event occurs third?,Wind,Coughing,Sheep,drinking_sipping,order_audio_perturbations_only/112_silence_2.wav
+112_silence_3,112,Which sound event occurs third?,Wind,Coughing,Sheep,drinking_sipping,order_audio_perturbations_only/112_silence_3.wav
+112_silence_4,112,Which sound event occurs third?,Wind,Coughing,Sheep,drinking_sipping,order_audio_perturbations_only/112_silence_4.wav
+112_volume_0,112,Which sound event occurs third?,Wind,Coughing,Sheep,drinking_sipping,order_audio_perturbations_only/112_volume_0.wav
+112_volume_1,112,Which sound event occurs third?,Wind,Coughing,Sheep,drinking_sipping,order_audio_perturbations_only/112_volume_1.wav
+112_volume_2,112,Which sound event occurs third?,Wind,Coughing,Sheep,drinking_sipping,order_audio_perturbations_only/112_volume_2.wav
+112_volume_3,112,Which sound event occurs third?,Wind,Coughing,Sheep,drinking_sipping,order_audio_perturbations_only/112_volume_3.wav
+112_volume_4,112,Which sound event occurs third?,Wind,Coughing,Sheep,drinking_sipping,order_audio_perturbations_only/112_volume_4.wav
+113_silence_0,113,Which sound event occurs second?,Thunderstorm,snoring,Crying baby,Clock alarm,order_audio_perturbations_only/113_silence_0.wav
+113_silence_1,113,Which sound event occurs second?,Thunderstorm,snoring,Crying baby,Clock alarm,order_audio_perturbations_only/113_silence_1.wav
+113_silence_2,113,Which sound event occurs second?,Thunderstorm,snoring,Crying baby,Clock alarm,order_audio_perturbations_only/113_silence_2.wav
+113_silence_3,113,Which sound event occurs second?,Thunderstorm,snoring,Crying baby,Clock alarm,order_audio_perturbations_only/113_silence_3.wav
+113_silence_4,113,Which sound event occurs second?,Thunderstorm,snoring,Crying baby,Clock alarm,order_audio_perturbations_only/113_silence_4.wav
+113_volume_0,113,Which sound event occurs second?,Thunderstorm,snoring,Crying baby,Clock alarm,order_audio_perturbations_only/113_volume_0.wav
+113_volume_1,113,Which sound event occurs second?,Thunderstorm,snoring,Crying baby,Clock alarm,order_audio_perturbations_only/113_volume_1.wav
+113_volume_2,113,Which sound event occurs second?,Thunderstorm,snoring,Crying baby,Clock alarm,order_audio_perturbations_only/113_volume_2.wav
+113_volume_3,113,Which sound event occurs second?,Thunderstorm,snoring,Crying baby,Clock alarm,order_audio_perturbations_only/113_volume_3.wav
+113_volume_4,113,Which sound event occurs second?,Thunderstorm,snoring,Crying baby,Clock alarm,order_audio_perturbations_only/113_volume_4.wav
+115_silence_0,115,Which sound event occurs second?,Brushing teeth,clapping,Clock tick,Coughing,order_audio_perturbations_only/115_silence_0.wav
+115_silence_1,115,Which sound event occurs second?,Brushing teeth,clapping,Clock tick,Coughing,order_audio_perturbations_only/115_silence_1.wav
+115_silence_2,115,Which sound event occurs second?,Brushing teeth,clapping,Clock tick,Coughing,order_audio_perturbations_only/115_silence_2.wav
+115_silence_3,115,Which sound event occurs second?,Brushing teeth,clapping,Clock tick,Coughing,order_audio_perturbations_only/115_silence_3.wav
+115_silence_4,115,Which sound event occurs second?,Brushing teeth,clapping,Clock tick,Coughing,order_audio_perturbations_only/115_silence_4.wav
+115_volume_0,115,Which sound event occurs second?,Brushing teeth,clapping,Clock tick,Coughing,order_audio_perturbations_only/115_volume_0.wav
+115_volume_1,115,Which sound event occurs second?,Brushing teeth,clapping,Clock tick,Coughing,order_audio_perturbations_only/115_volume_1.wav
+115_volume_2,115,Which sound event occurs second?,Brushing teeth,clapping,Clock tick,Coughing,order_audio_perturbations_only/115_volume_2.wav
+115_volume_3,115,Which sound event occurs second?,Brushing teeth,clapping,Clock tick,Coughing,order_audio_perturbations_only/115_volume_3.wav
+115_volume_4,115,Which sound event occurs second?,Brushing teeth,clapping,Clock tick,Coughing,order_audio_perturbations_only/115_volume_4.wav
+116_silence_0,116,Which sound event occurs third?,dog,Water drops,Rooster,Can opening,order_audio_perturbations_only/116_silence_0.wav
+116_silence_1,116,Which sound event occurs third?,dog,Water drops,Rooster,Can opening,order_audio_perturbations_only/116_silence_1.wav
+116_silence_2,116,Which sound event occurs third?,dog,Water drops,Rooster,Can opening,order_audio_perturbations_only/116_silence_2.wav
+116_silence_3,116,Which sound event occurs third?,dog,Water drops,Rooster,Can opening,order_audio_perturbations_only/116_silence_3.wav
+116_silence_4,116,Which sound event occurs third?,dog,Water drops,Rooster,Can opening,order_audio_perturbations_only/116_silence_4.wav
+116_volume_0,116,Which sound event occurs third?,dog,Water drops,Rooster,Can opening,order_audio_perturbations_only/116_volume_0.wav
+116_volume_1,116,Which sound event occurs third?,dog,Water drops,Rooster,Can opening,order_audio_perturbations_only/116_volume_1.wav
+116_volume_2,116,Which sound event occurs third?,dog,Water drops,Rooster,Can opening,order_audio_perturbations_only/116_volume_2.wav
+116_volume_3,116,Which sound event occurs third?,dog,Water drops,Rooster,Can opening,order_audio_perturbations_only/116_volume_3.wav
+116_volume_4,116,Which sound event occurs third?,dog,Water drops,Rooster,Can opening,order_audio_perturbations_only/116_volume_4.wav
+117_silence_0,117,Which sound event occurs second?,Sea waves,Breathing,Glass breaking,fireworks,order_audio_perturbations_only/117_silence_0.wav
+117_silence_1,117,Which sound event occurs second?,Sea waves,Breathing,Glass breaking,fireworks,order_audio_perturbations_only/117_silence_1.wav
+117_silence_2,117,Which sound event occurs second?,Sea waves,Breathing,Glass breaking,fireworks,order_audio_perturbations_only/117_silence_2.wav
+117_silence_3,117,Which sound event occurs second?,Sea waves,Breathing,Glass breaking,fireworks,order_audio_perturbations_only/117_silence_3.wav
+117_silence_4,117,Which sound event occurs second?,Sea waves,Breathing,Glass breaking,fireworks,order_audio_perturbations_only/117_silence_4.wav
+117_volume_0,117,Which sound event occurs second?,Sea waves,Breathing,Glass breaking,fireworks,order_audio_perturbations_only/117_volume_0.wav
+117_volume_1,117,Which sound event occurs second?,Sea waves,Breathing,Glass breaking,fireworks,order_audio_perturbations_only/117_volume_1.wav
+117_volume_2,117,Which sound event occurs second?,Sea waves,Breathing,Glass breaking,fireworks,order_audio_perturbations_only/117_volume_2.wav
+117_volume_3,117,Which sound event occurs second?,Sea waves,Breathing,Glass breaking,fireworks,order_audio_perturbations_only/117_volume_3.wav
+117_volume_4,117,Which sound event occurs second?,Sea waves,Breathing,Glass breaking,fireworks,order_audio_perturbations_only/117_volume_4.wav
+119_silence_0,119,Which sound event occurs third?,Snoring,siren,Cow,Train,order_audio_perturbations_only/119_silence_0.wav
+119_silence_1,119,Which sound event occurs third?,Snoring,siren,Cow,Train,order_audio_perturbations_only/119_silence_1.wav
+119_silence_2,119,Which sound event occurs third?,Snoring,siren,Cow,Train,order_audio_perturbations_only/119_silence_2.wav
+119_silence_3,119,Which sound event occurs third?,Snoring,siren,Cow,Train,order_audio_perturbations_only/119_silence_3.wav
+119_silence_4,119,Which sound event occurs third?,Snoring,siren,Cow,Train,order_audio_perturbations_only/119_silence_4.wav
+119_volume_0,119,Which sound event occurs third?,Snoring,siren,Cow,Train,order_audio_perturbations_only/119_volume_0.wav
+119_volume_1,119,Which sound event occurs third?,Snoring,siren,Cow,Train,order_audio_perturbations_only/119_volume_1.wav
+119_volume_2,119,Which sound event occurs third?,Snoring,siren,Cow,Train,order_audio_perturbations_only/119_volume_2.wav
+119_volume_3,119,Which sound event occurs third?,Snoring,siren,Cow,Train,order_audio_perturbations_only/119_volume_3.wav
+119_volume_4,119,Which sound event occurs third?,Snoring,siren,Cow,Train,order_audio_perturbations_only/119_volume_4.wav
+120_silence_0,120,Which sound event occurs after brushing_teeth sound?,airplane,Dog,Car horn,Frog,order_audio_perturbations_only/120_silence_0.wav
+120_silence_1,120,Which sound event occurs after brushing_teeth sound?,airplane,Dog,Car horn,Frog,order_audio_perturbations_only/120_silence_1.wav
+120_silence_2,120,Which sound event occurs after brushing_teeth sound?,airplane,Dog,Car horn,Frog,order_audio_perturbations_only/120_silence_2.wav
+120_silence_3,120,Which sound event occurs after brushing_teeth sound?,airplane,Dog,Car horn,Frog,order_audio_perturbations_only/120_silence_3.wav
+120_silence_4,120,Which sound event occurs after brushing_teeth sound?,airplane,Dog,Car horn,Frog,order_audio_perturbations_only/120_silence_4.wav
+120_volume_0,120,Which sound event occurs after brushing_teeth sound?,airplane,Dog,Car horn,Frog,order_audio_perturbations_only/120_volume_0.wav
+120_volume_1,120,Which sound event occurs after brushing_teeth sound?,airplane,Dog,Car horn,Frog,order_audio_perturbations_only/120_volume_1.wav
+120_volume_2,120,Which sound event occurs after brushing_teeth sound?,airplane,Dog,Car horn,Frog,order_audio_perturbations_only/120_volume_2.wav
+120_volume_3,120,Which sound event occurs after brushing_teeth sound?,airplane,Dog,Car horn,Frog,order_audio_perturbations_only/120_volume_3.wav
+120_volume_4,120,Which sound event occurs after brushing_teeth sound?,airplane,Dog,Car horn,Frog,order_audio_perturbations_only/120_volume_4.wav
+121_silence_0,121,Which sound event occurs second?,wind,Crickets,Clock tick,Laughing,order_audio_perturbations_only/121_silence_0.wav
+121_silence_1,121,Which sound event occurs second?,wind,Crickets,Clock tick,Laughing,order_audio_perturbations_only/121_silence_1.wav
+121_silence_2,121,Which sound event occurs second?,wind,Crickets,Clock tick,Laughing,order_audio_perturbations_only/121_silence_2.wav
+121_silence_3,121,Which sound event occurs second?,wind,Crickets,Clock tick,Laughing,order_audio_perturbations_only/121_silence_3.wav
+121_silence_4,121,Which sound event occurs second?,wind,Crickets,Clock tick,Laughing,order_audio_perturbations_only/121_silence_4.wav
+121_volume_0,121,Which sound event occurs second?,wind,Crickets,Clock tick,Laughing,order_audio_perturbations_only/121_volume_0.wav
+121_volume_1,121,Which sound event occurs second?,wind,Crickets,Clock tick,Laughing,order_audio_perturbations_only/121_volume_1.wav
+121_volume_2,121,Which sound event occurs second?,wind,Crickets,Clock tick,Laughing,order_audio_perturbations_only/121_volume_2.wav
+121_volume_3,121,Which sound event occurs second?,wind,Crickets,Clock tick,Laughing,order_audio_perturbations_only/121_volume_3.wav
+121_volume_4,121,Which sound event occurs second?,wind,Crickets,Clock tick,Laughing,order_audio_perturbations_only/121_volume_4.wav
+122_silence_0,122,Which sound event occurs after airplane sound?,Sea waves,can_opening,Fireworks,Sheep,order_audio_perturbations_only/122_silence_0.wav
+122_silence_1,122,Which sound event occurs after airplane sound?,Sea waves,can_opening,Fireworks,Sheep,order_audio_perturbations_only/122_silence_1.wav
+122_silence_2,122,Which sound event occurs after airplane sound?,Sea waves,can_opening,Fireworks,Sheep,order_audio_perturbations_only/122_silence_2.wav
+122_silence_3,122,Which sound event occurs after airplane sound?,Sea waves,can_opening,Fireworks,Sheep,order_audio_perturbations_only/122_silence_3.wav
+122_silence_4,122,Which sound event occurs after airplane sound?,Sea waves,can_opening,Fireworks,Sheep,order_audio_perturbations_only/122_silence_4.wav
+122_volume_0,122,Which sound event occurs after airplane sound?,Sea waves,can_opening,Fireworks,Sheep,order_audio_perturbations_only/122_volume_0.wav
+122_volume_1,122,Which sound event occurs after airplane sound?,Sea waves,can_opening,Fireworks,Sheep,order_audio_perturbations_only/122_volume_1.wav
+122_volume_2,122,Which sound event occurs after airplane sound?,Sea waves,can_opening,Fireworks,Sheep,order_audio_perturbations_only/122_volume_2.wav
+122_volume_3,122,Which sound event occurs after airplane sound?,Sea waves,can_opening,Fireworks,Sheep,order_audio_perturbations_only/122_volume_3.wav
+122_volume_4,122,Which sound event occurs after airplane sound?,Sea waves,can_opening,Fireworks,Sheep,order_audio_perturbations_only/122_volume_4.wav
+123_silence_0,123,Which sound event occurs second?,"Drinking, sipping",Can opening,Hand saw,door_wood_knock,order_audio_perturbations_only/123_silence_0.wav
+123_silence_1,123,Which sound event occurs second?,"Drinking, sipping",Can opening,Hand saw,door_wood_knock,order_audio_perturbations_only/123_silence_1.wav
+123_silence_2,123,Which sound event occurs second?,"Drinking, sipping",Can opening,Hand saw,door_wood_knock,order_audio_perturbations_only/123_silence_2.wav
+123_silence_3,123,Which sound event occurs second?,"Drinking, sipping",Can opening,Hand saw,door_wood_knock,order_audio_perturbations_only/123_silence_3.wav
+123_silence_4,123,Which sound event occurs second?,"Drinking, sipping",Can opening,Hand saw,door_wood_knock,order_audio_perturbations_only/123_silence_4.wav
+123_volume_0,123,Which sound event occurs second?,"Drinking, sipping",Can opening,Hand saw,door_wood_knock,order_audio_perturbations_only/123_volume_0.wav
+123_volume_1,123,Which sound event occurs second?,"Drinking, sipping",Can opening,Hand saw,door_wood_knock,order_audio_perturbations_only/123_volume_1.wav
+123_volume_2,123,Which sound event occurs second?,"Drinking, sipping",Can opening,Hand saw,door_wood_knock,order_audio_perturbations_only/123_volume_2.wav
+123_volume_3,123,Which sound event occurs second?,"Drinking, sipping",Can opening,Hand saw,door_wood_knock,order_audio_perturbations_only/123_volume_3.wav
+123_volume_4,123,Which sound event occurs second?,"Drinking, sipping",Can opening,Hand saw,door_wood_knock,order_audio_perturbations_only/123_volume_4.wav
+124_silence_0,124,Which sound event occurs third?,Cow,hen,Vacuum cleaner,Sneezing,order_audio_perturbations_only/124_silence_0.wav
+124_silence_1,124,Which sound event occurs third?,Cow,hen,Vacuum cleaner,Sneezing,order_audio_perturbations_only/124_silence_1.wav
+124_silence_2,124,Which sound event occurs third?,Cow,hen,Vacuum cleaner,Sneezing,order_audio_perturbations_only/124_silence_2.wav
+124_silence_3,124,Which sound event occurs third?,Cow,hen,Vacuum cleaner,Sneezing,order_audio_perturbations_only/124_silence_3.wav
+124_silence_4,124,Which sound event occurs third?,Cow,hen,Vacuum cleaner,Sneezing,order_audio_perturbations_only/124_silence_4.wav
+124_volume_0,124,Which sound event occurs third?,Cow,hen,Vacuum cleaner,Sneezing,order_audio_perturbations_only/124_volume_0.wav
+124_volume_1,124,Which sound event occurs third?,Cow,hen,Vacuum cleaner,Sneezing,order_audio_perturbations_only/124_volume_1.wav
+124_volume_2,124,Which sound event occurs third?,Cow,hen,Vacuum cleaner,Sneezing,order_audio_perturbations_only/124_volume_2.wav
+124_volume_3,124,Which sound event occurs third?,Cow,hen,Vacuum cleaner,Sneezing,order_audio_perturbations_only/124_volume_3.wav
+124_volume_4,124,Which sound event occurs third?,Cow,hen,Vacuum cleaner,Sneezing,order_audio_perturbations_only/124_volume_4.wav
+125_silence_0,125,Which sound event occurs after train sound?,Footsteps,can_opening,Pig,Helicopter,order_audio_perturbations_only/125_silence_0.wav
+125_silence_1,125,Which sound event occurs after train sound?,Footsteps,can_opening,Pig,Helicopter,order_audio_perturbations_only/125_silence_1.wav
+125_silence_2,125,Which sound event occurs after train sound?,Footsteps,can_opening,Pig,Helicopter,order_audio_perturbations_only/125_silence_2.wav
+125_silence_3,125,Which sound event occurs after train sound?,Footsteps,can_opening,Pig,Helicopter,order_audio_perturbations_only/125_silence_3.wav
+125_silence_4,125,Which sound event occurs after train sound?,Footsteps,can_opening,Pig,Helicopter,order_audio_perturbations_only/125_silence_4.wav
+125_volume_0,125,Which sound event occurs after train sound?,Footsteps,can_opening,Pig,Helicopter,order_audio_perturbations_only/125_volume_0.wav
+125_volume_1,125,Which sound event occurs after train sound?,Footsteps,can_opening,Pig,Helicopter,order_audio_perturbations_only/125_volume_1.wav
+125_volume_2,125,Which sound event occurs after train sound?,Footsteps,can_opening,Pig,Helicopter,order_audio_perturbations_only/125_volume_2.wav
+125_volume_3,125,Which sound event occurs after train sound?,Footsteps,can_opening,Pig,Helicopter,order_audio_perturbations_only/125_volume_3.wav
+125_volume_4,125,Which sound event occurs after train sound?,Footsteps,can_opening,Pig,Helicopter,order_audio_perturbations_only/125_volume_4.wav
+126_silence_0,126,Which sound event occurs second?,Coughing,Vacuum cleaner,Clapping,toilet_flush,order_audio_perturbations_only/126_silence_0.wav
+126_silence_1,126,Which sound event occurs second?,Coughing,Vacuum cleaner,Clapping,toilet_flush,order_audio_perturbations_only/126_silence_1.wav
+126_silence_2,126,Which sound event occurs second?,Coughing,Vacuum cleaner,Clapping,toilet_flush,order_audio_perturbations_only/126_silence_2.wav
+126_silence_3,126,Which sound event occurs second?,Coughing,Vacuum cleaner,Clapping,toilet_flush,order_audio_perturbations_only/126_silence_3.wav
+126_silence_4,126,Which sound event occurs second?,Coughing,Vacuum cleaner,Clapping,toilet_flush,order_audio_perturbations_only/126_silence_4.wav
+126_volume_0,126,Which sound event occurs second?,Coughing,Vacuum cleaner,Clapping,toilet_flush,order_audio_perturbations_only/126_volume_0.wav
+126_volume_1,126,Which sound event occurs second?,Coughing,Vacuum cleaner,Clapping,toilet_flush,order_audio_perturbations_only/126_volume_1.wav
+126_volume_2,126,Which sound event occurs second?,Coughing,Vacuum cleaner,Clapping,toilet_flush,order_audio_perturbations_only/126_volume_2.wav
+126_volume_3,126,Which sound event occurs second?,Coughing,Vacuum cleaner,Clapping,toilet_flush,order_audio_perturbations_only/126_volume_3.wav
+126_volume_4,126,Which sound event occurs second?,Coughing,Vacuum cleaner,Clapping,toilet_flush,order_audio_perturbations_only/126_volume_4.wav
+127_silence_0,127,Which sound event occurs second?,Siren,vacuum_cleaner,Washing machine,Breathing,order_audio_perturbations_only/127_silence_0.wav
+127_silence_1,127,Which sound event occurs second?,Siren,vacuum_cleaner,Washing machine,Breathing,order_audio_perturbations_only/127_silence_1.wav
+127_silence_2,127,Which sound event occurs second?,Siren,vacuum_cleaner,Washing machine,Breathing,order_audio_perturbations_only/127_silence_2.wav
+127_silence_3,127,Which sound event occurs second?,Siren,vacuum_cleaner,Washing machine,Breathing,order_audio_perturbations_only/127_silence_3.wav
+127_silence_4,127,Which sound event occurs second?,Siren,vacuum_cleaner,Washing machine,Breathing,order_audio_perturbations_only/127_silence_4.wav
+127_volume_0,127,Which sound event occurs second?,Siren,vacuum_cleaner,Washing machine,Breathing,order_audio_perturbations_only/127_volume_0.wav
+127_volume_1,127,Which sound event occurs second?,Siren,vacuum_cleaner,Washing machine,Breathing,order_audio_perturbations_only/127_volume_1.wav
+127_volume_2,127,Which sound event occurs second?,Siren,vacuum_cleaner,Washing machine,Breathing,order_audio_perturbations_only/127_volume_2.wav
+127_volume_3,127,Which sound event occurs second?,Siren,vacuum_cleaner,Washing machine,Breathing,order_audio_perturbations_only/127_volume_3.wav
+127_volume_4,127,Which sound event occurs second?,Siren,vacuum_cleaner,Washing machine,Breathing,order_audio_perturbations_only/127_volume_4.wav
+132_silence_0,132,Which sound event occurs second?,Crying baby,Snoring,Crow,chirping_birds,order_audio_perturbations_only/132_silence_0.wav
+132_silence_1,132,Which sound event occurs second?,Crying baby,Snoring,Crow,chirping_birds,order_audio_perturbations_only/132_silence_1.wav
+132_silence_2,132,Which sound event occurs second?,Crying baby,Snoring,Crow,chirping_birds,order_audio_perturbations_only/132_silence_2.wav
+132_silence_3,132,Which sound event occurs second?,Crying baby,Snoring,Crow,chirping_birds,order_audio_perturbations_only/132_silence_3.wav
+132_silence_4,132,Which sound event occurs second?,Crying baby,Snoring,Crow,chirping_birds,order_audio_perturbations_only/132_silence_4.wav
+132_volume_0,132,Which sound event occurs second?,Crying baby,Snoring,Crow,chirping_birds,order_audio_perturbations_only/132_volume_0.wav
+132_volume_1,132,Which sound event occurs second?,Crying baby,Snoring,Crow,chirping_birds,order_audio_perturbations_only/132_volume_1.wav
+132_volume_2,132,Which sound event occurs second?,Crying baby,Snoring,Crow,chirping_birds,order_audio_perturbations_only/132_volume_2.wav
+132_volume_3,132,Which sound event occurs second?,Crying baby,Snoring,Crow,chirping_birds,order_audio_perturbations_only/132_volume_3.wav
+132_volume_4,132,Which sound event occurs second?,Crying baby,Snoring,Crow,chirping_birds,order_audio_perturbations_only/132_volume_4.wav
+136_silence_0,136,Which sound event occurs first?,Insects (flying),Helicopter,clock_tick,Pouring water,order_audio_perturbations_only/136_silence_0.wav
+136_silence_1,136,Which sound event occurs first?,Insects (flying),Helicopter,clock_tick,Pouring water,order_audio_perturbations_only/136_silence_1.wav
+136_silence_2,136,Which sound event occurs first?,Insects (flying),Helicopter,clock_tick,Pouring water,order_audio_perturbations_only/136_silence_2.wav
+136_silence_3,136,Which sound event occurs first?,Insects (flying),Helicopter,clock_tick,Pouring water,order_audio_perturbations_only/136_silence_3.wav
+136_silence_4,136,Which sound event occurs first?,Insects (flying),Helicopter,clock_tick,Pouring water,order_audio_perturbations_only/136_silence_4.wav
+136_volume_0,136,Which sound event occurs first?,Insects (flying),Helicopter,clock_tick,Pouring water,order_audio_perturbations_only/136_volume_0.wav
+136_volume_1,136,Which sound event occurs first?,Insects (flying),Helicopter,clock_tick,Pouring water,order_audio_perturbations_only/136_volume_1.wav
+136_volume_2,136,Which sound event occurs first?,Insects (flying),Helicopter,clock_tick,Pouring water,order_audio_perturbations_only/136_volume_2.wav
+136_volume_3,136,Which sound event occurs first?,Insects (flying),Helicopter,clock_tick,Pouring water,order_audio_perturbations_only/136_volume_3.wav
+136_volume_4,136,Which sound event occurs first?,Insects (flying),Helicopter,clock_tick,Pouring water,order_audio_perturbations_only/136_volume_4.wav
+137_silence_0,137,Which sound event occurs second?,Crackling fire,chirping_birds,Dog,Airplane,order_audio_perturbations_only/137_silence_0.wav
+137_silence_1,137,Which sound event occurs second?,Crackling fire,chirping_birds,Dog,Airplane,order_audio_perturbations_only/137_silence_1.wav
+137_silence_2,137,Which sound event occurs second?,Crackling fire,chirping_birds,Dog,Airplane,order_audio_perturbations_only/137_silence_2.wav
+137_silence_3,137,Which sound event occurs second?,Crackling fire,chirping_birds,Dog,Airplane,order_audio_perturbations_only/137_silence_3.wav
+137_silence_4,137,Which sound event occurs second?,Crackling fire,chirping_birds,Dog,Airplane,order_audio_perturbations_only/137_silence_4.wav
+137_volume_0,137,Which sound event occurs second?,Crackling fire,chirping_birds,Dog,Airplane,order_audio_perturbations_only/137_volume_0.wav
+137_volume_1,137,Which sound event occurs second?,Crackling fire,chirping_birds,Dog,Airplane,order_audio_perturbations_only/137_volume_1.wav
+137_volume_2,137,Which sound event occurs second?,Crackling fire,chirping_birds,Dog,Airplane,order_audio_perturbations_only/137_volume_2.wav
+137_volume_3,137,Which sound event occurs second?,Crackling fire,chirping_birds,Dog,Airplane,order_audio_perturbations_only/137_volume_3.wav
+137_volume_4,137,Which sound event occurs second?,Crackling fire,chirping_birds,Dog,Airplane,order_audio_perturbations_only/137_volume_4.wav
+138_silence_0,138,Which sound event occurs third?,insects,Helicopter,Clock alarm,Car horn,order_audio_perturbations_only/138_silence_0.wav
+138_silence_1,138,Which sound event occurs third?,insects,Helicopter,Clock alarm,Car horn,order_audio_perturbations_only/138_silence_1.wav
+138_silence_2,138,Which sound event occurs third?,insects,Helicopter,Clock alarm,Car horn,order_audio_perturbations_only/138_silence_2.wav
+138_silence_3,138,Which sound event occurs third?,insects,Helicopter,Clock alarm,Car horn,order_audio_perturbations_only/138_silence_3.wav
+138_silence_4,138,Which sound event occurs third?,insects,Helicopter,Clock alarm,Car horn,order_audio_perturbations_only/138_silence_4.wav
+138_volume_0,138,Which sound event occurs third?,insects,Helicopter,Clock alarm,Car horn,order_audio_perturbations_only/138_volume_0.wav
+138_volume_1,138,Which sound event occurs third?,insects,Helicopter,Clock alarm,Car horn,order_audio_perturbations_only/138_volume_1.wav
+138_volume_2,138,Which sound event occurs third?,insects,Helicopter,Clock alarm,Car horn,order_audio_perturbations_only/138_volume_2.wav
+138_volume_3,138,Which sound event occurs third?,insects,Helicopter,Clock alarm,Car horn,order_audio_perturbations_only/138_volume_3.wav
+138_volume_4,138,Which sound event occurs third?,insects,Helicopter,Clock alarm,Car horn,order_audio_perturbations_only/138_volume_4.wav
+140_silence_0,140,Which sound event occurs third?,Vacuum cleaner,Keyboard typing,snoring,Siren,order_audio_perturbations_only/140_silence_0.wav
+140_silence_1,140,Which sound event occurs third?,Vacuum cleaner,Keyboard typing,snoring,Siren,order_audio_perturbations_only/140_silence_1.wav
+140_silence_2,140,Which sound event occurs third?,Vacuum cleaner,Keyboard typing,snoring,Siren,order_audio_perturbations_only/140_silence_2.wav
+140_silence_3,140,Which sound event occurs third?,Vacuum cleaner,Keyboard typing,snoring,Siren,order_audio_perturbations_only/140_silence_3.wav
+140_silence_4,140,Which sound event occurs third?,Vacuum cleaner,Keyboard typing,snoring,Siren,order_audio_perturbations_only/140_silence_4.wav
+140_volume_0,140,Which sound event occurs third?,Vacuum cleaner,Keyboard typing,snoring,Siren,order_audio_perturbations_only/140_volume_0.wav
+140_volume_1,140,Which sound event occurs third?,Vacuum cleaner,Keyboard typing,snoring,Siren,order_audio_perturbations_only/140_volume_1.wav
+140_volume_2,140,Which sound event occurs third?,Vacuum cleaner,Keyboard typing,snoring,Siren,order_audio_perturbations_only/140_volume_2.wav
+140_volume_3,140,Which sound event occurs third?,Vacuum cleaner,Keyboard typing,snoring,Siren,order_audio_perturbations_only/140_volume_3.wav
+140_volume_4,140,Which sound event occurs third?,Vacuum cleaner,Keyboard typing,snoring,Siren,order_audio_perturbations_only/140_volume_4.wav
+142_silence_0,142,Which sound event occurs after wind sound?,Insects (flying),rooster,Rain,Water drops,order_audio_perturbations_only/142_silence_0.wav
+142_silence_1,142,Which sound event occurs after wind sound?,Insects (flying),rooster,Rain,Water drops,order_audio_perturbations_only/142_silence_1.wav
+142_silence_2,142,Which sound event occurs after wind sound?,Insects (flying),rooster,Rain,Water drops,order_audio_perturbations_only/142_silence_2.wav
+142_silence_3,142,Which sound event occurs after wind sound?,Insects (flying),rooster,Rain,Water drops,order_audio_perturbations_only/142_silence_3.wav
+142_silence_4,142,Which sound event occurs after wind sound?,Insects (flying),rooster,Rain,Water drops,order_audio_perturbations_only/142_silence_4.wav
+142_volume_0,142,Which sound event occurs after wind sound?,Insects (flying),rooster,Rain,Water drops,order_audio_perturbations_only/142_volume_0.wav
+142_volume_1,142,Which sound event occurs after wind sound?,Insects (flying),rooster,Rain,Water drops,order_audio_perturbations_only/142_volume_1.wav
+142_volume_2,142,Which sound event occurs after wind sound?,Insects (flying),rooster,Rain,Water drops,order_audio_perturbations_only/142_volume_2.wav
+142_volume_3,142,Which sound event occurs after wind sound?,Insects (flying),rooster,Rain,Water drops,order_audio_perturbations_only/142_volume_3.wav
+142_volume_4,142,Which sound event occurs after wind sound?,Insects (flying),rooster,Rain,Water drops,order_audio_perturbations_only/142_volume_4.wav
+143_silence_0,143,Which sound event occurs third?,sea_waves,Sneezing,Engine,Church bells,order_audio_perturbations_only/143_silence_0.wav
+143_silence_1,143,Which sound event occurs third?,sea_waves,Sneezing,Engine,Church bells,order_audio_perturbations_only/143_silence_1.wav
+143_silence_2,143,Which sound event occurs third?,sea_waves,Sneezing,Engine,Church bells,order_audio_perturbations_only/143_silence_2.wav
+143_silence_3,143,Which sound event occurs third?,sea_waves,Sneezing,Engine,Church bells,order_audio_perturbations_only/143_silence_3.wav
+143_silence_4,143,Which sound event occurs third?,sea_waves,Sneezing,Engine,Church bells,order_audio_perturbations_only/143_silence_4.wav
+143_volume_0,143,Which sound event occurs third?,sea_waves,Sneezing,Engine,Church bells,order_audio_perturbations_only/143_volume_0.wav
+143_volume_1,143,Which sound event occurs third?,sea_waves,Sneezing,Engine,Church bells,order_audio_perturbations_only/143_volume_1.wav
+143_volume_2,143,Which sound event occurs third?,sea_waves,Sneezing,Engine,Church bells,order_audio_perturbations_only/143_volume_2.wav
+143_volume_3,143,Which sound event occurs third?,sea_waves,Sneezing,Engine,Church bells,order_audio_perturbations_only/143_volume_3.wav
+143_volume_4,143,Which sound event occurs third?,sea_waves,Sneezing,Engine,Church bells,order_audio_perturbations_only/143_volume_4.wav
+144_silence_0,144,Which sound event occurs second?,Wind,Door knock,Dog,helicopter,order_audio_perturbations_only/144_silence_0.wav
+144_silence_1,144,Which sound event occurs second?,Wind,Door knock,Dog,helicopter,order_audio_perturbations_only/144_silence_1.wav
+144_silence_2,144,Which sound event occurs second?,Wind,Door knock,Dog,helicopter,order_audio_perturbations_only/144_silence_2.wav
+144_silence_3,144,Which sound event occurs second?,Wind,Door knock,Dog,helicopter,order_audio_perturbations_only/144_silence_3.wav
+144_silence_4,144,Which sound event occurs second?,Wind,Door knock,Dog,helicopter,order_audio_perturbations_only/144_silence_4.wav
+144_volume_0,144,Which sound event occurs second?,Wind,Door knock,Dog,helicopter,order_audio_perturbations_only/144_volume_0.wav
+144_volume_1,144,Which sound event occurs second?,Wind,Door knock,Dog,helicopter,order_audio_perturbations_only/144_volume_1.wav
+144_volume_2,144,Which sound event occurs second?,Wind,Door knock,Dog,helicopter,order_audio_perturbations_only/144_volume_2.wav
+144_volume_3,144,Which sound event occurs second?,Wind,Door knock,Dog,helicopter,order_audio_perturbations_only/144_volume_3.wav
+144_volume_4,144,Which sound event occurs second?,Wind,Door knock,Dog,helicopter,order_audio_perturbations_only/144_volume_4.wav
+146_silence_0,146,Which sound event occurs second?,footsteps,"Drinking, sipping",Mouse click,Crow,order_audio_perturbations_only/146_silence_0.wav
+146_silence_1,146,Which sound event occurs second?,footsteps,"Drinking, sipping",Mouse click,Crow,order_audio_perturbations_only/146_silence_1.wav
+146_silence_2,146,Which sound event occurs second?,footsteps,"Drinking, sipping",Mouse click,Crow,order_audio_perturbations_only/146_silence_2.wav
+146_silence_3,146,Which sound event occurs second?,footsteps,"Drinking, sipping",Mouse click,Crow,order_audio_perturbations_only/146_silence_3.wav
+146_silence_4,146,Which sound event occurs second?,footsteps,"Drinking, sipping",Mouse click,Crow,order_audio_perturbations_only/146_silence_4.wav
+146_volume_0,146,Which sound event occurs second?,footsteps,"Drinking, sipping",Mouse click,Crow,order_audio_perturbations_only/146_volume_0.wav
+146_volume_1,146,Which sound event occurs second?,footsteps,"Drinking, sipping",Mouse click,Crow,order_audio_perturbations_only/146_volume_1.wav
+146_volume_2,146,Which sound event occurs second?,footsteps,"Drinking, sipping",Mouse click,Crow,order_audio_perturbations_only/146_volume_2.wav
+146_volume_3,146,Which sound event occurs second?,footsteps,"Drinking, sipping",Mouse click,Crow,order_audio_perturbations_only/146_volume_3.wav
+146_volume_4,146,Which sound event occurs second?,footsteps,"Drinking, sipping",Mouse click,Crow,order_audio_perturbations_only/146_volume_4.wav
+147_silence_0,147,Which sound event occurs second?,Sea waves,Crickets,wind,"Door, wood creaks",order_audio_perturbations_only/147_silence_0.wav
+147_silence_1,147,Which sound event occurs second?,Sea waves,Crickets,wind,"Door, wood creaks",order_audio_perturbations_only/147_silence_1.wav
+147_silence_2,147,Which sound event occurs second?,Sea waves,Crickets,wind,"Door, wood creaks",order_audio_perturbations_only/147_silence_2.wav
+147_silence_3,147,Which sound event occurs second?,Sea waves,Crickets,wind,"Door, wood creaks",order_audio_perturbations_only/147_silence_3.wav
+147_silence_4,147,Which sound event occurs second?,Sea waves,Crickets,wind,"Door, wood creaks",order_audio_perturbations_only/147_silence_4.wav
+147_volume_0,147,Which sound event occurs second?,Sea waves,Crickets,wind,"Door, wood creaks",order_audio_perturbations_only/147_volume_0.wav
+147_volume_1,147,Which sound event occurs second?,Sea waves,Crickets,wind,"Door, wood creaks",order_audio_perturbations_only/147_volume_1.wav
+147_volume_2,147,Which sound event occurs second?,Sea waves,Crickets,wind,"Door, wood creaks",order_audio_perturbations_only/147_volume_2.wav
+147_volume_3,147,Which sound event occurs second?,Sea waves,Crickets,wind,"Door, wood creaks",order_audio_perturbations_only/147_volume_3.wav
+147_volume_4,147,Which sound event occurs second?,Sea waves,Crickets,wind,"Door, wood creaks",order_audio_perturbations_only/147_volume_4.wav
+148_silence_0,148,Which sound event occurs second?,dog,Door knock,Mouse click,Pouring water,order_audio_perturbations_only/148_silence_0.wav
+148_silence_1,148,Which sound event occurs second?,dog,Door knock,Mouse click,Pouring water,order_audio_perturbations_only/148_silence_1.wav
+148_silence_2,148,Which sound event occurs second?,dog,Door knock,Mouse click,Pouring water,order_audio_perturbations_only/148_silence_2.wav
+148_silence_3,148,Which sound event occurs second?,dog,Door knock,Mouse click,Pouring water,order_audio_perturbations_only/148_silence_3.wav
+148_silence_4,148,Which sound event occurs second?,dog,Door knock,Mouse click,Pouring water,order_audio_perturbations_only/148_silence_4.wav
+148_volume_0,148,Which sound event occurs second?,dog,Door knock,Mouse click,Pouring water,order_audio_perturbations_only/148_volume_0.wav
+148_volume_1,148,Which sound event occurs second?,dog,Door knock,Mouse click,Pouring water,order_audio_perturbations_only/148_volume_1.wav
+148_volume_2,148,Which sound event occurs second?,dog,Door knock,Mouse click,Pouring water,order_audio_perturbations_only/148_volume_2.wav
+148_volume_3,148,Which sound event occurs second?,dog,Door knock,Mouse click,Pouring water,order_audio_perturbations_only/148_volume_3.wav
+148_volume_4,148,Which sound event occurs second?,dog,Door knock,Mouse click,Pouring water,order_audio_perturbations_only/148_volume_4.wav
+149_silence_0,149,Which sound event occurs first?,Cow,crackling_fire,Hen,Clock alarm,order_audio_perturbations_only/149_silence_0.wav
+149_silence_1,149,Which sound event occurs first?,Cow,crackling_fire,Hen,Clock alarm,order_audio_perturbations_only/149_silence_1.wav
+149_silence_2,149,Which sound event occurs first?,Cow,crackling_fire,Hen,Clock alarm,order_audio_perturbations_only/149_silence_2.wav
+149_silence_3,149,Which sound event occurs first?,Cow,crackling_fire,Hen,Clock alarm,order_audio_perturbations_only/149_silence_3.wav
+149_silence_4,149,Which sound event occurs first?,Cow,crackling_fire,Hen,Clock alarm,order_audio_perturbations_only/149_silence_4.wav
+149_volume_0,149,Which sound event occurs first?,Cow,crackling_fire,Hen,Clock alarm,order_audio_perturbations_only/149_volume_0.wav
+149_volume_1,149,Which sound event occurs first?,Cow,crackling_fire,Hen,Clock alarm,order_audio_perturbations_only/149_volume_1.wav
+149_volume_2,149,Which sound event occurs first?,Cow,crackling_fire,Hen,Clock alarm,order_audio_perturbations_only/149_volume_2.wav
+149_volume_3,149,Which sound event occurs first?,Cow,crackling_fire,Hen,Clock alarm,order_audio_perturbations_only/149_volume_3.wav
+149_volume_4,149,Which sound event occurs first?,Cow,crackling_fire,Hen,Clock alarm,order_audio_perturbations_only/149_volume_4.wav
+150_silence_0,150,Which sound event occurs second?,Wind,snoring,Rain,Sneezing,order_audio_perturbations_only/150_silence_0.wav
+150_silence_1,150,Which sound event occurs second?,Wind,snoring,Rain,Sneezing,order_audio_perturbations_only/150_silence_1.wav
+150_silence_2,150,Which sound event occurs second?,Wind,snoring,Rain,Sneezing,order_audio_perturbations_only/150_silence_2.wav
+150_silence_3,150,Which sound event occurs second?,Wind,snoring,Rain,Sneezing,order_audio_perturbations_only/150_silence_3.wav
+150_silence_4,150,Which sound event occurs second?,Wind,snoring,Rain,Sneezing,order_audio_perturbations_only/150_silence_4.wav
+150_volume_0,150,Which sound event occurs second?,Wind,snoring,Rain,Sneezing,order_audio_perturbations_only/150_volume_0.wav
+150_volume_1,150,Which sound event occurs second?,Wind,snoring,Rain,Sneezing,order_audio_perturbations_only/150_volume_1.wav
+150_volume_2,150,Which sound event occurs second?,Wind,snoring,Rain,Sneezing,order_audio_perturbations_only/150_volume_2.wav
+150_volume_3,150,Which sound event occurs second?,Wind,snoring,Rain,Sneezing,order_audio_perturbations_only/150_volume_3.wav
+150_volume_4,150,Which sound event occurs second?,Wind,snoring,Rain,Sneezing,order_audio_perturbations_only/150_volume_4.wav
+151_silence_0,151,Which sound event occurs after snoring sound?,Airplane,engine,Can opening,Church bells,order_audio_perturbations_only/151_silence_0.wav
+151_silence_1,151,Which sound event occurs after snoring sound?,Airplane,engine,Can opening,Church bells,order_audio_perturbations_only/151_silence_1.wav
+151_silence_2,151,Which sound event occurs after snoring sound?,Airplane,engine,Can opening,Church bells,order_audio_perturbations_only/151_silence_2.wav
+151_silence_3,151,Which sound event occurs after snoring sound?,Airplane,engine,Can opening,Church bells,order_audio_perturbations_only/151_silence_3.wav
+151_silence_4,151,Which sound event occurs after snoring sound?,Airplane,engine,Can opening,Church bells,order_audio_perturbations_only/151_silence_4.wav
+151_volume_0,151,Which sound event occurs after snoring sound?,Airplane,engine,Can opening,Church bells,order_audio_perturbations_only/151_volume_0.wav
+151_volume_1,151,Which sound event occurs after snoring sound?,Airplane,engine,Can opening,Church bells,order_audio_perturbations_only/151_volume_1.wav
+151_volume_2,151,Which sound event occurs after snoring sound?,Airplane,engine,Can opening,Church bells,order_audio_perturbations_only/151_volume_2.wav
+151_volume_3,151,Which sound event occurs after snoring sound?,Airplane,engine,Can opening,Church bells,order_audio_perturbations_only/151_volume_3.wav
+151_volume_4,151,Which sound event occurs after snoring sound?,Airplane,engine,Can opening,Church bells,order_audio_perturbations_only/151_volume_4.wav
+152_silence_0,152,Which sound event occurs after train sound?,rain,Siren,Crying baby,Crickets,order_audio_perturbations_only/152_silence_0.wav
+152_silence_1,152,Which sound event occurs after train sound?,rain,Siren,Crying baby,Crickets,order_audio_perturbations_only/152_silence_1.wav
+152_silence_2,152,Which sound event occurs after train sound?,rain,Siren,Crying baby,Crickets,order_audio_perturbations_only/152_silence_2.wav
+152_silence_3,152,Which sound event occurs after train sound?,rain,Siren,Crying baby,Crickets,order_audio_perturbations_only/152_silence_3.wav
+152_silence_4,152,Which sound event occurs after train sound?,rain,Siren,Crying baby,Crickets,order_audio_perturbations_only/152_silence_4.wav
+152_volume_0,152,Which sound event occurs after train sound?,rain,Siren,Crying baby,Crickets,order_audio_perturbations_only/152_volume_0.wav
+152_volume_1,152,Which sound event occurs after train sound?,rain,Siren,Crying baby,Crickets,order_audio_perturbations_only/152_volume_1.wav
+152_volume_2,152,Which sound event occurs after train sound?,rain,Siren,Crying baby,Crickets,order_audio_perturbations_only/152_volume_2.wav
+152_volume_3,152,Which sound event occurs after train sound?,rain,Siren,Crying baby,Crickets,order_audio_perturbations_only/152_volume_3.wav
+152_volume_4,152,Which sound event occurs after train sound?,rain,Siren,Crying baby,Crickets,order_audio_perturbations_only/152_volume_4.wav
+153_silence_0,153,Which sound event occurs second?,Frog,Vacuum cleaner,Helicopter,laughing,order_audio_perturbations_only/153_silence_0.wav
+153_silence_1,153,Which sound event occurs second?,Frog,Vacuum cleaner,Helicopter,laughing,order_audio_perturbations_only/153_silence_1.wav
+153_silence_2,153,Which sound event occurs second?,Frog,Vacuum cleaner,Helicopter,laughing,order_audio_perturbations_only/153_silence_2.wav
+153_silence_3,153,Which sound event occurs second?,Frog,Vacuum cleaner,Helicopter,laughing,order_audio_perturbations_only/153_silence_3.wav
+153_silence_4,153,Which sound event occurs second?,Frog,Vacuum cleaner,Helicopter,laughing,order_audio_perturbations_only/153_silence_4.wav
+153_volume_0,153,Which sound event occurs second?,Frog,Vacuum cleaner,Helicopter,laughing,order_audio_perturbations_only/153_volume_0.wav
+153_volume_1,153,Which sound event occurs second?,Frog,Vacuum cleaner,Helicopter,laughing,order_audio_perturbations_only/153_volume_1.wav
+153_volume_2,153,Which sound event occurs second?,Frog,Vacuum cleaner,Helicopter,laughing,order_audio_perturbations_only/153_volume_2.wav
+153_volume_3,153,Which sound event occurs second?,Frog,Vacuum cleaner,Helicopter,laughing,order_audio_perturbations_only/153_volume_3.wav
+153_volume_4,153,Which sound event occurs second?,Frog,Vacuum cleaner,Helicopter,laughing,order_audio_perturbations_only/153_volume_4.wav
+154_silence_0,154,Which sound event occurs after drinking_sipping sound?,Coughing,"Door, wood creaks",insects,Frog,order_audio_perturbations_only/154_silence_0.wav
+154_silence_1,154,Which sound event occurs after drinking_sipping sound?,Coughing,"Door, wood creaks",insects,Frog,order_audio_perturbations_only/154_silence_1.wav
+154_silence_2,154,Which sound event occurs after drinking_sipping sound?,Coughing,"Door, wood creaks",insects,Frog,order_audio_perturbations_only/154_silence_2.wav
+154_silence_3,154,Which sound event occurs after drinking_sipping sound?,Coughing,"Door, wood creaks",insects,Frog,order_audio_perturbations_only/154_silence_3.wav
+154_silence_4,154,Which sound event occurs after drinking_sipping sound?,Coughing,"Door, wood creaks",insects,Frog,order_audio_perturbations_only/154_silence_4.wav
+154_volume_0,154,Which sound event occurs after drinking_sipping sound?,Coughing,"Door, wood creaks",insects,Frog,order_audio_perturbations_only/154_volume_0.wav
+154_volume_1,154,Which sound event occurs after drinking_sipping sound?,Coughing,"Door, wood creaks",insects,Frog,order_audio_perturbations_only/154_volume_1.wav
+154_volume_2,154,Which sound event occurs after drinking_sipping sound?,Coughing,"Door, wood creaks",insects,Frog,order_audio_perturbations_only/154_volume_2.wav
+154_volume_3,154,Which sound event occurs after drinking_sipping sound?,Coughing,"Door, wood creaks",insects,Frog,order_audio_perturbations_only/154_volume_3.wav
+154_volume_4,154,Which sound event occurs after drinking_sipping sound?,Coughing,"Door, wood creaks",insects,Frog,order_audio_perturbations_only/154_volume_4.wav
+155_silence_0,155,Which sound event occurs fourth?,Clapping,pouring_water,Footsteps,Pouring water,order_audio_perturbations_only/155_silence_0.wav
+155_silence_1,155,Which sound event occurs fourth?,Clapping,pouring_water,Footsteps,Pouring water,order_audio_perturbations_only/155_silence_1.wav
+155_silence_2,155,Which sound event occurs fourth?,Clapping,pouring_water,Footsteps,Pouring water,order_audio_perturbations_only/155_silence_2.wav
+155_silence_3,155,Which sound event occurs fourth?,Clapping,pouring_water,Footsteps,Pouring water,order_audio_perturbations_only/155_silence_3.wav
+155_silence_4,155,Which sound event occurs fourth?,Clapping,pouring_water,Footsteps,Pouring water,order_audio_perturbations_only/155_silence_4.wav
+155_volume_0,155,Which sound event occurs fourth?,Clapping,pouring_water,Footsteps,Pouring water,order_audio_perturbations_only/155_volume_0.wav
+155_volume_1,155,Which sound event occurs fourth?,Clapping,pouring_water,Footsteps,Pouring water,order_audio_perturbations_only/155_volume_1.wav
+155_volume_2,155,Which sound event occurs fourth?,Clapping,pouring_water,Footsteps,Pouring water,order_audio_perturbations_only/155_volume_2.wav
+155_volume_3,155,Which sound event occurs fourth?,Clapping,pouring_water,Footsteps,Pouring water,order_audio_perturbations_only/155_volume_3.wav
+155_volume_4,155,Which sound event occurs fourth?,Clapping,pouring_water,Footsteps,Pouring water,order_audio_perturbations_only/155_volume_4.wav
+156_silence_0,156,Which sound event occurs second?,"Drinking, sipping",Water drops,Sneezing,crow,order_audio_perturbations_only/156_silence_0.wav
+156_silence_1,156,Which sound event occurs second?,"Drinking, sipping",Water drops,Sneezing,crow,order_audio_perturbations_only/156_silence_1.wav
+156_silence_2,156,Which sound event occurs second?,"Drinking, sipping",Water drops,Sneezing,crow,order_audio_perturbations_only/156_silence_2.wav
+156_silence_3,156,Which sound event occurs second?,"Drinking, sipping",Water drops,Sneezing,crow,order_audio_perturbations_only/156_silence_3.wav
+156_silence_4,156,Which sound event occurs second?,"Drinking, sipping",Water drops,Sneezing,crow,order_audio_perturbations_only/156_silence_4.wav
+156_volume_0,156,Which sound event occurs second?,"Drinking, sipping",Water drops,Sneezing,crow,order_audio_perturbations_only/156_volume_0.wav
+156_volume_1,156,Which sound event occurs second?,"Drinking, sipping",Water drops,Sneezing,crow,order_audio_perturbations_only/156_volume_1.wav
+156_volume_2,156,Which sound event occurs second?,"Drinking, sipping",Water drops,Sneezing,crow,order_audio_perturbations_only/156_volume_2.wav
+156_volume_3,156,Which sound event occurs second?,"Drinking, sipping",Water drops,Sneezing,crow,order_audio_perturbations_only/156_volume_3.wav
+156_volume_4,156,Which sound event occurs second?,"Drinking, sipping",Water drops,Sneezing,crow,order_audio_perturbations_only/156_volume_4.wav
+158_silence_0,158,Which sound event occurs after toilet_flush sound?,Dog,Laughing,church_bells,Mouse click,order_audio_perturbations_only/158_silence_0.wav
+158_silence_1,158,Which sound event occurs after toilet_flush sound?,Dog,Laughing,church_bells,Mouse click,order_audio_perturbations_only/158_silence_1.wav
+158_silence_2,158,Which sound event occurs after toilet_flush sound?,Dog,Laughing,church_bells,Mouse click,order_audio_perturbations_only/158_silence_2.wav
+158_silence_3,158,Which sound event occurs after toilet_flush sound?,Dog,Laughing,church_bells,Mouse click,order_audio_perturbations_only/158_silence_3.wav
+158_silence_4,158,Which sound event occurs after toilet_flush sound?,Dog,Laughing,church_bells,Mouse click,order_audio_perturbations_only/158_silence_4.wav
+158_volume_0,158,Which sound event occurs after toilet_flush sound?,Dog,Laughing,church_bells,Mouse click,order_audio_perturbations_only/158_volume_0.wav
+158_volume_1,158,Which sound event occurs after toilet_flush sound?,Dog,Laughing,church_bells,Mouse click,order_audio_perturbations_only/158_volume_1.wav
+158_volume_2,158,Which sound event occurs after toilet_flush sound?,Dog,Laughing,church_bells,Mouse click,order_audio_perturbations_only/158_volume_2.wav
+158_volume_3,158,Which sound event occurs after toilet_flush sound?,Dog,Laughing,church_bells,Mouse click,order_audio_perturbations_only/158_volume_3.wav
+158_volume_4,158,Which sound event occurs after toilet_flush sound?,Dog,Laughing,church_bells,Mouse click,order_audio_perturbations_only/158_volume_4.wav
+159_silence_0,159,Which sound event occurs third?,Clock alarm,Laughing,crow,Crow,order_audio_perturbations_only/159_silence_0.wav
+159_silence_1,159,Which sound event occurs third?,Clock alarm,Laughing,crow,Crow,order_audio_perturbations_only/159_silence_1.wav
+159_silence_2,159,Which sound event occurs third?,Clock alarm,Laughing,crow,Crow,order_audio_perturbations_only/159_silence_2.wav
+159_silence_3,159,Which sound event occurs third?,Clock alarm,Laughing,crow,Crow,order_audio_perturbations_only/159_silence_3.wav
+159_silence_4,159,Which sound event occurs third?,Clock alarm,Laughing,crow,Crow,order_audio_perturbations_only/159_silence_4.wav
+159_volume_0,159,Which sound event occurs third?,Clock alarm,Laughing,crow,Crow,order_audio_perturbations_only/159_volume_0.wav
+159_volume_1,159,Which sound event occurs third?,Clock alarm,Laughing,crow,Crow,order_audio_perturbations_only/159_volume_1.wav
+159_volume_2,159,Which sound event occurs third?,Clock alarm,Laughing,crow,Crow,order_audio_perturbations_only/159_volume_2.wav
+159_volume_3,159,Which sound event occurs third?,Clock alarm,Laughing,crow,Crow,order_audio_perturbations_only/159_volume_3.wav
+159_volume_4,159,Which sound event occurs third?,Clock alarm,Laughing,crow,Crow,order_audio_perturbations_only/159_volume_4.wav
+160_silence_0,160,Which sound event occurs first?,Crow,fireworks,Rain,"Door, wood creaks",order_audio_perturbations_only/160_silence_0.wav
+160_silence_1,160,Which sound event occurs first?,Crow,fireworks,Rain,"Door, wood creaks",order_audio_perturbations_only/160_silence_1.wav
+160_silence_2,160,Which sound event occurs first?,Crow,fireworks,Rain,"Door, wood creaks",order_audio_perturbations_only/160_silence_2.wav
+160_silence_3,160,Which sound event occurs first?,Crow,fireworks,Rain,"Door, wood creaks",order_audio_perturbations_only/160_silence_3.wav
+160_silence_4,160,Which sound event occurs first?,Crow,fireworks,Rain,"Door, wood creaks",order_audio_perturbations_only/160_silence_4.wav
+160_volume_0,160,Which sound event occurs first?,Crow,fireworks,Rain,"Door, wood creaks",order_audio_perturbations_only/160_volume_0.wav
+160_volume_1,160,Which sound event occurs first?,Crow,fireworks,Rain,"Door, wood creaks",order_audio_perturbations_only/160_volume_1.wav
+160_volume_2,160,Which sound event occurs first?,Crow,fireworks,Rain,"Door, wood creaks",order_audio_perturbations_only/160_volume_2.wav
+160_volume_3,160,Which sound event occurs first?,Crow,fireworks,Rain,"Door, wood creaks",order_audio_perturbations_only/160_volume_3.wav
+160_volume_4,160,Which sound event occurs first?,Crow,fireworks,Rain,"Door, wood creaks",order_audio_perturbations_only/160_volume_4.wav
+161_silence_0,161,Which sound event occurs third?,laughing,Breathing,Laughing,Crying baby,order_audio_perturbations_only/161_silence_0.wav
+161_silence_1,161,Which sound event occurs third?,laughing,Breathing,Laughing,Crying baby,order_audio_perturbations_only/161_silence_1.wav
+161_silence_2,161,Which sound event occurs third?,laughing,Breathing,Laughing,Crying baby,order_audio_perturbations_only/161_silence_2.wav
+161_silence_3,161,Which sound event occurs third?,laughing,Breathing,Laughing,Crying baby,order_audio_perturbations_only/161_silence_3.wav
+161_silence_4,161,Which sound event occurs third?,laughing,Breathing,Laughing,Crying baby,order_audio_perturbations_only/161_silence_4.wav
+161_volume_0,161,Which sound event occurs third?,laughing,Breathing,Laughing,Crying baby,order_audio_perturbations_only/161_volume_0.wav
+161_volume_1,161,Which sound event occurs third?,laughing,Breathing,Laughing,Crying baby,order_audio_perturbations_only/161_volume_1.wav
+161_volume_2,161,Which sound event occurs third?,laughing,Breathing,Laughing,Crying baby,order_audio_perturbations_only/161_volume_2.wav
+161_volume_3,161,Which sound event occurs third?,laughing,Breathing,Laughing,Crying baby,order_audio_perturbations_only/161_volume_3.wav
+161_volume_4,161,Which sound event occurs third?,laughing,Breathing,Laughing,Crying baby,order_audio_perturbations_only/161_volume_4.wav
+163_silence_0,163,Which sound event occurs fourth?,Chainsaw,Fireworks,Crying baby,door_wood_creaks,order_audio_perturbations_only/163_silence_0.wav
+163_silence_1,163,Which sound event occurs fourth?,Chainsaw,Fireworks,Crying baby,door_wood_creaks,order_audio_perturbations_only/163_silence_1.wav
+163_silence_2,163,Which sound event occurs fourth?,Chainsaw,Fireworks,Crying baby,door_wood_creaks,order_audio_perturbations_only/163_silence_2.wav
+163_silence_3,163,Which sound event occurs fourth?,Chainsaw,Fireworks,Crying baby,door_wood_creaks,order_audio_perturbations_only/163_silence_3.wav
+163_silence_4,163,Which sound event occurs fourth?,Chainsaw,Fireworks,Crying baby,door_wood_creaks,order_audio_perturbations_only/163_silence_4.wav
+163_volume_0,163,Which sound event occurs fourth?,Chainsaw,Fireworks,Crying baby,door_wood_creaks,order_audio_perturbations_only/163_volume_0.wav
+163_volume_1,163,Which sound event occurs fourth?,Chainsaw,Fireworks,Crying baby,door_wood_creaks,order_audio_perturbations_only/163_volume_1.wav
+163_volume_2,163,Which sound event occurs fourth?,Chainsaw,Fireworks,Crying baby,door_wood_creaks,order_audio_perturbations_only/163_volume_2.wav
+163_volume_3,163,Which sound event occurs fourth?,Chainsaw,Fireworks,Crying baby,door_wood_creaks,order_audio_perturbations_only/163_volume_3.wav
+163_volume_4,163,Which sound event occurs fourth?,Chainsaw,Fireworks,Crying baby,door_wood_creaks,order_audio_perturbations_only/163_volume_4.wav
+165_silence_0,165,Which sound event occurs third?,Car horn,Toilet flush,Water drops,coughing,order_audio_perturbations_only/165_silence_0.wav
+165_silence_1,165,Which sound event occurs third?,Car horn,Toilet flush,Water drops,coughing,order_audio_perturbations_only/165_silence_1.wav
+165_silence_2,165,Which sound event occurs third?,Car horn,Toilet flush,Water drops,coughing,order_audio_perturbations_only/165_silence_2.wav
+165_silence_3,165,Which sound event occurs third?,Car horn,Toilet flush,Water drops,coughing,order_audio_perturbations_only/165_silence_3.wav
+165_silence_4,165,Which sound event occurs third?,Car horn,Toilet flush,Water drops,coughing,order_audio_perturbations_only/165_silence_4.wav
+165_volume_0,165,Which sound event occurs third?,Car horn,Toilet flush,Water drops,coughing,order_audio_perturbations_only/165_volume_0.wav
+165_volume_1,165,Which sound event occurs third?,Car horn,Toilet flush,Water drops,coughing,order_audio_perturbations_only/165_volume_1.wav
+165_volume_2,165,Which sound event occurs third?,Car horn,Toilet flush,Water drops,coughing,order_audio_perturbations_only/165_volume_2.wav
+165_volume_3,165,Which sound event occurs third?,Car horn,Toilet flush,Water drops,coughing,order_audio_perturbations_only/165_volume_3.wav
+165_volume_4,165,Which sound event occurs third?,Car horn,Toilet flush,Water drops,coughing,order_audio_perturbations_only/165_volume_4.wav
+167_silence_0,167,Which sound event occurs after airplane sound?,Water drops,cat,Brushing teeth,Laughing,order_audio_perturbations_only/167_silence_0.wav
+167_silence_1,167,Which sound event occurs after airplane sound?,Water drops,cat,Brushing teeth,Laughing,order_audio_perturbations_only/167_silence_1.wav
+167_silence_2,167,Which sound event occurs after airplane sound?,Water drops,cat,Brushing teeth,Laughing,order_audio_perturbations_only/167_silence_2.wav
+167_silence_3,167,Which sound event occurs after airplane sound?,Water drops,cat,Brushing teeth,Laughing,order_audio_perturbations_only/167_silence_3.wav
+167_silence_4,167,Which sound event occurs after airplane sound?,Water drops,cat,Brushing teeth,Laughing,order_audio_perturbations_only/167_silence_4.wav
+167_volume_0,167,Which sound event occurs after airplane sound?,Water drops,cat,Brushing teeth,Laughing,order_audio_perturbations_only/167_volume_0.wav
+167_volume_1,167,Which sound event occurs after airplane sound?,Water drops,cat,Brushing teeth,Laughing,order_audio_perturbations_only/167_volume_1.wav
+167_volume_2,167,Which sound event occurs after airplane sound?,Water drops,cat,Brushing teeth,Laughing,order_audio_perturbations_only/167_volume_2.wav
+167_volume_3,167,Which sound event occurs after airplane sound?,Water drops,cat,Brushing teeth,Laughing,order_audio_perturbations_only/167_volume_3.wav
+167_volume_4,167,Which sound event occurs after airplane sound?,Water drops,cat,Brushing teeth,Laughing,order_audio_perturbations_only/167_volume_4.wav
+168_silence_0,168,Which sound event occurs first?,Pouring water,Sheep,train,Crying baby,order_audio_perturbations_only/168_silence_0.wav
+168_silence_1,168,Which sound event occurs first?,Pouring water,Sheep,train,Crying baby,order_audio_perturbations_only/168_silence_1.wav
+168_silence_2,168,Which sound event occurs first?,Pouring water,Sheep,train,Crying baby,order_audio_perturbations_only/168_silence_2.wav
+168_silence_3,168,Which sound event occurs first?,Pouring water,Sheep,train,Crying baby,order_audio_perturbations_only/168_silence_3.wav
+168_silence_4,168,Which sound event occurs first?,Pouring water,Sheep,train,Crying baby,order_audio_perturbations_only/168_silence_4.wav
+168_volume_0,168,Which sound event occurs first?,Pouring water,Sheep,train,Crying baby,order_audio_perturbations_only/168_volume_0.wav
+168_volume_1,168,Which sound event occurs first?,Pouring water,Sheep,train,Crying baby,order_audio_perturbations_only/168_volume_1.wav
+168_volume_2,168,Which sound event occurs first?,Pouring water,Sheep,train,Crying baby,order_audio_perturbations_only/168_volume_2.wav
+168_volume_3,168,Which sound event occurs first?,Pouring water,Sheep,train,Crying baby,order_audio_perturbations_only/168_volume_3.wav
+168_volume_4,168,Which sound event occurs first?,Pouring water,Sheep,train,Crying baby,order_audio_perturbations_only/168_volume_4.wav
+169_silence_0,169,Which sound event occurs second?,Laughing,clapping,Train,Door knock,order_audio_perturbations_only/169_silence_0.wav
+169_silence_1,169,Which sound event occurs second?,Laughing,clapping,Train,Door knock,order_audio_perturbations_only/169_silence_1.wav
+169_silence_2,169,Which sound event occurs second?,Laughing,clapping,Train,Door knock,order_audio_perturbations_only/169_silence_2.wav
+169_silence_3,169,Which sound event occurs second?,Laughing,clapping,Train,Door knock,order_audio_perturbations_only/169_silence_3.wav
+169_silence_4,169,Which sound event occurs second?,Laughing,clapping,Train,Door knock,order_audio_perturbations_only/169_silence_4.wav
+169_volume_0,169,Which sound event occurs second?,Laughing,clapping,Train,Door knock,order_audio_perturbations_only/169_volume_0.wav
+169_volume_1,169,Which sound event occurs second?,Laughing,clapping,Train,Door knock,order_audio_perturbations_only/169_volume_1.wav
+169_volume_2,169,Which sound event occurs second?,Laughing,clapping,Train,Door knock,order_audio_perturbations_only/169_volume_2.wav
+169_volume_3,169,Which sound event occurs second?,Laughing,clapping,Train,Door knock,order_audio_perturbations_only/169_volume_3.wav
+169_volume_4,169,Which sound event occurs second?,Laughing,clapping,Train,Door knock,order_audio_perturbations_only/169_volume_4.wav
+170_silence_0,170,Which sound event occurs first?,Helicopter,water_drops,Sneezing,Chainsaw,order_audio_perturbations_only/170_silence_0.wav
+170_silence_1,170,Which sound event occurs first?,Helicopter,water_drops,Sneezing,Chainsaw,order_audio_perturbations_only/170_silence_1.wav
+170_silence_2,170,Which sound event occurs first?,Helicopter,water_drops,Sneezing,Chainsaw,order_audio_perturbations_only/170_silence_2.wav
+170_silence_3,170,Which sound event occurs first?,Helicopter,water_drops,Sneezing,Chainsaw,order_audio_perturbations_only/170_silence_3.wav
+170_silence_4,170,Which sound event occurs first?,Helicopter,water_drops,Sneezing,Chainsaw,order_audio_perturbations_only/170_silence_4.wav
+170_volume_0,170,Which sound event occurs first?,Helicopter,water_drops,Sneezing,Chainsaw,order_audio_perturbations_only/170_volume_0.wav
+170_volume_1,170,Which sound event occurs first?,Helicopter,water_drops,Sneezing,Chainsaw,order_audio_perturbations_only/170_volume_1.wav
+170_volume_2,170,Which sound event occurs first?,Helicopter,water_drops,Sneezing,Chainsaw,order_audio_perturbations_only/170_volume_2.wav
+170_volume_3,170,Which sound event occurs first?,Helicopter,water_drops,Sneezing,Chainsaw,order_audio_perturbations_only/170_volume_3.wav
+170_volume_4,170,Which sound event occurs first?,Helicopter,water_drops,Sneezing,Chainsaw,order_audio_perturbations_only/170_volume_4.wav
+173_silence_0,173,Which sound event occurs first?,Door knock,Chirping birds,Brushing teeth,toilet_flush,order_audio_perturbations_only/173_silence_0.wav
+173_silence_1,173,Which sound event occurs first?,Door knock,Chirping birds,Brushing teeth,toilet_flush,order_audio_perturbations_only/173_silence_1.wav
+173_silence_2,173,Which sound event occurs first?,Door knock,Chirping birds,Brushing teeth,toilet_flush,order_audio_perturbations_only/173_silence_2.wav
+173_silence_3,173,Which sound event occurs first?,Door knock,Chirping birds,Brushing teeth,toilet_flush,order_audio_perturbations_only/173_silence_3.wav
+173_silence_4,173,Which sound event occurs first?,Door knock,Chirping birds,Brushing teeth,toilet_flush,order_audio_perturbations_only/173_silence_4.wav
+173_volume_0,173,Which sound event occurs first?,Door knock,Chirping birds,Brushing teeth,toilet_flush,order_audio_perturbations_only/173_volume_0.wav
+173_volume_1,173,Which sound event occurs first?,Door knock,Chirping birds,Brushing teeth,toilet_flush,order_audio_perturbations_only/173_volume_1.wav
+173_volume_2,173,Which sound event occurs first?,Door knock,Chirping birds,Brushing teeth,toilet_flush,order_audio_perturbations_only/173_volume_2.wav
+173_volume_3,173,Which sound event occurs first?,Door knock,Chirping birds,Brushing teeth,toilet_flush,order_audio_perturbations_only/173_volume_3.wav
+173_volume_4,173,Which sound event occurs first?,Door knock,Chirping birds,Brushing teeth,toilet_flush,order_audio_perturbations_only/173_volume_4.wav
+174_silence_0,174,Which sound event occurs third?,helicopter,Brushing teeth,Coughing,Crickets,order_audio_perturbations_only/174_silence_0.wav
+174_silence_1,174,Which sound event occurs third?,helicopter,Brushing teeth,Coughing,Crickets,order_audio_perturbations_only/174_silence_1.wav
+174_silence_2,174,Which sound event occurs third?,helicopter,Brushing teeth,Coughing,Crickets,order_audio_perturbations_only/174_silence_2.wav
+174_silence_3,174,Which sound event occurs third?,helicopter,Brushing teeth,Coughing,Crickets,order_audio_perturbations_only/174_silence_3.wav
+174_silence_4,174,Which sound event occurs third?,helicopter,Brushing teeth,Coughing,Crickets,order_audio_perturbations_only/174_silence_4.wav
+174_volume_0,174,Which sound event occurs third?,helicopter,Brushing teeth,Coughing,Crickets,order_audio_perturbations_only/174_volume_0.wav
+174_volume_1,174,Which sound event occurs third?,helicopter,Brushing teeth,Coughing,Crickets,order_audio_perturbations_only/174_volume_1.wav
+174_volume_2,174,Which sound event occurs third?,helicopter,Brushing teeth,Coughing,Crickets,order_audio_perturbations_only/174_volume_2.wav
+174_volume_3,174,Which sound event occurs third?,helicopter,Brushing teeth,Coughing,Crickets,order_audio_perturbations_only/174_volume_3.wav
+174_volume_4,174,Which sound event occurs third?,helicopter,Brushing teeth,Coughing,Crickets,order_audio_perturbations_only/174_volume_4.wav
+175_silence_0,175,Which sound event occurs second?,Crackling fire,Breathing,coughing,Wind,order_audio_perturbations_only/175_silence_0.wav
+175_silence_1,175,Which sound event occurs second?,Crackling fire,Breathing,coughing,Wind,order_audio_perturbations_only/175_silence_1.wav
+175_silence_2,175,Which sound event occurs second?,Crackling fire,Breathing,coughing,Wind,order_audio_perturbations_only/175_silence_2.wav
+175_silence_3,175,Which sound event occurs second?,Crackling fire,Breathing,coughing,Wind,order_audio_perturbations_only/175_silence_3.wav
+175_silence_4,175,Which sound event occurs second?,Crackling fire,Breathing,coughing,Wind,order_audio_perturbations_only/175_silence_4.wav
+175_volume_0,175,Which sound event occurs second?,Crackling fire,Breathing,coughing,Wind,order_audio_perturbations_only/175_volume_0.wav
+175_volume_1,175,Which sound event occurs second?,Crackling fire,Breathing,coughing,Wind,order_audio_perturbations_only/175_volume_1.wav
+175_volume_2,175,Which sound event occurs second?,Crackling fire,Breathing,coughing,Wind,order_audio_perturbations_only/175_volume_2.wav
+175_volume_3,175,Which sound event occurs second?,Crackling fire,Breathing,coughing,Wind,order_audio_perturbations_only/175_volume_3.wav
+175_volume_4,175,Which sound event occurs second?,Crackling fire,Breathing,coughing,Wind,order_audio_perturbations_only/175_volume_4.wav
+176_silence_0,176,Which sound event occurs after vacuum_cleaner sound?,Breathing,Fireworks,Snoring,toilet_flush,order_audio_perturbations_only/176_silence_0.wav
+176_silence_1,176,Which sound event occurs after vacuum_cleaner sound?,Breathing,Fireworks,Snoring,toilet_flush,order_audio_perturbations_only/176_silence_1.wav
+176_silence_2,176,Which sound event occurs after vacuum_cleaner sound?,Breathing,Fireworks,Snoring,toilet_flush,order_audio_perturbations_only/176_silence_2.wav
+176_silence_3,176,Which sound event occurs after vacuum_cleaner sound?,Breathing,Fireworks,Snoring,toilet_flush,order_audio_perturbations_only/176_silence_3.wav
+176_silence_4,176,Which sound event occurs after vacuum_cleaner sound?,Breathing,Fireworks,Snoring,toilet_flush,order_audio_perturbations_only/176_silence_4.wav
+176_volume_0,176,Which sound event occurs after vacuum_cleaner sound?,Breathing,Fireworks,Snoring,toilet_flush,order_audio_perturbations_only/176_volume_0.wav
+176_volume_1,176,Which sound event occurs after vacuum_cleaner sound?,Breathing,Fireworks,Snoring,toilet_flush,order_audio_perturbations_only/176_volume_1.wav
+176_volume_2,176,Which sound event occurs after vacuum_cleaner sound?,Breathing,Fireworks,Snoring,toilet_flush,order_audio_perturbations_only/176_volume_2.wav
+176_volume_3,176,Which sound event occurs after vacuum_cleaner sound?,Breathing,Fireworks,Snoring,toilet_flush,order_audio_perturbations_only/176_volume_3.wav
+176_volume_4,176,Which sound event occurs after vacuum_cleaner sound?,Breathing,Fireworks,Snoring,toilet_flush,order_audio_perturbations_only/176_volume_4.wav
+177_silence_0,177,Which sound event occurs second?,car_horn,"Door, wood creaks",Toilet flush,Clapping,order_audio_perturbations_only/177_silence_0.wav
+177_silence_1,177,Which sound event occurs second?,car_horn,"Door, wood creaks",Toilet flush,Clapping,order_audio_perturbations_only/177_silence_1.wav
+177_silence_2,177,Which sound event occurs second?,car_horn,"Door, wood creaks",Toilet flush,Clapping,order_audio_perturbations_only/177_silence_2.wav
+177_silence_3,177,Which sound event occurs second?,car_horn,"Door, wood creaks",Toilet flush,Clapping,order_audio_perturbations_only/177_silence_3.wav
+177_silence_4,177,Which sound event occurs second?,car_horn,"Door, wood creaks",Toilet flush,Clapping,order_audio_perturbations_only/177_silence_4.wav
+177_volume_0,177,Which sound event occurs second?,car_horn,"Door, wood creaks",Toilet flush,Clapping,order_audio_perturbations_only/177_volume_0.wav
+177_volume_1,177,Which sound event occurs second?,car_horn,"Door, wood creaks",Toilet flush,Clapping,order_audio_perturbations_only/177_volume_1.wav
+177_volume_2,177,Which sound event occurs second?,car_horn,"Door, wood creaks",Toilet flush,Clapping,order_audio_perturbations_only/177_volume_2.wav
+177_volume_3,177,Which sound event occurs second?,car_horn,"Door, wood creaks",Toilet flush,Clapping,order_audio_perturbations_only/177_volume_3.wav
+177_volume_4,177,Which sound event occurs second?,car_horn,"Door, wood creaks",Toilet flush,Clapping,order_audio_perturbations_only/177_volume_4.wav
+179_silence_0,179,Which sound event occurs fourth?,Airplane,church_bells,Washing machine,Car horn,order_audio_perturbations_only/179_silence_0.wav
+179_silence_1,179,Which sound event occurs fourth?,Airplane,church_bells,Washing machine,Car horn,order_audio_perturbations_only/179_silence_1.wav
+179_silence_2,179,Which sound event occurs fourth?,Airplane,church_bells,Washing machine,Car horn,order_audio_perturbations_only/179_silence_2.wav
+179_silence_3,179,Which sound event occurs fourth?,Airplane,church_bells,Washing machine,Car horn,order_audio_perturbations_only/179_silence_3.wav
+179_silence_4,179,Which sound event occurs fourth?,Airplane,church_bells,Washing machine,Car horn,order_audio_perturbations_only/179_silence_4.wav
+179_volume_0,179,Which sound event occurs fourth?,Airplane,church_bells,Washing machine,Car horn,order_audio_perturbations_only/179_volume_0.wav
+179_volume_1,179,Which sound event occurs fourth?,Airplane,church_bells,Washing machine,Car horn,order_audio_perturbations_only/179_volume_1.wav
+179_volume_2,179,Which sound event occurs fourth?,Airplane,church_bells,Washing machine,Car horn,order_audio_perturbations_only/179_volume_2.wav
+179_volume_3,179,Which sound event occurs fourth?,Airplane,church_bells,Washing machine,Car horn,order_audio_perturbations_only/179_volume_3.wav
+179_volume_4,179,Which sound event occurs fourth?,Airplane,church_bells,Washing machine,Car horn,order_audio_perturbations_only/179_volume_4.wav
+180_silence_0,180,Which sound event occurs after clock_alarm sound?,Sheep,Train,breathing,Footsteps,order_audio_perturbations_only/180_silence_0.wav
+180_silence_1,180,Which sound event occurs after clock_alarm sound?,Sheep,Train,breathing,Footsteps,order_audio_perturbations_only/180_silence_1.wav
+180_silence_2,180,Which sound event occurs after clock_alarm sound?,Sheep,Train,breathing,Footsteps,order_audio_perturbations_only/180_silence_2.wav
+180_silence_3,180,Which sound event occurs after clock_alarm sound?,Sheep,Train,breathing,Footsteps,order_audio_perturbations_only/180_silence_3.wav
+180_silence_4,180,Which sound event occurs after clock_alarm sound?,Sheep,Train,breathing,Footsteps,order_audio_perturbations_only/180_silence_4.wav
+180_volume_0,180,Which sound event occurs after clock_alarm sound?,Sheep,Train,breathing,Footsteps,order_audio_perturbations_only/180_volume_0.wav
+180_volume_1,180,Which sound event occurs after clock_alarm sound?,Sheep,Train,breathing,Footsteps,order_audio_perturbations_only/180_volume_1.wav
+180_volume_2,180,Which sound event occurs after clock_alarm sound?,Sheep,Train,breathing,Footsteps,order_audio_perturbations_only/180_volume_2.wav
+180_volume_3,180,Which sound event occurs after clock_alarm sound?,Sheep,Train,breathing,Footsteps,order_audio_perturbations_only/180_volume_3.wav
+180_volume_4,180,Which sound event occurs after clock_alarm sound?,Sheep,Train,breathing,Footsteps,order_audio_perturbations_only/180_volume_4.wav
+181_silence_0,181,Which sound event occurs second?,laughing,Cow,Church bells,Snoring,order_audio_perturbations_only/181_silence_0.wav
+181_silence_1,181,Which sound event occurs second?,laughing,Cow,Church bells,Snoring,order_audio_perturbations_only/181_silence_1.wav
+181_silence_2,181,Which sound event occurs second?,laughing,Cow,Church bells,Snoring,order_audio_perturbations_only/181_silence_2.wav
+181_silence_3,181,Which sound event occurs second?,laughing,Cow,Church bells,Snoring,order_audio_perturbations_only/181_silence_3.wav
+181_silence_4,181,Which sound event occurs second?,laughing,Cow,Church bells,Snoring,order_audio_perturbations_only/181_silence_4.wav
+181_volume_0,181,Which sound event occurs second?,laughing,Cow,Church bells,Snoring,order_audio_perturbations_only/181_volume_0.wav
+181_volume_1,181,Which sound event occurs second?,laughing,Cow,Church bells,Snoring,order_audio_perturbations_only/181_volume_1.wav
+181_volume_2,181,Which sound event occurs second?,laughing,Cow,Church bells,Snoring,order_audio_perturbations_only/181_volume_2.wav
+181_volume_3,181,Which sound event occurs second?,laughing,Cow,Church bells,Snoring,order_audio_perturbations_only/181_volume_3.wav
+181_volume_4,181,Which sound event occurs second?,laughing,Cow,Church bells,Snoring,order_audio_perturbations_only/181_volume_4.wav
+182_silence_0,182,Which sound event occurs third?,Helicopter,pouring_water,Brushing teeth,Mouse click,order_audio_perturbations_only/182_silence_0.wav
+182_silence_1,182,Which sound event occurs third?,Helicopter,pouring_water,Brushing teeth,Mouse click,order_audio_perturbations_only/182_silence_1.wav
+182_silence_2,182,Which sound event occurs third?,Helicopter,pouring_water,Brushing teeth,Mouse click,order_audio_perturbations_only/182_silence_2.wav
+182_silence_3,182,Which sound event occurs third?,Helicopter,pouring_water,Brushing teeth,Mouse click,order_audio_perturbations_only/182_silence_3.wav
+182_silence_4,182,Which sound event occurs third?,Helicopter,pouring_water,Brushing teeth,Mouse click,order_audio_perturbations_only/182_silence_4.wav
+182_volume_0,182,Which sound event occurs third?,Helicopter,pouring_water,Brushing teeth,Mouse click,order_audio_perturbations_only/182_volume_0.wav
+182_volume_1,182,Which sound event occurs third?,Helicopter,pouring_water,Brushing teeth,Mouse click,order_audio_perturbations_only/182_volume_1.wav
+182_volume_2,182,Which sound event occurs third?,Helicopter,pouring_water,Brushing teeth,Mouse click,order_audio_perturbations_only/182_volume_2.wav
+182_volume_3,182,Which sound event occurs third?,Helicopter,pouring_water,Brushing teeth,Mouse click,order_audio_perturbations_only/182_volume_3.wav
+182_volume_4,182,Which sound event occurs third?,Helicopter,pouring_water,Brushing teeth,Mouse click,order_audio_perturbations_only/182_volume_4.wav
+185_silence_0,185,Which sound event occurs second?,footsteps,Brushing teeth,Thunderstorm,Pig,order_audio_perturbations_only/185_silence_0.wav
+185_silence_1,185,Which sound event occurs second?,footsteps,Brushing teeth,Thunderstorm,Pig,order_audio_perturbations_only/185_silence_1.wav
+185_silence_2,185,Which sound event occurs second?,footsteps,Brushing teeth,Thunderstorm,Pig,order_audio_perturbations_only/185_silence_2.wav
+185_silence_3,185,Which sound event occurs second?,footsteps,Brushing teeth,Thunderstorm,Pig,order_audio_perturbations_only/185_silence_3.wav
+185_silence_4,185,Which sound event occurs second?,footsteps,Brushing teeth,Thunderstorm,Pig,order_audio_perturbations_only/185_silence_4.wav
+185_volume_0,185,Which sound event occurs second?,footsteps,Brushing teeth,Thunderstorm,Pig,order_audio_perturbations_only/185_volume_0.wav
+185_volume_1,185,Which sound event occurs second?,footsteps,Brushing teeth,Thunderstorm,Pig,order_audio_perturbations_only/185_volume_1.wav
+185_volume_2,185,Which sound event occurs second?,footsteps,Brushing teeth,Thunderstorm,Pig,order_audio_perturbations_only/185_volume_2.wav
+185_volume_3,185,Which sound event occurs second?,footsteps,Brushing teeth,Thunderstorm,Pig,order_audio_perturbations_only/185_volume_3.wav
+185_volume_4,185,Which sound event occurs second?,footsteps,Brushing teeth,Thunderstorm,Pig,order_audio_perturbations_only/185_volume_4.wav
+186_silence_0,186,Which sound event occurs second?,Hand saw,car_horn,Vacuum cleaner,Chirping birds,order_audio_perturbations_only/186_silence_0.wav
+186_silence_1,186,Which sound event occurs second?,Hand saw,car_horn,Vacuum cleaner,Chirping birds,order_audio_perturbations_only/186_silence_1.wav
+186_silence_2,186,Which sound event occurs second?,Hand saw,car_horn,Vacuum cleaner,Chirping birds,order_audio_perturbations_only/186_silence_2.wav
+186_silence_3,186,Which sound event occurs second?,Hand saw,car_horn,Vacuum cleaner,Chirping birds,order_audio_perturbations_only/186_silence_3.wav
+186_silence_4,186,Which sound event occurs second?,Hand saw,car_horn,Vacuum cleaner,Chirping birds,order_audio_perturbations_only/186_silence_4.wav
+186_volume_0,186,Which sound event occurs second?,Hand saw,car_horn,Vacuum cleaner,Chirping birds,order_audio_perturbations_only/186_volume_0.wav
+186_volume_1,186,Which sound event occurs second?,Hand saw,car_horn,Vacuum cleaner,Chirping birds,order_audio_perturbations_only/186_volume_1.wav
+186_volume_2,186,Which sound event occurs second?,Hand saw,car_horn,Vacuum cleaner,Chirping birds,order_audio_perturbations_only/186_volume_2.wav
+186_volume_3,186,Which sound event occurs second?,Hand saw,car_horn,Vacuum cleaner,Chirping birds,order_audio_perturbations_only/186_volume_3.wav
+186_volume_4,186,Which sound event occurs second?,Hand saw,car_horn,Vacuum cleaner,Chirping birds,order_audio_perturbations_only/186_volume_4.wav
+187_silence_0,187,Which sound event occurs third?,Clapping,car_horn,Crying baby,Wind,order_audio_perturbations_only/187_silence_0.wav
+187_silence_1,187,Which sound event occurs third?,Clapping,car_horn,Crying baby,Wind,order_audio_perturbations_only/187_silence_1.wav
+187_silence_2,187,Which sound event occurs third?,Clapping,car_horn,Crying baby,Wind,order_audio_perturbations_only/187_silence_2.wav
+187_silence_3,187,Which sound event occurs third?,Clapping,car_horn,Crying baby,Wind,order_audio_perturbations_only/187_silence_3.wav
+187_silence_4,187,Which sound event occurs third?,Clapping,car_horn,Crying baby,Wind,order_audio_perturbations_only/187_silence_4.wav
+187_volume_0,187,Which sound event occurs third?,Clapping,car_horn,Crying baby,Wind,order_audio_perturbations_only/187_volume_0.wav
+187_volume_1,187,Which sound event occurs third?,Clapping,car_horn,Crying baby,Wind,order_audio_perturbations_only/187_volume_1.wav
+187_volume_2,187,Which sound event occurs third?,Clapping,car_horn,Crying baby,Wind,order_audio_perturbations_only/187_volume_2.wav
+187_volume_3,187,Which sound event occurs third?,Clapping,car_horn,Crying baby,Wind,order_audio_perturbations_only/187_volume_3.wav
+187_volume_4,187,Which sound event occurs third?,Clapping,car_horn,Crying baby,Wind,order_audio_perturbations_only/187_volume_4.wav
+188_silence_0,188,Which sound event occurs second?,Clapping,chirping_birds,Chirping birds,Hen,order_audio_perturbations_only/188_silence_0.wav
+188_silence_1,188,Which sound event occurs second?,Clapping,chirping_birds,Chirping birds,Hen,order_audio_perturbations_only/188_silence_1.wav
+188_silence_2,188,Which sound event occurs second?,Clapping,chirping_birds,Chirping birds,Hen,order_audio_perturbations_only/188_silence_2.wav
+188_silence_3,188,Which sound event occurs second?,Clapping,chirping_birds,Chirping birds,Hen,order_audio_perturbations_only/188_silence_3.wav
+188_silence_4,188,Which sound event occurs second?,Clapping,chirping_birds,Chirping birds,Hen,order_audio_perturbations_only/188_silence_4.wav
+188_volume_0,188,Which sound event occurs second?,Clapping,chirping_birds,Chirping birds,Hen,order_audio_perturbations_only/188_volume_0.wav
+188_volume_1,188,Which sound event occurs second?,Clapping,chirping_birds,Chirping birds,Hen,order_audio_perturbations_only/188_volume_1.wav
+188_volume_2,188,Which sound event occurs second?,Clapping,chirping_birds,Chirping birds,Hen,order_audio_perturbations_only/188_volume_2.wav
+188_volume_3,188,Which sound event occurs second?,Clapping,chirping_birds,Chirping birds,Hen,order_audio_perturbations_only/188_volume_3.wav
+188_volume_4,188,Which sound event occurs second?,Clapping,chirping_birds,Chirping birds,Hen,order_audio_perturbations_only/188_volume_4.wav
+189_silence_0,189,Which sound event occurs fourth?,pig,Glass breaking,"Door, wood creaks",Dog,order_audio_perturbations_only/189_silence_0.wav
+189_silence_1,189,Which sound event occurs fourth?,pig,Glass breaking,"Door, wood creaks",Dog,order_audio_perturbations_only/189_silence_1.wav
+189_silence_2,189,Which sound event occurs fourth?,pig,Glass breaking,"Door, wood creaks",Dog,order_audio_perturbations_only/189_silence_2.wav
+189_silence_3,189,Which sound event occurs fourth?,pig,Glass breaking,"Door, wood creaks",Dog,order_audio_perturbations_only/189_silence_3.wav
+189_silence_4,189,Which sound event occurs fourth?,pig,Glass breaking,"Door, wood creaks",Dog,order_audio_perturbations_only/189_silence_4.wav
+189_volume_0,189,Which sound event occurs fourth?,pig,Glass breaking,"Door, wood creaks",Dog,order_audio_perturbations_only/189_volume_0.wav
+189_volume_1,189,Which sound event occurs fourth?,pig,Glass breaking,"Door, wood creaks",Dog,order_audio_perturbations_only/189_volume_1.wav
+189_volume_2,189,Which sound event occurs fourth?,pig,Glass breaking,"Door, wood creaks",Dog,order_audio_perturbations_only/189_volume_2.wav
+189_volume_3,189,Which sound event occurs fourth?,pig,Glass breaking,"Door, wood creaks",Dog,order_audio_perturbations_only/189_volume_3.wav
+189_volume_4,189,Which sound event occurs fourth?,pig,Glass breaking,"Door, wood creaks",Dog,order_audio_perturbations_only/189_volume_4.wav
+191_silence_0,191,Which sound event occurs second?,siren,Brushing teeth,Pouring water,Sheep,order_audio_perturbations_only/191_silence_0.wav
+191_silence_1,191,Which sound event occurs second?,siren,Brushing teeth,Pouring water,Sheep,order_audio_perturbations_only/191_silence_1.wav
+191_silence_2,191,Which sound event occurs second?,siren,Brushing teeth,Pouring water,Sheep,order_audio_perturbations_only/191_silence_2.wav
+191_silence_3,191,Which sound event occurs second?,siren,Brushing teeth,Pouring water,Sheep,order_audio_perturbations_only/191_silence_3.wav
+191_silence_4,191,Which sound event occurs second?,siren,Brushing teeth,Pouring water,Sheep,order_audio_perturbations_only/191_silence_4.wav
+191_volume_0,191,Which sound event occurs second?,siren,Brushing teeth,Pouring water,Sheep,order_audio_perturbations_only/191_volume_0.wav
+191_volume_1,191,Which sound event occurs second?,siren,Brushing teeth,Pouring water,Sheep,order_audio_perturbations_only/191_volume_1.wav
+191_volume_2,191,Which sound event occurs second?,siren,Brushing teeth,Pouring water,Sheep,order_audio_perturbations_only/191_volume_2.wav
+191_volume_3,191,Which sound event occurs second?,siren,Brushing teeth,Pouring water,Sheep,order_audio_perturbations_only/191_volume_3.wav
+191_volume_4,191,Which sound event occurs second?,siren,Brushing teeth,Pouring water,Sheep,order_audio_perturbations_only/191_volume_4.wav
+192_silence_0,192,Which sound event occurs fourth?,Train,Rain,Crackling fire,chainsaw,order_audio_perturbations_only/192_silence_0.wav
+192_silence_1,192,Which sound event occurs fourth?,Train,Rain,Crackling fire,chainsaw,order_audio_perturbations_only/192_silence_1.wav
+192_silence_2,192,Which sound event occurs fourth?,Train,Rain,Crackling fire,chainsaw,order_audio_perturbations_only/192_silence_2.wav
+192_silence_3,192,Which sound event occurs fourth?,Train,Rain,Crackling fire,chainsaw,order_audio_perturbations_only/192_silence_3.wav
+192_silence_4,192,Which sound event occurs fourth?,Train,Rain,Crackling fire,chainsaw,order_audio_perturbations_only/192_silence_4.wav
+192_volume_0,192,Which sound event occurs fourth?,Train,Rain,Crackling fire,chainsaw,order_audio_perturbations_only/192_volume_0.wav
+192_volume_1,192,Which sound event occurs fourth?,Train,Rain,Crackling fire,chainsaw,order_audio_perturbations_only/192_volume_1.wav
+192_volume_2,192,Which sound event occurs fourth?,Train,Rain,Crackling fire,chainsaw,order_audio_perturbations_only/192_volume_2.wav
+192_volume_3,192,Which sound event occurs fourth?,Train,Rain,Crackling fire,chainsaw,order_audio_perturbations_only/192_volume_3.wav
+192_volume_4,192,Which sound event occurs fourth?,Train,Rain,Crackling fire,chainsaw,order_audio_perturbations_only/192_volume_4.wav
+194_silence_0,194,Which sound event occurs second?,Insects (flying),Fireworks,Crickets,hen,order_audio_perturbations_only/194_silence_0.wav
+194_silence_1,194,Which sound event occurs second?,Insects (flying),Fireworks,Crickets,hen,order_audio_perturbations_only/194_silence_1.wav
+194_silence_2,194,Which sound event occurs second?,Insects (flying),Fireworks,Crickets,hen,order_audio_perturbations_only/194_silence_2.wav
+194_silence_3,194,Which sound event occurs second?,Insects (flying),Fireworks,Crickets,hen,order_audio_perturbations_only/194_silence_3.wav
+194_silence_4,194,Which sound event occurs second?,Insects (flying),Fireworks,Crickets,hen,order_audio_perturbations_only/194_silence_4.wav
+194_volume_0,194,Which sound event occurs second?,Insects (flying),Fireworks,Crickets,hen,order_audio_perturbations_only/194_volume_0.wav
+194_volume_1,194,Which sound event occurs second?,Insects (flying),Fireworks,Crickets,hen,order_audio_perturbations_only/194_volume_1.wav
+194_volume_2,194,Which sound event occurs second?,Insects (flying),Fireworks,Crickets,hen,order_audio_perturbations_only/194_volume_2.wav
+194_volume_3,194,Which sound event occurs second?,Insects (flying),Fireworks,Crickets,hen,order_audio_perturbations_only/194_volume_3.wav
+194_volume_4,194,Which sound event occurs second?,Insects (flying),Fireworks,Crickets,hen,order_audio_perturbations_only/194_volume_4.wav
+195_silence_0,195,Which sound event occurs third?,Brushing teeth,Rain,Crying baby,footsteps,order_audio_perturbations_only/195_silence_0.wav
+195_silence_1,195,Which sound event occurs third?,Brushing teeth,Rain,Crying baby,footsteps,order_audio_perturbations_only/195_silence_1.wav
+195_silence_2,195,Which sound event occurs third?,Brushing teeth,Rain,Crying baby,footsteps,order_audio_perturbations_only/195_silence_2.wav
+195_silence_3,195,Which sound event occurs third?,Brushing teeth,Rain,Crying baby,footsteps,order_audio_perturbations_only/195_silence_3.wav
+195_silence_4,195,Which sound event occurs third?,Brushing teeth,Rain,Crying baby,footsteps,order_audio_perturbations_only/195_silence_4.wav
+195_volume_0,195,Which sound event occurs third?,Brushing teeth,Rain,Crying baby,footsteps,order_audio_perturbations_only/195_volume_0.wav
+195_volume_1,195,Which sound event occurs third?,Brushing teeth,Rain,Crying baby,footsteps,order_audio_perturbations_only/195_volume_1.wav
+195_volume_2,195,Which sound event occurs third?,Brushing teeth,Rain,Crying baby,footsteps,order_audio_perturbations_only/195_volume_2.wav
+195_volume_3,195,Which sound event occurs third?,Brushing teeth,Rain,Crying baby,footsteps,order_audio_perturbations_only/195_volume_3.wav
+195_volume_4,195,Which sound event occurs third?,Brushing teeth,Rain,Crying baby,footsteps,order_audio_perturbations_only/195_volume_4.wav
+197_silence_0,197,Which sound event occurs after vacuum_cleaner sound?,Laughing,Brushing teeth,Cat,crickets,order_audio_perturbations_only/197_silence_0.wav
+197_silence_1,197,Which sound event occurs after vacuum_cleaner sound?,Laughing,Brushing teeth,Cat,crickets,order_audio_perturbations_only/197_silence_1.wav
+197_silence_2,197,Which sound event occurs after vacuum_cleaner sound?,Laughing,Brushing teeth,Cat,crickets,order_audio_perturbations_only/197_silence_2.wav
+197_silence_3,197,Which sound event occurs after vacuum_cleaner sound?,Laughing,Brushing teeth,Cat,crickets,order_audio_perturbations_only/197_silence_3.wav
+197_silence_4,197,Which sound event occurs after vacuum_cleaner sound?,Laughing,Brushing teeth,Cat,crickets,order_audio_perturbations_only/197_silence_4.wav
+197_volume_0,197,Which sound event occurs after vacuum_cleaner sound?,Laughing,Brushing teeth,Cat,crickets,order_audio_perturbations_only/197_volume_0.wav
+197_volume_1,197,Which sound event occurs after vacuum_cleaner sound?,Laughing,Brushing teeth,Cat,crickets,order_audio_perturbations_only/197_volume_1.wav
+197_volume_2,197,Which sound event occurs after vacuum_cleaner sound?,Laughing,Brushing teeth,Cat,crickets,order_audio_perturbations_only/197_volume_2.wav
+197_volume_3,197,Which sound event occurs after vacuum_cleaner sound?,Laughing,Brushing teeth,Cat,crickets,order_audio_perturbations_only/197_volume_3.wav
+197_volume_4,197,Which sound event occurs after vacuum_cleaner sound?,Laughing,Brushing teeth,Cat,crickets,order_audio_perturbations_only/197_volume_4.wav
+198_silence_0,198,Which sound event occurs second?,Train,Crying baby,Laughing,crickets,order_audio_perturbations_only/198_silence_0.wav
+198_silence_1,198,Which sound event occurs second?,Train,Crying baby,Laughing,crickets,order_audio_perturbations_only/198_silence_1.wav
+198_silence_2,198,Which sound event occurs second?,Train,Crying baby,Laughing,crickets,order_audio_perturbations_only/198_silence_2.wav
+198_silence_3,198,Which sound event occurs second?,Train,Crying baby,Laughing,crickets,order_audio_perturbations_only/198_silence_3.wav
+198_silence_4,198,Which sound event occurs second?,Train,Crying baby,Laughing,crickets,order_audio_perturbations_only/198_silence_4.wav
+198_volume_0,198,Which sound event occurs second?,Train,Crying baby,Laughing,crickets,order_audio_perturbations_only/198_volume_0.wav
+198_volume_1,198,Which sound event occurs second?,Train,Crying baby,Laughing,crickets,order_audio_perturbations_only/198_volume_1.wav
+198_volume_2,198,Which sound event occurs second?,Train,Crying baby,Laughing,crickets,order_audio_perturbations_only/198_volume_2.wav
+198_volume_3,198,Which sound event occurs second?,Train,Crying baby,Laughing,crickets,order_audio_perturbations_only/198_volume_3.wav
+198_volume_4,198,Which sound event occurs second?,Train,Crying baby,Laughing,crickets,order_audio_perturbations_only/198_volume_4.wav
+199_silence_0,199,Which sound event occurs first?,clock_tick,Hand saw,Washing machine,Door knock,order_audio_perturbations_only/199_silence_0.wav
+199_silence_1,199,Which sound event occurs first?,clock_tick,Hand saw,Washing machine,Door knock,order_audio_perturbations_only/199_silence_1.wav
+199_silence_2,199,Which sound event occurs first?,clock_tick,Hand saw,Washing machine,Door knock,order_audio_perturbations_only/199_silence_2.wav
+199_silence_3,199,Which sound event occurs first?,clock_tick,Hand saw,Washing machine,Door knock,order_audio_perturbations_only/199_silence_3.wav
+199_silence_4,199,Which sound event occurs first?,clock_tick,Hand saw,Washing machine,Door knock,order_audio_perturbations_only/199_silence_4.wav
+199_volume_0,199,Which sound event occurs first?,clock_tick,Hand saw,Washing machine,Door knock,order_audio_perturbations_only/199_volume_0.wav
+199_volume_1,199,Which sound event occurs first?,clock_tick,Hand saw,Washing machine,Door knock,order_audio_perturbations_only/199_volume_1.wav
+199_volume_2,199,Which sound event occurs first?,clock_tick,Hand saw,Washing machine,Door knock,order_audio_perturbations_only/199_volume_2.wav
+199_volume_3,199,Which sound event occurs first?,clock_tick,Hand saw,Washing machine,Door knock,order_audio_perturbations_only/199_volume_3.wav
+199_volume_4,199,Which sound event occurs first?,clock_tick,Hand saw,Washing machine,Door knock,order_audio_perturbations_only/199_volume_4.wav
