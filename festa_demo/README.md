@@ -1,13 +1,10 @@
 # 🎭 FESTA Framework Demo
 
-This directory contains the Google Colab demo for the **FESTA (Framework for Evaluating Semantic and Temporal Assumptions)** approach for measuring uncertainty in Large Vision-Language Models (LVLMs).
-
-## 📁 Files
+This directory contains the Google Colab demo for the **FESTA** approach for measuring uncertainty in Multimodal Large Language Models (MLLMs).
 
 - `FESTA_Demo_Dataset.ipynb` - Main Colab notebook with dataset examples
 - `demo_examples.json` - Configuration file with example specifications  
 - `examples/` - Directory containing selected BLINK dataset images
-- `README.md` - This file
 
 ## 🖼️ Included Dataset Examples
 
@@ -94,7 +91,7 @@ To improve this demo:
 4. Add support for other LVLM models
 5. Create failure case analysis tools
 
-## 📚 Citation
+<!-- ## 📚 Citation
 
 If you use this demo in your research, please cite:
 
@@ -104,16 +101,16 @@ If you use this demo in your research, please cite:
   author={[Authors]},
   journal={arXiv preprint arXiv:xxxx.xxxx},
   year={2024}
-}
+} -->
 ```
 
-## 🔗 Links
+<!-- ## 🔗 Links
 
 - **Paper**: [FESTA: Framework for Evaluating Semantic and Temporal Assumptions](https://arxiv.org/abs/xxxx.xxxx)
 - **Repository**: [https://github.com/iiscleap/mllm-uncertainty-estimation](https://github.com/iiscleap/mllm-uncertainty-estimation)  
 - **BLINK Dataset**: [Benchmarking Language-Image Understanding](https://link-to-blink)
-- **VSR Dataset**: [Visual Spatial Reasoning](https://link-to-vsr)
+- **VSR Dataset**: [Visual Spatial Reasoning](https://link-to-vsr) -->
 
 ---
 
-*Built with ❤️ by the AI research community | IISc LEAP Lab*
+<!-- *Built with ❤️ by the AI research community | IISc LEAP Lab* -->
