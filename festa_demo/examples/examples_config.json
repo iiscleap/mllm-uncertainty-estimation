@@ -27,20 +27,6 @@
       "base_image": "val_Spatial_Relation_1_negated_contrast1.jpg",
       "question": "Is the car beneath the cat?",
       "description": "Negated scene with reduced contrast"
-    },
-    {
-      "id": "example_5",
-      "title": "Different Scene Original",
-      "base_image": "val_Spatial_Relation_5.jpg",
-      "question": "Are there animals in this image?",
-      "description": "Different base image for comparison"
-    },
-    {
-      "id": "example_6",
-      "title": "Different Scene Blur",
-      "base_image": "val_Spatial_Relation_5_blur1.jpg",
-      "question": "Are there animals in this image?",
-      "description": "Same scene with blur perturbation"
     }
   ]
 }

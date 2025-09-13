@@ -2,8 +2,8 @@
 
 This directory contains the Google Colab demo for the **FESTA** approach for measuring uncertainty in Multimodal Large Language Models (MLLMs).
 
-- `FESTA_Demo_Dataset.ipynb` - Main Colab notebook with dataset examples
-- `demo_examples.json` - Configuration file with example specifications  
+- `FESTA_Unsloth_Demo.ipynb` - Main Colab notebook with dataset examples
+- `examples_config.json` - Configuration file with example specifications  
 - `examples/` - Directory containing selected BLINK dataset images
 
 ## 🖼️ Included Dataset Examples
@@ -104,13 +104,3 @@ If you use this demo in your research, please cite:
 } -->
 ```
 
-<!-- ## 🔗 Links
-
-- **Paper**: [FESTA: Framework for Evaluating Semantic and Temporal Assumptions](https://arxiv.org/abs/xxxx.xxxx)
-- **Repository**: [https://github.com/iiscleap/mllm-uncertainty-estimation](https://github.com/iiscleap/mllm-uncertainty-estimation)  
-- **BLINK Dataset**: [Benchmarking Language-Image Understanding](https://link-to-blink)
-- **VSR Dataset**: [Visual Spatial Reasoning](https://link-to-vsr) -->
-
----
-
-<!-- *Built with ❤️ by the AI research community | IISc LEAP Lab* -->
