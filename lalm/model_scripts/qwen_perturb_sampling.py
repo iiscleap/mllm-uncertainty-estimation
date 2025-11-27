@@ -30,6 +30,9 @@ def get_base_idx(idx):
     return idx.split('_rephrased')[0]
 
 def main(args):
+    # validate limits
+    if args.max_per_base > 56:
+        raise SystemExit("Error: --max_per_base cannot be greater than 56; only 56 perturbed samples are available per base id")
     processor = AutoProcessor.from_pretrained("Qwen/Qwen2-Audio-7B-Instruct")
     model = Qwen2AudioForConditionalGeneration.from_pretrained("Qwen/Qwen2-Audio-7B-Instruct", device_map="auto")
 
@@ -55,6 +58,13 @@ def main(args):
         for row_idx, row in enumerate(reader):
             idx = row['idx']
             base_idx = get_base_idx(idx)
+            # normalize to the base id (val_Spatial_Relation_1)
+            base_id = '_'.join(base_idx.split('_')[:4])
+            # build audio path only after checking per-base limit
+            if not hasattr(main, 'base_counts'):
+                main.base_counts = {}
+            if main.base_counts.get(base_id, 0) >= args.max_per_base:
+                continue
             audio_path = os.path.join(args.wav_folder, f"{base_idx}.wav")
 
             question = row['question']
@@ -82,7 +92,7 @@ def main(args):
 
             inputs = processor(text=text, audios=audios, return_tensors="pt", padding=True).to("cuda")
 
-            k = 10        
+            k = args.k        
             for i in range(k):
                 generate_ids = model.generate(
                     **inputs,
@@ -99,6 +109,9 @@ def main(args):
                 with open(output_file_path, "a") as f:
                     new_idx = f"{idx}_sample{i}"
                     f.write(f"{new_idx} {response}\n")
+
+            # mark we've processed one perturbed id for this base
+            main.base_counts[base_id] = main.base_counts.get(base_id, 0) + 1
 
             # Update progress bar
             elapsed = time.time() - start_time
@@ -120,6 +133,8 @@ if __name__ == "__main__":
     parser.add_argument("--csv_path", type=str, required=True)
     parser.add_argument("--type", type=str, choices=["orig", "neg"], required=True)
     parser.add_argument("--wav_folder", type=str, required=True, help="Folder containing .wav files named as {base_idx}.wav")
+    parser.add_argument('--k', type=int, default=10, help='Number of samples per entry')
+    parser.add_argument('--max_per_base', type=int, default=56, help='Maximum perturbed samples to process per base id')
 
     args = parser.parse_args()
     main(args)

@@ -36,7 +36,9 @@ def get_base_idx(idx):
     return idx.split("_rephrased")[0]
 
 def main(args):
-
+    # validate limits
+    if args.max_per_base > 56:
+        raise SystemExit("Error: --max_per_base cannot be greater than 56; only 56 perturbed samples are available per base id")
     print("Loading Qwen2-7B-Instruct model...")
     device = "cuda"
     model = AutoModelForCausalLM.from_pretrained(
@@ -65,6 +67,7 @@ def main(args):
     print("=" * 70)
     
     start_time = time.time()
+    base_counts = {}
 
     with open(args.csv_path, mode='r', newline='', encoding='utf-8') as file:
         reader = csv.DictReader(file)
@@ -72,6 +75,12 @@ def main(args):
         for i, row in enumerate(reader):
             idx = row["idx"]
             base_idx = get_base_idx(idx)
+            base_id = '_'.join(base_idx.split('_')[:4])
+
+            # skip if we've already processed max perturbed ids for this base (do this before reading description)
+            if base_counts.get(base_id, 0) >= args.max_per_base:
+                continue
+
             desc_file_path = os.path.join(args.desc_folder, f"{base_idx}.txt")
 
             with open(desc_file_path, "r") as desc_file:
@@ -87,7 +96,7 @@ def main(args):
             text = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
             model_inputs = tokenizer([text], return_tensors="pt").to(device)
 
-            k = 10
+            k = args.k
             for j in range(k):
                 generated_ids = model.generate(
                                         model_inputs.input_ids,
@@ -108,7 +117,8 @@ def main(args):
                 with open(output_file_path, "a") as res_file:
                     new_idx = f"{idx}_sample{j}"
                     res_file.write(f"{new_idx} {response}\n")
-
+            # mark we've processed one perturbed id for this base
+            base_counts[base_id] = base_counts.get(base_id, 0) + 1
             # Update progress bar
             elapsed = time.time() - start_time
             eta = (elapsed / (i + 1)) * (total_samples - i - 1) if i > 0 else 0
@@ -129,6 +139,8 @@ if __name__ == "__main__":
     parser.add_argument("--type", type=str, choices=["orig", "neg"], required=True)
     parser.add_argument("--desc_folder", type=str, required=True, help="Folder containing audio description .txt files")
     parser.add_argument("--csv_path", type=str, required=True, help="Path to CSV file with questions and options")
+    parser.add_argument('--k', type=int, default=10, help='Number of samples per entry')
+    parser.add_argument('--max_per_base', type=int, default=56, help='Maximum perturbed samples to process per base id')
 
     args = parser.parse_args()
     main(args)

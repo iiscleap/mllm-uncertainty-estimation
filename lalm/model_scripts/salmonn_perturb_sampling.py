@@ -36,6 +36,9 @@ def get_base_idx(idx):
 def main(args):
 
     cfg_path = "configs/decode_config_sampling.yaml"
+    # validate limits
+    if args.max_per_base > 56:
+        raise SystemExit("Error: --max_per_base cannot be greater than 56; only 56 perturbed samples are available per base id")
     output_folder = "perturb_sampling_output"
     os.makedirs(output_folder, exist_ok=True)
 
@@ -61,19 +64,26 @@ def main(args):
     print("=" * 70)
     
     start_time = time.time()
+    base_counts = {}
 
     with open(args.csv_path, mode='r', newline='', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for i, row in enumerate(reader):
-            idx = row['idx']
-            base_idx = get_base_idx(idx)
-            wav_path = os.path.join(args.wav_folder, f"{base_idx}.wav")
-            prompt_text = get_prompt(row['question'], row['optionA'], row['optionB'], row['optionC'], row['optionD'])
+                idx = row['idx']
+                base_idx = get_base_idx(idx)
+                base_id = '_'.join(base_idx.split('_')[:4])
+
+                # enforce per-base perturbed-sample limit early to avoid file I/O
+                if base_counts.get(base_id, 0) >= args.max_per_base:
+                    continue
+
+                wav_path = os.path.join(args.wav_folder, f"{base_idx}.wav")
+                prompt_text = get_prompt(row['question'], row['optionA'], row['optionB'], row['optionC'], row['optionD'])
 
             samples = prepare_one_sample(wav_path, wav_processor)
             full_prompt = [cfg.config.model.prompt_template.format("<Speech><SpeechHere></Speech> " + prompt_text.strip())]
             
-            k = 10
+            k = args.k
             for j in range(k):
                 new_idx = f"{idx}_sample{j}"
                 
@@ -82,6 +92,9 @@ def main(args):
 
                 with open(output_file_path, "a") as f:
                     f.write(f"{new_idx} {text}\n")
+
+            # mark we've processed one perturbed id for this base
+            base_counts[base_id] = base_counts.get(base_id, 0) + 1
 
             # Update progress bar
             elapsed = time.time() - start_time
@@ -103,5 +116,7 @@ if __name__ == "__main__":
     parser.add_argument("--csv_path", type=str, required=True)
     parser.add_argument("--type", type=str, choices=["orig", "neg"], required=True)
     parser.add_argument("--wav_folder", type=str, required=True)
+    parser.add_argument('--k', type=int, default=10, help='Number of samples per entry')
+    parser.add_argument('--max_per_base', type=int, default=56, help='Maximum perturbed samples to process per base id')
     args = parser.parse_args()
     main(args)

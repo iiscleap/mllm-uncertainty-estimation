@@ -33,7 +33,11 @@ parser.add_argument('--input_csv', type=str, required=True, help='Path to the qu
 parser.add_argument('--input_image_folder', type=str, required=True, help='Path to the folder containing images')
 parser.add_argument('--dataset', type=str, choices=['blink', 'vsr'], required=True, help='Dataset name')
 parser.add_argument('--type', type=str, choices=['orig', 'neg'], required=True, help='Type of question: orig or neg')
+parser.add_argument('--k', type=int, default=10, help='Number of output samples per entry')
+parser.add_argument('--max_per_base', type=int, default=56, help='Maximum perturbed samples to process per base id')
 args = parser.parse_args()
+if args.max_per_base > 56:
+    raise SystemExit("Error: --max_per_base cannot be greater than 56; only 56 perturbed samples are available per base id")
 
 print("Loading Gemma3 model...")
 model_id = "google/gemma-3-12b-it"
@@ -64,7 +68,7 @@ with open(args.input_csv, mode='r', newline='', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     total_entries = sum(1 for row in reader)
 
-k = 10  # Number of samples per entry
+k = args.k  # Number of samples per entry
 total_samples = total_entries * k
 
 print(f"Starting {args.dataset.upper()} {args.type} perturb sampling processing...")
@@ -76,13 +80,19 @@ print("=" * 70)
 
 start_time = time.time()
 current_sample = 0
+# Track how many perturbed variants we've processed per base id
+base_counts = {}
 
 with open(args.input_csv, mode='r', newline='', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for entry_idx, row in enumerate(reader):
         idx = row["idx"]
+        # Determine base id (e.g. val_Spatial_Relation_1 from val_Spatial_Relation_1_contrast1_rephrased1)
+        base_id = '_'.join(idx.split('_')[:4])
+        if base_counts.get(base_id, 0) >= args.max_per_base:
+            # we've already processed the max perturbed ids for this base — move to next CSV row
+            continue
         image_idx = row["image_idx"]
-        
         qns = row["question"]
         img_path = os.path.join(args.input_image_folder, f"{image_idx}.jpg")
         
@@ -150,6 +160,9 @@ with open(args.input_csv, mode='r', newline='', encoding='utf-8') as file:
             eta = (elapsed / current_sample) * (total_samples - current_sample) if current_sample > 0 else 0
             suffix = f"({current_sample}/{total_samples}) | Entry: {entry_idx+1}/{total_entries} | Sample: {i+1}/{k} | ETA: {eta:.1f}s"
             print_progress_bar(current_sample, total_samples, prefix='Progress:', suffix=suffix, length=40)
+
+        # Finished processing this perturbed entry (count 1 per perturbed id)
+        base_counts[base_id] = base_counts.get(base_id, 0) + 1
 
 print()
 print("=" * 70)

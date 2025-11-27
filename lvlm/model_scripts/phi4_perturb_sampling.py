@@ -31,7 +31,11 @@ parser.add_argument('--input_image_folder', type=str, required=True, help='Path 
 parser.add_argument('--dataset', type=str, choices=['blink', 'vsr'], required=True, help='Dataset name')
 parser.add_argument('--type', type=str, choices=['orig', 'neg'], required=True, help='Type of question: orig or neg')
 parser.add_argument('--model_path', type=str, required=True, help='Path to Phi4 model')
+parser.add_argument('--max_per_base', type=int, default=56, help='Maximum perturbed samples to process per base id')
+parser.add_argument('--k', type=int, default=10, help='Number of samples per entry')
 args = parser.parse_args()
+if args.max_per_base > 56:
+    raise SystemExit("Error: --max_per_base cannot be greater than 56; only 56 perturbed samples are available per base id")
 
 if args.dataset == 'blink':
     choices = "A. Yes\nB. No"
@@ -64,7 +68,7 @@ with open(args.input_csv, mode='r', newline='', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     total_entries = sum(1 for row in reader)
 
-k = 10  # Number of samples per entry
+k = args.k  # Number of samples per entry
 total_samples = total_entries * k
 
 print(f"Starting {args.dataset.upper()} {args.type} perturb sampling processing...")
@@ -76,6 +80,7 @@ print("=" * 70)
 
 start_time = time.time()
 current_sample = 0
+base_counts = {}
 
 user_prompt = '<|user|>'
 assistant_prompt = '<|assistant|>'
@@ -87,6 +92,10 @@ with open(args.input_csv, mode='r', newline='', encoding='utf-8') as file:
         idx = row["idx"]
         image_idx = row["image_idx"]
         qns = row["question"]
+        # Determine base id and skip early if we've reached the per-base cap
+        base_id = '_'.join(idx.split('_')[:4])
+        if base_counts.get(base_id, 0) >= args.max_per_base:
+            continue
 
         img_path = os.path.join(args.input_image_folder, f"{image_idx}.jpg")
         if not os.path.exists(img_path):
@@ -135,6 +144,9 @@ with open(args.input_csv, mode='r', newline='', encoding='utf-8') as file:
             eta = (elapsed / current_sample) * (total_samples - current_sample) if current_sample > 0 else 0
             suffix = f"({current_sample}/{total_samples}) | Entry: {entry_idx+1}/{total_entries} | Sample: {i+1}/{k} | ETA: {eta:.1f}s"
             print_progress_bar(current_sample, total_samples, prefix='Progress:', suffix=suffix, length=40)
+
+        # one perturbed id processed for this base
+        base_counts[base_id] = base_counts.get(base_id, 0) + 1
 
 print()
 print("=" * 70)
