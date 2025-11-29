@@ -110,6 +110,10 @@ cd metrics/
 
 NOTE: Check if the models are restricted on HuggingFace and require access request
 
+## Perturb-sampling parameters
+- `--k`: Number of high-temperature sampling runs per input (int). Controls how many perturbed outputs the script generates for each CSV row (default `10`).
+- `--max_per_base`: Maximum number of perturbed samples to process per base id (int). When the dataset contains multiple perturbed variants that share the same base id, this caps how many of those perturbed variants are processed for that base (default `56`).
+
 ## Calculating Metrics
 
 ### Individual Metrics

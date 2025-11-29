@@ -96,6 +96,10 @@ python model_scripts/qwen_perturb_sampling.py \
 - `--type`: `orig` (original dataset) or `neg` (negated dataset)
 - Adjust `csv_path` and `wav_folder` according to task and type
 
+### Perturb-sampling parameters
+- `--k`: Number of high-temperature sampling runs per input (int). Controls how many perturbed outputs the script generates for each CSV row (default `10`).
+- `--max_per_base`: Maximum number of perturbed samples to process per base id (int). When the dataset contains multiple perturbed variants that share the same base id, this caps how many of those perturbed variants are processed for that base (default `56`).
+
 ## Running All Tasks for a Model
 
 ```bash
